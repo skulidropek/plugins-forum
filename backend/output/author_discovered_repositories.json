@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-09-24T01:54:07.127Z",
+  "generated_at": "2025-09-24T12:52:30.791Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1174,
+  "count": 1175,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -34,6 +34,7 @@
     "BattleSheep94/Rust-Plugin-Collection",
     "BurntRouter/rust-rcon",
     "Buzgero/HumanNPC",
+    "CalvFletch/PilotPro",
     "Calytic/Give",
     "Calytic/Night-Zombies",
     "Calytic/Recycle",
