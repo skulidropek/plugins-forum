@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-09-24T21:20:13.837Z",
-  "total_repositories_processed": 1259,
-  "successful_crawls": 1253,
+  "last_updated": "2025-09-28T13:24:12.043Z",
+  "total_repositories_processed": 1260,
+  "successful_crawls": 1254,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7567,6 +7567,12 @@
     "build6477-ship-it/RustPluginsDumpWithAI": {
       "last_crawled": "2025-09-24T21:20:12.748Z",
       "plugins_count": 14652,
+      "success": true,
+      "errors": []
+    },
+    "jerkypaisen/LifeOverStamina": {
+      "last_crawled": "2025-09-28T13:24:12.038Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
