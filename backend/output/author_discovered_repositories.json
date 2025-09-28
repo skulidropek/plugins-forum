@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-09-28T06:34:28.019Z",
+  "generated_at": "2025-09-28T13:05:41.598Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1175,
+  "count": 1176,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -937,6 +937,7 @@
     "jerkypaisen/EggArtist",
     "jerkypaisen/EzBpDropOnly",
     "jerkypaisen/ItemOwnerShipEdit",
+    "jerkypaisen/LifeOverStamina",
     "jerkypaisen/MyCaravan",
     "jerkypaisen/MyFran",
     "jerkypaisen/NpcDropTag",
