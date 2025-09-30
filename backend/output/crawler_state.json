@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-09-24T21:20:13.837Z",
-  "total_repositories_processed": 1259,
-  "successful_crawls": 1253,
+  "last_updated": "2025-09-30T10:25:14.454Z",
+  "total_repositories_processed": 1264,
+  "successful_crawls": 1258,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7569,23 +7569,53 @@
       "plugins_count": 14652,
       "success": true,
       "errors": []
+    },
+    "jerkypaisen/LifeOverStamina": {
+      "last_crawled": "2025-09-28T13:24:12.038Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "13dasd123/RustPluginsDumpWithAI": {
+      "last_crawled": "2025-09-28T13:39:21.710Z",
+      "plugins_count": 14652,
+      "success": true,
+      "errors": []
+    },
+    "Flash-Ticker/JumpScare": {
+      "last_crawled": "2025-09-29T13:33:10.086Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Rene-Sackers/RustPlugins": {
+      "last_crawled": "2025-09-30T10:25:13.029Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dassjosh/Plugin.Merge": {
+      "last_crawled": "2025-09-30T10:25:14.447Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-09-23T19:18:38.066Z",
-      "completed_at": "2025-09-23T19:19:01.562Z",
-      "duration_ms": 23497
+      "started_at": "2025-09-30T10:25:12.491Z",
+      "completed_at": "2025-09-30T10:25:13.511Z",
+      "duration_ms": 1020
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1243,
-      "newly_processed": 13,
-      "successful": 13,
+      "already_processed": 1262,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1679,
+      "total_found": 1,
       "new_plugins": 1
     }
   }
