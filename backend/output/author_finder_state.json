@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-04T12:45:22.620Z",
+  "last_updated": "2025-10-04T18:32:05.756Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1881,6 +1881,11 @@
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (105)"
+    },
+    "gjdunga": {
+      "last_processed": "2025-10-04T18:32:03.748Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3060,6 +3065,7 @@
     "sami3737/rusttech",
     "CalvFletch/PilotPro",
     "jerkypaisen/LifeOverStamina",
-    "Flash-Ticker/JumpScare"
+    "Flash-Ticker/JumpScare",
+    "gjdunga/ItemsBlocker.Modern"
   ]
 }
