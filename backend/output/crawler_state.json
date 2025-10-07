@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-09-30T10:25:14.454Z",
-  "total_repositories_processed": 1264,
-  "successful_crawls": 1258,
+  "last_updated": "2025-10-04T18:29:04.595Z",
+  "total_repositories_processed": 1265,
+  "successful_crawls": 1259,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7597,6 +7597,12 @@
     "dassjosh/Plugin.Merge": {
       "last_crawled": "2025-09-30T10:25:14.447Z",
       "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/ItemsBlocker.Modern": {
+      "last_crawled": "2025-10-04T18:29:04.589Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
