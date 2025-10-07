@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-04T18:29:04.595Z",
-  "total_repositories_processed": 1265,
-  "successful_crawls": 1259,
+  "last_updated": "2025-10-07T21:19:45.419Z",
+  "total_repositories_processed": 1266,
+  "successful_crawls": 1260,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7603,6 +7603,12 @@
     "gjdunga/ItemsBlocker.Modern": {
       "last_crawled": "2025-10-04T18:29:04.589Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Wrath-age/TheAddiction": {
+      "last_crawled": "2025-10-07T21:19:45.411Z",
+      "plugins_count": 26,
       "success": true,
       "errors": []
     }
