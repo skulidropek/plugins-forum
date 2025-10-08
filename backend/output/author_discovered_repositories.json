@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-07T18:53:28.674Z",
+  "generated_at": "2025-10-08T01:53:46.187Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1178,
+  "count": 1179,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -738,6 +738,7 @@
     "WheteThunger/rustplugin-samsiteauth",
     "Whitecandor/Oxide.Rust",
     "Willdiedog/oxideplugins",
+    "Wrath-age/TheAddiction",
     "Wrecks830/RaidableShelters",
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
