@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-11T12:46:29.738Z",
+  "generated_at": "2025-10-11T18:30:30.681Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1179,
+  "count": 1180,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -223,6 +223,7 @@
     "MeziGit/Oxide.Core.Tests",
     "Mheetu/RustVoiceActivity",
     "Mike-Baks/Oxide.Rust",
+    "Misailov1993/1",
     "MitchBriles/RustPlugins",
     "MoonpieBD/BlueprintPrestige",
     "MoonpieBD/SimplePatrolSignal",
