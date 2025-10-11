@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-09T06:35:24.904Z",
-  "total_repositories_processed": 1267,
-  "successful_crawls": 1261,
+  "last_updated": "2025-10-11T15:19:26.878Z",
+  "total_repositories_processed": 1268,
+  "successful_crawls": 1262,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7615,6 +7615,12 @@
     "Wrath-age/TheAddictionPlugins": {
       "last_crawled": "2025-10-09T06:35:24.897Z",
       "plugins_count": 26,
+      "success": true,
+      "errors": []
+    },
+    "Misailov1993/1": {
+      "last_crawled": "2025-10-11T15:19:26.867Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
