@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-11T18:30:30.680Z",
+  "last_updated": "2025-10-12T01:59:00.655Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1915,8 +1915,8 @@
       "error": "Skipped - too many repositories (105)"
     },
     "gjdunga": {
-      "last_processed": "2025-10-04T18:32:03.748Z",
-      "repositories_found": 1,
+      "last_processed": "2025-10-12T01:58:58.650Z",
+      "repositories_found": 2,
       "success": true
     },
     "Wrath-age": {
@@ -3110,6 +3110,8 @@
     "Flash-Ticker/JumpScare",
     "gjdunga/ItemsBlocker.Modern",
     "Wrath-age/TheAddiction",
-    "Misailov1993/1"
+    "Misailov1993/1",
+    "gjdunga/bottomlesswater",
+    "gjdunga/ModernItemBlocker"
   ]
 }
