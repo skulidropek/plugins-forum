@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-12T03:05:18.740Z",
-  "total_repositories_processed": 1270,
-  "successful_crawls": 1264,
+  "last_updated": "2025-10-12T16:25:27.079Z",
+  "total_repositories_processed": 1271,
+  "successful_crawls": 1265,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7632,6 +7632,12 @@
     },
     "gjdunga/bottomlesswater": {
       "last_crawled": "2025-10-12T03:05:18.737Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "itzwaluwe/Oxide.Rust": {
+      "last_crawled": "2025-10-12T16:25:27.071Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
