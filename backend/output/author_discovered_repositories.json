@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-12T18:32:45.257Z",
+  "generated_at": "2025-10-13T02:20:34.664Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1183,
+  "count": 1184,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -47,6 +47,7 @@
     "CaptainBlake/ServerCommands",
     "CarbonCommunity/Carbon.Common",
     "CarbonCommunity/Carbon.Oxide",
+    "CarbonCommunity/Carbon.OxideRust",
     "CatMeat/DynamicPVP",
     "Cl1cker0/lua-scripts",
     "Comm512-1/RustPlugins",
