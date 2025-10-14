@@ -10,15 +10,24 @@
     "crawl-repos": "tsc -p . && node dist/repository-crawler.js",
     "crawl": "npm run crawl-repos",
     "author-finder": "tsc -p . && node dist/author-repository-finder.js",
-    "author-finder-continuous": "CONTINUOUS=true tsc -p . && CONTINUOUS=true node dist/author-repository-finder.js"
+    "author-finder-continuous": "CONTINUOUS=true tsc -p . && CONTINUOUS=true node dist/author-repository-finder.js",
+    "cleanup-repos": "tsc -p . && node dist/repository-cleanup-service.js",
+    "lint": "npx tsx lint.ts src/",
+    "typecheck": "tsc --noEmit",
+    "test": "tsc -p . && node --test dist/__tests__/**/*.js"
   },
   "engines": {
     "node": ">=18"
   },
   "devDependencies": {
+    "@eslint-community/eslint-plugin-eslint-comments": "^4.5.0",
+    "@eslint/js": "^9.33.0",
+    "@ton-ai-core/eslint-plugin-suggest-members": "^1.6.2",
     "@types/node": "^22.7.4",
-    "typescript": "^5.5.4"
+    "eslint": "^9.33.0",
+    "globals": "^16.3.0",
+    "tsx": "^4.19.2",
+    "typescript": "^5.5.4",
+    "typescript-eslint": "^8.39.1"
   }
 }
-
-

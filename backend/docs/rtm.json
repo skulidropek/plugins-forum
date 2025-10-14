@@ -1,0 +1,12 @@
+{
+  "REQ-REMOTE-CLEANUP-001": {
+    "description": "Backend service shall remove records of repositories that return 404 (deleted) from all data outputs to prevent stale entries from being displayed.",
+    "source": "user-msg-20250215-remote-cleanup",
+    "artifacts": [
+      "src/repository-cleanup-service.ts"
+    ],
+    "tests": [
+      "src/__tests__/repository-cleanup-service.test.ts#L1"
+    ]
+  }
+}
