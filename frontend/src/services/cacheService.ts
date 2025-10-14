@@ -14,6 +14,7 @@ export interface CachedData<T = unknown> {
 
 export class CacheService {
   private static readonly CACHE_VERSION = 1;
+  private static readonly CACHE_MAX_AGE_MS = 5 * 60 * 60 * 1000; // 5 hours
   private static readonly DB_NAME = 'plugins_cache_db';
   private static readonly DB_VERSION = 1;
   private static readonly STORE_NAME = 'plugin_files';
@@ -78,6 +79,26 @@ export class CacheService {
     return metadata.version !== this.CACHE_VERSION;
   }
 
+  private static isCacheExpired(metadata: CacheMetadata): boolean {
+    return Date.now() - metadata.cachedAt >= this.CACHE_MAX_AGE_MS;
+  }
+
+  private static async deleteFromIndexedDB(url: string): Promise<void> {
+    try {
+      const db = await this.initDB();
+      return new Promise((resolve, reject) => {
+        const transaction = db.transaction([this.STORE_NAME], 'readwrite');
+        const store = transaction.objectStore(this.STORE_NAME);
+        const request = store.delete(url);
+
+        request.onerror = (): void => reject(new Error(request.error ? `IndexedDB error: ${request.error.name || 'Unknown'}` : 'IndexedDB error'));
+        request.onsuccess = (): void => resolve();
+      });
+    } catch (error) {
+      console.warn('Failed to delete from IndexedDB:', error);
+    }
+  }
+
   private static async checkIfFileUpdated(url: string, cachedMetadata?: CacheMetadata): Promise<{
     updated: boolean;
     newMetadata?: CacheMetadata;
@@ -127,12 +148,18 @@ export class CacheService {
     // Try to get cached data
     const cached = await this.getFromIndexedDB(url);
 
+    const cacheExpired = cached ? this.isCacheExpired(cached.metadata) : false;
+
+    if (cacheExpired) {
+      await this.deleteFromIndexedDB(url);
+    }
+
     // Check if file needs updating
-    const cachedMetadata = cached ? cached.metadata : undefined;
+    const cachedMetadata = cached && !cacheExpired ? cached.metadata : undefined;
     const { updated, newMetadata } = await this.checkIfFileUpdated(url, cachedMetadata);
 
     // If cached data exists and file hasn't been updated, return cached data
-    if (cached && !updated) {
+    if (cached && !cacheExpired && !updated) {
       console.log(`Using cached data for ${url}`);
       return cached.data as T;
     }
@@ -164,7 +191,7 @@ export class CacheService {
       return data;
     } catch (error) {
       // If fetch fails and we have cached data, use it as fallback
-      if (cached) {
+      if (cached && !cacheExpired) {
         console.warn('Fetch failed, using cached data as fallback:', error);
         return cached.data as T;
       }
