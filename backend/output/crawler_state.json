@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-04T18:29:04.595Z",
-  "total_repositories_processed": 1265,
-  "successful_crawls": 1259,
+  "last_updated": "2025-10-14T03:03:58.423Z",
+  "total_repositories_processed": 1274,
+  "successful_crawls": 1268,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7605,17 +7605,71 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "Wrath-age/TheAddiction": {
+      "last_crawled": "2025-10-07T21:19:45.411Z",
+      "plugins_count": 26,
+      "success": true,
+      "errors": []
+    },
+    "Wrath-age/TheAddictionPlugins": {
+      "last_crawled": "2025-10-09T06:35:24.897Z",
+      "plugins_count": 26,
+      "success": true,
+      "errors": []
+    },
+    "Misailov1993/1": {
+      "last_crawled": "2025-10-11T15:19:26.867Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/ModernItemBlocker": {
+      "last_crawled": "2025-10-12T03:05:17.053Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/bottomlesswater": {
+      "last_crawled": "2025-10-12T03:05:18.737Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "itzwaluwe/Oxide.Rust": {
+      "last_crawled": "2025-10-12T16:25:27.071Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "CarbonCommunity/Carbon.OxideRust": {
+      "last_crawled": "2025-10-13T03:13:24.789Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "Flash-Ticker/HauntedDoors": {
+      "last_crawled": "2025-10-14T03:03:56.533Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Flash-Ticker/MyPlayerBuilds": {
+      "last_crawled": "2025-10-14T03:03:58.418Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-09-30T10:25:12.491Z",
-      "completed_at": "2025-09-30T10:25:13.511Z",
-      "duration_ms": 1020
+      "started_at": "2025-10-14T03:03:55.533Z",
+      "completed_at": "2025-10-14T03:03:56.995Z",
+      "duration_ms": 1462
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1262,
+      "already_processed": 1272,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
