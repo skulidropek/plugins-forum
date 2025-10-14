@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-14T18:54:36.050Z",
+  "last_updated": "2025-10-14T20:59:10.196Z",
   "current_author_index": 279,
   "processed_authors": {
     "djimbou92": {
@@ -89,7 +89,7 @@
     },
     "RustyyTown": {
       "last_processed": "2025-10-13T02:09:48.920Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true
     },
     "PenisBlistashiq": {
@@ -104,7 +104,7 @@
     },
     "DanielHenderson-17": {
       "last_processed": "2025-10-13T02:10:04.739Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (135)"
     },
@@ -145,7 +145,7 @@
     },
     "VisEntities": {
       "last_processed": "2025-10-13T02:11:28.835Z",
-      "repositories_found": 0,
+      "repositories_found": 149,
       "success": true,
       "error": "Skipped - too many repositories (150)"
     },
@@ -256,7 +256,7 @@
     },
     "WheteThunger": {
       "last_processed": "2025-10-13T02:19:09.698Z",
-      "repositories_found": 0,
+      "repositories_found": 103,
       "success": true,
       "error": "Skipped - too many repositories (107)"
     },
@@ -412,7 +412,7 @@
     },
     "SpencerSharkey": {
       "last_processed": "2025-10-13T06:53:53.879Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (105)"
     },
@@ -508,7 +508,7 @@
     },
     "zanderwar": {
       "last_processed": "2025-10-13T13:01:45.744Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (102)"
     },
@@ -549,7 +549,7 @@
     },
     "JonathanPorta": {
       "last_processed": "2025-10-13T13:07:08.848Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (185)"
     },
@@ -585,7 +585,7 @@
     },
     "Willdiedog": {
       "last_processed": "2025-10-13T13:08:51.935Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (297)"
     },
@@ -617,7 +617,7 @@
     },
     "13dasd123": {
       "last_processed": "2025-10-08T06:40:11.545Z",
-      "repositories_found": 14,
+      "repositories_found": 15,
       "success": true
     },
     "Ghenghis": {
@@ -1357,7 +1357,7 @@
     },
     "compscidr": {
       "last_processed": "2025-10-07T13:00:25.426Z",
-      "repositories_found": 0,
+      "repositories_found": 1,
       "success": true,
       "error": "Skipped - too many repositories (101)"
     },
@@ -2583,7 +2583,6 @@
     "Jake-Rich/Oxide",
     "Jake-Rich/Oxide.CSharp",
     "Jake-Rich/seedery.io-mapgen",
-    "skulidropek/leaked_new_rust_plugins_AI_Dumped",
     "skulidropek/MapProtection",
     "skulidropek/oxideplugins",
     "skulidropek/Rust-Dedicated-Server",
@@ -2856,12 +2855,6 @@
     "txnitxnichopper/Oxide.Rust",
     "ailishev/rust-template-177",
     "Azuriom/AzLink-CSharp",
-    "Ghostyenc/FurnacePlug-v1",
-    "Ghostyenc/Gamble",
-    "Ghostyenc/NoRecyclerEfficiency",
-    "Ghostyenc/PerformancePlus",
-    "Ghostyenc/ProtectTeslaCoils",
-    "Ghostyenc/VehicleSpawner",
     "spencermcw/rust-land-claim",
     "Mentol0408/Test",
     "LauraRozier/BanSync",
@@ -3081,7 +3074,6 @@
     "CalvFletch/PilotPro",
     "jerkypaisen/LifeOverStamina",
     "Flash-Ticker/JumpScare",
-    "gjdunga/ItemsBlocker.Modern",
     "Wrath-age/TheAddiction",
     "Misailov1993/1",
     "gjdunga/bottomlesswater",

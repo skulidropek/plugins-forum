@@ -1,8 +1,8 @@
 {
-  "last_updated": "2025-10-14T03:03:58.423Z",
-  "total_repositories_processed": 1274,
-  "successful_crawls": 1268,
-  "failed_crawls": 6,
+  "last_updated": "2025-10-14T20:59:10.196Z",
+  "total_repositories_processed": 1262,
+  "successful_crawls": 1260,
+  "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
       "last_crawled": "2025-09-11T06:50:09.702Z",
@@ -592,14 +592,6 @@
       "success": true,
       "errors": []
     },
-    "kiloOhm/Bounty": {
-      "last_crawled": "2025-09-11T06:57:44.308Z",
-      "plugins_count": 0,
-      "success": false,
-      "errors": [
-        "Failed to crawl: Error: Failed to clone repository: Error: Command failed: git clone --depth 1 \"https://github.com/kiloOhm/Bounty.git\" \"/home/user/plugins-forum/backend/temp_repos/kiloOhm_Bounty\"\nCloning into '/home/user/plugins-forum/backend/temp_repos/kiloOhm_Bounty'...\nremote: Repository not found.\nfatal: repository 'https://github.com/kiloOhm/Bounty.git/' not found\n"
-      ]
-    },
     "eandersson/RustWars": {
       "last_crawled": "2025-09-11T06:57:45.250Z",
       "plugins_count": 9,
@@ -909,12 +901,6 @@
     "Rahulsinghz/oxideplugins": {
       "last_crawled": "2025-09-11T06:59:14.878Z",
       "plugins_count": 682,
-      "success": true,
-      "errors": []
-    },
-    "skulidropek/leaked_new_rust_plugins_AI_Dumped": {
-      "last_crawled": "2025-09-11T06:59:18.461Z",
-      "plugins_count": 580,
       "success": true,
       "errors": []
     },
@@ -1884,14 +1870,6 @@
       "success": true,
       "errors": []
     },
-    "fuflik52/CodeGPT": {
-      "last_crawled": "2025-09-11T07:19:15.529Z",
-      "plugins_count": 0,
-      "success": false,
-      "errors": [
-        "Failed to crawl: Error: Failed to clone repository: Error: Command failed: git clone --depth 1 \"https://github.com/fuflik52/CodeGPT.git\" \"/home/user/plugins-forum/backend/temp_repos/fuflik52_CodeGPT\"\nCloning into '/home/user/plugins-forum/backend/temp_repos/fuflik52_CodeGPT'...\nremote: Repository not found.\nfatal: repository 'https://github.com/fuflik52/CodeGPT.git/' not found\n"
-      ]
-    },
     "RebeccaStevens/uMod-Rust-Plugin-GatherManager": {
       "last_crawled": "2025-09-11T07:19:16.556Z",
       "plugins_count": 1,
@@ -2396,12 +2374,6 @@
       "success": true,
       "errors": []
     },
-    "Ghostyenc/Gamble": {
-      "last_crawled": "2025-09-11T07:22:33.925Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
     "MONaH-Rasta/Skins": {
       "last_crawled": "2025-09-11T07:22:34.858Z",
       "plugins_count": 1,
@@ -2713,14 +2685,6 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
-    },
-    "kiloOhm/RustPluginTemplate": {
-      "last_crawled": "2025-09-11T07:24:08.622Z",
-      "plugins_count": 0,
-      "success": false,
-      "errors": [
-        "Failed to crawl: Error: Failed to clone repository: Error: Command failed: git clone --depth 1 \"https://github.com/kiloOhm/RustPluginTemplate.git\" \"/home/user/plugins-forum/backend/temp_repos/kiloOhm_RustPluginTemplate\"\nCloning into '/home/user/plugins-forum/backend/temp_repos/kiloOhm_RustPluginTemplate'...\nremote: Repository not found.\nfatal: repository 'https://github.com/kiloOhm/RustPluginTemplate.git/' not found\n"
-      ]
     },
     "WheteThunger/NoRestoreInDynamicPVPZone": {
       "last_crawled": "2025-09-11T07:24:09.487Z",
@@ -3834,12 +3798,6 @@
       "success": true,
       "errors": []
     },
-    "Ghostyenc/FurnacePlug-v1": {
-      "last_crawled": "2025-09-11T07:42:28.879Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
     "sinmastv/sinmasservers": {
       "last_crawled": "2025-09-11T07:47:08.047Z",
       "plugins_count": 1,
@@ -4340,30 +4298,6 @@
     },
     "FtuoilXelrash/rServerMessages": {
       "last_crawled": "2025-09-14T18:30:37.876Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
-    "Ghostyenc/NoRecyclerEfficiency": {
-      "last_crawled": "2025-09-14T18:30:38.744Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
-    "Ghostyenc/PerformancePlus": {
-      "last_crawled": "2025-09-14T18:30:39.662Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
-    "Ghostyenc/ProtectTeslaCoils": {
-      "last_crawled": "2025-09-14T18:30:40.517Z",
-      "plugins_count": 1,
-      "success": true,
-      "errors": []
-    },
-    "Ghostyenc/VehicleSpawner": {
-      "last_crawled": "2025-09-14T18:30:41.422Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
@@ -7364,14 +7298,6 @@
       "success": true,
       "errors": []
     },
-    "muxira/MyMiniPRO": {
-      "last_crawled": "2025-09-15T06:35:15.377Z",
-      "plugins_count": 0,
-      "success": false,
-      "errors": [
-        "Failed to crawl: Error: Failed to clone repository: Error: Command failed: git clone --depth 1 \"https://github.com/muxira/MyMiniPRO.git\" \"/home/runner/work/plugins-forum/plugins-forum/backend/temp_repos/muxira_MyMiniPRO\"\nCloning into '/home/runner/work/plugins-forum/plugins-forum/backend/temp_repos/muxira_MyMiniPRO'...\nfatal: could not read Username for 'https://github.com': No such device or address\n"
-      ]
-    },
     "dan4451/Rust": {
       "last_crawled": "2025-09-16T04:26:28.882Z",
       "plugins_count": 3,
@@ -7597,12 +7523,6 @@
     "dassjosh/Plugin.Merge": {
       "last_crawled": "2025-09-30T10:25:14.447Z",
       "plugins_count": 0,
-      "success": true,
-      "errors": []
-    },
-    "gjdunga/ItemsBlocker.Modern": {
-      "last_crawled": "2025-10-04T18:29:04.589Z",
-      "plugins_count": 1,
       "success": true,
       "errors": []
     },
