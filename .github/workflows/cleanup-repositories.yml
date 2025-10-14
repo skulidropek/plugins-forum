@@ -1,0 +1,70 @@
+name: Cleanup Deleted Repositories
+
+on:
+  schedule:
+    - cron: '0 2 * * *' # Daily at 02:00 UTC
+  workflow_dispatch:
+
+concurrency:
+  group: cleanup-repositories
+  cancel-in-progress: false
+
+jobs:
+  repository-cleanup:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    defaults:
+      run:
+        working-directory: backend
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          check-latest: true
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build
+        run: npm run build
+
+      - name: Run repository cleanup
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: timeout 15m npm run cleanup-repos || true
+
+      - name: Check for changes
+        id: git-check
+        working-directory: .
+        run: |
+          if git diff --quiet HEAD -- backend/output/ backend/input/manual-repositories.json; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.git-check.outputs.changed == 'true'
+        working-directory: .
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add \
+            backend/output/oxide_plugins.json \
+            backend/output/crawled_plugins.json \
+            backend/output/author_discovered_repositories.json \
+            backend/output/author_finder_state.json \
+            backend/output/crawler_state.json \
+            backend/output/state.json \
+            backend/output/deleted_repositories.json \
+            backend/input/manual-repositories.json
+          git commit -m "chore(cleanup): prune deleted repositories [skip ci]" || exit 0
+          git pull --rebase origin main || true
+          git push
