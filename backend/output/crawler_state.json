@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-13T03:13:24.796Z",
-  "total_repositories_processed": 1272,
-  "successful_crawls": 1266,
+  "last_updated": "2025-10-14T03:03:58.423Z",
+  "total_repositories_processed": 1274,
+  "successful_crawls": 1268,
   "failed_crawls": 6,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7647,17 +7647,29 @@
       "plugins_count": 2,
       "success": true,
       "errors": []
+    },
+    "Flash-Ticker/HauntedDoors": {
+      "last_crawled": "2025-10-14T03:03:56.533Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Flash-Ticker/MyPlayerBuilds": {
+      "last_crawled": "2025-10-14T03:03:58.418Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-10-12T03:05:16.234Z",
-      "completed_at": "2025-10-12T03:05:17.500Z",
-      "duration_ms": 1266
+      "started_at": "2025-10-14T03:03:55.533Z",
+      "completed_at": "2025-10-14T03:03:56.995Z",
+      "duration_ms": 1462
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1268,
+      "already_processed": 1272,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
