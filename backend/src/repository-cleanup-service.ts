@@ -1,4 +1,4 @@
-import { promises as fs } from "node:fs";
+import { promises as fs, readFileSync } from "node:fs";
 import path from "node:path";
 
 // CHANGE: Introduce RepositoryCleanupService to remove references to deleted repositories across backend datasets.
@@ -187,6 +187,7 @@ export class RepositoryCleanupService {
   private readonly delayMs: number;
   private readonly githubToken: string | undefined;
   private readonly githubApiBaseUrl: string;
+  private readonly previouslyDeleted: Set<GitHubRepositoryName>;
 
   public constructor(
     private readonly config: RepositoryCleanupConfig,
@@ -218,16 +219,17 @@ export class RepositoryCleanupService {
     this.delayMs = Math.max(0, config.interRequestDelayMs ?? DEFAULT_DELAY_MS);
     this.githubToken = config.githubToken;
     this.githubApiBaseUrl = config.githubApiBaseUrl ?? DEFAULT_GITHUB_API_BASE;
+    this.previouslyDeleted = new Set(this.loadKnownDeletedRepositories());
   }
 
   /**
-   * Executes a full cleanup pass ensuring all datasets drop references to repositories that no longer exist.
+   * Executes a full cleanup pass ensuring отсутствующие на GitHub репозитории фиксируются в отдельном отчёте.
    *
-   * @returns Detailed cleanup report including missing repositories, updated files, and datasets impacted.
+   * @returns Детализированный отчёт с перечнем недоступных репозиториев и статусом выполнения.
    * @throws Error when reading or writing datasets fails unexpectedly.
    *
    * @precondition File system layout mirrors the backend output/input folders.
-   * @postcondition All rewritten datasets satisfy: for every repository reference `r` there exists a successful GitHub lookup.
+   * @postcondition Все существующие датасеты остаются неизменными; список удалённых репозиториев обновлён.
    */
   public async run(): Promise<RepositoryCleanupReport> {
     const datasets = await this.loadDatasets();
@@ -257,8 +259,11 @@ export class RepositoryCleanupService {
       Array.from(checks.values())
         .filter((result) => result.status === "missing")
         .map((result) => result.repo)
+        .filter((repo) => !this.previouslyDeleted.has(repo))
     );
     const errors = Array.from(checks.values()).filter((result) => result.status === "error");
+
+    const updatedFiles = await this.writeDeletedReport(missingRepos);
 
     const datasetImpacts: Record<RepositoryDatasetName, number> = {
       oxide_plugins: 0,
@@ -269,19 +274,6 @@ export class RepositoryCleanupService {
       crawler_state: 0,
       indexer_state: 0
     };
-
-    for (const [repo, usage] of usageMap.entries()) {
-      if (missingRepos.has(repo)) {
-        for (const [dataset, count] of Object.entries(usage.datasets)) {
-          if (datasetImpacts[dataset as RepositoryDatasetName] !== undefined && count) {
-            datasetImpacts[dataset as RepositoryDatasetName] += count;
-          }
-        }
-      }
-    }
-
-    const updatedFiles = await this.applyRemovals(datasets, missingRepos);
-    await this.writeDeletedReport(missingRepos);
 
     return {
       scannedRepositories: repositories.length,
@@ -329,6 +321,9 @@ export class RepositoryCleanupService {
     const usage = new Map<GitHubRepositoryName, RepositoryUsage>();
 
     const record = (repo: GitHubRepositoryName, dataset: RepositoryDatasetName): void => {
+      if (this.previouslyDeleted.has(repo)) {
+        return;
+      }
       const entry = usage.get(repo) ?? { occurrences: 0, datasets: {} };
       entry.occurrences += 1;
       entry.datasets[dataset] = (entry.datasets[dataset] ?? 0) + 1;
@@ -476,156 +471,22 @@ export class RepositoryCleanupService {
     }
   }
 
-  private async applyRemovals(datasets: DatasetBundle, missingRepos: Set<GitHubRepositoryName>): Promise<string[]> {
-    const updatedFiles: string[] = [];
-    const nowIso = this.now().toISOString();
-
-    if (datasets.oxidePlugins.data) {
-      const before = datasets.oxidePlugins.data.items.length;
-      datasets.oxidePlugins.data.items = datasets.oxidePlugins.data.items.filter((item) => {
-        const repoName = item.repository?.full_name;
-        if (!repoName) {
-          return true;
-        }
-        return !missingRepos.has(repoName);
-      });
-      const after = datasets.oxidePlugins.data.items.length;
-      if (after !== before) {
-        datasets.oxidePlugins.data.count = after;
-        datasets.oxidePlugins.data.generated_at = nowIso;
-        await this.writeJson(datasets.oxidePlugins.path, datasets.oxidePlugins.data);
-        updatedFiles.push(datasets.oxidePlugins.path);
-        this.log("oxide_plugins", `Removed ${before - after} entries.`);
-      }
+  private async writeDeletedReport(missingRepos: Set<GitHubRepositoryName>): Promise<string[]> {
+    if (missingRepos.size === 0) {
+      return [];
     }
 
-    if (datasets.crawledPlugins.data) {
-      const before = datasets.crawledPlugins.data.items.length;
-      datasets.crawledPlugins.data.items = datasets.crawledPlugins.data.items.filter((item) => {
-        const repoName = item.repository?.full_name;
-        if (!repoName) {
-          return true;
-        }
-        return !missingRepos.has(repoName);
-      });
-      const after = datasets.crawledPlugins.data.items.length;
-      if (after !== before) {
-        datasets.crawledPlugins.data.count = after;
-        datasets.crawledPlugins.data.generated_at = nowIso;
-        await this.writeJson(datasets.crawledPlugins.path, datasets.crawledPlugins.data);
-        updatedFiles.push(datasets.crawledPlugins.path);
-        this.log("crawled_plugins", `Removed ${before - after} entries.`);
-      }
-    }
-
-    if (datasets.authorDiscovered.data) {
-      const before = datasets.authorDiscovered.data.repositories.length;
-      datasets.authorDiscovered.data.repositories = datasets.authorDiscovered.data.repositories.filter(
-        (repo) => !missingRepos.has(repo)
-      );
-      const after = datasets.authorDiscovered.data.repositories.length;
-      if (after !== before) {
-        datasets.authorDiscovered.data.count = after;
-        datasets.authorDiscovered.data.generated_at = nowIso;
-        await this.writeJson(datasets.authorDiscovered.path, datasets.authorDiscovered.data);
-        updatedFiles.push(datasets.authorDiscovered.path);
-        this.log("author_discovered", `Removed ${before - after} repositories.`);
-      }
-    }
-
-    if (datasets.manualRepositories.data) {
-      const before = datasets.manualRepositories.data.length;
-      datasets.manualRepositories.data = datasets.manualRepositories.data.filter((entry) => {
-        const repoName = this.parseManualRepository(entry);
-        if (!repoName) {
-          return true;
-        }
-        return !missingRepos.has(repoName);
-      });
-      const after = datasets.manualRepositories.data.length;
-      if (after !== before) {
-        await this.writeJson(datasets.manualRepositories.path, datasets.manualRepositories.data);
-        updatedFiles.push(datasets.manualRepositories.path);
-        this.log("manual_repositories", `Removed ${before - after} manual entries.`);
-      }
-    }
-
-    if (datasets.authorFinderState.data) {
-      const before = datasets.authorFinderState.data.discovered_repositories.length;
-      datasets.authorFinderState.data.discovered_repositories = datasets.authorFinderState.data.discovered_repositories.filter(
-        (repo) => !missingRepos.has(repo)
-      );
-      const after = datasets.authorFinderState.data.discovered_repositories.length;
-
-      if (after !== before) {
-        const countsByAuthor = new Map<string, number>();
-        for (const repo of datasets.authorFinderState.data.discovered_repositories) {
-          const [author] = repo.split("/", 1);
-          if (author) {
-            countsByAuthor.set(author, (countsByAuthor.get(author) ?? 0) + 1);
-          }
-        }
-
-        for (const [author, info] of Object.entries(datasets.authorFinderState.data.processed_authors)) {
-          info.repositories_found = countsByAuthor.get(author) ?? 0;
-        }
-
-        datasets.authorFinderState.data.last_updated = nowIso;
-        await this.writeJson(datasets.authorFinderState.path, datasets.authorFinderState.data);
-        updatedFiles.push(datasets.authorFinderState.path);
-        this.log("author_finder_state", `Adjusted records after removing ${before - after} repositories.`);
-      }
-    }
-
-    if (datasets.crawlerState.data) {
-      const { processed_repositories } = datasets.crawlerState.data;
-      let removed = 0;
-      for (const repo of Object.keys(processed_repositories)) {
-        if (missingRepos.has(repo as GitHubRepositoryName)) {
-          delete processed_repositories[repo];
-          removed += 1;
-        }
-      }
-
-      if (removed > 0) {
-        datasets.crawlerState.data.total_repositories_processed = Object.keys(processed_repositories).length;
-        datasets.crawlerState.data.successful_crawls = Object.values(processed_repositories).filter((entry) => entry.success).length;
-        datasets.crawlerState.data.failed_crawls = Object.values(processed_repositories).filter((entry) => !entry.success).length;
-        datasets.crawlerState.data.last_updated = nowIso;
-        await this.writeJson(datasets.crawlerState.path, datasets.crawlerState.data);
-        updatedFiles.push(datasets.crawlerState.path);
-        this.log("crawler_state", `Removed ${removed} repositories.`);
-      }
-    }
-
-    if (datasets.indexerState.data) {
-      const { seenKeys } = datasets.indexerState.data;
-      let removed = 0;
-      for (const key of Object.keys(seenKeys)) {
-        const repo = key.split("#", 1)[0] as GitHubRepositoryName;
-        if (missingRepos.has(repo)) {
-          delete seenKeys[key];
-          removed += 1;
-        }
-      }
-
-      if (removed > 0) {
-        await this.writeJson(datasets.indexerState.path, datasets.indexerState.data);
-        updatedFiles.push(datasets.indexerState.path);
-        this.log("indexer_state", `Removed ${removed} seenKeys entries.`);
-      }
-    }
-
-    return updatedFiles;
-  }
-
-  private async writeDeletedReport(missingRepos: Set<GitHubRepositoryName>): Promise<void> {
+    const combined = new Set<GitHubRepositoryName>([...this.previouslyDeleted, ...missingRepos]);
     const payload = {
       generated_at: this.now().toISOString(),
-      count: missingRepos.size,
-      repositories: Array.from(missingRepos).sort()
+      count: combined.size,
+      repositories: Array.from(combined).sort()
     };
     await this.writeJson(this.paths.deletedRepositoriesReport, payload);
+    for (const repo of missingRepos) {
+      this.previouslyDeleted.add(repo);
+    }
+    return [this.paths.deletedRepositoriesReport];
   }
 
   private parseManualRepository(entry: string): GitHubRepositoryName | null {
@@ -699,6 +560,23 @@ export class RepositoryCleanupService {
     const payload = JSON.stringify(data, null, 2);
     await fs.writeFile(tempPath, payload, "utf-8");
     await fs.rename(tempPath, filePath);
+  }
+
+  private loadKnownDeletedRepositories(): GitHubRepositoryName[] {
+    try {
+      const raw = readFileSync(this.paths.deletedRepositoriesReport, "utf-8");
+      const parsed = JSON.parse(raw) as { repositories?: string[] };
+      if (!Array.isArray(parsed.repositories)) {
+        return [];
+      }
+      return parsed.repositories
+        .filter((repo): repo is GitHubRepositoryName => typeof repo === "string" && this.isValidRepositoryName(repo));
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+        return [];
+      }
+      throw error;
+    }
   }
 }
 

@@ -96,7 +96,7 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     const deletedRepo: RepositoryKey = "deleted/repo";
     const errorRepo: RepositoryKey = "error/repo";
 
-    await writeJson(path.join(outputDir, "oxide_plugins.json"), {
+    const oxideSeed: TestPluginData = {
       generated_at: "2025-01-01T00:00:00.000Z",
       query: "test-query",
       count: 3,
@@ -105,9 +105,10 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         { repository: { full_name: deletedRepo } },
         { repository: { full_name: errorRepo } }
       ]
-    } satisfies TestPluginData);
+    };
+    await writeJson(path.join(outputDir, "oxide_plugins.json"), oxideSeed);
 
-    await writeJson(path.join(outputDir, "crawled_plugins.json"), {
+    const crawledSeed: TestPluginData = {
       generated_at: "2025-01-01T00:00:00.000Z",
       query: "crawl-query",
       count: 3,
@@ -116,16 +117,18 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         { repository: { full_name: deletedRepo } },
         { repository: { full_name: errorRepo } }
       ]
-    } satisfies TestPluginData);
+    };
+    await writeJson(path.join(outputDir, "crawled_plugins.json"), crawledSeed);
 
-    await writeJson(path.join(outputDir, "author_discovered_repositories.json"), {
+    const discoveredSeed: TestAuthorDiscovered = {
       generated_at: "2025-01-01T00:00:00.000Z",
       source: "unit-test",
       count: 3,
       repositories: [existingRepo, deletedRepo, errorRepo]
-    } satisfies TestAuthorDiscovered);
+    };
+    await writeJson(path.join(outputDir, "author_discovered_repositories.json"), discoveredSeed);
 
-    await writeJson(path.join(outputDir, "author_finder_state.json"), {
+    const authorFinderSeed: TestAuthorFinderState = {
       last_updated: "2025-01-01T00:00:00.000Z",
       current_author_index: 0,
       processed_authors: {
@@ -134,9 +137,10 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         error: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true }
       },
       discovered_repositories: [existingRepo, deletedRepo, errorRepo]
-    } satisfies TestAuthorFinderState);
+    };
+    await writeJson(path.join(outputDir, "author_finder_state.json"), authorFinderSeed);
 
-    await writeJson(path.join(outputDir, "crawler_state.json"), {
+    const crawlerSeed: TestCrawlerState = {
       last_updated: "2025-01-01T00:00:00.000Z",
       total_repositories_processed: 3,
       successful_crawls: 3,
@@ -161,9 +165,10 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
           errors: []
         }
       }
-    } satisfies TestCrawlerState);
+    };
+    await writeJson(path.join(outputDir, "crawler_state.json"), crawlerSeed);
 
-    await writeJson(path.join(outputDir, "state.json"), {
+    const indexerSeed: TestIndexerState = {
       version: "1.0",
       currentVariant: 0,
       currentPage: 0,
@@ -172,13 +177,15 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         [`${deletedRepo}#Deleted.cs#def`]: true,
         [`${errorRepo}#Error.cs#ghi`]: true
       }
-    } satisfies TestIndexerState);
+    };
+    await writeJson(path.join(outputDir, "state.json"), indexerSeed);
 
-    await writeJson(path.join(outputDir, "deleted_repositories.json"), {
+    const deletedReportSeed: TestDeletedReport = {
       generated_at: "2025-01-01T00:00:00.000Z",
       count: 0,
       repositories: []
-    } satisfies TestDeletedReport);
+    };
+    await writeJson(path.join(outputDir, "deleted_repositories.json"), deletedReportSeed);
 
     const manualRepositories: readonly string[] = [
       `https://github.com/${existingRepo}`,
@@ -224,48 +231,28 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     assert.equal(report.errors.length, 1);
     assert.equal(report.errors[0]?.repo, errorRepo);
 
+    assert.deepEqual(report.updatedFiles, [path.join(outputDir, "deleted_repositories.json")]);
+
     const oxide = await readJson<TestPluginData>(path.join(outputDir, "oxide_plugins.json"));
-    assert.equal(oxide.count, 2);
-    assert.equal(oxide.items.length, 2);
-    assert.ok(oxide.items.every((item) => item.repository?.full_name !== deletedRepo));
-    assert.equal(oxide.generated_at, now.toISOString());
+    assert.deepEqual(oxide, oxideSeed);
 
     const crawled = await readJson<TestPluginData>(path.join(outputDir, "crawled_plugins.json"));
-    assert.equal(crawled.count, 2);
-    assert.equal(crawled.items.length, 2);
-    assert.ok(crawled.items.every((item) => item.repository?.full_name !== deletedRepo));
-    assert.equal(crawled.generated_at, now.toISOString());
+    assert.deepEqual(crawled, crawledSeed);
 
     const authorDiscovered = await readJson<TestAuthorDiscovered>(path.join(outputDir, "author_discovered_repositories.json"));
-    assert.equal(authorDiscovered.count, 2);
-    assert.deepEqual(authorDiscovered.repositories.sort(), [errorRepo, existingRepo]);
+    assert.deepEqual(authorDiscovered, discoveredSeed);
 
     const authorFinderState = await readJson<TestAuthorFinderState>(path.join(outputDir, "author_finder_state.json"));
-    assert.equal(authorFinderState.discovered_repositories.length, 2);
-    const processedAuthors = authorFinderState.processed_authors;
-    const existsEntry = processedAuthors.exists;
-    const deletedEntry = processedAuthors.deleted;
-    const errorEntry = processedAuthors.error;
-    assert.ok(existsEntry);
-    assert.ok(deletedEntry);
-    assert.ok(errorEntry);
-    assert.equal(existsEntry.repositories_found, 1);
-    assert.equal(deletedEntry.repositories_found, 0);
-    assert.equal(errorEntry.repositories_found, 1);
-    assert.equal(authorFinderState.last_updated, now.toISOString());
+    assert.deepEqual(authorFinderState, authorFinderSeed);
 
     const crawlerState = await readJson<TestCrawlerState>(path.join(outputDir, "crawler_state.json"));
-    assert.equal(Object.keys(crawlerState.processed_repositories).length, 2);
-    assert.ok(!(deletedRepo in crawlerState.processed_repositories));
-    assert.equal(crawlerState.total_repositories_processed, 2);
-    assert.equal(crawlerState.failed_crawls + crawlerState.successful_crawls, 2);
-    assert.equal(crawlerState.last_updated, now.toISOString());
+    assert.deepEqual(crawlerState, crawlerSeed);
 
     const indexerState = await readJson<TestIndexerState>(path.join(outputDir, "state.json"));
-    assert.ok(!(`${deletedRepo}#Deleted.cs#def` in indexerState.seenKeys));
+    assert.deepEqual(indexerState, indexerSeed);
 
     const manual = await readJson<string[]>(path.join(inputDir, "manual-repositories.json"));
-    assert.deepEqual([...manual].sort(), [errorRepo, `https://github.com/${existingRepo}`]);
+    assert.deepEqual(manual, Array.from(manualRepositories));
 
     const deletedReport = await readJson<TestDeletedReport>(path.join(outputDir, "deleted_repositories.json"));
     assert.equal(deletedReport.count, 1);
