@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-13T18:54:54.652Z",
+  "generated_at": "2025-10-14T02:15:08.606Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1184,
+  "count": 1186,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -86,8 +86,10 @@
     "Flash-Ticker/BarDoorCloser",
     "Flash-Ticker/CompanyManagement",
     "Flash-Ticker/GoldenScrap",
+    "Flash-Ticker/HauntedDoors",
     "Flash-Ticker/JumpScare",
     "Flash-Ticker/MyNotify",
+    "Flash-Ticker/MyPlayerBuilds",
     "Flash-Ticker/NoPowerXmasLights",
     "Flash-Ticker/SafeZoneVehicle",
     "Flash-Ticker/SkinFinder",
