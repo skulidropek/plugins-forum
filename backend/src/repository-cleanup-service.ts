@@ -293,17 +293,23 @@ export class RepositoryCleanupService {
         continue;
       }
       const result = await this.checkSingleRepository(repo);
+
+      if (this.isRateLimitResult(result)) {
+        const nowIso = this.now().toISOString();
+        state.errors[repo] = result;
+        state.updatedAt = nowIso;
+        state.nextIndex = index;
+        await this.writeState(state);
+        this.log("indexer_state", `Rate limit hit after processing ${state.nextIndex} repositories.`);
+        return { rateLimitHit: true };
+      }
+
       this.updateStateWithResult(state, repo, result);
       state.nextIndex = index + 1;
       await this.writeState(state);
 
       if (this.delayMs > 0 && index + 1 < state.repositories.length) {
         await this.sleepFn(this.delayMs);
-      }
-
-      if (this.isRateLimitResult(result)) {
-        this.log("indexer_state", `Rate limit hit after processing ${state.nextIndex} repositories.`);
-        return { rateLimitHit: true };
       }
     }
 

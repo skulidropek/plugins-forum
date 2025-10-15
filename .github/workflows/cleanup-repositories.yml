@@ -65,6 +65,7 @@ jobs:
             backend/output/state.json \
             backend/output/deleted_repositories.json \
             backend/input/manual-repositories.json
+          git add backend/output/cleanup_state.json 2>/dev/null || true
           git commit -m "chore(cleanup): prune deleted repositories [skip ci]" || exit 0
           git pull --rebase origin main || true
           git push
