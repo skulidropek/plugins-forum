@@ -1,6 +1,7 @@
 import type { PluginIndex, SearchOptions, SearchFieldKey, IndexedPlugin } from '../types/plugin';
 import { PluginMerger } from './pluginMerger';
 import { CacheService, type CacheMetadata } from './cacheService';
+import { filterDeletedRepositories } from '../utils/deletedRepositories';
 
 const API_BASE_URL = 'https://raw.githubusercontent.com/publicrust/plugins-forum/main/backend/output';
 
@@ -14,7 +15,25 @@ export class ApiService {
       ]);
 
       // Merge the plugin sources
-      return PluginMerger.mergePluginSources(oxidePlugins, crawledPlugins);
+      const merged = PluginMerger.mergePluginSources(oxidePlugins, crawledPlugins);
+
+      // CHANGE: Strip repositories flagged as deleted by backend cleanup report.
+      // WHY: Frontend must not surface stale entries removed by backend/output/deleted_repositories.json.
+      // QUOTE(TЗ): "Можешь добавить на фронт проверку ... Типо что бы он игнорировал репозитории из этого списка"
+      // REF: REQ-REMOTE-CLEANUP-001
+      // SOURCE: internal-analysis
+      const filteredItems = await filterDeletedRepositories(merged.items, API_BASE_URL);
+      if (filteredItems.length !== merged.items.length) {
+        console.info(
+          `[deleted-filter] Removed ${merged.items.length - filteredItems.length} repositories present in deleted_repositories.json.`
+        );
+      }
+
+      return {
+        ...merged,
+        items: filteredItems,
+        count: filteredItems.length,
+      };
 
     } catch (error) {
       console.error('Failed to fetch plugin index:', error);
@@ -23,7 +42,17 @@ export class ApiService {
       try {
         console.warn('Falling back to oxide_plugins.json only');
         const oxidePlugins = await CacheService.fetchWithCache<PluginIndex>(`${API_BASE_URL}/oxide_plugins.json`);
-        return oxidePlugins;
+        const filteredItems = await filterDeletedRepositories(oxidePlugins.items, API_BASE_URL);
+        if (filteredItems.length !== oxidePlugins.items.length) {
+          console.info(
+            `[deleted-filter] Removed ${oxidePlugins.items.length - filteredItems.length} repositories present in deleted_repositories.json.`
+          );
+        }
+        return {
+          ...oxidePlugins,
+          items: filteredItems,
+          count: filteredItems.length,
+        };
       } catch (fallbackError) {
         console.error('Fallback also failed:', fallbackError);
         throw error;
@@ -116,4 +145,3 @@ export class ApiService {
     return CacheService.getCacheInfo();
   }
 }
-
