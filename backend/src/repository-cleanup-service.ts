@@ -1,6 +1,7 @@
 
 import { promises as fs } from "node:fs";
 import path from "node:path";
+import { fileURLToPath } from "node:url";
 
 // CHANGE: RepositoryCleanupService now supports resumable execution and avoids false positives by verifying repository availability without mutating datasets.
 // WHY: GitHub API may return transient 403/451 responses; caching ensures long runs can resume and only confirmed missing repositories are reported.
@@ -759,4 +760,76 @@ export class RepositoryCleanupService {
     await fs.writeFile(tempPath, payload, "utf-8");
     await fs.rename(tempPath, filePath);
   }
+}
+
+async function runCleanupCli(): Promise<void> {
+  const baseConfig: RepositoryCleanupConfig = {
+    inputDir: path.join(process.cwd(), "input"),
+    outputDir: path.join(process.cwd(), "output"),
+  };
+
+  const config: RepositoryCleanupConfig = {
+    ...baseConfig,
+    ...(process.env.GITHUB_TOKEN ? { githubToken: process.env.GITHUB_TOKEN } : {}),
+    ...(process.env.CLEANUP_CONCURRENCY
+      ? { concurrencyLimit: Number.parseInt(process.env.CLEANUP_CONCURRENCY, 10) }
+      : {}),
+    ...(process.env.CLEANUP_DELAY_MS
+      ? { interRequestDelayMs: Number.parseInt(process.env.CLEANUP_DELAY_MS, 10) }
+      : {}),
+    ...(process.env.CLEANUP_GITHUB_API_BASE
+      ? { githubApiBaseUrl: process.env.CLEANUP_GITHUB_API_BASE }
+      : {}),
+  };
+
+  const service = new RepositoryCleanupService(config, {
+    log: (dataset, message): void => {
+      console.log(`[cleanup:${dataset}] ${message}`);
+    },
+  });
+
+  const started = Date.now();
+  const report = await service.run();
+  const elapsed = Date.now() - started;
+
+  console.log(
+    [
+      `Scanned: ${report.scannedRepositories}`,
+      `Missing: ${report.missingRepositories.length}`,
+      `Errors: ${report.errors.length}`,
+      `Duration: ${elapsed}ms`,
+    ].join(" | ")
+  );
+
+  if (report.missingRepositories.length > 0) {
+    console.log(
+      `Missing repositories written to ${path.relative(
+        process.cwd(),
+        thisServiceOutputPath("deleted_repositories.json")
+      )}`
+    );
+  }
+
+  if (report.errors.length > 0) {
+    console.warn("Errors encountered during verification:");
+    for (const error of report.errors.slice(0, 10)) {
+      console.warn(` - ${error.repo}: ${error.message ?? "unknown error"}`);
+    }
+    if (report.errors.length > 10) {
+      console.warn(` ...and ${report.errors.length - 10} more.`);
+    }
+    process.exitCode = 1;
+  }
+}
+
+function thisServiceOutputPath(fileName: string): string {
+  return path.join(process.cwd(), "output", fileName);
+}
+
+const modulePath = fileURLToPath(import.meta.url);
+if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(modulePath)) {
+  runCleanupCli().catch((error) => {
+    console.error("Repository cleanup failed:", error);
+    process.exitCode = 1;
+  });
 }
