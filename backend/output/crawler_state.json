@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-14T20:59:10.196Z",
-  "total_repositories_processed": 1262,
-  "successful_crawls": 1260,
+  "last_updated": "2025-10-15T13:35:21.530Z",
+  "total_repositories_processed": 1263,
+  "successful_crawls": 1261,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7576,6 +7576,12 @@
     },
     "Flash-Ticker/MyPlayerBuilds": {
       "last_crawled": "2025-10-14T03:03:58.418Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Wrath-age/TheAddictionSite": {
+      "last_crawled": "2025-10-15T13:35:21.515Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
