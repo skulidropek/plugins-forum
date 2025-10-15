@@ -439,12 +439,16 @@ export class RepositoryCleanupService {
 
       const response = await this.fetchFn(url, { headers });
 
-      if (response.status === 404 || response.status === 410) {
+      if (response.status === 404 || response.status === 410 || response.status === 451) {
+        const reason =
+          response.status === 451
+            ? "Repository unavailable for legal reasons."
+            : "Repository not found (deleted or made private).";
         return {
           repo,
           status: "missing",
           httpStatus: response.status,
-          message: "Repository not found (deleted or made private)."
+          message: reason
         };
       }
 
