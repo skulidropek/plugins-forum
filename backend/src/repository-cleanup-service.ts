@@ -3,6 +3,7 @@ import os from "node:os";
 import path from "node:path";
 import { execFile } from "node:child_process";
 import { promisify } from "node:util";
+import { fileURLToPath } from "node:url";
 
 // CHANGE: Reimplemented repository verification via shallow `git clone` to avoid GitHub REST rate limits.
 // WHY: User requested git-based validation after API-driven approach produced false positives and lacked persistent state.
@@ -268,6 +269,7 @@ export class RepositoryCleanupService {
       normalized.includes("repository does not exist") ||
       normalized.includes("does not exist") ||
       normalized.includes("access denied") ||
+      normalized.includes("could not read username for 'https://github.com'") ||
       normalized.includes("fatal: repository") ||
       normalized.includes("unavailable") ||
       normalized.includes("dmca")
@@ -460,4 +462,43 @@ export class RepositoryCleanupService {
     await fs.writeFile(tempPath, payload, "utf-8");
     await fs.rename(tempPath, filePath);
   }
+}
+
+async function runCli(): Promise<void> {
+  const service = new RepositoryCleanupService();
+  const start = Date.now();
+  const report = await service.run();
+  const durationMs = Date.now() - start;
+
+    console.log(
+      [
+        `Scanned: ${report.scannedRepositories}`,
+        `Missing: ${report.missingRepositories.length}`,
+        `Errors: ${report.errors.length}`,
+        `Duration: ${durationMs}ms`,
+      ].join(" | ")
+    );
+
+    if (report.missingRepositories.length > 0) {
+      console.log("Missing repositories written to output/deleted_repositories.json");
+    }
+
+  if (report.errors.length > 0) {
+    console.warn("Errors encountered during verification:");
+    for (const err of report.errors.slice(0, 10)) {
+      console.warn(` - ${err.repo}: ${err.message ?? "unknown error"}`);
+    }
+    if (report.errors.length > 10) {
+      console.warn(` ...and ${report.errors.length - 10} more.`);
+    }
+    process.exitCode = 1;
+  }
+}
+
+const modulePath = fileURLToPath(import.meta.url);
+if (process.argv[1] && path.resolve(process.argv[1]) === path.resolve(modulePath)) {
+  runCli().catch((error) => {
+    console.error("Repository cleanup failed:", error);
+    process.exitCode = 1;
+  });
 }
