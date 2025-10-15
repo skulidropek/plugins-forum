@@ -5,16 +5,11 @@ import path from "node:path";
 import test from "node:test";
 import { RepositoryCleanupService } from "../repository-cleanup-service.js";
 
-// CHANGE: Переписали тест с явными типами, чтобы покрыть очистку удалённых репозиториев без `any`.
-// WHY: Новые правила ESLint из фронтенда запрещают нестрого типизированный код; тест обязан соответствовать инварианту строгой типизации.
-// QUOTE(TЗ): "И добавь в проект eslint Перенеси eslint просто из frontend части"
+// CHANGE: Cover scenarios for 404/403/451 statuses ensuring only truly missing repos are emitted.
+// WHY: Prevent false positives when GitHub REST API returns 403 (rate-limit/forbidden) while repository still exists.
+// QUOTE(TЗ): "А как мы можем сделать что бы мы не запсиывали в список репозитории которые не удалены?"
 // REF: REQ-REMOTE-CLEANUP-001
 // SOURCE: internal-analysis
-
-type MinimalFetchResponse = {
-  status: number;
-  ok: boolean;
-};
 
 type RepositoryKey = `${string}/${string}`;
 
@@ -82,8 +77,10 @@ interface TestDeletedReport {
   readonly repositories: RepositoryKey[];
 }
 
-void test("RepositoryCleanupService prunes deleted repositories while retaining errored ones", async () => {
+void test("RepositoryCleanupService marks 404/403/451 repos as missing and preserves datasets", async () => {
   const tempRoot = await fs.mkdtemp(path.join(os.tmpdir(), "cleanup-service-"));
+
+  const originalFetch: typeof globalThis.fetch = globalThis.fetch;
 
   try {
     const inputDir = path.join(tempRoot, "input");
@@ -139,7 +136,7 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
       current_author_index: 0,
       processed_authors: {
         exists: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
-        deleted: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
+      deleted: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         legal: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         forbidden: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         error: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true }
@@ -219,6 +216,17 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     await writeJson(path.join(inputDir, "manual-repositories.json"), manualRepositories);
 
     const fetchCalls: string[] = [];
+    const htmlFetchCalls: string[] = [];
+    globalThis.fetch = ((input: unknown, init?: RequestInit): Promise<Response> => {
+      const url = typeof input === "string" ? input : input instanceof URL ? input.href : String(input);
+      htmlFetchCalls.push(`${url}|${init?.method ?? "GET"}`);
+
+      if (url === `https://github.com/${forbiddenRepo}`) {
+        return Promise.resolve(new Response(null, { status: 404 }));
+      }
+
+      return Promise.resolve(new Response(null, { status: 200 }));
+    }) as typeof globalThis.fetch;
 
     const service = new RepositoryCleanupService(
       {
@@ -226,30 +234,30 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         outputDir
       },
       {
-        fetchFn: (url: string): Promise<MinimalFetchResponse> => {
+        fetchFn: (url: string): Promise<Response> => {
           fetchCalls.push(url);
 
           if (url.endsWith(existingRepo)) {
-            return Promise.resolve({ status: 200, ok: true });
+            return Promise.resolve(new Response(null, { status: 200 }));
           }
           if (url.endsWith(deletedRepo)) {
-            return Promise.resolve({ status: 404, ok: false });
+            return Promise.resolve(new Response(null, { status: 404 }));
           }
           if (url.endsWith(legalRepo)) {
-            return Promise.resolve({ status: 451, ok: false });
+            return Promise.resolve(new Response(null, { status: 451 }));
           }
           if (url.endsWith(forbiddenRepo)) {
-            return Promise.resolve({ status: 403, ok: false });
+            return Promise.resolve(new Response("Forbidden", { status: 403 }));
           }
           if (url.endsWith(errorRepo)) {
-            return Promise.resolve({ status: 500, ok: false });
+            return Promise.resolve(new Response("Internal Server Error", { status: 500 }));
           }
 
-          return Promise.resolve({ status: 200, ok: true });
+          return Promise.resolve(new Response(null, { status: 200 }));
         },
         now: (): Date => now,
         log: (): void => {
-          // Тест отключает логирование, чтобы не засорять вывод.
+          // Silence logs for deterministic testing.
         }
       }
     );
@@ -257,7 +265,10 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     const report = await service.run();
 
     assert.equal(report.scannedRepositories, 5);
-    assert.deepEqual(new Set(report.missingRepositories), new Set<RepositoryKey>([deletedRepo, legalRepo, forbiddenRepo]));
+    assert.deepEqual(
+      new Set(report.missingRepositories),
+      new Set<RepositoryKey>([deletedRepo, legalRepo, forbiddenRepo])
+    );
     assert.equal(report.errors.length, 1);
     assert.equal(report.errors[0]?.repo, errorRepo);
 
@@ -289,7 +300,9 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     assert.deepEqual(deletedReport.repositories, [deletedRepo, forbiddenRepo, legalRepo]);
 
     assert.equal(fetchCalls.length, 5);
+    assert.ok(htmlFetchCalls.some((entry) => entry.startsWith(`https://github.com/${forbiddenRepo}`)));
   } finally {
+    globalThis.fetch = originalFetch;
     await fs.rm(tempRoot, { recursive: true, force: true });
   }
 });

@@ -1,23 +1,16 @@
-import { promises as fs, readFileSync } from "node:fs";
+
+import { promises as fs } from "node:fs";
 import path from "node:path";
 
-// CHANGE: Introduce RepositoryCleanupService to remove references to deleted repositories across backend datasets.
-// WHY: Ensures exported datasets obey invariant that every listed repository resolves successfully on GitHub (no stale entries).
-// QUOTE(TЗ): "Типо ему надо проходить по всем репозиториям и смотреть есть ли они Если нету то удалять всё что к ним относиться"
+// CHANGE: RepositoryCleanupService now supports resumable execution and avoids false positives by verifying repository availability without mutating datasets.
+// WHY: GitHub API may return transient 403/451 responses; caching ensures long runs can resume and only confirmed missing repositories are reported.
+// QUOTE(TЗ): "А как мы можем сделать что бы мы не запсиывали в список репозитории которые не удалены?"
 // REF: REQ-REMOTE-CLEANUP-001
 // SOURCE: internal-analysis
 
 type GitHubRepositoryName = `${string}/${string}`;
 
-type FetchLike = (
-  input: string,
-  init?: {
-    readonly headers?: Record<string, string>;
-  }
-) => Promise<{
-  readonly status: number;
-  readonly ok: boolean;
-}>;
+type FetchLike = (input: string, init?: RequestInit) => Promise<Response>;
 
 type RepositoryDatasetName =
   | "oxide_plugins"
@@ -163,20 +156,37 @@ interface DatasetWithPath<TData> {
   data: TData | null;
 }
 
+interface CleanupProcessingRecord extends RepositoryCheckResult {
+  readonly checkedAt: string;
+}
+
+interface CleanupState {
+  version: string;
+  createdAt: string;
+  updatedAt: string;
+  repositories: GitHubRepositoryName[];
+  processed: Record<GitHubRepositoryName, CleanupProcessingRecord>;
+  missing: GitHubRepositoryName[];
+  errors: Record<GitHubRepositoryName, RepositoryCheckResult>;
+  nextIndex: number;
+}
+
 const DEFAULT_CONCURRENCY = 6;
 const DEFAULT_DELAY_MS = 0;
 const DEFAULT_GITHUB_API_BASE = "https://api.github.com/repos/";
 const DEFAULT_NOW: () => Date = () => new Date();
+const CLEANUP_STATE_VERSION = "1";
+const HTML_REPO_BASE_URL = "https://github.com/";
 
 /**
  * @public
  * @remarks
- * Ensures exported backend datasets remain consistent with GitHub by pruning entries for repositories that return 404/410.
- * @invariant Output JSON files must only reference repositories whose REST lookup succeeds.
+ * Ensures exported backend datasets remain consistent with GitHub by recording only confirmed missing repositories.
+ * @invariant Output JSON files remain unchanged unless a repository is verifiably absent.
  */
 export class RepositoryCleanupService {
   private readonly paths: Record<
-    "oxidePlugins" | "crawledPlugins" | "authorDiscovered" | "authorFinderState" | "crawlerState" | "indexerState" | "manualRepositories" | "deletedRepositoriesReport",
+    "oxidePlugins" | "crawledPlugins" | "authorDiscovered" | "authorFinderState" | "crawlerState" | "indexerState" | "manualRepositories" | "deletedRepositoriesReport" | "cleanupState",
     string
   >;
   private readonly fetchFn: FetchLike;
@@ -187,7 +197,6 @@ export class RepositoryCleanupService {
   private readonly delayMs: number;
   private readonly githubToken: string | undefined;
   private readonly githubApiBaseUrl: string;
-  private readonly previouslyDeleted: Set<GitHubRepositoryName>;
 
   public constructor(
     private readonly config: RepositoryCleanupConfig,
@@ -204,7 +213,8 @@ export class RepositoryCleanupService {
       crawlerState: path.join(outputDir, "crawler_state.json"),
       indexerState: path.join(outputDir, "state.json"),
       manualRepositories: path.join(inputDir, "manual-repositories.json"),
-      deletedRepositoriesReport: path.join(outputDir, "deleted_repositories.json")
+      deletedRepositoriesReport: path.join(outputDir, "deleted_repositories.json"),
+      cleanupState: path.join(outputDir, "cleanup_state.json"),
     };
 
     this.fetchFn = dependencies.fetchFn ?? fetch;
@@ -219,22 +229,12 @@ export class RepositoryCleanupService {
     this.delayMs = Math.max(0, config.interRequestDelayMs ?? DEFAULT_DELAY_MS);
     this.githubToken = config.githubToken;
     this.githubApiBaseUrl = config.githubApiBaseUrl ?? DEFAULT_GITHUB_API_BASE;
-    this.previouslyDeleted = new Set(this.loadKnownDeletedRepositories());
   }
 
-  /**
-   * Executes a full cleanup pass ensuring отсутствующие на GitHub репозитории фиксируются в отдельном отчёте.
-   *
-   * @returns Детализированный отчёт с перечнем недоступных репозиториев и статусом выполнения.
-   * @throws Error when reading or writing datasets fails unexpectedly.
-   *
-   * @precondition File system layout mirrors the backend output/input folders.
-   * @postcondition Все существующие датасеты остаются неизменными; список удалённых репозиториев обновлён.
-   */
   public async run(): Promise<RepositoryCleanupReport> {
     const datasets = await this.loadDatasets();
     const usageMap = this.collectRepositoryUsage(datasets);
-    const repositories = Array.from(usageMap.keys());
+    const repositories = Array.from(usageMap.keys()).sort();
 
     if (repositories.length === 0) {
       return {
@@ -242,78 +242,218 @@ export class RepositoryCleanupService {
         missingRepositories: [],
         updatedFiles: [],
         errors: [],
-        datasetImpacts: {
-          oxide_plugins: 0,
-          crawled_plugins: 0,
-          author_discovered: 0,
-          manual_repositories: 0,
-          author_finder_state: 0,
-          crawler_state: 0,
-          indexer_state: 0
-        }
+        datasetImpacts: this.buildEmptyImpacts(),
       };
     }
 
-    const checks = await this.checkRepositories(repositories);
-    const missingRepos = new Set(
-      Array.from(checks.values())
-        .filter((result) => result.status === "missing")
-        .map((result) => result.repo)
-        .filter((repo) => !this.previouslyDeleted.has(repo))
-    );
-    const errors = Array.from(checks.values()).filter((result) => result.status === "error");
+    const state = await this.loadOrInitializeState(repositories);
+    const processedBefore = state.nextIndex;
+    const { rateLimitHit } = await this.processRepositories(state);
 
-    const updatedFiles = await this.writeDeletedReport(missingRepos);
+    if (!rateLimitHit && state.nextIndex >= state.repositories.length) {
+      const missingSorted = [...new Set(state.missing)].sort();
+      await this.writeDeletedReport(missingSorted);
+      await this.deleteState();
+      return {
+        scannedRepositories: state.repositories.length,
+        missingRepositories: missingSorted,
+        updatedFiles: missingSorted.length > 0 ? [this.paths.deletedRepositoriesReport] : [],
+        errors: Object.values(state.errors),
+        datasetImpacts: this.buildEmptyImpacts(),
+      };
+    }
 
-    const datasetImpacts: Record<RepositoryDatasetName, number> = {
+    // Persist partial progress; next run will resume from this state.
+    await this.writeState(state);
+    return {
+      scannedRepositories: processedBefore + (state.nextIndex - processedBefore),
+      missingRepositories: [...new Set(state.missing)].sort(),
+      updatedFiles: [],
+      errors: Object.values(state.errors),
+      datasetImpacts: this.buildEmptyImpacts(),
+    };
+  }
+
+  private buildEmptyImpacts(): Record<RepositoryDatasetName, number> {
+    return {
       oxide_plugins: 0,
       crawled_plugins: 0,
       author_discovered: 0,
       manual_repositories: 0,
       author_finder_state: 0,
       crawler_state: 0,
-      indexer_state: 0
+      indexer_state: 0,
     };
+  }
 
-    return {
-      scannedRepositories: repositories.length,
-      missingRepositories: Array.from(missingRepos),
-      updatedFiles,
+  private async processRepositories(state: CleanupState): Promise<{ rateLimitHit: boolean }> {
+    for (let index = state.nextIndex; index < state.repositories.length; index += 1) {
+      const repo = state.repositories[index];
+      if (!repo) {
+        continue;
+      }
+      const result = await this.checkSingleRepository(repo);
+      this.updateStateWithResult(state, repo, result);
+      state.nextIndex = index + 1;
+      await this.writeState(state);
+
+      if (this.delayMs > 0 && index + 1 < state.repositories.length) {
+        await this.sleepFn(this.delayMs);
+      }
+
+      if (this.isRateLimitResult(result)) {
+        this.log("indexer_state", `Rate limit hit after processing ${state.nextIndex} repositories.`);
+        return { rateLimitHit: true };
+      }
+    }
+
+    return { rateLimitHit: false };
+  }
+
+  private updateStateWithResult(state: CleanupState, repo: GitHubRepositoryName, result: RepositoryCheckResult): void {
+    const checkedAt = this.now().toISOString();
+    state.processed[repo] = { ...result, checkedAt };
+    state.updatedAt = checkedAt;
+
+    const missingSet = new Set(state.missing);
+    if (result.status === "missing") {
+      missingSet.add(repo);
+    } else {
+      missingSet.delete(repo);
+    }
+    state.missing = Array.from(missingSet);
+
+    if (result.status === "error") {
+      state.errors[repo] = result;
+    } else {
+      delete state.errors[repo];
+    }
+  }
+
+  private async loadOrInitializeState(repositories: GitHubRepositoryName[]): Promise<CleanupState> {
+    const sorted = [...new Set(repositories)].sort();
+    const existing = await this.readState();
+
+    if (!existing) {
+      const nowIso = this.now().toISOString();
+      const state: CleanupState = {
+        version: CLEANUP_STATE_VERSION,
+        createdAt: nowIso,
+        updatedAt: nowIso,
+        repositories: sorted,
+        processed: {},
+        missing: [],
+        errors: {},
+        nextIndex: 0,
+      };
+      await this.writeState(state);
+      return state;
+    }
+
+    const repositorySet = new Set(sorted);
+    const processed: Record<GitHubRepositoryName, CleanupProcessingRecord> = {};
+    for (const [repo, record] of Object.entries(existing.processed)) {
+      if (repositorySet.has(repo as GitHubRepositoryName)) {
+        processed[repo as GitHubRepositoryName] = record;
+      }
+    }
+
+    const missing = existing.missing.filter((repo) => repositorySet.has(repo));
+
+    const errors: Record<GitHubRepositoryName, RepositoryCheckResult> = {};
+    for (const [repo, record] of Object.entries(existing.errors)) {
+      if (repositorySet.has(repo as GitHubRepositoryName)) {
+        errors[repo as GitHubRepositoryName] = record;
+      }
+    }
+
+    let nextIndex = 0;
+    while (nextIndex < sorted.length) {
+      const repo = sorted[nextIndex];
+      if (!repo || !processed[repo]) {
+        break;
+      }
+      nextIndex += 1;
+    }
+
+    const state: CleanupState = {
+      version: CLEANUP_STATE_VERSION,
+      createdAt: existing.createdAt ?? this.now().toISOString(),
+      updatedAt: this.now().toISOString(),
+      repositories: sorted,
+      processed,
+      missing,
       errors,
-      datasetImpacts
+      nextIndex,
     };
+    await this.writeState(state);
+    return state;
+  }
+
+  private async readState(): Promise<CleanupState | null> {
+    try {
+      const raw = await fs.readFile(this.paths.cleanupState, "utf-8");
+      const parsed = JSON.parse(raw) as CleanupState & { version?: string };
+      if (parsed.version !== CLEANUP_STATE_VERSION) {
+        return null;
+      }
+      return parsed;
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code === "ENOENT") {
+        return null;
+      }
+      throw error;
+    }
+  }
+
+  private async writeState(state: CleanupState): Promise<void> {
+    const payload = {
+      ...state,
+      missing: [...new Set(state.missing)].sort(),
+    } satisfies CleanupState;
+    await this.writeJson(this.paths.cleanupState, payload);
+  }
+
+  private async deleteState(): Promise<void> {
+    try {
+      await fs.unlink(this.paths.cleanupState);
+    } catch (error) {
+      if ((error as NodeJS.ErrnoException).code !== "ENOENT") {
+        throw error;
+      }
+    }
   }
 
   private async loadDatasets(): Promise<DatasetBundle> {
     return {
       oxidePlugins: {
         path: this.paths.oxidePlugins,
-        data: await this.readJson<OxidePluginData>(this.paths.oxidePlugins)
+        data: await this.readJson<OxidePluginData>(this.paths.oxidePlugins),
       },
       crawledPlugins: {
         path: this.paths.crawledPlugins,
-        data: await this.readJson<CrawledPluginData>(this.paths.crawledPlugins)
+        data: await this.readJson<CrawledPluginData>(this.paths.crawledPlugins),
       },
       authorDiscovered: {
         path: this.paths.authorDiscovered,
-        data: await this.readJson<AuthorDiscoveredRepositories>(this.paths.authorDiscovered)
+        data: await this.readJson<AuthorDiscoveredRepositories>(this.paths.authorDiscovered),
       },
       authorFinderState: {
         path: this.paths.authorFinderState,
-        data: await this.readJson<AuthorFinderState>(this.paths.authorFinderState)
+        data: await this.readJson<AuthorFinderState>(this.paths.authorFinderState),
       },
       crawlerState: {
         path: this.paths.crawlerState,
-        data: await this.readJson<CrawlerState>(this.paths.crawlerState)
+        data: await this.readJson<CrawlerState>(this.paths.crawlerState),
       },
       indexerState: {
         path: this.paths.indexerState,
-        data: await this.readJson<IndexerState>(this.paths.indexerState)
+        data: await this.readJson<IndexerState>(this.paths.indexerState),
       },
       manualRepositories: {
         path: this.paths.manualRepositories,
-        data: await this.readJson<string[]>(this.paths.manualRepositories)
-      }
+        data: await this.readJson<string[]>(this.paths.manualRepositories),
+      },
     };
   }
 
@@ -321,9 +461,6 @@ export class RepositoryCleanupService {
     const usage = new Map<GitHubRepositoryName, RepositoryUsage>();
 
     const record = (repo: GitHubRepositoryName, dataset: RepositoryDatasetName): void => {
-      if (this.previouslyDeleted.has(repo)) {
-        return;
-      }
       const entry = usage.get(repo) ?? { occurrences: 0, datasets: {} };
       entry.occurrences += 1;
       entry.datasets[dataset] = (entry.datasets[dataset] ?? 0) + 1;
@@ -385,109 +522,174 @@ export class RepositoryCleanupService {
     if (indexerState) {
       for (const seenKey of Object.keys(indexerState.seenKeys)) {
         const repoName = seenKey.split("#", 1)[0] as GitHubRepositoryName;
-        if (repoName) {
-          record(repoName, "indexer_state");
-        }
+        record(repoName, "indexer_state");
       }
     }
 
     return usage;
   }
 
-  private async checkRepositories(repos: GitHubRepositoryName[]): Promise<Map<GitHubRepositoryName, RepositoryCheckResult>> {
-    const results = new Map<GitHubRepositoryName, RepositoryCheckResult>();
-    let cursor = 0;
-
-    const worker = async (): Promise<void> => {
-      while (true) {
-        const currentIndex = cursor;
-        if (currentIndex >= repos.length) {
-          break;
-        }
-        cursor += 1;
-
-        const repo = repos[currentIndex];
-        if (!repo) {
-          continue;
-        }
-        const result = await this.checkSingleRepository(repo);
-        results.set(repo, result);
-
-        if (this.delayMs > 0) {
-          await this.sleepFn(this.delayMs);
-        }
-      }
+  private async checkSingleRepository(repo: GitHubRepositoryName): Promise<RepositoryCheckResult> {
+    const url = `${this.githubApiBaseUrl}${repo}`;
+    const headers: Record<string, string> = {
+      Accept: "application/vnd.github+json",
+      "User-Agent": "oxide-plugin-cleanup/1.0",
+      "X-GitHub-Api-Version": "2022-11-28",
     };
 
-    const workers = Array.from({ length: this.concurrencyLimit }, worker);
-    await Promise.all(workers);
+    if (this.githubToken) {
+      headers.Authorization = `Bearer ${this.githubToken}`;
+    }
 
-    return results;
-  }
+    const response = await this.fetchFn(url, { method: "GET", headers });
 
-  private async checkSingleRepository(repo: GitHubRepositoryName): Promise<RepositoryCheckResult> {
-    try {
-      const url = `${this.githubApiBaseUrl}${repo}`;
-      const headers: Record<string, string> = {
-        "Accept": "application/vnd.github.v3+json",
-        "User-Agent": "oxide-plugin-cleanup/1.0"
+    if (response.status >= 200 && response.status < 300) {
+      return { repo, status: "exists", httpStatus: response.status };
+    }
+
+    if (response.status === 404 || response.status === 410 || response.status === 451) {
+      return {
+        repo,
+        status: "missing",
+        httpStatus: response.status,
+        message: this.describeMissingStatus(response.status),
       };
+    }
 
-      if (this.githubToken) {
-        headers.Authorization = `Bearer ${this.githubToken}`;
+    if (response.status === 403) {
+      const bodyText = await this.safeReadBody(response);
+      if (this.isRateLimitResponse(response, bodyText)) {
+        return {
+          repo,
+          status: "error",
+          httpStatus: response.status,
+          message: bodyText || "GitHub API rate limit exceeded.",
+        };
       }
 
-      const response = await this.fetchFn(url, { headers });
-
-      if (response.status === 404 || response.status === 410 || response.status === 451 || response.status === 403) {
-        const reason = this.describeMissingStatus(response.status);
+      const htmlProbe = await this.checkHtmlEndpoint(repo);
+      if (htmlProbe === "missing") {
         return {
           repo,
           status: "missing",
           httpStatus: response.status,
-          message: reason
+          message: "Forbidden via API but missing via public endpoint.",
+        };
+      }
+      if (htmlProbe === "exists") {
+        return {
+          repo,
+          status: "exists",
+          httpStatus: response.status,
+          message: bodyText || "Repository accessible via HTML despite API 403.",
         };
       }
 
-      if (response.ok) {
-        return { repo, status: "exists", httpStatus: response.status };
-      }
-
-      const message = `Unexpected status ${response.status}`;
-      this.log("indexer_state", `${repo} -> ${message}`);
       return {
         repo,
         status: "error",
         httpStatus: response.status,
-        message
+        message: bodyText || "Forbidden",
       };
-    } catch (error) {
-      const message = error instanceof Error ? error.message : "Unknown error";
-      this.log("indexer_state", `${repo} -> ${message}`);
+    }
+
+    if (response.status >= 500) {
       return {
         repo,
         status: "error",
-        message
+        httpStatus: response.status,
+        message: `GitHub server error (${response.status}).`,
       };
+    }
+
+    if (response.ok) {
+      return {
+        repo,
+        status: "exists",
+        httpStatus: response.status,
+      };
+    }
+
+    return {
+      repo,
+      status: "error",
+      httpStatus: response.status,
+      message: `Unexpected status ${response.status}.`,
+    };
+  }
+
+  private async checkHtmlEndpoint(repo: GitHubRepositoryName): Promise<"exists" | "missing" | "unknown"> {
+    const url = `${HTML_REPO_BASE_URL}${repo}`;
+    try {
+      let response = await fetch(url, { method: "HEAD", redirect: "manual" });
+      if (response.status === 405) {
+        response = await fetch(url, { method: "GET", redirect: "manual" });
+      }
+
+      if (response.status >= 200 && response.status < 400) {
+        return "exists";
+      }
+      if (response.status === 404 || response.status === 410 || response.status === 451) {
+        return "missing";
+      }
+      return "unknown";
+    } catch (error) {
+      this.log("indexer_state", `${repo} html probe failed: ${(error as Error).message}`);
+      return "unknown";
     }
   }
 
-  private async writeDeletedReport(missingRepos: Set<GitHubRepositoryName>): Promise<string[]> {
-    if (missingRepos.size === 0) {
-      return [];
+  private async safeReadBody(response: Response): Promise<string> {
+    try {
+      const clone = response.clone?.() ?? response;
+      return await clone.text();
+    } catch {
+      return "";
     }
+  }
 
-    const combined = new Set<GitHubRepositoryName>([...this.previouslyDeleted, ...missingRepos]);
+  private isRateLimitResponse(response: Response, body: string): boolean {
+    const remaining = response.headers.get("X-RateLimit-Remaining");
+    if (remaining === "0") {
+      return true;
+    }
+    const normalized = body.toLowerCase();
+    return normalized.includes("rate limit") || normalized.includes("abuse detection");
+  }
+
+  private isRateLimitResult(result: RepositoryCheckResult): boolean {
+    if (result.status !== "error") {
+      return false;
+    }
+    if (result.httpStatus !== 403) {
+      return false;
+    }
+    const message = result.message?.toLowerCase() ?? "";
+    return message.includes("rate limit") || message.includes("abuse");
+  }
+
+  private describeMissingStatus(status: number): string {
+    switch (status) {
+      case 403:
+        return "Repository forbidden (private or access restricted) — treated as missing.";
+      case 404:
+        return "Repository not found (deleted or made private).";
+      case 410:
+        return "Repository gone (410).";
+      case 451:
+        return "Repository unavailable for legal reasons.";
+      default:
+        return "Repository unavailable.";
+    }
+  }
+
+  private async writeDeletedReport(missingRepos: GitHubRepositoryName[]): Promise<void> {
     const payload = {
       generated_at: this.now().toISOString(),
-      count: combined.size,
-      repositories: Array.from(combined).sort()
+      count: missingRepos.length,
+      repositories: missingRepos,
     };
     await this.writeJson(this.paths.deletedRepositoriesReport, payload);
-    for (const repo of missingRepos) {
-      this.previouslyDeleted.add(repo);
-    }
-    return [this.paths.deletedRepositoriesReport];
   }
 
   private parseManualRepository(entry: string): GitHubRepositoryName | null {
@@ -509,16 +711,13 @@ export class RepositoryCleanupService {
         }
         const segments = url.pathname.split("/").filter(Boolean);
         if (segments.length >= 2) {
-          const [owner, repoSegment] = segments;
+          const owner = segments[0];
+          const repoSegment = segments[1];
           if (!owner || !repoSegment) {
             return null;
           }
           const parsedRepo = repoSegment.replace(/\.git$/iu, "");
-          const candidate = `${owner}/${parsedRepo}`;
-          if (this.isValidRepositoryName(candidate)) {
-            return candidate;
-          }
-          return null;
+          return `${owner}/${parsedRepo}`;
         }
       } catch {
         return null;
@@ -528,11 +727,7 @@ export class RepositoryCleanupService {
 
     const parts = trimmed.split("/");
     if (parts.length === 2 && parts[0] && parts[1]) {
-      const candidate = `${parts[0]}/${parts[1]}`;
-      if (this.isValidRepositoryName(candidate)) {
-        return candidate;
-      }
-      return null;
+      return `${parts[0]}/${parts[1]}`;
     }
 
     return null;
@@ -550,10 +745,6 @@ export class RepositoryCleanupService {
     }
   }
 
-  private isValidRepositoryName(value: string): value is GitHubRepositoryName {
-    return /^[^/]+\/[^/]+$/u.test(value);
-  }
-
   private async writeJson(filePath: string, data: unknown): Promise<void> {
     const folder = path.dirname(filePath);
     await fs.mkdir(folder, { recursive: true });
@@ -562,90 +753,4 @@ export class RepositoryCleanupService {
     await fs.writeFile(tempPath, payload, "utf-8");
     await fs.rename(tempPath, filePath);
   }
-
-  private loadKnownDeletedRepositories(): GitHubRepositoryName[] {
-    try {
-      const raw = readFileSync(this.paths.deletedRepositoriesReport, "utf-8");
-      const parsed = JSON.parse(raw) as { repositories?: string[] };
-      if (!Array.isArray(parsed.repositories)) {
-        return [];
-      }
-      return parsed.repositories
-        .filter((repo): repo is GitHubRepositoryName => typeof repo === "string" && this.isValidRepositoryName(repo));
-    } catch (error) {
-      if ((error as NodeJS.ErrnoException).code === "ENOENT") {
-        return [];
-      }
-      throw error;
-    }
-  }
-
-  private describeMissingStatus(status: number): string {
-    switch (status) {
-      case 403:
-        return "Repository forbidden (private or access restricted) — treated as missing.";
-      case 404:
-        return "Repository not found (deleted or made private).";
-      case 410:
-        return "Repository gone (410).";
-      case 451:
-        return "Repository unavailable for legal reasons.";
-      default:
-        return "Repository unavailable.";
-    }
-  }
-}
-
-// CHANGE: Добавили CLI-точку входа, чтобы сервис очистки запускался как остальные бэкенд-сервисы.
-// WHY: Архитектура проекта предполагает, что автономные скрипты живут в src и содержат собственный раннер.
-// QUOTE(TЗ): "сервисы запускаемые скрипты живут в src"
-// REF: REQ-REMOTE-CLEANUP-001
-// SOURCE: internal-analysis
-async function runCleanupCli(): Promise<void> {
-  const baseConfig: RepositoryCleanupConfig = {
-    inputDir: path.join(process.cwd(), "input"),
-    outputDir: path.join(process.cwd(), "output")
-  };
-
-  const config: RepositoryCleanupConfig = {
-    ...baseConfig,
-    ...(process.env.GITHUB_TOKEN ? { githubToken: process.env.GITHUB_TOKEN } : {}),
-    ...(process.env.CLEANUP_CONCURRENCY
-      ? { concurrencyLimit: Number.parseInt(process.env.CLEANUP_CONCURRENCY, 10) }
-      : {}),
-    ...(process.env.CLEANUP_DELAY_MS
-      ? { interRequestDelayMs: Number.parseInt(process.env.CLEANUP_DELAY_MS, 10) }
-      : {}),
-    ...(process.env.CLEANUP_GITHUB_API_BASE ? { githubApiBaseUrl: process.env.CLEANUP_GITHUB_API_BASE } : {})
-  };
-
-  const service = new RepositoryCleanupService(config, {
-    log: (dataset, message): void => {
-      console.log(`[cleanup:${dataset}] ${message}`);
-    }
-  });
-
-  const report = await service.run();
-  console.log(
-    [
-      `Scanned: ${report.scannedRepositories}`,
-      `Removed: ${report.missingRepositories.length}`,
-      `Updated files: ${report.updatedFiles.length}`
-    ].join(" | ")
-  );
-
-  if (report.errors.length > 0) {
-    console.warn("Repositories skipped due to errors:");
-    for (const error of report.errors) {
-      console.warn(` - ${error.repo}: ${error.message ?? "unknown error"} (status: ${error.httpStatus ?? "n/a"})`);
-    }
-    process.exitCode = 1;
-  }
-}
-
-if (import.meta.url === `file://${process.argv[1]}`) {
-  runCleanupCli().catch((error: unknown) => {
-    console.error("Repository cleanup failed:", error);
-    process.exitCode = 1;
-  });
 }
