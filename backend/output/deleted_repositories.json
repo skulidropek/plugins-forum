@@ -1,13 +1,15 @@
 {
-  "generated_at": "2025-10-14T20:59:11.003Z",
-  "count": 12,
+  "generated_at": "2025-10-15T04:51:34.566Z",
+  "count": 14,
   "repositories": [
+    "13dasd123/rust-school-discord-indexing",
     "Ghostyenc/FurnacePlug-v1",
     "Ghostyenc/Gamble",
     "Ghostyenc/NoRecyclerEfficiency",
     "Ghostyenc/PerformancePlus",
     "Ghostyenc/ProtectTeslaCoils",
     "Ghostyenc/VehicleSpawner",
+    "RustyyTown/plugins",
     "fuflik52/CodeGPT",
     "gjdunga/ItemsBlocker.Modern",
     "kiloOhm/Bounty",
