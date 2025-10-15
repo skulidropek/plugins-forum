@@ -95,16 +95,18 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     const existingRepo: RepositoryKey = "exists/repo";
     const deletedRepo: RepositoryKey = "deleted/repo";
     const legalRepo: RepositoryKey = "legal/repo";
+    const forbiddenRepo: RepositoryKey = "forbidden/repo";
     const errorRepo: RepositoryKey = "error/repo";
 
     const oxideSeed: TestPluginData = {
       generated_at: "2025-01-01T00:00:00.000Z",
       query: "test-query",
-      count: 4,
+      count: 5,
       items: [
         { repository: { full_name: existingRepo } },
         { repository: { full_name: deletedRepo } },
         { repository: { full_name: legalRepo } },
+        { repository: { full_name: forbiddenRepo } },
         { repository: { full_name: errorRepo } }
       ]
     };
@@ -113,11 +115,12 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     const crawledSeed: TestPluginData = {
       generated_at: "2025-01-01T00:00:00.000Z",
       query: "crawl-query",
-      count: 4,
+      count: 5,
       items: [
         { repository: { full_name: existingRepo } },
         { repository: { full_name: deletedRepo } },
         { repository: { full_name: legalRepo } },
+        { repository: { full_name: forbiddenRepo } },
         { repository: { full_name: errorRepo } }
       ]
     };
@@ -126,8 +129,8 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     const discoveredSeed: TestAuthorDiscovered = {
       generated_at: "2025-01-01T00:00:00.000Z",
       source: "unit-test",
-      count: 4,
-      repositories: [existingRepo, deletedRepo, legalRepo, errorRepo]
+      count: 5,
+      repositories: [existingRepo, deletedRepo, legalRepo, forbiddenRepo, errorRepo]
     };
     await writeJson(path.join(outputDir, "author_discovered_repositories.json"), discoveredSeed);
 
@@ -138,16 +141,17 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         exists: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         deleted: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         legal: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
+        forbidden: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true },
         error: { last_processed: "2025-01-01T00:00:00.000Z", repositories_found: 1, success: true }
       },
-      discovered_repositories: [existingRepo, deletedRepo, legalRepo, errorRepo]
+      discovered_repositories: [existingRepo, deletedRepo, legalRepo, forbiddenRepo, errorRepo]
     };
     await writeJson(path.join(outputDir, "author_finder_state.json"), authorFinderSeed);
 
     const crawlerSeed: TestCrawlerState = {
       last_updated: "2025-01-01T00:00:00.000Z",
-      total_repositories_processed: 4,
-      successful_crawls: 4,
+      total_repositories_processed: 5,
+      successful_crawls: 5,
       failed_crawls: 0,
       processed_repositories: {
         [existingRepo]: {
@@ -163,6 +167,12 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
           errors: []
         },
         [legalRepo]: {
+          last_crawled: "2025-01-01T00:00:00.000Z",
+          plugins_count: 1,
+          success: true,
+          errors: []
+        },
+        [forbiddenRepo]: {
           last_crawled: "2025-01-01T00:00:00.000Z",
           plugins_count: 1,
           success: true,
@@ -186,6 +196,7 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
         [`${existingRepo}#Existing.cs#abc`]: true,
         [`${deletedRepo}#Deleted.cs#def`]: true,
         [`${legalRepo}#Legal.cs#ghi`]: true,
+        [`${forbiddenRepo}#Forbidden.cs#ghi`]: true,
         [`${errorRepo}#Error.cs#ghi`]: true
       }
     };
@@ -202,6 +213,7 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
       `https://github.com/${existingRepo}`,
       `https://github.com/${deletedRepo}`,
       `https://github.com/${legalRepo}`,
+      `https://github.com/${forbiddenRepo}`,
       errorRepo
     ];
     await writeJson(path.join(inputDir, "manual-repositories.json"), manualRepositories);
@@ -226,6 +238,9 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
           if (url.endsWith(legalRepo)) {
             return Promise.resolve({ status: 451, ok: false });
           }
+          if (url.endsWith(forbiddenRepo)) {
+            return Promise.resolve({ status: 403, ok: false });
+          }
           if (url.endsWith(errorRepo)) {
             return Promise.resolve({ status: 500, ok: false });
           }
@@ -241,8 +256,8 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
 
     const report = await service.run();
 
-    assert.equal(report.scannedRepositories, 4);
-    assert.deepEqual(new Set(report.missingRepositories), new Set<RepositoryKey>([deletedRepo, legalRepo]));
+    assert.equal(report.scannedRepositories, 5);
+    assert.deepEqual(new Set(report.missingRepositories), new Set<RepositoryKey>([deletedRepo, legalRepo, forbiddenRepo]));
     assert.equal(report.errors.length, 1);
     assert.equal(report.errors[0]?.repo, errorRepo);
 
@@ -270,10 +285,10 @@ void test("RepositoryCleanupService prunes deleted repositories while retaining 
     assert.deepEqual(manual, Array.from(manualRepositories));
 
     const deletedReport = await readJson<TestDeletedReport>(path.join(outputDir, "deleted_repositories.json"));
-    assert.equal(deletedReport.count, 2);
-    assert.deepEqual(deletedReport.repositories, [deletedRepo, legalRepo]);
+    assert.equal(deletedReport.count, 3);
+    assert.deepEqual(deletedReport.repositories, [deletedRepo, forbiddenRepo, legalRepo]);
 
-    assert.equal(fetchCalls.length, 4);
+    assert.equal(fetchCalls.length, 5);
   } finally {
     await fs.rm(tempRoot, { recursive: true, force: true });
   }
