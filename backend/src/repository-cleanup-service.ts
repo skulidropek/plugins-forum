@@ -439,11 +439,8 @@ export class RepositoryCleanupService {
 
       const response = await this.fetchFn(url, { headers });
 
-      if (response.status === 404 || response.status === 410 || response.status === 451) {
-        const reason =
-          response.status === 451
-            ? "Repository unavailable for legal reasons."
-            : "Repository not found (deleted or made private).";
+      if (response.status === 404 || response.status === 410 || response.status === 451 || response.status === 403) {
+        const reason = this.describeMissingStatus(response.status);
         return {
           repo,
           status: "missing",
@@ -580,6 +577,21 @@ export class RepositoryCleanupService {
         return [];
       }
       throw error;
+    }
+  }
+
+  private describeMissingStatus(status: number): string {
+    switch (status) {
+      case 403:
+        return "Repository forbidden (private or access restricted) — treated as missing.";
+      case 404:
+        return "Repository not found (deleted or made private).";
+      case 410:
+        return "Repository gone (410).";
+      case 451:
+        return "Repository unavailable for legal reasons.";
+      default:
+        return "Repository unavailable.";
     }
   }
 }
