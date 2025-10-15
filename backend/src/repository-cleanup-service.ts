@@ -237,6 +237,13 @@ export class RepositoryCleanupService {
     const usageMap = this.collectRepositoryUsage(datasets);
     const repositories = Array.from(usageMap.keys()).sort();
 
+    // CHANGE: Emit detailed trace for the overall workload to improve observability during manual runs.
+    // WHY: User requested "Добавь больше логов" after seeing only the final summary.
+    // QUOTE(TЗ): "Добавь больше логов"
+    // REF: REQ-REMOTE-CLEANUP-001
+    // SOURCE: internal-analysis
+    this.log("indexer_state", `Starting verification of ${repositories.length} repositories.`);
+
     if (repositories.length === 0) {
       return {
         scannedRepositories: 0,
@@ -808,6 +815,15 @@ async function runCleanupCli(): Promise<void> {
         thisServiceOutputPath("deleted_repositories.json")
       )}`
     );
+    // CHANGE: Provide a concise preview of missing repositories to aid manual inspection without opening the JSON file.
+    // WHY: User explicitly asked for additional logging around the cleanup results.
+    // QUOTE(TЗ): "Добавь больше логов"
+    // REF: REQ-REMOTE-CLEANUP-001
+    // SOURCE: internal-analysis
+    const preview = report.missingRepositories.slice(0, 10);
+    console.log(`Missing preview (${preview.length}/${report.missingRepositories.length}): ${preview.join(", ")}`);
+  } else {
+    console.log("No missing repositories detected.");
   }
 
   if (report.errors.length > 0) {
