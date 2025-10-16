@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-16T12:56:08.129Z",
+  "last_updated": "2025-10-16T18:37:25.419Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1901,6 +1901,11 @@
       "last_processed": "2025-10-12T18:32:43.249Z",
       "repositories_found": 1,
       "success": true
+    },
+    "kirii86": {
+      "last_processed": "2025-10-16T18:37:23.413Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3083,6 +3088,7 @@
     "Flash-Ticker/HauntedDoors",
     "Flash-Ticker/MyPlayerBuilds",
     "Wrath-age/TheAddictionPlugins",
-    "Wrath-age/TheAddictionSite"
+    "Wrath-age/TheAddictionSite",
+    "kirii86/VIPPlaytime"
   ]
 }
