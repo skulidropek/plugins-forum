@@ -1,11 +1,14 @@
 {
-  "generated_at": "2025-10-15T20:50:32.389Z",
-  "count": 5,
+  "generated_at": "2025-10-17T03:02:54.489Z",
+  "count": 8,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
     "CherrySofts/https-slivrust-plugin.ru-",
-    "RustyyTown/plugins"
+    "RustyyTown/plugins",
+    "Wrath-age/TheAddiction",
+    "Wrath-age/TheAddictionPlugins",
+    "Wrath-age/TheAddictionSite"
   ]
 }
