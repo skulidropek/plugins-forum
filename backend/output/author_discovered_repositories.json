@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-15T06:56:16.776Z",
+  "generated_at": "2025-10-17T01:56:02.833Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1178,
+  "count": 1181,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -737,6 +737,8 @@
     "Whitecandor/Oxide.Rust",
     "Willdiedog/oxideplugins",
     "Wrath-age/TheAddiction",
+    "Wrath-age/TheAddictionPlugins",
+    "Wrath-age/TheAddictionSite",
     "Wrecks830/RaidableShelters",
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
@@ -971,6 +973,7 @@
     "kiloOhm/rustsurvival-plugins-GUICreator",
     "kiloOhm/rustsurvival-plugins-shop",
     "kiloOhm/rustsurvival-plugins-skinit",
+    "kirii86/VIPPlaytime",
     "kisuka/RustPlugins",
     "koenrad/Oxide",
     "koenrad/Oxide-2.0-Plugins",
