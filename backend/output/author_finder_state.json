@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-20T02:25:57.788Z",
-  "current_author_index": 48,
+  "last_updated": "2025-10-20T06:41:31.366Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-10-19T18:33:18.835Z",
@@ -250,28 +250,28 @@
       "success": true
     },
     "drakar-bit": {
-      "last_processed": "2025-10-13T02:19:06.105Z",
+      "last_processed": "2025-10-20T06:39:33.835Z",
       "repositories_found": 1,
       "success": true
     },
     "WheteThunger": {
-      "last_processed": "2025-10-13T02:19:09.698Z",
-      "repositories_found": 103,
+      "last_processed": "2025-10-20T06:39:37.979Z",
+      "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (107)"
     },
     "famus0v": {
-      "last_processed": "2025-10-13T02:19:16.303Z",
+      "last_processed": "2025-10-20T06:39:47.319Z",
       "repositories_found": 1,
       "success": true
     },
     "Tyler-Lopez": {
-      "last_processed": "2025-10-13T02:19:59.949Z",
+      "last_processed": "2025-10-20T06:40:48.999Z",
       "repositories_found": 4,
       "success": true
     },
     "bugrakaann": {
-      "last_processed": "2025-10-13T02:20:34.663Z",
+      "last_processed": "2025-10-20T06:41:29.354Z",
       "repositories_found": 2,
       "success": true
     },
