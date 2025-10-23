@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-16T18:33:50.987Z",
-  "total_repositories_processed": 1264,
-  "successful_crawls": 1262,
+  "last_updated": "2025-10-23T17:20:50.442Z",
+  "total_repositories_processed": 1265,
+  "successful_crawls": 1263,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7589,6 +7589,12 @@
     "kirii86/VIPPlaytime": {
       "last_crawled": "2025-10-16T18:33:50.982Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "CheeZeDark/leaked_new_rust_plugins_AI_Dumped": {
+      "last_crawled": "2025-10-23T17:20:50.408Z",
+      "plugins_count": 580,
       "success": true,
       "errors": []
     }
