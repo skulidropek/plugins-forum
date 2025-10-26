@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-24T15:25:40.421Z",
-  "total_repositories_processed": 1266,
-  "successful_crawls": 1264,
+  "last_updated": "2025-10-26T19:39:10.767Z",
+  "total_repositories_processed": 1267,
+  "successful_crawls": 1265,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7601,6 +7601,12 @@
     "micabressan/trabajo_final": {
       "last_crawled": "2025-10-24T15:25:39.289Z",
       "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "WheteThunger/ItemPuller": {
+      "last_crawled": "2025-10-26T19:39:10.762Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
