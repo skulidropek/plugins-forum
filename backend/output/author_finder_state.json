@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-10-29T02:16:25.616Z",
-  "current_author_index": 167,
+  "last_updated": "2025-10-29T07:00:40.101Z",
+  "current_author_index": 287,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-10-26T18:34:55.419Z",
@@ -1104,18 +1104,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2025-10-22T02:15:30.403Z",
+      "last_processed": "2025-10-29T06:54:06.039Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (33563)"
+      "error": "Skipped - too many repositories (33786)"
     },
     "ImKiri86": {
-      "last_processed": "2025-10-22T02:15:30.458Z",
+      "last_processed": "2025-10-29T06:54:06.111Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2025-10-22T02:16:10.796Z",
+      "last_processed": "2025-10-29T06:54:45.711Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1125,17 +1125,17 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2025-10-22T02:16:17.802Z",
+      "last_processed": "2025-10-29T06:54:52.516Z",
       "repositories_found": 5,
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2025-10-22T02:17:28.487Z",
+      "last_processed": "2025-10-29T06:56:03.420Z",
       "repositories_found": 2,
       "success": true
     },
     "TOWUK": {
-      "last_processed": "2025-10-22T02:17:32.236Z",
+      "last_processed": "2025-10-29T06:56:07.115Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1145,17 +1145,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2025-10-22T02:17:37.694Z",
+      "last_processed": "2025-10-29T06:56:12.488Z",
       "repositories_found": 4,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2025-10-22T02:17:55.744Z",
+      "last_processed": "2025-10-29T06:56:29.984Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2025-10-22T02:18:07.795Z",
+      "last_processed": "2025-10-29T06:56:41.257Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1165,130 +1165,148 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2025-10-22T02:18:10.728Z",
+      "last_processed": "2025-10-29T06:56:44.235Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2025-10-22T02:19:17.758Z",
+      "last_processed": "2025-10-29T06:57:49.895Z",
       "repositories_found": 1,
       "success": true
     },
     "peter-r-g": {
-      "last_processed": "2025-10-22T02:20:56.761Z",
+      "last_processed": "2025-10-29T06:59:25.661Z",
       "repositories_found": 2,
       "success": true
     },
     "nuGGGz": {
-      "last_processed": "2025-10-22T02:21:01.186Z",
+      "last_processed": "2025-10-29T06:59:30.045Z",
       "repositories_found": 1,
       "success": true
     },
     "Feverr92": {
-      "last_processed": "2025-10-22T02:21:06.520Z",
+      "last_processed": "2025-10-29T06:59:35.247Z",
       "repositories_found": 4,
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2025-10-22T02:21:21.958Z",
+      "last_processed": "2025-10-29T06:59:50.387Z",
       "repositories_found": 2,
       "success": true
     },
     "Mike-Baks": {
-      "last_processed": "2025-10-22T02:21:26.032Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T06:59:52.499Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "Kulltero": {
-      "last_processed": "2025-10-22T02:21:33.878Z",
-      "repositories_found": 2,
-      "success": true
+      "last_processed": "2025-10-29T06:59:54.556Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "devhyper": {
-      "last_processed": "2025-10-22T02:22:31.461Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T06:59:56.623Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "dbteku": {
-      "last_processed": "2025-10-22T06:39:53.205Z",
-      "repositories_found": 2,
-      "success": true
+      "last_processed": "2025-10-29T06:59:58.691Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "soerr": {
-      "last_processed": "2025-10-22T06:39:58.768Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:00.776Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "razorfish-sl": {
-      "last_processed": "2025-10-22T06:40:03.377Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:02.865Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "TebexOllie": {
-      "last_processed": "2025-10-22T06:40:12.105Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:04.944Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "liam-wiltshire": {
-      "last_processed": "2025-10-22T06:41:18.232Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:07.007Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "Naaathan": {
-      "last_processed": "2025-10-22T06:41:24.427Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:09.062Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "collectVood": {
-      "last_processed": "2025-10-22T06:41:49.075Z",
-      "repositories_found": 5,
-      "success": true
+      "last_processed": "2025-10-29T07:00:11.119Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "benhamiltonpro": {
-      "last_processed": "2025-10-22T06:42:19.792Z",
+      "last_processed": "2025-10-29T07:00:13.181Z",
       "repositories_found": 0,
-      "success": true
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "nurdism": {
-      "last_processed": "2025-10-22T06:44:20.016Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:15.301Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "mohamedyassine-benmiled": {
-      "last_processed": "2025-10-22T06:44:56.719Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:17.382Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "mleem97": {
-      "last_processed": "2025-10-22T06:45:15.007Z",
-      "repositories_found": 2,
-      "success": true
+      "last_processed": "2025-10-29T07:00:19.440Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "Xairooo": {
-      "last_processed": "2025-10-22T06:45:19.892Z",
+      "last_processed": "2025-10-29T07:00:21.511Z",
       "repositories_found": 0,
-      "success": true,
-      "error": "Skipped - too many repositories (129)"
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "GFLClan": {
-      "last_processed": "2025-10-22T06:45:39.809Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:23.585Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "txnitxnichopper": {
-      "last_processed": "2025-10-22T06:46:43.125Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:25.643Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "ailishev": {
-      "last_processed": "2025-10-22T06:47:59.357Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:27.702Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "Azuriom": {
-      "last_processed": "2025-10-22T06:48:24.835Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:29.774Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "osirislab": {
       "last_processed": "2025-10-23T02:13:20.558Z",
@@ -1301,24 +1319,28 @@
       "success": true
     },
     "spencermcw": {
-      "last_processed": "2025-10-22T06:48:50.524Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:31.838Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "RelFost": {
-      "last_processed": "2025-10-22T06:49:06.011Z",
+      "last_processed": "2025-10-29T07:00:33.899Z",
       "repositories_found": 0,
-      "success": true
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "Mentol0408": {
-      "last_processed": "2025-10-22T06:49:09.293Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:35.962Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "LauraRozier": {
-      "last_processed": "2025-10-22T06:50:48.073Z",
-      "repositories_found": 8,
-      "success": true
+      "last_processed": "2025-10-29T07:00:38.023Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "DevGonzi": {
       "last_processed": "2025-10-28T06:58:09.344Z",
@@ -1331,9 +1353,10 @@
       "success": true
     },
     "admin4eg": {
-      "last_processed": "2025-10-22T06:51:04.980Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-10-29T07:00:40.101Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "FtuoilXelrash": {
       "last_processed": "2025-10-23T02:04:58.161Z",
