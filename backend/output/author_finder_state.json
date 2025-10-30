@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-10-30T06:40:52.391Z",
+  "last_updated": "2025-10-30T12:55:58.055Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1838,7 +1838,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2025-10-23T02:10:22.824Z",
+      "last_processed": "2025-10-30T12:55:56.048Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1942,6 +1942,11 @@
     },
     "Patrette": {
       "last_processed": "2025-10-30T02:09:51.450Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "bubbafett5611": {
+      "last_processed": "2025-10-30T12:55:51.817Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3128,6 +3133,7 @@
     "Wrath-age/TheAddictionPlugins",
     "Wrath-age/TheAddictionSite",
     "kirii86/VIPPlaytime",
-    "Patrette/Oxide.Core"
+    "Patrette/Oxide.Core",
+    "bubbafett5611/Backpacks"
   ]
 }
