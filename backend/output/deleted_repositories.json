@@ -1,8 +1,9 @@
 {
-  "generated_at": "2025-10-29T03:17:21.332Z",
-  "count": 9,
+  "generated_at": "2025-10-30T03:12:58.852Z",
+  "count": 11,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
+    "13dasd123/RustPluginsDumpWithAI",
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
@@ -10,6 +11,7 @@
     "RustyyTown/plugins",
     "Wrath-age/TheAddiction",
     "Wrath-age/TheAddictionPlugins",
-    "Wrath-age/TheAddictionSite"
+    "Wrath-age/TheAddictionSite",
+    "build6477-ship-it/RustPluginsDumpWithAI"
   ]
 }
