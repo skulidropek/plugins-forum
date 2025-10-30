@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-29T19:19:07.388Z",
-  "total_repositories_processed": 1268,
-  "successful_crawls": 1266,
+  "last_updated": "2025-10-30T12:50:44.153Z",
+  "total_repositories_processed": 1269,
+  "successful_crawls": 1267,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7612,6 +7612,12 @@
     },
     "Patrette/Oxide.Core": {
       "last_crawled": "2025-10-29T19:19:07.379Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "bubbafett5611/Backpacks": {
+      "last_crawled": "2025-10-30T12:50:44.147Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
