@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-10-26T19:39:10.767Z",
-  "total_repositories_processed": 1267,
-  "successful_crawls": 1265,
+  "last_updated": "2025-10-29T19:19:07.388Z",
+  "total_repositories_processed": 1268,
+  "successful_crawls": 1266,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7606,6 +7606,12 @@
     },
     "WheteThunger/ItemPuller": {
       "last_crawled": "2025-10-26T19:39:10.762Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Patrette/Oxide.Core": {
+      "last_crawled": "2025-10-29T19:19:07.379Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
