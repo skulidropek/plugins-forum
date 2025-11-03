@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-10-30T06:40:52.392Z",
+  "generated_at": "2025-11-03T06:42:58.227Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1182,
+  "count": 1183,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -806,6 +806,7 @@
     "bradygaster/Aspire.Hosting.Facepunch.Rust",
     "bradygaster/RustMods",
     "brandonnorsworthy/R1Z1",
+    "bubbafett5611/Backpacks",
     "bugrakaann/MurderGameMode",
     "bugrakaann/TeamIdentifier",
     "byome/ByomeConnect",
