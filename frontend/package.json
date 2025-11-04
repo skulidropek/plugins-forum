@@ -6,7 +6,7 @@
   "scripts": {
     "dev": "npm run lint && npm run build && vite",
     "build": "tsc -b && vite build",
-    "lint": "npx tsx lint.ts src/",
+    "lint": "npx -yes @ton-ai-core/vibecode-linter src/",
     "preview": "vite preview"
   },
   "dependencies": {
@@ -25,10 +25,12 @@
   },
   "devDependencies": {
     "@babel/preset-typescript": "^7.27.1",
+    "@biomejs/biome": "^2.2.6",
     "@eslint-community/eslint-plugin-eslint-comments": "^4.5.0",
     "@eslint/js": "^9.33.0",
     "@rollup/plugin-babel": "^6.0.4",
-    "@ton-ai-core/eslint-plugin-suggest-members": "^1.6.2",
+    "@ton-ai-core/eslint-plugin-suggest-members": "^1.6.4",
+    "@ton-ai-core/vibecode-linter": "^0.2.0",
     "@types/react": "^19.1.10",
     "@types/react-dom": "^19.1.7",
     "@vitejs/plugin-react": "^5.0.0",

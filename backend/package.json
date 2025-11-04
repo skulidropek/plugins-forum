@@ -12,7 +12,7 @@
     "author-finder": "tsc -p . && node dist/author-repository-finder.js",
     "author-finder-continuous": "CONTINUOUS=true tsc -p . && CONTINUOUS=true node dist/author-repository-finder.js",
     "cleanup-repos": "tsc -p . && node dist/repository-cleanup-service.js",
-    "lint": "npx tsx lint.ts src/",
+    "lint": "npx -yes @ton-ai-core/vibecode-linter src/",
     "typecheck": "tsc --noEmit",
     "test": "tsc -p . && node --test dist/__tests__/**/*.js"
   },
@@ -20,6 +20,7 @@
     "node": ">=18"
   },
   "devDependencies": {
+    "@biomejs/biome": "^2.2.6",
     "@eslint-community/eslint-plugin-eslint-comments": "^4.5.0",
     "@eslint/js": "^9.33.0",
     "@ton-ai-core/eslint-plugin-suggest-members": "^1.6.2",
@@ -29,5 +30,8 @@
     "tsx": "^4.19.2",
     "typescript": "^5.5.4",
     "typescript-eslint": "^8.39.1"
+  },
+  "dependencies": {
+    "@ton-ai-core/vibecode-linter": "^0.2.0"
   }
 }
