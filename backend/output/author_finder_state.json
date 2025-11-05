@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-05T06:48:12.045Z",
-  "current_author_index": 0,
+  "last_updated": "2025-11-05T13:15:30.079Z",
+  "current_author_index": 261,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-11-03T02:07:36.947Z",
@@ -1104,18 +1104,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2025-10-29T06:54:06.039Z",
+      "last_processed": "2025-11-05T13:11:26.220Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (33786)"
+      "error": "Skipped - too many repositories (33918)"
     },
     "ImKiri86": {
-      "last_processed": "2025-10-29T06:54:06.111Z",
+      "last_processed": "2025-11-05T13:11:26.296Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2025-10-29T06:54:45.711Z",
+      "last_processed": "2025-11-05T13:12:09.818Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1125,17 +1125,17 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2025-10-29T06:54:52.516Z",
+      "last_processed": "2025-11-05T13:12:17.984Z",
       "repositories_found": 5,
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2025-10-29T06:56:03.420Z",
+      "last_processed": "2025-11-05T13:13:35.569Z",
       "repositories_found": 2,
       "success": true
     },
     "TOWUK": {
-      "last_processed": "2025-10-29T06:56:07.115Z",
+      "last_processed": "2025-11-05T13:13:39.398Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1145,17 +1145,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2025-10-29T06:56:12.488Z",
+      "last_processed": "2025-11-05T13:13:45.075Z",
       "repositories_found": 4,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2025-10-29T06:56:29.984Z",
+      "last_processed": "2025-11-05T13:14:03.959Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2025-10-29T06:56:41.257Z",
+      "last_processed": "2025-11-05T13:14:16.002Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1165,12 +1165,12 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2025-10-29T06:56:44.235Z",
+      "last_processed": "2025-11-05T13:14:19.006Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2025-10-29T06:57:49.895Z",
+      "last_processed": "2025-11-05T13:15:30.078Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1249,10 +1249,9 @@
       "error": "HTTP 403: Forbidden"
     },
     "collectVood": {
-      "last_processed": "2025-10-29T07:00:11.119Z",
-      "repositories_found": 0,
-      "success": false,
-      "error": "HTTP 403: Forbidden"
+      "last_processed": "2025-11-05T12:56:52.253Z",
+      "repositories_found": 5,
+      "success": true
     },
     "benhamiltonpro": {
       "last_processed": "2025-10-29T07:00:13.181Z",
