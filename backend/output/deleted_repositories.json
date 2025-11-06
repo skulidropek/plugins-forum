@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-11-05T03:13:02.841Z",
-  "count": 11,
+  "generated_at": "2025-11-06T03:17:20.007Z",
+  "count": 14,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -12,6 +12,9 @@
     "Wrath-age/TheAddiction",
     "Wrath-age/TheAddictionPlugins",
     "Wrath-age/TheAddictionSite",
+    "Wrecks830/RaidableShelters",
+    "Wrecks830/WhatIsIt",
+    "Wrecks830/rustplugin-scraponomics",
     "build6477-ship-it/RustPluginsDumpWithAI"
   ]
 }
