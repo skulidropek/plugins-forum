@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-03T04:49:17.629Z",
-  "total_repositories_processed": 1270,
-  "successful_crawls": 1268,
+  "last_updated": "2025-11-05T22:22:38.016Z",
+  "total_repositories_processed": 1271,
+  "successful_crawls": 1269,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7625,6 +7625,12 @@
     "publicrust/rustmaps-uploader-telegrambot": {
       "last_crawled": "2025-11-03T04:49:17.623Z",
       "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "EHCanadian/Oxide_Rust_Decompiled": {
+      "last_crawled": "2025-11-05T22:22:37.836Z",
+      "plugins_count": 3,
       "success": true,
       "errors": []
     }
