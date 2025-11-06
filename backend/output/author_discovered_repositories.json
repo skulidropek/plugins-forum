@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-06T06:50:48.211Z",
+  "generated_at": "2025-11-06T13:12:43.500Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1183,
+  "count": 1186,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -69,6 +69,7 @@
     "DevGonzi/uMod-TeamPing",
     "DocValerian/rust-plugins",
     "Dpendable/Oxide",
+    "EHCanadian/Oxide_Rust_Decompiled",
     "EReis0/Oxide.Rust",
     "EgorBlagov/rust-discord",
     "ElliotRedhead/EntityHealth",
@@ -96,6 +97,8 @@
     "Flash-Ticker/SwimmingDrops",
     "Flash-Ticker/XmasTreeGifts",
     "FtuoilXelrash/CelestialBarrage",
+    "FtuoilXelrash/rAlwaysDay",
+    "FtuoilXelrash/rFireworkShow",
     "FtuoilXelrash/rPop",
     "FtuoilXelrash/rServerMessages",
     "GFLClan/Rust-User-Management",
