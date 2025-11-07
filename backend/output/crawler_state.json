@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-06T13:35:00.292Z",
-  "total_repositories_processed": 1273,
-  "successful_crawls": 1271,
+  "last_updated": "2025-11-07T23:20:51.281Z",
+  "total_repositories_processed": 1275,
+  "successful_crawls": 1273,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7645,17 +7645,29 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "klaxxon24/RaidProtection": {
+      "last_crawled": "2025-11-07T23:20:49.578Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "klaxxon24/EntityOwner": {
+      "last_crawled": "2025-11-07T23:20:51.277Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-06T13:34:57.619Z",
-      "completed_at": "2025-11-06T13:34:58.986Z",
-      "duration_ms": 1367
+      "started_at": "2025-11-07T23:20:48.698Z",
+      "completed_at": "2025-11-07T23:20:50.053Z",
+      "duration_ms": 1355
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1271,
+      "already_processed": 1273,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
