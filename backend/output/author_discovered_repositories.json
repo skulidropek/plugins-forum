@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-07T18:36:59.782Z",
+  "generated_at": "2025-11-08T01:56:37.745Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1186,
+  "count": 1188,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -980,6 +980,8 @@
     "kiloOhm/rustsurvival-plugins-skinit",
     "kirii86/VIPPlaytime",
     "kisuka/RustPlugins",
+    "klaxxon24/EntityOwner",
+    "klaxxon24/RaidProtection",
     "koenrad/Oxide",
     "koenrad/Oxide-2.0-Plugins",
     "kop7er/ModdedWorkCarts",

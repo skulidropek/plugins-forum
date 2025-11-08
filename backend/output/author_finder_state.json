@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-07T18:36:59.781Z",
+  "last_updated": "2025-11-08T01:56:37.744Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1912,7 +1912,7 @@
       "success": true
     },
     "micabressan": {
-      "last_processed": "2025-10-31T18:38:18.392Z",
+      "last_processed": "2025-11-08T01:56:35.738Z",
       "repositories_found": 0,
       "success": true
     },
@@ -1929,6 +1929,11 @@
     "EHCanadian": {
       "last_processed": "2025-11-06T12:58:53.711Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "klaxxon24": {
+      "last_processed": "2025-11-08T01:56:20.483Z",
+      "repositories_found": 2,
       "success": true
     }
   },
@@ -3118,6 +3123,8 @@
     "bubbafett5611/Backpacks",
     "EHCanadian/Oxide_Rust_Decompiled",
     "FtuoilXelrash/rAlwaysDay",
-    "FtuoilXelrash/rFireworkShow"
+    "FtuoilXelrash/rFireworkShow",
+    "klaxxon24/EntityOwner",
+    "klaxxon24/RaidProtection"
   ]
 }
