@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-07T23:20:51.281Z",
-  "total_repositories_processed": 1275,
-  "successful_crawls": 1273,
+  "last_updated": "2025-11-09T05:22:06.353Z",
+  "total_repositories_processed": 1276,
+  "successful_crawls": 1274,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7654,6 +7654,12 @@
     },
     "klaxxon24/EntityOwner": {
       "last_crawled": "2025-11-07T23:20:51.277Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "cashr17/TestRustProject": {
+      "last_crawled": "2025-11-09T05:22:06.348Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
