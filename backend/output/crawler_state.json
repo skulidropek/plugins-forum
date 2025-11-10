@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-09T05:22:06.353Z",
-  "total_repositories_processed": 1276,
-  "successful_crawls": 1274,
+  "last_updated": "2025-11-10T07:23:52.155Z",
+  "total_repositories_processed": 1277,
+  "successful_crawls": 1275,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7660,6 +7660,12 @@
     },
     "cashr17/TestRustProject": {
       "last_crawled": "2025-11-09T05:22:06.348Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "MONaH-Rasta/EntityOwner": {
+      "last_crawled": "2025-11-10T07:23:52.151Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
