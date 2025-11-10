@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-10T02:08:47.839Z",
+  "last_updated": "2025-11-10T06:43:57.778Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -8,47 +8,47 @@
       "success": true
     },
     "MONaH-Rasta": {
-      "last_processed": "2025-11-03T06:41:26.079Z",
-      "repositories_found": 37,
+      "last_processed": "2025-11-10T06:42:30.308Z",
+      "repositories_found": 38,
       "success": true
     },
     "Wrecks830": {
-      "last_processed": "2025-11-03T06:41:30.890Z",
-      "repositories_found": 3,
+      "last_processed": "2025-11-10T06:42:33.065Z",
+      "repositories_found": 0,
       "success": true
     },
     "Yorboot": {
-      "last_processed": "2025-11-03T06:41:43.664Z",
+      "last_processed": "2025-11-10T06:42:44.735Z",
       "repositories_found": 1,
       "success": true
     },
     "LaserHydra": {
-      "last_processed": "2025-11-03T06:42:06.776Z",
+      "last_processed": "2025-11-10T06:43:07.420Z",
       "repositories_found": 14,
       "success": true
     },
     "oddbunchmedia": {
-      "last_processed": "2025-11-03T06:42:10.263Z",
+      "last_processed": "2025-11-10T06:43:10.851Z",
       "repositories_found": 2,
       "success": true
     },
     "HunterZ": {
-      "last_processed": "2025-11-03T06:42:35.358Z",
+      "last_processed": "2025-11-10T06:43:35.418Z",
       "repositories_found": 2,
       "success": true
     },
     "Wakanda1519": {
-      "last_processed": "2025-11-03T06:42:48.350Z",
+      "last_processed": "2025-11-10T06:43:48.074Z",
       "repositories_found": 1,
       "success": true
     },
     "0xz00m": {
-      "last_processed": "2025-11-03T06:42:51.153Z",
+      "last_processed": "2025-11-10T06:43:50.845Z",
       "repositories_found": 1,
       "success": true
     },
     "Rust-Haus": {
-      "last_processed": "2025-11-03T06:42:56.220Z",
+      "last_processed": "2025-11-10T06:43:55.770Z",
       "repositories_found": 2,
       "success": true
     },
@@ -3131,6 +3131,7 @@
     "FtuoilXelrash/rFireworkShow",
     "klaxxon24/EntityOwner",
     "klaxxon24/RaidProtection",
-    "cashr17/TestRustProject"
+    "cashr17/TestRustProject",
+    "MONaH-Rasta/EntityOwner"
   ]
 }
