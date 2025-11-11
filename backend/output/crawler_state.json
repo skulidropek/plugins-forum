@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-10T07:23:52.155Z",
-  "total_repositories_processed": 1277,
-  "successful_crawls": 1275,
+  "last_updated": "2025-11-11T14:25:29.717Z",
+  "total_repositories_processed": 1278,
+  "successful_crawls": 1276,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7667,6 +7667,12 @@
     "MONaH-Rasta/EntityOwner": {
       "last_crawled": "2025-11-10T07:23:52.151Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "JIMER228/bloodmenu": {
+      "last_crawled": "2025-11-11T14:25:29.711Z",
+      "plugins_count": 13,
       "success": true,
       "errors": []
     }
