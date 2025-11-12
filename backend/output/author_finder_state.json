@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-12T13:08:08.746Z",
-  "current_author_index": 0,
+  "last_updated": "2025-11-12T18:57:05.661Z",
+  "current_author_index": 273,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-11-10T02:08:37.764Z",
@@ -1104,18 +1104,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2025-11-05T13:11:26.220Z",
+      "last_processed": "2025-11-12T18:50:15.057Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (33918)"
+      "error": "Skipped - too many repositories (34059)"
     },
     "ImKiri86": {
-      "last_processed": "2025-11-05T13:11:26.296Z",
+      "last_processed": "2025-11-12T18:50:15.118Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2025-11-05T13:12:09.818Z",
+      "last_processed": "2025-11-12T18:50:50.999Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1125,17 +1125,17 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2025-11-05T13:12:17.984Z",
+      "last_processed": "2025-11-12T18:50:58.018Z",
       "repositories_found": 5,
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2025-11-05T13:13:35.569Z",
+      "last_processed": "2025-11-12T18:51:59.957Z",
       "repositories_found": 2,
       "success": true
     },
     "TOWUK": {
-      "last_processed": "2025-11-05T13:13:39.398Z",
+      "last_processed": "2025-11-12T18:52:03.472Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1145,17 +1145,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2025-11-05T13:13:45.075Z",
+      "last_processed": "2025-11-12T18:52:08.491Z",
       "repositories_found": 4,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2025-11-05T13:14:03.959Z",
+      "last_processed": "2025-11-12T18:52:24.087Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2025-11-05T13:14:16.002Z",
+      "last_processed": "2025-11-12T18:52:34.804Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1165,52 +1165,52 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2025-11-05T13:14:19.006Z",
+      "last_processed": "2025-11-12T18:52:37.587Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2025-11-05T13:15:30.078Z",
+      "last_processed": "2025-11-12T18:53:38.052Z",
       "repositories_found": 1,
       "success": true
     },
     "peter-r-g": {
-      "last_processed": "2025-11-05T18:40:04.178Z",
+      "last_processed": "2025-11-12T18:55:12.310Z",
       "repositories_found": 2,
       "success": true
     },
     "nuGGGz": {
-      "last_processed": "2025-11-05T18:40:09.196Z",
+      "last_processed": "2025-11-12T18:55:16.500Z",
       "repositories_found": 1,
       "success": true
     },
     "Feverr92": {
-      "last_processed": "2025-11-05T18:40:15.256Z",
+      "last_processed": "2025-11-12T18:55:21.382Z",
       "repositories_found": 4,
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2025-11-05T18:40:34.157Z",
+      "last_processed": "2025-11-12T18:55:34.992Z",
       "repositories_found": 2,
       "success": true
     },
     "Mike-Baks": {
-      "last_processed": "2025-11-05T18:40:39.048Z",
+      "last_processed": "2025-11-12T18:55:38.813Z",
       "repositories_found": 1,
       "success": true
     },
     "Kulltero": {
-      "last_processed": "2025-11-05T18:40:48.433Z",
+      "last_processed": "2025-11-12T18:55:46.767Z",
       "repositories_found": 2,
       "success": true
     },
     "devhyper": {
-      "last_processed": "2025-11-05T18:41:55.947Z",
+      "last_processed": "2025-11-12T18:56:42.937Z",
       "repositories_found": 1,
       "success": true
     },
     "dbteku": {
-      "last_processed": "2025-11-05T18:42:25.404Z",
+      "last_processed": "2025-11-12T18:57:05.661Z",
       "repositories_found": 2,
       "success": true
     },
