@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-12T06:42:04.137Z",
+  "generated_at": "2025-11-12T13:08:08.747Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1190,
+  "count": 1191,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -128,6 +128,7 @@
     "ItzNxthaniel/RestrictPlacement",
     "ItzNxthaniel/TrueWelcomer",
     "J-Pster/InventoryCleaner",
+    "JIMER228/bloodmenu",
     "Jake-Rich/Oxide",
     "Jake-Rich/Oxide.CSharp",
     "Jake-Rich/seedery.io-mapgen",
