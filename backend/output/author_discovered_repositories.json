@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-16T06:38:21.390Z",
+  "generated_at": "2025-11-16T12:50:12.111Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1191,
+  "count": 1192,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -890,6 +890,7 @@
     "fuflik52/umod-plugins",
     "gettakaro/rust-mods",
     "gjdunga/ModernItemBlocker",
+    "gjdunga/NitroBoostLinker",
     "gjdunga/bottomlesswater",
     "granis/RustItemDumper",
     "greggianbayocboc/rust-simple-mods",

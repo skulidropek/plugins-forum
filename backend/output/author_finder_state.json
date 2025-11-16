@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-16T06:38:21.389Z",
+  "last_updated": "2025-11-16T12:50:12.110Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1882,8 +1882,8 @@
       "error": "Skipped - too many repositories (106)"
     },
     "gjdunga": {
-      "last_processed": "2025-11-09T12:49:36.334Z",
-      "repositories_found": 2,
+      "last_processed": "2025-11-16T12:50:10.107Z",
+      "repositories_found": 3,
       "success": true
     },
     "Wrath-age": {
@@ -3138,6 +3138,7 @@
     "klaxxon24/RaidProtection",
     "cashr17/TestRustProject",
     "MONaH-Rasta/EntityOwner",
-    "JIMER228/bloodmenu"
+    "JIMER228/bloodmenu",
+    "gjdunga/NitroBoostLinker"
   ]
 }
