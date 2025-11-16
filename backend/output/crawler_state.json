@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-16T08:29:40.914Z",
-  "total_repositories_processed": 1279,
-  "successful_crawls": 1277,
+  "last_updated": "2025-11-16T13:27:25.286Z",
+  "total_repositories_processed": 1280,
+  "successful_crawls": 1278,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7679,6 +7679,12 @@
     "13dasd123/RustPluginsDumpWithAI1": {
       "last_crawled": "2025-11-16T08:29:39.784Z",
       "plugins_count": 14652,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/NitroBoostLinker": {
+      "last_crawled": "2025-11-16T13:27:25.280Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
