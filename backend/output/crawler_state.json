@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-16T13:27:25.286Z",
-  "total_repositories_processed": 1280,
-  "successful_crawls": 1278,
+  "last_updated": "2025-11-17T13:35:32.671Z",
+  "total_repositories_processed": 1281,
+  "successful_crawls": 1279,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7684,6 +7684,12 @@
     },
     "gjdunga/NitroBoostLinker": {
       "last_crawled": "2025-11-16T13:27:25.280Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "MONaH-Rasta/AutoLock": {
+      "last_crawled": "2025-11-17T13:35:32.665Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
