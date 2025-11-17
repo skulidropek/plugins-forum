@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-17T06:41:30.243Z",
+  "generated_at": "2025-11-17T12:58:50.428Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1192,
+  "count": 1193,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -182,6 +182,7 @@
     "MONaH-Rasta/AdminRadar",
     "MONaH-Rasta/AntiSpam",
     "MONaH-Rasta/AutoDoors",
+    "MONaH-Rasta/AutoLock",
     "MONaH-Rasta/AutoPlant",
     "MONaH-Rasta/BaseRepair",
     "MONaH-Rasta/BetterChat",
