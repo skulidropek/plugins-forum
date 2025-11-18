@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-18T06:59:50.549Z",
+  "generated_at": "2025-11-18T12:58:23.334Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1193,
+  "count": 1194,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1185,6 +1185,7 @@
     "unet-dev/Decompiled-Assemblies",
     "upperking/Old-Rust-Legacy-Plugins",
     "vick-kumar/pubrust",
+    "vinnyborderhops/CustomShooter",
     "weedz/oxide_rustextras",
     "williamtrelawny/Oxide.Core",
     "xaray/RustStaticPlayers",
