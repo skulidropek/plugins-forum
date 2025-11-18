@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-12T13:08:08.747Z",
+  "generated_at": "2025-11-18T06:59:50.549Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1191,
+  "count": 1193,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -182,6 +182,7 @@
     "MONaH-Rasta/AdminRadar",
     "MONaH-Rasta/AntiSpam",
     "MONaH-Rasta/AutoDoors",
+    "MONaH-Rasta/AutoLock",
     "MONaH-Rasta/AutoPlant",
     "MONaH-Rasta/BaseRepair",
     "MONaH-Rasta/BetterChat",
@@ -890,6 +891,7 @@
     "fuflik52/umod-plugins",
     "gettakaro/rust-mods",
     "gjdunga/ModernItemBlocker",
+    "gjdunga/NitroBoostLinker",
     "gjdunga/bottomlesswater",
     "granis/RustItemDumper",
     "greggianbayocboc/rust-simple-mods",

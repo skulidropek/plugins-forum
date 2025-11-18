@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-11T14:25:29.717Z",
-  "total_repositories_processed": 1278,
-  "successful_crawls": 1276,
+  "last_updated": "2025-11-17T22:23:38.761Z",
+  "total_repositories_processed": 1282,
+  "successful_crawls": 1280,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7673,6 +7673,30 @@
     "JIMER228/bloodmenu": {
       "last_crawled": "2025-11-11T14:25:29.711Z",
       "plugins_count": 13,
+      "success": true,
+      "errors": []
+    },
+    "13dasd123/RustPluginsDumpWithAI1": {
+      "last_crawled": "2025-11-16T08:29:39.784Z",
+      "plugins_count": 14652,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/NitroBoostLinker": {
+      "last_crawled": "2025-11-16T13:27:25.280Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "MONaH-Rasta/AutoLock": {
+      "last_crawled": "2025-11-17T13:35:32.665Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "vinnyborderhops/CustomShooter": {
+      "last_crawled": "2025-11-17T22:23:38.757Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
