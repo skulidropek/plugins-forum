@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-19T12:57:12.198Z",
+  "generated_at": "2025-11-19T18:51:03.723Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1194,
+  "count": 1196,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -903,6 +903,7 @@
     "haggbart/rustplugin-samsiteauth",
     "haggbart/rustplugin-scraponomics",
     "haggbart/rustplugin-stashwarning",
+    "handcaster/rust-oxide-plugins",
     "headtapper/ClearInventory",
     "headtapper/FireworksLogger",
     "headtapper/FishingRewards",
@@ -1043,6 +1044,7 @@
     "mvanzanten/docker-rust-server",
     "nbistrov255/lightrp",
     "netch-dev/Rust.UIFramework",
+    "neu-sec/rust-oxide-plugins",
     "niekschoemaker/Backpacks",
     "niekschoemaker/CopyPaste",
     "niekschoemaker/LootConfig",
