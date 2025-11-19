@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-17T22:23:38.761Z",
-  "total_repositories_processed": 1282,
-  "successful_crawls": 1280,
+  "last_updated": "2025-11-19T13:35:08.916Z",
+  "total_repositories_processed": 1283,
+  "successful_crawls": 1281,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7697,6 +7697,12 @@
     "vinnyborderhops/CustomShooter": {
       "last_crawled": "2025-11-17T22:23:38.757Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "neu-sec/rust-oxide-plugins": {
+      "last_crawled": "2025-11-19T13:35:08.910Z",
+      "plugins_count": 4,
       "success": true,
       "errors": []
     }
