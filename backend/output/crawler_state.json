@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-19T13:35:08.916Z",
-  "total_repositories_processed": 1283,
-  "successful_crawls": 1281,
+  "last_updated": "2025-11-19T15:26:40.041Z",
+  "total_repositories_processed": 1284,
+  "successful_crawls": 1282,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7702,6 +7702,12 @@
     },
     "neu-sec/rust-oxide-plugins": {
       "last_crawled": "2025-11-19T13:35:08.910Z",
+      "plugins_count": 4,
+      "success": true,
+      "errors": []
+    },
+    "handcaster/rust-oxide-plugins": {
+      "last_crawled": "2025-11-19T15:26:40.035Z",
       "plugins_count": 4,
       "success": true,
       "errors": []
