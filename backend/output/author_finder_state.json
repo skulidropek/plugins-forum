@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-11-20T13:15:28.993Z",
-  "current_author_index": 372,
+  "last_updated": "2025-11-20T18:45:20.186Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-11-17T06:41:19.962Z",
@@ -1753,59 +1753,59 @@
       "success": true
     },
     "pilate": {
-      "last_processed": "2025-11-13T13:01:48.655Z",
+      "last_processed": "2025-11-20T18:41:32.437Z",
       "repositories_found": 1,
       "success": true
     },
     "RuchirRajOld": {
-      "last_processed": "2025-11-13T13:02:02.150Z",
+      "last_processed": "2025-11-20T18:41:49.263Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (525)"
     },
     "Timestorm": {
-      "last_processed": "2025-11-13T13:02:18.920Z",
+      "last_processed": "2025-11-20T18:42:12.194Z",
       "repositories_found": 0,
       "success": true
     },
     "TheNeo2k": {
-      "last_processed": "2025-11-13T13:03:02.537Z",
+      "last_processed": "2025-11-20T18:42:59.919Z",
       "repositories_found": 1,
       "success": true
     },
     "Buzgero": {
-      "last_processed": "2025-11-13T13:03:06.234Z",
+      "last_processed": "2025-11-20T18:43:04.159Z",
       "repositories_found": 1,
       "success": true
     },
     "lbgcomm": {
-      "last_processed": "2025-11-13T13:03:15.065Z",
+      "last_processed": "2025-11-20T18:43:15.037Z",
       "repositories_found": 1,
       "success": true
     },
     "hixio-mh": {
-      "last_processed": "2025-11-13T13:04:42.472Z",
+      "last_processed": "2025-11-20T18:44:42.609Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (6939)"
+      "error": "Skipped - too many repositories (6942)"
     },
     "Swishhyy": {
-      "last_processed": "2025-11-13T13:04:57.593Z",
+      "last_processed": "2025-11-20T18:45:02.674Z",
       "repositories_found": 1,
       "success": true
     },
     "atlasrustservers": {
-      "last_processed": "2025-11-13T13:05:00.469Z",
+      "last_processed": "2025-11-20T18:45:05.895Z",
       "repositories_found": 1,
       "success": true
     },
     "RazoRRustPlugins": {
-      "last_processed": "2025-11-13T13:05:07.945Z",
+      "last_processed": "2025-11-20T18:45:15.942Z",
       "repositories_found": 5,
       "success": true
     },
     "CherrySofts": {
-      "last_processed": "2025-11-13T13:05:10.065Z",
+      "last_processed": "2025-11-20T18:45:18.183Z",
       "repositories_found": 0,
       "success": true
     },
