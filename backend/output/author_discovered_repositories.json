@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-20T18:45:20.187Z",
+  "generated_at": "2025-11-21T02:21:59.371Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1196,
+  "count": 1198,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -803,6 +803,8 @@
     "bawNg/HookDispatch",
     "bawNg/Oxide",
     "bawNg/Rust",
+    "belisario-afk/hy",
+    "belisario-afk/skinbox",
     "birdenly/NC-handlers",
     "bodyweightenergy/CaptureTheFlag",
     "bodyweightenergy/Nations",
