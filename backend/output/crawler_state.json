@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-20T21:22:25.770Z",
-  "total_repositories_processed": 1285,
-  "successful_crawls": 1283,
+  "last_updated": "2025-11-21T03:14:26.129Z",
+  "total_repositories_processed": 1286,
+  "successful_crawls": 1284,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7715,6 +7715,12 @@
     "belisario-afk/hy": {
       "last_crawled": "2025-11-20T21:22:25.764Z",
       "plugins_count": 3,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/skinbox": {
+      "last_crawled": "2025-11-21T03:14:26.124Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
