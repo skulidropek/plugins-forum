@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-23T22:23:05.603Z",
-  "total_repositories_processed": 1294,
-  "successful_crawls": 1292,
+  "last_updated": "2025-11-23T23:22:11.153Z",
+  "total_repositories_processed": 1295,
+  "successful_crawls": 1293,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7769,6 +7769,12 @@
     "belisario-afk/supahotfiya": {
       "last_crawled": "2025-11-23T22:23:05.598Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "SkiTee3000/Carbon": {
+      "last_crawled": "2025-11-23T23:22:11.138Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
