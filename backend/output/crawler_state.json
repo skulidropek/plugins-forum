@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-22T05:22:38.370Z",
-  "total_repositories_processed": 1289,
-  "successful_crawls": 1287,
+  "last_updated": "2025-11-23T08:30:00.791Z",
+  "total_repositories_processed": 1290,
+  "successful_crawls": 1288,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7739,6 +7739,12 @@
     "belisario-afk/aa": {
       "last_crawled": "2025-11-22T05:22:38.365Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "KuraiDevelopment/Kurai.dev": {
+      "last_crawled": "2025-11-23T08:30:00.784Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
