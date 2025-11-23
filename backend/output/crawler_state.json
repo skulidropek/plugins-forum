@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-23T08:30:00.791Z",
-  "total_repositories_processed": 1290,
-  "successful_crawls": 1288,
+  "last_updated": "2025-11-23T13:26:42.438Z",
+  "total_repositories_processed": 1291,
+  "successful_crawls": 1289,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7745,6 +7745,12 @@
     "KuraiDevelopment/Kurai.dev": {
       "last_crawled": "2025-11-23T08:30:00.784Z",
       "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/ModernNoCupboardDecay": {
+      "last_crawled": "2025-11-23T13:26:42.432Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
