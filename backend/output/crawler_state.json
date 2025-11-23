@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-23T13:26:42.438Z",
-  "total_repositories_processed": 1291,
-  "successful_crawls": 1289,
+  "last_updated": "2025-11-23T22:23:05.603Z",
+  "total_repositories_processed": 1294,
+  "successful_crawls": 1292,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7753,24 +7753,42 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "jmg5215/OmniRPGEngine": {
+      "last_crawled": "2025-11-23T22:23:02.154Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/aaa": {
+      "last_crawled": "2025-11-23T22:23:03.894Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/supahotfiya": {
+      "last_crawled": "2025-11-23T22:23:05.598Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-07T23:20:48.698Z",
-      "completed_at": "2025-11-07T23:20:50.053Z",
-      "duration_ms": 1355
+      "started_at": "2025-11-23T22:23:01.401Z",
+      "completed_at": "2025-11-23T22:23:04.435Z",
+      "duration_ms": 3034
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1273,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1291,
+      "newly_processed": 2,
+      "successful": 2,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 3,
+      "new_plugins": 2
     }
   }
 }
