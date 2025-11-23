@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T06:38:32.475Z",
+  "last_updated": "2025-11-23T12:50:20.107Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1884,8 +1884,8 @@
       "error": "Skipped - too many repositories (106)"
     },
     "gjdunga": {
-      "last_processed": "2025-11-16T12:50:10.107Z",
-      "repositories_found": 3,
+      "last_processed": "2025-11-23T12:50:18.100Z",
+      "repositories_found": 4,
       "success": true
     },
     "Wrath-age": {
@@ -1968,6 +1968,11 @@
     "belisario-afk": {
       "last_processed": "2025-11-21T02:04:58.881Z",
       "repositories_found": 2,
+      "success": true
+    },
+    "KuraiDevelopment": {
+      "last_processed": "2025-11-23T12:50:12.585Z",
+      "repositories_found": 0,
       "success": true
     }
   },
@@ -3169,6 +3174,7 @@
     "neu-sec/rust-oxide-plugins",
     "handcaster/rust-oxide-plugins",
     "belisario-afk/hy",
-    "belisario-afk/skinbox"
+    "belisario-afk/skinbox",
+    "gjdunga/ModernNoCupboardDecay"
   ]
 }
