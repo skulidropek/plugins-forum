@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T02:24:01.922Z",
+  "last_updated": "2025-11-23T06:38:32.475Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1820,20 +1820,22 @@
       "success": true
     },
     "PayNow-Services": {
-      "last_processed": "2025-11-16T06:38:00.603Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-11-23T06:38:26.321Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "paynow-gg": {
-      "last_processed": "2025-11-16T06:38:17.210Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-11-23T06:38:28.386Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "SweetInk": {
-      "last_processed": "2025-11-16T06:38:21.387Z",
+      "last_processed": "2025-11-23T06:38:30.471Z",
       "repositories_found": 0,
-      "success": true,
-      "error": "Skipped - too many repositories (127)"
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "PT-Studios": {
       "last_processed": "2025-11-19T02:14:13.111Z",
@@ -1892,9 +1894,10 @@
       "success": true
     },
     "Misailov1993": {
-      "last_processed": "2025-11-16T06:37:55.068Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-11-23T06:38:24.263Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "itzwaluwe": {
       "last_processed": "2025-11-17T06:41:28.235Z",
@@ -1937,9 +1940,10 @@
       "success": true
     },
     "cashr17": {
-      "last_processed": "2025-11-16T06:37:49.302Z",
-      "repositories_found": 1,
-      "success": true
+      "last_processed": "2025-11-23T06:38:22.203Z",
+      "repositories_found": 0,
+      "success": false,
+      "error": "HTTP 403: Forbidden"
     },
     "JIMER228": {
       "last_processed": "2025-11-19T18:40:38.551Z",
