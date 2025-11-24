@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-23T23:22:11.153Z",
-  "total_repositories_processed": 1295,
-  "successful_crawls": 1293,
+  "last_updated": "2025-11-24T06:37:40.082Z",
+  "total_repositories_processed": 1297,
+  "successful_crawls": 1295,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7777,24 +7777,36 @@
       "plugins_count": 0,
       "success": true,
       "errors": []
+    },
+    "belisario-afk/Private": {
+      "last_crawled": "2025-11-24T06:37:38.095Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/Mw3": {
+      "last_crawled": "2025-11-24T06:37:40.079Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-23T22:23:01.401Z",
-      "completed_at": "2025-11-23T22:23:04.435Z",
-      "duration_ms": 3034
+      "started_at": "2025-11-24T06:37:37.153Z",
+      "completed_at": "2025-11-24T06:37:38.657Z",
+      "duration_ms": 1505
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1291,
-      "newly_processed": 2,
-      "successful": 2,
+      "already_processed": 1295,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 3,
-      "new_plugins": 2
+      "total_found": 1,
+      "new_plugins": 1
     }
   }
 }
