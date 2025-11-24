@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-11-23T18:36:46.493Z",
+  "last_updated": "2025-11-24T02:12:10.476Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1974,6 +1974,11 @@
       "last_processed": "2025-11-23T12:50:12.585Z",
       "repositories_found": 0,
       "success": true
+    },
+    "jmg5215": {
+      "last_processed": "2025-11-24T02:12:08.467Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3175,6 +3180,7 @@
     "handcaster/rust-oxide-plugins",
     "belisario-afk/hy",
     "belisario-afk/skinbox",
-    "gjdunga/ModernNoCupboardDecay"
+    "gjdunga/ModernNoCupboardDecay",
+    "jmg5215/OmniRPGEngine"
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-23T18:36:46.494Z",
+  "generated_at": "2025-11-24T02:12:10.477Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1199,
+  "count": 1200,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -972,6 +972,7 @@
     "jkole4/FPSRestart",
     "jkole4/MovableCCTV",
     "jkole4/SAM-Site-Authorization",
+    "jmg5215/OmniRPGEngine",
     "john-clark/rust-oxide-umod",
     "johnmcclumpha/DeathNotes",
     "johnmcclumpha/RustDeathNotices",
