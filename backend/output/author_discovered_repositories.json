@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-11-25T07:00:30.874Z",
+  "generated_at": "2025-11-25T13:15:27.464Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1200,
+  "count": 1201,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -890,6 +890,7 @@
     "flintmonkey/MonumentLogger",
     "flutessources/Oxide.Ext.CustomNpc",
     "flutessources/Oxide.Rust",
+    "frankie290651/FeedMeUpdates",
     "fuflik52/umod-plugins",
     "gettakaro/rust-mods",
     "gjdunga/ModernItemBlocker",
