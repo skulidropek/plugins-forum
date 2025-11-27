@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-21T18:32:07.846Z",
-  "total_repositories_processed": 1288,
-  "successful_crawls": 1286,
+  "last_updated": "2025-11-26T05:24:55.327Z",
+  "total_repositories_processed": 1300,
+  "successful_crawls": 1298,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7735,17 +7735,89 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "belisario-afk/aa": {
+      "last_crawled": "2025-11-22T05:22:38.365Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "KuraiDevelopment/Kurai.dev": {
+      "last_crawled": "2025-11-23T08:30:00.784Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/ModernNoCupboardDecay": {
+      "last_crawled": "2025-11-23T13:26:42.432Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "jmg5215/OmniRPGEngine": {
+      "last_crawled": "2025-11-23T22:23:02.154Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/aaa": {
+      "last_crawled": "2025-11-23T22:23:03.894Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/supahotfiya": {
+      "last_crawled": "2025-11-23T22:23:05.598Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "SkiTee3000/Carbon": {
+      "last_crawled": "2025-11-23T23:22:11.138Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/Private": {
+      "last_crawled": "2025-11-24T06:37:38.095Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/Mw3": {
+      "last_crawled": "2025-11-24T06:37:40.079Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/km": {
+      "last_crawled": "2025-11-25T01:56:13.983Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "frankie290651/FeedMeUpdates": {
+      "last_crawled": "2025-11-25T08:34:25.255Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/KillaDome-and-NecroZombies": {
+      "last_crawled": "2025-11-26T05:24:55.321Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-07T23:20:48.698Z",
-      "completed_at": "2025-11-07T23:20:50.053Z",
-      "duration_ms": 1355
+      "started_at": "2025-11-24T06:37:37.153Z",
+      "completed_at": "2025-11-24T06:37:38.657Z",
+      "duration_ms": 1505
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1273,
+      "already_processed": 1295,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
