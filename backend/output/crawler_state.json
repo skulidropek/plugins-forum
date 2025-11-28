@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-26T05:24:55.327Z",
-  "total_repositories_processed": 1300,
-  "successful_crawls": 1298,
+  "last_updated": "2025-11-28T03:15:26.330Z",
+  "total_repositories_processed": 1301,
+  "successful_crawls": 1299,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7805,6 +7805,12 @@
     "belisario-afk/KillaDome-and-NecroZombies": {
       "last_crawled": "2025-11-26T05:24:55.321Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "vicbarbosa/rust-oxide-plugin-advanced-template": {
+      "last_crawled": "2025-11-28T03:15:26.322Z",
+      "plugins_count": 10,
       "success": true,
       "errors": []
     }
