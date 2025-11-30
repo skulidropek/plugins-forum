@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-30T08:29:40.469Z",
-  "total_repositories_processed": 1306,
-  "successful_crawls": 1304,
+  "last_updated": "2025-11-30T22:23:17.281Z",
+  "total_repositories_processed": 1307,
+  "successful_crawls": 1305,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7840,6 +7840,12 @@
     },
     "belisario-afk/mbbb": {
       "last_crawled": "2025-11-30T08:29:40.463Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "ROMA0589/RUST-BackpackButton": {
+      "last_crawled": "2025-11-30T22:23:17.275Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
