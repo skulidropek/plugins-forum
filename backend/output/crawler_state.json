@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-29T13:30:10.246Z",
-  "total_repositories_processed": 1305,
-  "successful_crawls": 1303,
+  "last_updated": "2025-11-30T08:29:40.469Z",
+  "total_repositories_processed": 1306,
+  "successful_crawls": 1304,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7835,6 +7835,12 @@
     "vicbarbosa/rust-imperium": {
       "last_crawled": "2025-11-29T13:30:10.238Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/mbbb": {
+      "last_crawled": "2025-11-30T08:29:40.463Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
