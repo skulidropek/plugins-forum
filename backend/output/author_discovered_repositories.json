@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-04T06:42:53.959Z",
+  "generated_at": "2025-12-04T13:20:25.387Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1216,
+  "count": 1217,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -795,6 +795,7 @@
     "alfredo-leonelli/ComunidadHispanoRustAPI",
     "alfredo-leonelli/RaidAlert",
     "alfredo-leonelli/ServerPop",
+    "alfredo-leonelli/VipManager",
     "atlas-rust-servers/console-extension",
     "atlas-rust-servers/gizmos-extension",
     "atlasrustservers/JERRYSun",
