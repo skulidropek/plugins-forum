@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-11-30T22:23:17.281Z",
-  "total_repositories_processed": 1307,
-  "successful_crawls": 1305,
+  "last_updated": "2025-12-04T08:35:26.394Z",
+  "total_repositories_processed": 1308,
+  "successful_crawls": 1306,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7846,6 +7846,12 @@
     },
     "ROMA0589/RUST-BackpackButton": {
       "last_crawled": "2025-11-30T22:23:17.275Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "snitebobbie/Vote-For-Money": {
+      "last_crawled": "2025-12-04T08:35:26.388Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
