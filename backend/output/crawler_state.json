@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-04T08:35:26.394Z",
-  "total_repositories_processed": 1308,
-  "successful_crawls": 1306,
+  "last_updated": "2025-12-04T13:40:23.801Z",
+  "total_repositories_processed": 1309,
+  "successful_crawls": 1307,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7852,6 +7852,12 @@
     },
     "snitebobbie/Vote-For-Money": {
       "last_crawled": "2025-12-04T08:35:26.388Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "alfredo-leonelli/VipManager": {
+      "last_crawled": "2025-12-04T13:40:23.795Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
