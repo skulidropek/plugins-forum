@@ -1,6 +1,6 @@
 {
-  "generated_at": "2025-12-03T03:21:18.684Z",
-  "count": 15,
+  "generated_at": "2025-12-06T03:11:33.697Z",
+  "count": 16,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -16,6 +16,7 @@
     "Wrecks830/RaidableShelters",
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
-    "build6477-ship-it/RustPluginsDumpWithAI"
+    "build6477-ship-it/RustPluginsDumpWithAI",
+    "gmh5225/Oxide.Rust"
   ]
 }
