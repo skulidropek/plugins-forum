@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-04T13:40:23.801Z",
-  "total_repositories_processed": 1309,
-  "successful_crawls": 1307,
+  "last_updated": "2025-12-07T16:28:22.520Z",
+  "total_repositories_processed": 1310,
+  "successful_crawls": 1308,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7859,6 +7859,12 @@
     "alfredo-leonelli/VipManager": {
       "last_crawled": "2025-12-04T13:40:23.795Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "scalbox/rust-rcon": {
+      "last_crawled": "2025-12-07T16:28:22.505Z",
+      "plugins_count": 6,
       "success": true,
       "errors": []
     }
