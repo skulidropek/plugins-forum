@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-07T16:28:22.520Z",
-  "total_repositories_processed": 1310,
-  "successful_crawls": 1308,
+  "last_updated": "2025-12-08T04:37:36.304Z",
+  "total_repositories_processed": 1312,
+  "successful_crawls": 1310,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7867,24 +7867,36 @@
       "plugins_count": 6,
       "success": true,
       "errors": []
+    },
+    "belisario-afk/Deathmatch-Soccer": {
+      "last_crawled": "2025-12-08T04:37:34.597Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/dc": {
+      "last_crawled": "2025-12-08T04:37:36.301Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-29T13:30:03.037Z",
-      "completed_at": "2025-11-29T13:30:08.509Z",
-      "duration_ms": 5472
+      "started_at": "2025-12-08T04:37:33.922Z",
+      "completed_at": "2025-12-08T04:37:35.190Z",
+      "duration_ms": 1268
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1301,
-      "newly_processed": 3,
-      "successful": 3,
+      "already_processed": 1310,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 79,
-      "new_plugins": 77
+      "total_found": 1,
+      "new_plugins": 1
     }
   }
 }
