@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-10T07:27:09.474Z",
-  "total_repositories_processed": 1314,
-  "successful_crawls": 1312,
+  "last_updated": "2025-12-11T04:38:39.798Z",
+  "total_repositories_processed": 1315,
+  "successful_crawls": 1313,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7888,6 +7888,12 @@
     },
     "belisario-afk/SCO": {
       "last_crawled": "2025-12-10T07:27:09.468Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "jmg5215/BeastBosses": {
+      "last_crawled": "2025-12-11T04:38:39.792Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
