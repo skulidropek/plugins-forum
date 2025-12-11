@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-11T04:38:39.798Z",
-  "total_repositories_processed": 1315,
-  "successful_crawls": 1313,
+  "last_updated": "2025-12-11T06:40:43.626Z",
+  "total_repositories_processed": 1316,
+  "successful_crawls": 1314,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7894,6 +7894,12 @@
     },
     "jmg5215/BeastBosses": {
       "last_crawled": "2025-12-11T04:38:39.792Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/SimpleLinkingSolution": {
+      "last_crawled": "2025-12-11T06:40:43.621Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
