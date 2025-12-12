@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-11T06:40:43.626Z",
-  "total_repositories_processed": 1316,
-  "successful_crawls": 1314,
+  "last_updated": "2025-12-12T07:27:36.581Z",
+  "total_repositories_processed": 1322,
+  "successful_crawls": 1320,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7903,24 +7903,60 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "FtuoilXelrash/rDailyServerRestarts": {
+      "last_crawled": "2025-12-12T07:27:28.254Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "FtuoilXelrash/rHelp": {
+      "last_crawled": "2025-12-12T07:27:29.950Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/BoomboxRust": {
+      "last_crawled": "2025-12-12T07:27:31.634Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/ClansRecoded": {
+      "last_crawled": "2025-12-12T07:27:33.274Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/PMCharacterLimit": {
+      "last_crawled": "2025-12-12T07:27:34.935Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/SimpleKillMessages": {
+      "last_crawled": "2025-12-12T07:27:36.577Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-12-08T04:37:33.922Z",
-      "completed_at": "2025-12-08T04:37:35.190Z",
-      "duration_ms": 1268
+      "started_at": "2025-12-12T07:27:27.631Z",
+      "completed_at": "2025-12-12T07:27:35.484Z",
+      "duration_ms": 7853
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1310,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1316,
+      "newly_processed": 5,
+      "successful": 5,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 6,
+      "new_plugins": 2
     }
   }
 }
