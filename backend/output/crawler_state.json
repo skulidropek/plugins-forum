@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-04T13:40:23.801Z",
-  "total_repositories_processed": 1309,
-  "successful_crawls": 1307,
+  "last_updated": "2025-12-12T07:27:36.581Z",
+  "total_repositories_processed": 1322,
+  "successful_crawls": 1320,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7861,24 +7861,102 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "scalbox/rust-rcon": {
+      "last_crawled": "2025-12-07T16:28:22.505Z",
+      "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/Deathmatch-Soccer": {
+      "last_crawled": "2025-12-08T04:37:34.597Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/dc": {
+      "last_crawled": "2025-12-08T04:37:36.301Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/SD": {
+      "last_crawled": "2025-12-09T21:22:41.159Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/SCO": {
+      "last_crawled": "2025-12-10T07:27:09.468Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "jmg5215/BeastBosses": {
+      "last_crawled": "2025-12-11T04:38:39.792Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/SimpleLinkingSolution": {
+      "last_crawled": "2025-12-11T06:40:43.621Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "FtuoilXelrash/rDailyServerRestarts": {
+      "last_crawled": "2025-12-12T07:27:28.254Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "FtuoilXelrash/rHelp": {
+      "last_crawled": "2025-12-12T07:27:29.950Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/BoomboxRust": {
+      "last_crawled": "2025-12-12T07:27:31.634Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/ClansRecoded": {
+      "last_crawled": "2025-12-12T07:27:33.274Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/PMCharacterLimit": {
+      "last_crawled": "2025-12-12T07:27:34.935Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "Reheight/SimpleKillMessages": {
+      "last_crawled": "2025-12-12T07:27:36.577Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2025-11-29T13:30:03.037Z",
-      "completed_at": "2025-11-29T13:30:08.509Z",
-      "duration_ms": 5472
+      "started_at": "2025-12-12T07:27:27.631Z",
+      "completed_at": "2025-12-12T07:27:35.484Z",
+      "duration_ms": 7853
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1301,
-      "newly_processed": 3,
-      "successful": 3,
+      "already_processed": 1316,
+      "newly_processed": 5,
+      "successful": 5,
       "failed": 0
     },
     "plugins": {
-      "total_found": 79,
-      "new_plugins": 77
+      "total_found": 6,
+      "new_plugins": 2
     }
   }
 }
