@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-20T06:37:09.770Z",
-  "total_repositories_processed": 1327,
-  "successful_crawls": 1325,
+  "last_updated": "2025-12-20T13:31:18.607Z",
+  "total_repositories_processed": 1328,
+  "successful_crawls": 1326,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7966,6 +7966,12 @@
     },
     "belisario-afk/better": {
       "last_crawled": "2025-12-20T06:37:09.765Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Patrette/RustNoEAC": {
+      "last_crawled": "2025-12-20T13:31:18.602Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
