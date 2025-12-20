@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-19T10:28:39.108Z",
-  "total_repositories_processed": 1326,
-  "successful_crawls": 1324,
+  "last_updated": "2025-12-20T06:37:09.770Z",
+  "total_repositories_processed": 1327,
+  "successful_crawls": 1325,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7960,6 +7960,12 @@
     },
     "gjdunga/Oxide.Rust": {
       "last_crawled": "2025-12-19T10:28:39.101Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/better": {
+      "last_crawled": "2025-12-20T06:37:09.765Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
