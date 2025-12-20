@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-20T07:01:23.645Z",
+  "generated_at": "2025-12-20T13:13:06.182Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1234,
+  "count": 1235,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -279,6 +279,7 @@
     "PRISM-Servers/plugins_public",
     "PT-Studios/rust-donation-credits",
     "Patrette/Oxide.Core",
+    "Patrette/RustNoEAC",
     "PayNow-Services/PayNow.GameServers.Plugins.OxideMod",
     "PenisBlistashiq/Rust-plugins-236-240-dev",
     "Pho3niX90/ExtraSeating",
