@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-22T02:32:59.778Z",
+  "last_updated": "2025-12-22T06:48:01.938Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1080,7 +1080,7 @@
       "success": true
     },
     "fuflik52": {
-      "last_processed": "2025-12-13T18:50:29.426Z",
+      "last_processed": "2025-12-22T06:47:56.161Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2008,7 +2008,12 @@
       "success": true
     },
     "REALJasonAU": {
-      "last_processed": "2025-12-14T06:40:44.396Z",
+      "last_processed": "2025-12-22T06:47:59.931Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "yuikeasa": {
+      "last_processed": "2025-12-22T06:47:35.290Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3248,6 +3253,7 @@
     "REALJasonAU/maze-test",
     "belisario-afk/RUST-COD",
     "gjdunga/Oxide.Rust",
-    "Patrette/RustNoEAC"
+    "Patrette/RustNoEAC",
+    "yuikeasa/12"
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-22T02:32:59.779Z",
+  "generated_at": "2025-12-22T06:48:01.939Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1235,
+  "count": 1236,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1237,6 +1237,7 @@
     "yacvaguer/SteamProfiles",
     "yacvaguer/simple-patrol-signal",
     "yacvaguer/uav-signal",
+    "yuikeasa/12",
     "zanderwar/oxide-statlogger"
   ]
 }
