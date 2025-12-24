@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-24T13:18:30.959Z",
-  "current_author_index": 82,
+  "last_updated": "2025-12-24T18:41:27.792Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-12-24T02:10:54.421Z",
@@ -422,12 +422,12 @@
       "success": true
     },
     "Calytic": {
-      "last_processed": "2025-12-17T07:04:51.939Z",
+      "last_processed": "2025-12-24T18:41:15.427Z",
       "repositories_found": 5,
       "success": true
     },
     "PierreAnken": {
-      "last_processed": "2025-12-17T07:05:03.517Z",
+      "last_processed": "2025-12-24T18:41:25.783Z",
       "repositories_found": 1,
       "success": true
     },
