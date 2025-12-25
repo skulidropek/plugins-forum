@@ -1,5 +1,5 @@
 {
-  "last_updated": "2025-12-24T18:41:27.792Z",
+  "last_updated": "2025-12-25T02:32:06.036Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -432,140 +432,140 @@
       "success": true
     },
     "MrGraversen": {
-      "last_processed": "2025-12-17T18:44:34.869Z",
+      "last_processed": "2025-12-25T02:13:36.900Z",
       "repositories_found": 2,
       "success": true
     },
     "unet-dev": {
-      "last_processed": "2025-12-17T18:44:40.190Z",
+      "last_processed": "2025-12-25T02:13:42.643Z",
       "repositories_found": 1,
       "success": true
     },
     "chucklenugget": {
-      "last_processed": "2025-12-17T18:44:47.440Z",
+      "last_processed": "2025-12-25T02:13:50.566Z",
       "repositories_found": 5,
       "success": true
     },
     "niekschoemaker": {
-      "last_processed": "2025-12-17T18:46:23.592Z",
+      "last_processed": "2025-12-25T02:15:38.784Z",
       "repositories_found": 8,
       "success": true
     },
     "BattleSheep94": {
-      "last_processed": "2025-12-17T18:46:55.035Z",
+      "last_processed": "2025-12-25T02:16:11.809Z",
       "repositories_found": 3,
       "success": true
     },
     "vick-kumar": {
-      "last_processed": "2025-12-17T18:47:10.105Z",
+      "last_processed": "2025-12-25T02:16:28.611Z",
       "repositories_found": 1,
       "success": true
     },
     "RustServers-IO": {
-      "last_processed": "2025-12-17T18:47:15.673Z",
+      "last_processed": "2025-12-25T02:16:34.650Z",
       "repositories_found": 2,
       "success": true
     },
     "openmailbox": {
-      "last_processed": "2025-12-17T18:47:44.633Z",
+      "last_processed": "2025-12-25T02:17:09.217Z",
       "repositories_found": 2,
       "success": true
     },
     "jacobcoughenour": {
-      "last_processed": "2025-12-17T18:50:58.845Z",
+      "last_processed": "2025-12-25T02:20:32.085Z",
       "repositories_found": 3,
       "success": true
     },
     "PsychoTea": {
-      "last_processed": "2025-12-17T18:51:47.321Z",
+      "last_processed": "2025-12-25T02:21:25.411Z",
       "repositories_found": 5,
       "success": true
     },
     "diametric": {
-      "last_processed": "2025-12-17T18:52:18.787Z",
+      "last_processed": "2025-12-25T02:22:00.643Z",
       "repositories_found": 2,
       "success": true
     },
     "Ryan-J-D": {
-      "last_processed": "2025-12-17T18:52:36.265Z",
+      "last_processed": "2025-12-25T02:22:18.650Z",
       "repositories_found": 5,
       "success": true
     },
     "i-love-code": {
-      "last_processed": "2025-12-17T18:53:20.891Z",
+      "last_processed": "2025-12-25T02:23:08.227Z",
       "repositories_found": 3,
       "success": true
     },
     "Skippeh": {
-      "last_processed": "2025-12-17T18:54:55.574Z",
+      "last_processed": "2025-12-25T02:24:49.697Z",
       "repositories_found": 4,
       "success": true
     },
     "byome": {
-      "last_processed": "2025-12-17T18:55:16.518Z",
+      "last_processed": "2025-12-25T02:25:11.681Z",
       "repositories_found": 3,
       "success": true
     },
     "zanderwar": {
-      "last_processed": "2025-12-17T18:55:20.563Z",
+      "last_processed": "2025-12-25T02:25:15.749Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (102)"
     },
     "davidc538": {
-      "last_processed": "2025-12-17T18:56:01.160Z",
+      "last_processed": "2025-12-25T02:25:59.547Z",
       "repositories_found": 2,
       "success": true
     },
     "DeusProx": {
-      "last_processed": "2025-12-17T18:56:34.916Z",
+      "last_processed": "2025-12-25T02:26:37.673Z",
       "repositories_found": 2,
       "success": true
     },
     "Hallonkaka": {
-      "last_processed": "2025-12-17T18:56:39.074Z",
+      "last_processed": "2025-12-25T02:26:42.179Z",
       "repositories_found": 1,
       "success": true
     },
     "Nogrod": {
-      "last_processed": "2025-12-17T18:57:27.052Z",
+      "last_processed": "2025-12-25T02:27:35.266Z",
       "repositories_found": 1,
       "success": true
     },
     "tolland": {
-      "last_processed": "2025-12-17T18:57:31.070Z",
+      "last_processed": "2025-12-25T02:27:38.545Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (102)"
+      "error": "Skipped - too many repositories (103)"
     },
     "strykes": {
-      "last_processed": "2025-12-17T18:57:44.414Z",
+      "last_processed": "2025-12-25T02:27:53.359Z",
       "repositories_found": 2,
       "success": true
     },
     "ternpixel": {
-      "last_processed": "2025-12-17T18:58:20.418Z",
+      "last_processed": "2025-12-25T02:28:28.748Z",
       "repositories_found": 1,
       "success": true
     },
     "JonathanPorta": {
-      "last_processed": "2025-12-17T18:58:26.219Z",
+      "last_processed": "2025-12-25T02:28:33.541Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (186)"
     },
     "scorpyon": {
-      "last_processed": "2025-12-17T18:59:08.449Z",
+      "last_processed": "2025-12-25T02:29:16.774Z",
       "repositories_found": 1,
       "success": true
     },
     "QuetzalQatl": {
-      "last_processed": "2025-12-17T18:59:20.473Z",
+      "last_processed": "2025-12-25T02:29:30.106Z",
       "repositories_found": 1,
       "success": true
     },
     "pedroivorbgrodrigues": {
-      "last_processed": "2025-12-17T18:59:40.629Z",
+      "last_processed": "2025-12-25T02:29:52.816Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1962,8 +1962,8 @@
       "success": true
     },
     "belisario-afk": {
-      "last_processed": "2025-12-17T19:01:37.575Z",
-      "repositories_found": 19,
+      "last_processed": "2025-12-25T02:32:04.028Z",
+      "repositories_found": 22,
       "success": true
     },
     "KuraiDevelopment": {
@@ -3254,6 +3254,9 @@
     "belisario-afk/RUST-COD",
     "gjdunga/Oxide.Rust",
     "Patrette/RustNoEAC",
-    "yuikeasa/12"
+    "yuikeasa/12",
+    "belisario-afk/better",
+    "belisario-afk/FT",
+    "belisario-afk/FTS"
   ]
 }
