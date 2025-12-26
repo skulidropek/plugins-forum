@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-26T17:22:04.362Z",
-  "total_repositories_processed": 1332,
-  "successful_crawls": 1330,
+  "last_updated": "2025-12-26T19:19:55.274Z",
+  "total_repositories_processed": 1333,
+  "successful_crawls": 1331,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7997,6 +7997,12 @@
     "AlexALX/botovnet-legacy-archive": {
       "last_crawled": "2025-12-26T17:22:04.319Z",
       "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "AlexALX/Oxide": {
+      "last_crawled": "2025-12-26T19:19:55.234Z",
+      "plugins_count": 21,
       "success": true,
       "errors": []
     }
