@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-25T03:48:15.524Z",
-  "total_repositories_processed": 1331,
-  "successful_crawls": 1329,
+  "last_updated": "2025-12-26T17:22:04.362Z",
+  "total_repositories_processed": 1332,
+  "successful_crawls": 1330,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7991,6 +7991,12 @@
     "belisario-afk/FT": {
       "last_crawled": "2025-12-25T03:48:15.519Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "AlexALX/botovnet-legacy-archive": {
+      "last_crawled": "2025-12-26T17:22:04.319Z",
+      "plugins_count": 6,
       "success": true,
       "errors": []
     }
