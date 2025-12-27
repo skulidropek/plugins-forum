@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-26T19:19:55.274Z",
-  "total_repositories_processed": 1333,
-  "successful_crawls": 1331,
+  "last_updated": "2025-12-27T22:23:51.756Z",
+  "total_repositories_processed": 1334,
+  "successful_crawls": 1332,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8003,6 +8003,12 @@
     "AlexALX/Oxide": {
       "last_crawled": "2025-12-26T19:19:55.234Z",
       "plugins_count": 21,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/-PimpMyTC-": {
+      "last_crawled": "2025-12-27T22:23:51.750Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
