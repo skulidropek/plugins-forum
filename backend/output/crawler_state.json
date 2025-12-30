@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-27T22:23:51.756Z",
-  "total_repositories_processed": 1334,
-  "successful_crawls": 1332,
+  "last_updated": "2025-12-30T15:28:34.264Z",
+  "total_repositories_processed": 1335,
+  "successful_crawls": 1333,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8009,6 +8009,12 @@
     "belisario-afk/-PimpMyTC-": {
       "last_crawled": "2025-12-27T22:23:51.750Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "RebeccaStevens/oxide-plugins": {
+      "last_crawled": "2025-12-30T15:28:34.256Z",
+      "plugins_count": 40,
       "success": true,
       "errors": []
     }
