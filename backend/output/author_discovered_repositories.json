@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-31T02:17:18.172Z",
+  "generated_at": "2025-12-31T07:04:32.296Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1241,
+  "count": 1242,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -316,6 +316,7 @@
     "RebeccaStevens/Oxide.Rust",
     "RebeccaStevens/oxide-Plugin-AutoCode",
     "RebeccaStevens/oxide-Plugin-UiBuilderLibrary",
+    "RebeccaStevens/oxide-plugins",
     "RebeccaStevens/uMod-Fork-CopyPaste",
     "RebeccaStevens/uMod-Rust-Plugin-GatherManager",
     "RedizGG/AttachmentBlocker",
