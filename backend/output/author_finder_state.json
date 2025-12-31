@@ -1,6 +1,6 @@
 {
-  "last_updated": "2025-12-30T19:03:19.442Z",
-  "current_author_index": 385,
+  "last_updated": "2025-12-31T02:17:18.172Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2025-12-24T02:10:54.421Z",
@@ -1754,58 +1754,58 @@
       "success": true
     },
     "pilate": {
-      "last_processed": "2025-12-22T02:30:55.494Z",
+      "last_processed": "2025-12-31T02:15:18.403Z",
       "repositories_found": 1,
       "success": true
     },
     "RuchirRajOld": {
-      "last_processed": "2025-12-22T02:31:07.289Z",
+      "last_processed": "2025-12-31T02:15:30.338Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (525)"
     },
     "Timestorm": {
-      "last_processed": "2025-12-22T02:31:25.105Z",
+      "last_processed": "2025-12-31T02:15:47.039Z",
       "repositories_found": 0,
       "success": true
     },
     "TheNeo2k": {
-      "last_processed": "2025-12-22T02:32:10.342Z",
+      "last_processed": "2025-12-31T02:16:31.215Z",
       "repositories_found": 1,
       "success": true
     },
     "Buzgero": {
-      "last_processed": "2025-12-22T02:32:14.089Z",
+      "last_processed": "2025-12-31T02:16:34.856Z",
       "repositories_found": 1,
       "success": true
     },
     "lbgcomm": {
-      "last_processed": "2025-12-22T02:32:23.260Z",
+      "last_processed": "2025-12-31T02:16:43.599Z",
       "repositories_found": 1,
       "success": true
     },
     "hixio-mh": {
-      "last_processed": "2025-12-22T02:32:25.404Z",
+      "last_processed": "2025-12-31T02:16:45.700Z",
       "repositories_found": 0,
       "success": true
     },
     "Swishhyy": {
-      "last_processed": "2025-12-22T02:32:44.685Z",
+      "last_processed": "2025-12-31T02:17:03.835Z",
       "repositories_found": 1,
       "success": true
     },
     "atlasrustservers": {
-      "last_processed": "2025-12-22T02:32:47.643Z",
+      "last_processed": "2025-12-31T02:17:06.731Z",
       "repositories_found": 1,
       "success": true
     },
     "RazoRRustPlugins": {
-      "last_processed": "2025-12-22T02:32:55.607Z",
+      "last_processed": "2025-12-31T02:17:14.058Z",
       "repositories_found": 5,
       "success": true
     },
     "CherrySofts": {
-      "last_processed": "2025-12-22T02:32:57.776Z",
+      "last_processed": "2025-12-31T02:17:16.169Z",
       "repositories_found": 0,
       "success": true
     },
