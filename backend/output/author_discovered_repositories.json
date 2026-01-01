@@ -1,7 +1,7 @@
 {
-  "generated_at": "2025-12-31T19:00:20.791Z",
+  "generated_at": "2026-01-01T02:47:29.203Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1242,
+  "count": 1243,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -817,6 +817,7 @@
     "bawNg/HookDispatch",
     "bawNg/Oxide",
     "bawNg/Rust",
+    "belisario-afk/-PimpMyTC-",
     "belisario-afk/Deathmatch-Soccer",
     "belisario-afk/FT",
     "belisario-afk/FTS",
