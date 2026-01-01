@@ -1,7 +1,7 @@
 {
-  "last_updated": "2025-12-17T19:23:35.146Z",
-  "total_repositories_processed": 1325,
-  "successful_crawls": 1323,
+  "last_updated": "2025-12-30T15:28:34.264Z",
+  "total_repositories_processed": 1335,
+  "successful_crawls": 1333,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -7955,6 +7955,66 @@
     "belisario-afk/RUST-COD": {
       "last_crawled": "2025-12-17T19:23:35.142Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "gjdunga/Oxide.Rust": {
+      "last_crawled": "2025-12-19T10:28:39.101Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/better": {
+      "last_crawled": "2025-12-20T06:37:09.765Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Patrette/RustNoEAC": {
+      "last_crawled": "2025-12-20T13:31:18.602Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "yuikeasa/12": {
+      "last_crawled": "2025-12-21T03:48:58.409Z",
+      "plugins_count": 19,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/FTS": {
+      "last_crawled": "2025-12-21T05:26:10.750Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/FT": {
+      "last_crawled": "2025-12-25T03:48:15.519Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "AlexALX/botovnet-legacy-archive": {
+      "last_crawled": "2025-12-26T17:22:04.319Z",
+      "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "AlexALX/Oxide": {
+      "last_crawled": "2025-12-26T19:19:55.234Z",
+      "plugins_count": 21,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/-PimpMyTC-": {
+      "last_crawled": "2025-12-27T22:23:51.750Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "RebeccaStevens/oxide-plugins": {
+      "last_crawled": "2025-12-30T15:28:34.256Z",
+      "plugins_count": 40,
       "success": true,
       "errors": []
     }
