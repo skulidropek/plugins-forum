@@ -1,12 +1,13 @@
 {
-  "generated_at": "2025-12-31T03:31:08.478Z",
-  "count": 16,
+  "generated_at": "2026-01-01T03:52:22.892Z",
+  "count": 17,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
     "13dasd123/RustPluginsDumpWithAI1",
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
+    "BurntRouter/rust-rcon",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
     "CherrySofts/https-slivrust-plugin.ru-",
     "EHCanadian/Oxide_Rust_Decompiled",
