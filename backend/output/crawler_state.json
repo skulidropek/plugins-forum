@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-04T08:34:20.172Z",
-  "total_repositories_processed": 1338,
-  "successful_crawls": 1336,
+  "last_updated": "2026-01-05T02:22:22.964Z",
+  "total_repositories_processed": 1339,
+  "successful_crawls": 1337,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8033,6 +8033,12 @@
     "belisario-afk/DATV1": {
       "last_crawled": "2026-01-04T08:34:20.169Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "orangemart/RustPlugins": {
+      "last_crawled": "2026-01-05T02:22:22.959Z",
+      "plugins_count": 6,
       "success": true,
       "errors": []
     }
