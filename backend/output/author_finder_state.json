@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-01T06:46:10.105Z",
+  "last_updated": "2026-01-05T02:32:32.842Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -738,7 +738,7 @@
       "success": true
     },
     "Crushedice": {
-      "last_processed": "2025-12-27T06:42:53.133Z",
+      "last_processed": "2026-01-03T06:43:28.886Z",
       "repositories_found": 3,
       "success": true
     },
@@ -1882,7 +1882,7 @@
       "error": "Skipped - too many repositories (107)"
     },
     "gjdunga": {
-      "last_processed": "2025-12-27T06:42:59.188Z",
+      "last_processed": "2026-01-03T06:43:36.838Z",
       "repositories_found": 5,
       "success": true
     },
@@ -2018,8 +2018,13 @@
       "success": true
     },
     "AlexALX": {
-      "last_processed": "2025-12-26T18:41:15.778Z",
+      "last_processed": "2026-01-02T18:41:34.331Z",
       "repositories_found": 2,
+      "success": true
+    },
+    "orangemart": {
+      "last_processed": "2026-01-05T02:32:30.833Z",
+      "repositories_found": 1,
       "success": true
     }
   },
@@ -3266,6 +3271,7 @@
     "AlexALX/botovnet-legacy-archive",
     "AlexALX/Oxide",
     "RebeccaStevens/oxide-plugins",
-    "belisario-afk/-PimpMyTC-"
+    "belisario-afk/-PimpMyTC-",
+    "orangemart/RustPlugins"
   ]
 }
