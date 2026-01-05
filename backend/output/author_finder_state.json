@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-01-04T18:39:57.846Z",
+  "last_updated": "2026-01-05T02:32:32.842Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2021,6 +2021,11 @@
       "last_processed": "2026-01-02T18:41:34.331Z",
       "repositories_found": 2,
       "success": true
+    },
+    "orangemart": {
+      "last_processed": "2026-01-05T02:32:30.833Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3266,6 +3271,7 @@
     "AlexALX/botovnet-legacy-archive",
     "AlexALX/Oxide",
     "RebeccaStevens/oxide-plugins",
-    "belisario-afk/-PimpMyTC-"
+    "belisario-afk/-PimpMyTC-",
+    "orangemart/RustPlugins"
   ]
 }
