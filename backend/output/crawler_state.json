@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-07T07:30:09.092Z",
-  "total_repositories_processed": 1340,
-  "successful_crawls": 1338,
+  "last_updated": "2026-01-09T09:33:44.698Z",
+  "total_repositories_processed": 1341,
+  "successful_crawls": 1339,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8044,6 +8044,12 @@
     },
     "belisario-afk/2v": {
       "last_crawled": "2026-01-07T07:30:09.086Z",
+      "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/v23": {
+      "last_crawled": "2026-01-09T09:33:44.694Z",
       "plugins_count": 6,
       "success": true,
       "errors": []
