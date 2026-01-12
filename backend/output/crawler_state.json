@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-05T02:22:22.964Z",
-  "total_repositories_processed": 1339,
-  "successful_crawls": 1337,
+  "last_updated": "2026-01-12T04:01:32.341Z",
+  "total_repositories_processed": 1345,
+  "successful_crawls": 1343,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8041,24 +8041,60 @@
       "plugins_count": 6,
       "success": true,
       "errors": []
+    },
+    "belisario-afk/2v": {
+      "last_crawled": "2026-01-07T07:30:09.086Z",
+      "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "belisario-afk/v23": {
+      "last_crawled": "2026-01-09T09:33:44.694Z",
+      "plugins_count": 6,
+      "success": true,
+      "errors": []
+    },
+    "SkiTee3000/Rust.UIFramework2": {
+      "last_crawled": "2026-01-10T22:24:49.377Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/Roam-Event-Rust": {
+      "last_crawled": "2026-01-12T02:12:00.030Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/TCTournaments": {
+      "last_crawled": "2026-01-12T04:01:30.445Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/TournamentsDTags": {
+      "last_crawled": "2026-01-12T04:01:32.338Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-01-04T08:34:17.289Z",
-      "completed_at": "2026-01-04T08:34:18.785Z",
-      "duration_ms": 1496
+      "started_at": "2026-01-12T04:01:29.593Z",
+      "completed_at": "2026-01-12T04:01:30.998Z",
+      "duration_ms": 1405
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1336,
+      "already_processed": 1343,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 4,
-      "new_plugins": 4
+      "total_found": 1,
+      "new_plugins": 1
     }
   }
 }
