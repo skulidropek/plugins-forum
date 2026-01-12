@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-11T18:40:17.926Z",
+  "generated_at": "2026-01-12T02:29:12.363Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1249,
+  "count": 1252,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -923,6 +923,9 @@
     "eandersson/rustarena",
     "electrikbox/VIPElectrik",
     "erikmoch/OxidePlugins",
+    "estxbvnnn/Roam-Event-Rust",
+    "estxbvnnn/TCTournaments",
+    "estxbvnnn/TournamentsDTags",
     "famus0v/Rust-Plugins",
     "fenderrex/Oxide.Ext.RustEdit",
     "firemandave6024/sqllogger",
