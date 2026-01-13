@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-13T06:48:03.932Z",
+  "generated_at": "2026-01-13T13:05:32.733Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1252,
+  "count": 1253,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -24,6 +24,7 @@
     "2chevskii/Plugins-uMod",
     "5Dev24/Recycle",
     "5Dev24/ScheduledBuilding",
+    "ALONEINNZ/idk",
     "AlexALX/Oxide",
     "AlexALX/botovnet-legacy-archive",
     "AntiKnox/antiknox-rust-plugin",
