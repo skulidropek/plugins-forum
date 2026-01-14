@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-13T09:33:42.129Z",
-  "total_repositories_processed": 1346,
-  "successful_crawls": 1344,
+  "last_updated": "2026-01-14T22:28:12.250Z",
+  "total_repositories_processed": 1347,
+  "successful_crawls": 1345,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8081,6 +8081,12 @@
     "ALONEINNZ/idk": {
       "last_crawled": "2026-01-13T09:33:41.851Z",
       "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "hixiomh/Vote-For-Money": {
+      "last_crawled": "2026-01-14T22:28:12.246Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
