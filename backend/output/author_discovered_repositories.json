@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-12T06:51:40.167Z",
+  "generated_at": "2026-01-19T06:54:22.533Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1252,
+  "count": 1254,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -24,6 +24,7 @@
     "2chevskii/Plugins-uMod",
     "5Dev24/Recycle",
     "5Dev24/ScheduledBuilding",
+    "ALONEINNZ/idk",
     "AlexALX/Oxide",
     "AlexALX/botovnet-legacy-archive",
     "AntiKnox/antiknox-rust-plugin",
@@ -934,6 +935,7 @@
     "flutessources/Oxide.Ext.CustomNpc",
     "flutessources/Oxide.Rust",
     "frankie290651/FeedMeUpdates",
+    "fuflik52/CloneRustApp",
     "fuflik52/umod-plugins",
     "gettakaro/rust-mods",
     "gjdunga/ModernItemBlocker",

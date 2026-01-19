@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-12T04:01:32.341Z",
-  "total_repositories_processed": 1345,
-  "successful_crawls": 1343,
+  "last_updated": "2026-01-15T03:53:20.843Z",
+  "total_repositories_processed": 1348,
+  "successful_crawls": 1346,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8075,6 +8075,24 @@
     "estxbvnnn/TournamentsDTags": {
       "last_crawled": "2026-01-12T04:01:32.338Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "ALONEINNZ/idk": {
+      "last_crawled": "2026-01-13T09:33:41.851Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "hixiomh/Vote-For-Money": {
+      "last_crawled": "2026-01-14T22:28:12.246Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/CloneRustApp": {
+      "last_crawled": "2026-01-15T03:53:20.835Z",
+      "plugins_count": 2,
       "success": true,
       "errors": []
     }
