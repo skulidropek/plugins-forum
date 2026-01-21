@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-15T03:53:20.843Z",
-  "total_repositories_processed": 1348,
-  "successful_crawls": 1346,
+  "last_updated": "2026-01-21T15:42:08.556Z",
+  "total_repositories_processed": 1349,
+  "successful_crawls": 1347,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8093,6 +8093,12 @@
     "fuflik52/CloneRustApp": {
       "last_crawled": "2026-01-15T03:53:20.835Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "K4TFJ/DynamicPVP": {
+      "last_crawled": "2026-01-21T15:42:08.551Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
