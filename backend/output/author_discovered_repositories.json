@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-21T13:08:12.138Z",
+  "generated_at": "2026-01-21T18:56:04.813Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1254,
+  "count": 1255,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -143,6 +143,7 @@
     "JonathanPorta/rust-server-cookbook",
     "JorgeCayetano1/peruhurt-hw-server",
     "Juliiiian/RocketPlugin",
+    "K4TFJ/DynamicPVP",
     "Kaidoz/Rust-NoSteam",
     "KajWithAJ/DungProtector",
     "KajWithAJ/EMInterface",
