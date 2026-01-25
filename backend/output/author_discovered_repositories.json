@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-24T18:47:54.583Z",
+  "generated_at": "2026-01-25T02:35:49.781Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1256,
+  "count": 1257,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1136,6 +1136,7 @@
     "publicrust/rust-template-240",
     "publicrust/rust-template-266",
     "publicrust/umod-pluigns-dataset",
+    "puttydotexe/Carbon.Common",
     "razorfish-sl/PlayerAdministration-1",
     "read-0nly/Oxide.Rust",
     "read-0nly/Rust-coop-survival",
