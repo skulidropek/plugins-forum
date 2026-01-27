@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-15T03:53:20.843Z",
-  "total_repositories_processed": 1348,
-  "successful_crawls": 1346,
+  "last_updated": "2026-01-26T21:29:53.487Z",
+  "total_repositories_processed": 1352,
+  "successful_crawls": 1350,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8093,6 +8093,30 @@
     "fuflik52/CloneRustApp": {
       "last_crawled": "2026-01-15T03:53:20.835Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "K4TFJ/DynamicPVP": {
+      "last_crawled": "2026-01-21T15:42:08.551Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/rustt": {
+      "last_crawled": "2026-01-22T03:59:08.849Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "puttydotexe/Carbon.Common": {
+      "last_crawled": "2026-01-24T23:24:45.926Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "baotien2019nb-afk/achive": {
+      "last_crawled": "2026-01-26T21:29:53.482Z",
+      "plugins_count": 6,
       "success": true,
       "errors": []
     }
