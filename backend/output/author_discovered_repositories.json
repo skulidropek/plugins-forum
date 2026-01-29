@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-28T18:50:26.572Z",
+  "generated_at": "2026-01-29T03:01:08.552Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1258,
+  "count": 1260,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -410,6 +410,7 @@
     "Remod-org/TinCanBoom",
     "Remod-org/Toilette",
     "Remod-org/Waypoints",
+    "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
     "Rust-Haus/ai-death-feed",
     "RustServers-IO/oxideplugins",
@@ -938,6 +939,7 @@
     "flutessources/Oxide.Rust",
     "frankie290651/FeedMeUpdates",
     "fuflik52/CloneRustApp",
+    "fuflik52/maptest",
     "fuflik52/rustt",
     "fuflik52/umod-plugins",
     "gettakaro/rust-mods",
