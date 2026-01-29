@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-26T21:29:53.487Z",
-  "total_repositories_processed": 1352,
-  "successful_crawls": 1350,
+  "last_updated": "2026-01-29T04:42:41.142Z",
+  "total_repositories_processed": 1354,
+  "successful_crawls": 1352,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8119,17 +8119,29 @@
       "plugins_count": 6,
       "success": true,
       "errors": []
+    },
+    "Rust-Haus/OpenAI-Rust-Plugin": {
+      "last_crawled": "2026-01-29T04:42:39.443Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/maptest": {
+      "last_crawled": "2026-01-29T04:42:41.138Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-01-12T04:01:29.593Z",
-      "completed_at": "2026-01-12T04:01:30.998Z",
-      "duration_ms": 1405
+      "started_at": "2026-01-29T04:42:38.824Z",
+      "completed_at": "2026-01-29T04:42:40.015Z",
+      "duration_ms": 1191
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1343,
+      "already_processed": 1352,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
