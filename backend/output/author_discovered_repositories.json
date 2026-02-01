@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-01-31T19:04:31.861Z",
+  "generated_at": "2026-02-01T03:36:06.124Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1260,
+  "count": 1266,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1083,6 +1083,12 @@
     "matbyte-com/vyhub-umod",
     "math280h/Oxide-ChatManager",
     "mattwilshire/Oxide.Ext.WebSocket",
+    "mbedda/BackpackButton",
+    "mbedda/Backpacks",
+    "mbedda/Carbon.Common",
+    "mbedda/Oxide.Rust",
+    "mbedda/PirateNPCs",
+    "mbedda/rust-plugins",
     "mjmfighter/RustPlugins",
     "mkojoa/Oxide2Plugins",
     "mleem97/DeathcounterIP",
