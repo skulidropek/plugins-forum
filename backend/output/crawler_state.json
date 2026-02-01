@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-31T11:25:34.435Z",
-  "total_repositories_processed": 1355,
-  "successful_crawls": 1353,
+  "last_updated": "2026-02-01T05:05:59.955Z",
+  "total_repositories_processed": 1360,
+  "successful_crawls": 1358,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8137,23 +8137,53 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "mbedda/BackpackButton": {
+      "last_crawled": "2026-02-01T05:05:50.167Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/Backpacks": {
+      "last_crawled": "2026-02-01T05:05:52.378Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/Carbon.Common": {
+      "last_crawled": "2026-02-01T05:05:55.025Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/PirateNPCs": {
+      "last_crawled": "2026-02-01T05:05:57.090Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/rust-plugins": {
+      "last_crawled": "2026-02-01T05:05:59.947Z",
+      "plugins_count": 24,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-01-29T04:42:38.824Z",
-      "completed_at": "2026-01-29T04:42:40.015Z",
-      "duration_ms": 1191
+      "started_at": "2026-02-01T05:05:48.940Z",
+      "completed_at": "2026-02-01T05:05:57.687Z",
+      "duration_ms": 8747
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1352,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1355,
+      "newly_processed": 4,
+      "successful": 4,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
+      "total_found": 10,
       "new_plugins": 1
     }
   }
