@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-01T05:05:59.955Z",
-  "total_repositories_processed": 1360,
-  "successful_crawls": 1358,
+  "last_updated": "2026-02-02T14:12:05.053Z",
+  "total_repositories_processed": 1361,
+  "successful_crawls": 1359,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8165,6 +8165,12 @@
     "mbedda/rust-plugins": {
       "last_crawled": "2026-02-01T05:05:59.947Z",
       "plugins_count": 24,
+      "success": true,
+      "errors": []
+    },
+    "Koltou/rust-donation-plugin-tip4serv": {
+      "last_crawled": "2026-02-02T14:12:05.047Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
