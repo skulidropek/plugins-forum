@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-02T13:21:22.714Z",
+  "generated_at": "2026-02-03T02:51:03.628Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1266,
+  "count": 1267,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -154,6 +154,7 @@
     "KajWithAJ/YouveGotMail",
     "KichDM/RustLegacyPlugins",
     "Kirollos/Oxide.Ext.IRC",
+    "Koltou/rust-donation-plugin-tip4serv",
     "Kulltero/Carbon.Core",
     "Kulltero/Oxide.Rust",
     "LaserHydra/AdminChat",
