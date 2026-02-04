@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-02T14:12:05.053Z",
-  "total_repositories_processed": 1361,
-  "successful_crawls": 1359,
+  "last_updated": "2026-02-04T14:24:38.255Z",
+  "total_repositories_processed": 1362,
+  "successful_crawls": 1360,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8170,6 +8170,12 @@
     },
     "Koltou/rust-donation-plugin-tip4serv": {
       "last_crawled": "2026-02-02T14:12:05.047Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "VisEntities/RocketDamageModifier": {
+      "last_crawled": "2026-02-04T14:24:38.249Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
