@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-04T14:24:38.255Z",
-  "total_repositories_processed": 1362,
-  "successful_crawls": 1360,
+  "last_updated": "2026-02-06T23:31:34.557Z",
+  "total_repositories_processed": 1363,
+  "successful_crawls": 1361,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8177,6 +8177,12 @@
     "VisEntities/RocketDamageModifier": {
       "last_crawled": "2026-02-04T14:24:38.249Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/Carbon": {
+      "last_crawled": "2026-02-06T23:31:34.539Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
