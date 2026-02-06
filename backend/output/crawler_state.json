@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-01-26T21:29:53.487Z",
-  "total_repositories_processed": 1352,
-  "successful_crawls": 1350,
+  "last_updated": "2026-02-04T14:24:38.255Z",
+  "total_repositories_processed": 1362,
+  "successful_crawls": 1360,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8119,23 +8119,83 @@
       "plugins_count": 6,
       "success": true,
       "errors": []
+    },
+    "Rust-Haus/OpenAI-Rust-Plugin": {
+      "last_crawled": "2026-01-29T04:42:39.443Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/maptest": {
+      "last_crawled": "2026-01-29T04:42:41.138Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/Oxide.Rust": {
+      "last_crawled": "2026-01-31T11:25:34.428Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/BackpackButton": {
+      "last_crawled": "2026-02-01T05:05:50.167Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/Backpacks": {
+      "last_crawled": "2026-02-01T05:05:52.378Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/Carbon.Common": {
+      "last_crawled": "2026-02-01T05:05:55.025Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/PirateNPCs": {
+      "last_crawled": "2026-02-01T05:05:57.090Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "mbedda/rust-plugins": {
+      "last_crawled": "2026-02-01T05:05:59.947Z",
+      "plugins_count": 24,
+      "success": true,
+      "errors": []
+    },
+    "Koltou/rust-donation-plugin-tip4serv": {
+      "last_crawled": "2026-02-02T14:12:05.047Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "VisEntities/RocketDamageModifier": {
+      "last_crawled": "2026-02-04T14:24:38.249Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-01-12T04:01:29.593Z",
-      "completed_at": "2026-01-12T04:01:30.998Z",
-      "duration_ms": 1405
+      "started_at": "2026-02-01T05:05:48.940Z",
+      "completed_at": "2026-02-01T05:05:57.687Z",
+      "duration_ms": 8747
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1343,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1355,
+      "newly_processed": 4,
+      "successful": 4,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
+      "total_found": 10,
       "new_plugins": 1
     }
   }
