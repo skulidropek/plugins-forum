@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-06T23:31:34.557Z",
-  "total_repositories_processed": 1363,
-  "successful_crawls": 1361,
+  "last_updated": "2026-02-07T13:59:27.976Z",
+  "total_repositories_processed": 1367,
+  "successful_crawls": 1365,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8185,23 +8185,47 @@
       "plugins_count": 0,
       "success": true,
       "errors": []
+    },
+    "dcdustin/Backpacks": {
+      "last_crawled": "2026-02-07T13:59:21.848Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/Oxide.Rust": {
+      "last_crawled": "2026-02-07T13:59:23.984Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/SortButton": {
+      "last_crawled": "2026-02-07T13:59:25.960Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/TruePVE": {
+      "last_crawled": "2026-02-07T13:59:27.973Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-01T05:05:48.940Z",
-      "completed_at": "2026-02-01T05:05:57.687Z",
-      "duration_ms": 8747
+      "started_at": "2026-02-07T13:59:20.699Z",
+      "completed_at": "2026-02-07T13:59:26.508Z",
+      "duration_ms": 5809
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1355,
-      "newly_processed": 4,
-      "successful": 4,
+      "already_processed": 1363,
+      "newly_processed": 3,
+      "successful": 3,
       "failed": 0
     },
     "plugins": {
-      "total_found": 10,
+      "total_found": 4,
       "new_plugins": 1
     }
   }
