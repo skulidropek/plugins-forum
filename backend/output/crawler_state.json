@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-07T13:59:27.976Z",
-  "total_repositories_processed": 1367,
-  "successful_crawls": 1365,
+  "last_updated": "2026-02-07T19:48:54.126Z",
+  "total_repositories_processed": 1368,
+  "successful_crawls": 1366,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8207,6 +8207,12 @@
     "dcdustin/TruePVE": {
       "last_crawled": "2026-02-07T13:59:27.973Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Ross-Ward/Oxide": {
+      "last_crawled": "2026-02-07T19:48:54.117Z",
+      "plugins_count": 28,
       "success": true,
       "errors": []
     }
