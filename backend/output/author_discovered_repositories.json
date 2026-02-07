@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-07T07:16:35.236Z",
+  "generated_at": "2026-02-07T13:08:16.652Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1267,
+  "count": 1271,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -910,6 +910,10 @@
     "davidc538/rust-oxide-aimbots",
     "dbteku/UMod.Rust.BetterElectricty",
     "dbteku/UMod.Rust.SharedDoors",
+    "dcdustin/Backpacks",
+    "dcdustin/Oxide.Rust",
+    "dcdustin/SortButton",
+    "dcdustin/TruePVE",
     "dcodeIO/Friends",
     "decaydev/drops",
     "decaydev/loot",
