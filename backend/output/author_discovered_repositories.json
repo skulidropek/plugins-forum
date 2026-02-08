@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-08T07:19:57.380Z",
+  "generated_at": "2026-02-08T13:09:55.514Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1274,
+  "count": 1275,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1194,6 +1194,7 @@
     "rustmy/rustifac",
     "rustmy/rustylife",
     "rustmy/seedery.io-mapgen",
+    "ryanscarpelli/TradeLog",
     "sami3737/BanCleaner",
     "sami3737/BlueprintShare",
     "sami3737/Claimer",
