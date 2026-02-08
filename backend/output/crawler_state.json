@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-08T05:13:22.801Z",
-  "total_repositories_processed": 1370,
-  "successful_crawls": 1368,
+  "last_updated": "2026-02-08T11:28:11.768Z",
+  "total_repositories_processed": 1371,
+  "successful_crawls": 1369,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8224,6 +8224,12 @@
     },
     "LosGranada/MyRustServer": {
       "last_crawled": "2026-02-08T05:13:22.797Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "ryanscarpelli/TradeLog": {
+      "last_crawled": "2026-02-08T11:28:11.763Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
