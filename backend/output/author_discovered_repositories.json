@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-08T03:46:13.015Z",
+  "generated_at": "2026-02-08T07:19:57.380Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1271,
+  "count": 1274,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -74,6 +74,7 @@
     "Dpendable/Oxide",
     "EHCanadian/Oxide_Rust_Decompiled",
     "EReis0/Oxide.Rust",
+    "Eadris/CrateGuardCS",
     "EgorBlagov/rust-discord",
     "ElliotRedhead/EntityHealth",
     "Eoin-McCartan/Rust.HarmonyMods",
@@ -184,6 +185,7 @@
     "Limmek/MySql-Chat-Log-for-Rust",
     "Limmek/ZLevelsRemastered-MySQL",
     "Lootvoet/DiscordCoreRewards",
+    "LosGranada/MyRustServer",
     "LostStormX/NPCEvents-Plugin",
     "LucienMP/Rust-Voice-Streaming-Plugin",
     "MONaH-Rasta/AdminRadar",
@@ -411,6 +413,7 @@
     "Remod-org/TinCanBoom",
     "Remod-org/Toilette",
     "Remod-org/Waypoints",
+    "Ross-Ward/Oxide",
     "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
     "Rust-Haus/ai-death-feed",
