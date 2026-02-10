@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-09T09:05:23.779Z",
-  "total_repositories_processed": 1373,
-  "successful_crawls": 1371,
+  "last_updated": "2026-02-10T23:09:54.507Z",
+  "total_repositories_processed": 1374,
+  "successful_crawls": 1372,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8243,6 +8243,12 @@
     "jmg5215/UnrealDungeons2.0": {
       "last_crawled": "2026-02-09T09:05:23.775Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "AlexanderVolk25/GoldMine": {
+      "last_crawled": "2026-02-10T23:09:54.500Z",
+      "plugins_count": 31,
       "success": true,
       "errors": []
     }
