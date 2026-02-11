@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-10T19:20:32.133Z",
+  "generated_at": "2026-02-11T03:17:30.599Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1275,
+  "count": 1276,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -27,6 +27,7 @@
     "ALONEINNZ/idk",
     "AlexALX/Oxide",
     "AlexALX/botovnet-legacy-archive",
+    "AlexanderVolk25/GoldMine",
     "AntiKnox/antiknox-rust-plugin",
     "ApocDev/Oxide",
     "Ardivaba/CodeSamples",
