@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-11T23:38:24.231Z",
-  "total_repositories_processed": 1375,
-  "successful_crawls": 1373,
+  "last_updated": "2026-02-12T02:44:57.849Z",
+  "total_repositories_processed": 1376,
+  "successful_crawls": 1374,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8255,6 +8255,12 @@
     "db13256-hash/Rust-arena-plugin-leaderboard": {
       "last_crawled": "2026-02-11T23:38:24.225Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "OverTimeHosting/Documentation": {
+      "last_crawled": "2026-02-12T02:44:57.842Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
