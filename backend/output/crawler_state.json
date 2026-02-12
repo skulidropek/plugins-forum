@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-12T19:35:42.431Z",
-  "total_repositories_processed": 1378,
-  "successful_crawls": 1376,
+  "last_updated": "2026-02-12T20:40:59.231Z",
+  "total_repositories_processed": 1380,
+  "successful_crawls": 1378,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8275,24 +8275,36 @@
       "plugins_count": 1235,
       "success": true,
       "errors": []
+    },
+    "Enilgles/umod-pluigns-dataset": {
+      "last_crawled": "2026-02-12T20:40:56.824Z",
+      "plugins_count": 1508,
+      "success": true,
+      "errors": []
+    },
+    "sami3737/SimpleLogo": {
+      "last_crawled": "2026-02-12T20:40:59.227Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-08T05:13:20.254Z",
-      "completed_at": "2026-02-08T05:13:21.591Z",
-      "duration_ms": 1337
+      "started_at": "2026-02-12T20:40:54.516Z",
+      "completed_at": "2026-02-12T20:40:57.761Z",
+      "duration_ms": 3245
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1368,
+      "already_processed": 1378,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 1508,
+      "new_plugins": 1508
     }
   }
 }
