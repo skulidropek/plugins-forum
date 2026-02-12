@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-11T19:15:53.145Z",
+  "generated_at": "2026-02-12T03:02:06.921Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1276,
+  "count": 1278,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -206,6 +206,7 @@
     "MONaH-Rasta/DiscordLogger-uMod",
     "MONaH-Rasta/DiscordWipe",
     "MONaH-Rasta/EntityOwner",
+    "MONaH-Rasta/ImageLibrary",
     "MONaH-Rasta/InstantUntie",
     "MONaH-Rasta/InventoryBackup",
     "MONaH-Rasta/InventoryViewer",
@@ -912,6 +913,7 @@
     "david7-dev/ExtraGatherBonuses",
     "davidc538/Zombies",
     "davidc538/rust-oxide-aimbots",
+    "db13256-hash/Rust-arena-plugin-leaderboard",
     "dbteku/UMod.Rust.BetterElectricty",
     "dbteku/UMod.Rust.SharedDoors",
     "dcdustin/Backpacks",

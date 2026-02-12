@@ -1,54 +1,54 @@
 {
-  "last_updated": "2026-02-11T19:15:53.144Z",
+  "last_updated": "2026-02-12T03:02:06.886Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
-      "last_processed": "2026-02-05T02:46:57.881Z",
+      "last_processed": "2026-02-12T02:57:13.021Z",
       "repositories_found": 2,
       "success": true
     },
     "MONaH-Rasta": {
-      "last_processed": "2026-02-05T02:47:35.497Z",
-      "repositories_found": 39,
+      "last_processed": "2026-02-12T02:57:51.299Z",
+      "repositories_found": 40,
       "success": true
     },
     "Wrecks830": {
-      "last_processed": "2026-02-05T02:47:38.466Z",
+      "last_processed": "2026-02-12T02:57:53.438Z",
       "repositories_found": 0,
       "success": true
     },
     "Yorboot": {
-      "last_processed": "2026-02-05T02:47:50.727Z",
+      "last_processed": "2026-02-12T02:58:06.479Z",
       "repositories_found": 1,
       "success": true
     },
     "LaserHydra": {
-      "last_processed": "2026-02-05T02:48:16.062Z",
+      "last_processed": "2026-02-12T02:58:30.960Z",
       "repositories_found": 14,
       "success": true
     },
     "oddbunchmedia": {
-      "last_processed": "2026-02-05T02:48:19.738Z",
+      "last_processed": "2026-02-12T02:58:34.620Z",
       "repositories_found": 2,
       "success": true
     },
     "HunterZ": {
-      "last_processed": "2026-02-05T02:48:47.537Z",
+      "last_processed": "2026-02-12T02:59:02.537Z",
       "repositories_found": 2,
       "success": true
     },
     "Wakanda1519": {
-      "last_processed": "2026-02-05T02:49:03.802Z",
+      "last_processed": "2026-02-12T02:59:17.566Z",
       "repositories_found": 1,
       "success": true
     },
     "0xz00m": {
-      "last_processed": "2026-02-05T02:49:06.934Z",
+      "last_processed": "2026-02-12T02:59:20.686Z",
       "repositories_found": 1,
       "success": true
     },
     "Rust-Haus": {
-      "last_processed": "2026-02-05T02:49:11.820Z",
+      "last_processed": "2026-02-12T02:59:26.393Z",
       "repositories_found": 3,
       "success": true
     },
@@ -617,7 +617,7 @@
       "success": true
     },
     "13dasd123": {
-      "last_processed": "2026-02-05T02:51:35.818Z",
+      "last_processed": "2026-02-12T03:02:04.879Z",
       "repositories_found": 14,
       "success": true
     },
@@ -2102,6 +2102,16 @@
       "last_processed": "2026-02-11T03:17:28.590Z",
       "repositories_found": 1,
       "success": true
+    },
+    "OverTimeHosting": {
+      "last_processed": "2026-02-12T02:59:34.846Z",
+      "repositories_found": 0,
+      "success": true
+    },
+    "db13256-hash": {
+      "last_processed": "2026-02-12T02:59:37.798Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3380,6 +3390,8 @@
     "LosGranada/MyRustServer",
     "Ross-Ward/Oxide",
     "ryanscarpelli/TradeLog",
-    "AlexanderVolk25/GoldMine"
+    "AlexanderVolk25/GoldMine",
+    "MONaH-Rasta/ImageLibrary",
+    "db13256-hash/Rust-arena-plugin-leaderboard"
   ]
 }
