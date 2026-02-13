@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T07:32:26.561Z",
-  "total_repositories_processed": 1382,
-  "successful_crawls": 1380,
+  "last_updated": "2026-02-13T08:52:05.397Z",
+  "total_repositories_processed": 1383,
+  "successful_crawls": 1381,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8297,6 +8297,12 @@
     "xrevoltsx/OxidePack": {
       "last_crawled": "2026-02-13T07:32:26.532Z",
       "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "tom-does-code/EventRandomizer": {
+      "last_crawled": "2026-02-13T08:52:05.392Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
