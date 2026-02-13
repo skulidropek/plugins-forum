@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-13T03:15:26.505Z",
+  "generated_at": "2026-02-13T07:14:50.163Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1282,
+  "count": 1284,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1279,6 +1279,8 @@
     "xmxv/admin-map-Rust-",
     "xmxv/backpacks-rust",
     "xoxfaby/Rust-Oxide-Y-Position-Info-UI",
+    "xrevoltsx/OxidePack",
+    "xrevoltsx/plugins-for-rust",
     "yacvaguer/FirstAidPatches",
     "yacvaguer/SteamProfiles",
     "yacvaguer/simple-patrol-signal",

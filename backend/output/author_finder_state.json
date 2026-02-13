@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-13T03:15:26.504Z",
+  "last_updated": "2026-02-13T07:14:50.162Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -829,7 +829,7 @@
       "success": true
     },
     "Psystec": {
-      "last_processed": "2026-02-06T02:48:54.929Z",
+      "last_processed": "2026-02-13T07:13:37.867Z",
       "repositories_found": 3,
       "success": true
     },
@@ -895,7 +895,7 @@
       "success": true
     },
     "RustopiaOfficial": {
-      "last_processed": "2026-02-06T02:48:02.357Z",
+      "last_processed": "2026-02-13T07:13:59.649Z",
       "repositories_found": 3,
       "success": true
     },
@@ -920,7 +920,7 @@
       "success": true
     },
     "WeirdPhrog": {
-      "last_processed": "2026-02-06T02:47:49.328Z",
+      "last_processed": "2026-02-13T07:13:43.759Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1191,7 +1191,7 @@
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2026-02-06T02:48:21.921Z",
+      "last_processed": "2026-02-13T07:14:24.468Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1322,7 +1322,7 @@
       "success": true
     },
     "DevGonzi": {
-      "last_processed": "2026-02-06T02:48:40.758Z",
+      "last_processed": "2026-02-13T07:14:48.153Z",
       "repositories_found": 6,
       "success": true
     },
@@ -1480,7 +1480,7 @@
       "success": true
     },
     "Nikedemos": {
-      "last_processed": "2026-02-06T02:47:44.474Z",
+      "last_processed": "2026-02-13T07:13:19.923Z",
       "repositories_found": 7,
       "success": true
     },
@@ -2115,6 +2115,11 @@
     },
     "Enilgles": {
       "last_processed": "2026-02-12T19:16:43.226Z",
+      "repositories_found": 2,
+      "success": true
+    },
+    "xrevoltsx": {
+      "last_processed": "2026-02-13T07:12:29.919Z",
       "repositories_found": 2,
       "success": true
     }
@@ -3401,6 +3406,8 @@
     "Enilgles/pluginsrust",
     "Enilgles/umod-pluigns-dataset",
     "jmg5215/UnrealDungeons2.0",
-    "sami3737/SimpleLogo"
+    "sami3737/SimpleLogo",
+    "xrevoltsx/OxidePack",
+    "xrevoltsx/plugins-for-rust"
   ]
 }
