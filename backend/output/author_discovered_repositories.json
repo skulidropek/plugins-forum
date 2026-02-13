@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-13T07:14:50.163Z",
+  "generated_at": "2026-02-13T13:21:46.003Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1284,
+  "count": 1285,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1265,6 +1265,7 @@
     "thenetimp/NoNameChange",
     "thenetimp/Rust_SystemNotifications",
     "tolland/incursion",
+    "tom-does-code/EventRandomizer",
     "txnitxnichopper/Oxide.Rust",
     "unet-dev/Decompiled-Assemblies",
     "upperking/Old-Rust-Legacy-Plugins",
