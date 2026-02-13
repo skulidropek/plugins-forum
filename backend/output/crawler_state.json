@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T06:05:29.103Z",
-  "total_repositories_processed": 1381,
-  "successful_crawls": 1379,
+  "last_updated": "2026-02-13T07:32:26.561Z",
+  "total_repositories_processed": 1382,
+  "successful_crawls": 1380,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8291,6 +8291,12 @@
     "xrevoltsx/plugins-for-rust": {
       "last_crawled": "2026-02-13T06:05:29.096Z",
       "plugins_count": 8,
+      "success": true,
+      "errors": []
+    },
+    "xrevoltsx/OxidePack": {
+      "last_crawled": "2026-02-13T07:32:26.532Z",
+      "plugins_count": 5,
       "success": true,
       "errors": []
     }
