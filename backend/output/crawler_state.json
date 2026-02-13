@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-12T20:40:59.231Z",
-  "total_repositories_processed": 1380,
-  "successful_crawls": 1378,
+  "last_updated": "2026-02-13T06:05:29.103Z",
+  "total_repositories_processed": 1381,
+  "successful_crawls": 1379,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8285,6 +8285,12 @@
     "sami3737/SimpleLogo": {
       "last_crawled": "2026-02-12T20:40:59.227Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "xrevoltsx/plugins-for-rust": {
+      "last_crawled": "2026-02-13T06:05:29.096Z",
+      "plugins_count": 8,
       "success": true,
       "errors": []
     }
