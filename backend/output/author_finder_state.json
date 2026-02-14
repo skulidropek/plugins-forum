@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-13T19:04:31.908Z",
-  "current_author_index": 0,
+  "last_updated": "2026-02-14T03:04:47.477Z",
+  "current_author_index": 307,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-02-12T02:57:13.021Z",
@@ -1105,18 +1105,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2026-02-06T19:15:11.566Z",
+      "last_processed": "2026-02-14T02:59:37.456Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (35326)"
+      "error": "Skipped - too many repositories (35393)"
     },
     "ImKiri86": {
-      "last_processed": "2026-02-06T19:15:11.637Z",
+      "last_processed": "2026-02-14T02:59:37.505Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2026-02-06T19:15:54.263Z",
+      "last_processed": "2026-02-14T03:00:15.824Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1126,17 +1126,17 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2026-02-06T19:16:01.509Z",
+      "last_processed": "2026-02-14T03:00:22.958Z",
       "repositories_found": 5,
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2026-02-06T19:17:07.048Z",
+      "last_processed": "2026-02-14T03:01:33.510Z",
       "repositories_found": 2,
       "success": true
     },
     "TOWUK": {
-      "last_processed": "2026-02-06T19:17:10.575Z",
+      "last_processed": "2026-02-14T03:01:36.923Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1146,17 +1146,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2026-02-06T19:17:15.658Z",
+      "last_processed": "2026-02-14T03:01:41.891Z",
       "repositories_found": 4,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2026-02-06T19:17:31.928Z",
+      "last_processed": "2026-02-14T03:01:57.120Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2026-02-06T19:17:44.276Z",
+      "last_processed": "2026-02-14T03:02:08.852Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1166,17 +1166,17 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2026-02-06T19:17:47.123Z",
+      "last_processed": "2026-02-14T03:02:11.652Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2026-02-06T19:18:50.585Z",
+      "last_processed": "2026-02-14T03:03:11.149Z",
       "repositories_found": 1,
       "success": true
     },
     "peter-r-g": {
-      "last_processed": "2026-02-06T19:20:25.862Z",
+      "last_processed": "2026-02-14T03:04:47.476Z",
       "repositories_found": 2,
       "success": true
     },
