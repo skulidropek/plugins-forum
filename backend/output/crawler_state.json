@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-04T14:24:38.255Z",
-  "total_repositories_processed": 1362,
-  "successful_crawls": 1360,
+  "last_updated": "2026-02-13T08:52:05.397Z",
+  "total_repositories_processed": 1383,
+  "successful_crawls": 1381,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8179,24 +8179,150 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "dcdustin/Carbon": {
+      "last_crawled": "2026-02-06T23:31:34.539Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/Backpacks": {
+      "last_crawled": "2026-02-07T13:59:21.848Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/Oxide.Rust": {
+      "last_crawled": "2026-02-07T13:59:23.984Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/SortButton": {
+      "last_crawled": "2026-02-07T13:59:25.960Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "dcdustin/TruePVE": {
+      "last_crawled": "2026-02-07T13:59:27.973Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Ross-Ward/Oxide": {
+      "last_crawled": "2026-02-07T19:48:54.117Z",
+      "plugins_count": 28,
+      "success": true,
+      "errors": []
+    },
+    "Eadris/CrateGuardCS": {
+      "last_crawled": "2026-02-08T05:13:20.999Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "LosGranada/MyRustServer": {
+      "last_crawled": "2026-02-08T05:13:22.797Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "ryanscarpelli/TradeLog": {
+      "last_crawled": "2026-02-08T11:28:11.763Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Samosborne94/GrieferHub": {
+      "last_crawled": "2026-02-08T23:37:10.640Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "jmg5215/UnrealDungeons2.0": {
+      "last_crawled": "2026-02-09T09:05:23.775Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "AlexanderVolk25/GoldMine": {
+      "last_crawled": "2026-02-10T23:09:54.500Z",
+      "plugins_count": 31,
+      "success": true,
+      "errors": []
+    },
+    "db13256-hash/Rust-arena-plugin-leaderboard": {
+      "last_crawled": "2026-02-11T23:38:24.225Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "OverTimeHosting/Documentation": {
+      "last_crawled": "2026-02-12T02:44:57.842Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "MONaH-Rasta/ImageLibrary": {
+      "last_crawled": "2026-02-12T05:02:39.457Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Enilgles/pluginsrust": {
+      "last_crawled": "2026-02-12T19:35:42.374Z",
+      "plugins_count": 1235,
+      "success": true,
+      "errors": []
+    },
+    "Enilgles/umod-pluigns-dataset": {
+      "last_crawled": "2026-02-12T20:40:56.824Z",
+      "plugins_count": 1508,
+      "success": true,
+      "errors": []
+    },
+    "sami3737/SimpleLogo": {
+      "last_crawled": "2026-02-12T20:40:59.227Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "xrevoltsx/plugins-for-rust": {
+      "last_crawled": "2026-02-13T06:05:29.096Z",
+      "plugins_count": 8,
+      "success": true,
+      "errors": []
+    },
+    "xrevoltsx/OxidePack": {
+      "last_crawled": "2026-02-13T07:32:26.532Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "tom-does-code/EventRandomizer": {
+      "last_crawled": "2026-02-13T08:52:05.392Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-01T05:05:48.940Z",
-      "completed_at": "2026-02-01T05:05:57.687Z",
-      "duration_ms": 8747
+      "started_at": "2026-02-12T20:40:54.516Z",
+      "completed_at": "2026-02-12T20:40:57.761Z",
+      "duration_ms": 3245
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1355,
-      "newly_processed": 4,
-      "successful": 4,
+      "already_processed": 1378,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 10,
-      "new_plugins": 1
+      "total_found": 1508,
+      "new_plugins": 1508
     }
   }
 }

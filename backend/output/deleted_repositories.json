@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-06T04:16:53.821Z",
-  "count": 19,
+  "generated_at": "2026-02-15T04:26:45.179Z",
+  "count": 38,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -20,6 +20,25 @@
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
     "build6477-ship-it/RustPluginsDumpWithAI",
-    "fuflik52/CloneRustApp"
+    "fuflik52/CloneRustApp",
+    "l0cks-acab/BMChecker",
+    "l0cks-acab/BlackJackGamble",
+    "l0cks-acab/ChickenGun",
+    "l0cks-acab/EnderChest",
+    "l0cks-acab/EnderFlare",
+    "l0cks-acab/EntCleanup",
+    "l0cks-acab/GamblingStats",
+    "l0cks-acab/KOTH",
+    "l0cks-acab/LogiDetection",
+    "l0cks-acab/LuckyBox",
+    "l0cks-acab/MagicKits",
+    "l0cks-acab/MagicRanks",
+    "l0cks-acab/MailBomber",
+    "l0cks-acab/MyHorse",
+    "l0cks-acab/RustyReef",
+    "l0cks-acab/SAMSiteReach",
+    "l0cks-acab/SpawnHorde",
+    "l0cks-acab/StatTracker",
+    "ryanscarpelli/TradeLog"
   ]
 }
