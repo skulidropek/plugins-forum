@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-16T10:28:48.179Z",
-  "total_repositories_processed": 1387,
-  "successful_crawls": 1385,
+  "last_updated": "2026-02-16T23:35:02.587Z",
+  "total_repositories_processed": 1388,
+  "successful_crawls": 1386,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8327,6 +8327,12 @@
     "its-snapple/Carbon.Modules": {
       "last_crawled": "2026-02-16T10:28:48.173Z",
       "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "hopollo/RustBetterVanilla": {
+      "last_crawled": "2026-02-16T23:35:02.581Z",
+      "plugins_count": 3,
       "success": true,
       "errors": []
     }
