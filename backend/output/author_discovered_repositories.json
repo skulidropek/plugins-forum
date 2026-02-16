@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-16T02:53:45.901Z",
+  "generated_at": "2026-02-16T07:19:22.349Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1285,
+  "count": 1286,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1287,6 +1287,7 @@
     "yacvaguer/simple-patrol-signal",
     "yacvaguer/uav-signal",
     "yuikeasa/12",
-    "zanderwar/oxide-statlogger"
+    "zanderwar/oxide-statlogger",
+    "zonely-gen-tr/ZonelyCoreRust"
   ]
 }
