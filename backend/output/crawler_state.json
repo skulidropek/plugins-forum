@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T08:52:05.397Z",
-  "total_repositories_processed": 1383,
-  "successful_crawls": 1381,
+  "last_updated": "2026-02-16T05:04:05.781Z",
+  "total_repositories_processed": 1384,
+  "successful_crawls": 1382,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8302,6 +8302,12 @@
     },
     "tom-does-code/EventRandomizer": {
       "last_crawled": "2026-02-13T08:52:05.392Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "zonely-gen-tr/ZonelyCoreRust": {
+      "last_crawled": "2026-02-16T05:04:05.776Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
