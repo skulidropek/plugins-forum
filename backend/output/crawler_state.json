@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-16T09:00:41.271Z",
-  "total_repositories_processed": 1386,
-  "successful_crawls": 1384,
+  "last_updated": "2026-02-16T10:28:48.179Z",
+  "total_repositories_processed": 1387,
+  "successful_crawls": 1385,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8320,6 +8320,12 @@
     },
     "publicrust/plugins-forum": {
       "last_crawled": "2026-02-16T09:00:41.232Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "its-snapple/Carbon.Modules": {
+      "last_crawled": "2026-02-16T10:28:48.173Z",
       "plugins_count": 0,
       "success": true,
       "errors": []
