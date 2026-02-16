@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-16T07:19:22.348Z",
+  "last_updated": "2026-02-16T13:23:58.319Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2132,6 +2132,11 @@
       "last_processed": "2026-02-16T07:18:09.541Z",
       "repositories_found": 1,
       "success": true
+    },
+    "its-snapple": {
+      "last_processed": "2026-02-16T13:23:56.312Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3420,6 +3425,7 @@
     "xrevoltsx/OxidePack",
     "xrevoltsx/plugins-for-rust",
     "tom-does-code/EventRandomizer",
-    "zonely-gen-tr/ZonelyCoreRust"
+    "zonely-gen-tr/ZonelyCoreRust",
+    "its-snapple/Carbon.Common"
   ]
 }

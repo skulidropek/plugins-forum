@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-16T07:19:22.349Z",
+  "generated_at": "2026-02-16T13:23:58.319Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1286,
+  "count": 1287,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -999,6 +999,7 @@
     "ilovepatatos-rust/console-extension",
     "ilovepatatos-rust/gizmos-extension",
     "ilovepatatos-rust/oxide-csharp",
+    "its-snapple/Carbon.Common",
     "itzwaluwe/Oxide.Rust",
     "izatrix/EventManager",
     "izatrix/HideHoldOut",
