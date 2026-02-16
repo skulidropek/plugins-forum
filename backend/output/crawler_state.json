@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-16T05:04:05.781Z",
-  "total_repositories_processed": 1384,
-  "successful_crawls": 1382,
+  "last_updated": "2026-02-16T09:00:41.271Z",
+  "total_repositories_processed": 1386,
+  "successful_crawls": 1384,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8311,24 +8311,36 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "its-snapple/Carbon.Common": {
+      "last_crawled": "2026-02-16T09:00:33.399Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "publicrust/plugins-forum": {
+      "last_crawled": "2026-02-16T09:00:41.232Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-12T20:40:54.516Z",
-      "completed_at": "2026-02-12T20:40:57.761Z",
-      "duration_ms": 3245
+      "started_at": "2026-02-16T09:00:32.552Z",
+      "completed_at": "2026-02-16T09:00:34.019Z",
+      "duration_ms": 1467
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1378,
+      "already_processed": 1384,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1508,
-      "new_plugins": 1508
+      "total_found": 7,
+      "new_plugins": 7
     }
   }
 }
