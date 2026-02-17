@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-16T19:00:59.114Z",
+  "generated_at": "2026-02-17T02:51:48.509Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1287,
+  "count": 1288,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -981,6 +981,7 @@
     "headtapper/UnlimitedFuel",
     "heronj2703/RustPlugin-SimpleGather",
     "heymeepo/Decompiled-Assemblies",
+    "hopollo/RustBetterVanilla",
     "hoppel/Bloodtrail",
     "hoppel/CommandWalls",
     "hoppel/NoBackpacks",
