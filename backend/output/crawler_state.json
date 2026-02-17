@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-17T19:08:49.950Z",
-  "total_repositories_processed": 1390,
-  "successful_crawls": 1388,
+  "last_updated": "2026-02-17T23:35:24.867Z",
+  "total_repositories_processed": 1391,
+  "successful_crawls": 1389,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8345,6 +8345,12 @@
     "MateoTaylor/Rust-Reinforcement-Learning": {
       "last_crawled": "2026-02-17T19:08:49.943Z",
       "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "its-snapple/Carbon": {
+      "last_crawled": "2026-02-17T23:35:24.850Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
