@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-16T23:35:02.587Z",
-  "total_repositories_processed": 1388,
-  "successful_crawls": 1386,
+  "last_updated": "2026-02-17T04:57:21.548Z",
+  "total_repositories_processed": 1389,
+  "successful_crawls": 1387,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8333,6 +8333,12 @@
     "hopollo/RustBetterVanilla": {
       "last_crawled": "2026-02-16T23:35:02.581Z",
       "plugins_count": 3,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/NewApi": {
+      "last_crawled": "2026-02-17T04:57:21.379Z",
+      "plugins_count": 0,
       "success": true,
       "errors": []
     }
