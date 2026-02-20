@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-20T13:21:10.148Z",
+  "last_updated": "2026-02-20T19:03:36.189Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2124,7 +2124,7 @@
       "success": true
     },
     "tom-does-code": {
-      "last_processed": "2026-02-13T13:21:43.990Z",
+      "last_processed": "2026-02-20T19:03:34.183Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2145,6 +2145,11 @@
     },
     "MateoTaylor": {
       "last_processed": "2026-02-17T19:10:51.984Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "dextermyles": {
+      "last_processed": "2026-02-20T19:03:12.927Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3440,6 +3445,7 @@
     "hopollo/RustBetterVanilla",
     "MateoTaylor/Rust-Reinforcement-Learning",
     "fuflik52/TestMap",
-    "scorteanucosmin/Oxide.Rust"
+    "scorteanucosmin/Oxide.Rust",
+    "dextermyles/Oxide.Rust"
   ]
 }
