@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-19T19:14:28.788Z",
+  "generated_at": "2026-02-20T03:07:38.941Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1290,
+  "count": 1291,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1235,6 +1235,7 @@
     "scorpyon/plugins",
     "scorteanucosmin/Oxide.CSharp",
     "scorteanucosmin/Oxide.Core",
+    "scorteanucosmin/Oxide.Rust",
     "seanbyrne88/RustPlugins",
     "seanmb0/rustmap",
     "setfps/rust-devblog-nosteam",
