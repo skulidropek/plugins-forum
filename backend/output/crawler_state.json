@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-19T14:31:31.967Z",
-  "total_repositories_processed": 1392,
-  "successful_crawls": 1390,
+  "last_updated": "2026-02-20T04:51:34.506Z",
+  "total_repositories_processed": 1393,
+  "successful_crawls": 1391,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8357,6 +8357,12 @@
     "fuflik52/TestMap": {
       "last_crawled": "2026-02-19T14:31:31.960Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "scorteanucosmin/Oxide.Rust": {
+      "last_crawled": "2026-02-20T04:51:34.499Z",
+      "plugins_count": 2,
       "success": true,
       "errors": []
     }
