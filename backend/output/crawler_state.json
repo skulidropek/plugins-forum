@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-21T09:36:30.947Z",
-  "total_repositories_processed": 1395,
-  "successful_crawls": 1393,
+  "last_updated": "2026-02-21T13:00:28.023Z",
+  "total_repositories_processed": 1396,
+  "successful_crawls": 1394,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8374,6 +8374,12 @@
     },
     "estxbvnnn/HardpointMode": {
       "last_crawled": "2026-02-21T09:36:30.942Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/TagsTwitchRivalsRust": {
+      "last_crawled": "2026-02-21T13:00:28.018Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
