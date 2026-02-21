@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-20T15:09:20.541Z",
-  "total_repositories_processed": 1394,
-  "successful_crawls": 1392,
+  "last_updated": "2026-02-21T09:36:30.947Z",
+  "total_repositories_processed": 1395,
+  "successful_crawls": 1393,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8369,6 +8369,12 @@
     "dextermyles/Oxide.Rust": {
       "last_crawled": "2026-02-20T15:09:20.532Z",
       "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/HardpointMode": {
+      "last_crawled": "2026-02-21T09:36:30.942Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
