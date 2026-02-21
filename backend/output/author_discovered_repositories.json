@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-21T13:26:46.604Z",
+  "generated_at": "2026-02-21T19:10:11.335Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1292,
+  "count": 1293,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1108,6 +1108,7 @@
     "mbedda/Oxide.Rust",
     "mbedda/PirateNPCs",
     "mbedda/rust-plugins",
+    "milestorme/pluginlister",
     "mjmfighter/RustPlugins",
     "mkojoa/Oxide2Plugins",
     "mleem97/DeathcounterIP",
