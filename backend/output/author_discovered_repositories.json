@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-22T03:03:21.770Z",
+  "generated_at": "2026-02-22T07:20:09.312Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1293,
+  "count": 1294,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1032,6 +1032,7 @@
     "jerkypaisen/NpcDropTag",
     "jerkypaisen/PlayMovieButtons",
     "jerkypaisen/SpearOfLonginus",
+    "jerkypaisen/Speedometer",
     "jerkypaisen/StreamerVoiceOnly",
     "jerkypaisen/TcItemCounter",
     "jerkypaisen/ToastMessage",
