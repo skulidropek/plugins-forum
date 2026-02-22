@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-22T02:42:06.612Z",
-  "total_repositories_processed": 1397,
-  "successful_crawls": 1395,
+  "last_updated": "2026-02-22T07:40:53.245Z",
+  "total_repositories_processed": 1398,
+  "successful_crawls": 1396,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8386,6 +8386,12 @@
     },
     "SNiTEBoBy/Vote-For-Money": {
       "last_crawled": "2026-02-22T02:42:06.607Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "jerkypaisen/Speedometer": {
+      "last_crawled": "2026-02-22T07:40:53.240Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
