@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-23T07:20:51.797Z",
+  "generated_at": "2026-02-23T13:26:44.744Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1294,
+  "count": 1295,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -123,6 +123,7 @@
     "Hardcore-fs/PlayerAdministration",
     "Hardcore-fs/Tebex-Oxide",
     "Hardcore-fs/oxideplugins",
+    "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES",
     "HunterZ/MonumentAddons",
     "HunterZ/rustmods",
     "I4IgO32/Rust-NoSteam",
