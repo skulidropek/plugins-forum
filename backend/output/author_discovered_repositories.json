@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-23T13:26:44.744Z",
+  "generated_at": "2026-02-23T19:20:16.868Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1295,
+  "count": 1297,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -943,8 +943,10 @@
     "eandersson/rustarena",
     "electrikbox/VIPElectrik",
     "erikmoch/OxidePlugins",
+    "estxbvnnn/HardpointMode",
     "estxbvnnn/Roam-Event-Rust",
     "estxbvnnn/TCTournaments",
+    "estxbvnnn/TagsTwitchRivalsRust",
     "estxbvnnn/TournamentsDTags",
     "famus0v/Rust-Plugins",
     "fenderrex/Oxide.Ext.RustEdit",
