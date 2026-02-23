@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-22T07:40:53.245Z",
-  "total_repositories_processed": 1398,
-  "successful_crawls": 1396,
+  "last_updated": "2026-02-23T11:24:14.621Z",
+  "total_repositories_processed": 1399,
+  "successful_crawls": 1397,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8392,6 +8392,12 @@
     },
     "jerkypaisen/Speedometer": {
       "last_crawled": "2026-02-22T07:40:53.240Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES": {
+      "last_crawled": "2026-02-23T11:24:14.549Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
