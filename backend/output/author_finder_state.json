@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-24T07:14:28.807Z",
+  "last_updated": "2026-02-24T13:27:57.003Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2162,6 +2162,11 @@
       "last_processed": "2026-02-23T13:26:37.209Z",
       "repositories_found": 1,
       "success": true
+    },
+    "SeesAll": {
+      "last_processed": "2026-02-24T13:27:54.996Z",
+      "repositories_found": 4,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3461,6 +3466,10 @@
     "jerkypaisen/Speedometer",
     "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES",
     "estxbvnnn/HardpointMode",
-    "estxbvnnn/TagsTwitchRivalsRust"
+    "estxbvnnn/TagsTwitchRivalsRust",
+    "SeesAll/BlueprintShare-Fixed",
+    "SeesAll/HandcuffLimiter",
+    "SeesAll/Rust-Command-Chat-Logger",
+    "SeesAll/SmartSmelt"
   ]
 }

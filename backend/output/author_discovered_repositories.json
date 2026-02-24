@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-24T07:14:28.808Z",
+  "generated_at": "2026-02-24T13:27:57.003Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1297,
+  "count": 1301,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -437,6 +437,10 @@
     "Ryan-J-D/Oxide.Rust",
     "Ryan-J-D/Rust-Item-IDs",
     "Ryan-J-D/Vanish",
+    "SeesAll/BlueprintShare-Fixed",
+    "SeesAll/HandcuffLimiter",
+    "SeesAll/Rust-Command-Chat-Logger",
+    "SeesAll/SmartSmelt",
     "ServerArmour/ServerArmour",
     "SettLe1/BadPrefabsCleaner",
     "SkiTee3000/Oxide.Core",
