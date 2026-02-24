@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-23T11:24:14.621Z",
-  "total_repositories_processed": 1399,
-  "successful_crawls": 1397,
+  "last_updated": "2026-02-24T13:51:05.607Z",
+  "total_repositories_processed": 1403,
+  "successful_crawls": 1401,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8401,24 +8401,48 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "SeesAll/HandcuffLimiter": {
+      "last_crawled": "2026-02-24T13:50:59.695Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/BlueprintShare-Fixed": {
+      "last_crawled": "2026-02-24T13:51:01.704Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/Rust-Command-Chat-Logger": {
+      "last_crawled": "2026-02-24T13:51:03.642Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/SmartSmelt": {
+      "last_crawled": "2026-02-24T13:51:05.603Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-16T09:00:32.552Z",
-      "completed_at": "2026-02-16T09:00:34.019Z",
-      "duration_ms": 1467
+      "started_at": "2026-02-24T13:50:58.804Z",
+      "completed_at": "2026-02-24T13:51:04.192Z",
+      "duration_ms": 5388
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1384,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1399,
+      "newly_processed": 3,
+      "successful": 3,
       "failed": 0
     },
     "plugins": {
-      "total_found": 7,
-      "new_plugins": 7
+      "total_found": 3,
+      "new_plugins": 1
     }
   }
 }
