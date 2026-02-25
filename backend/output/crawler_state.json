@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-13T08:52:05.397Z",
-  "total_repositories_processed": 1383,
-  "successful_crawls": 1381,
+  "last_updated": "2026-02-25T02:39:30.774Z",
+  "total_repositories_processed": 1404,
+  "successful_crawls": 1402,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8305,24 +8305,150 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "zonely-gen-tr/ZonelyCoreRust": {
+      "last_crawled": "2026-02-16T05:04:05.776Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "its-snapple/Carbon.Common": {
+      "last_crawled": "2026-02-16T09:00:33.399Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "publicrust/plugins-forum": {
+      "last_crawled": "2026-02-16T09:00:41.232Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "its-snapple/Carbon.Modules": {
+      "last_crawled": "2026-02-16T10:28:48.173Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "hopollo/RustBetterVanilla": {
+      "last_crawled": "2026-02-16T23:35:02.581Z",
+      "plugins_count": 3,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/NewApi": {
+      "last_crawled": "2026-02-17T04:57:21.379Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "MateoTaylor/Rust-Reinforcement-Learning": {
+      "last_crawled": "2026-02-17T19:08:49.943Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "its-snapple/Carbon": {
+      "last_crawled": "2026-02-17T23:35:24.850Z",
+      "plugins_count": 0,
+      "success": true,
+      "errors": []
+    },
+    "fuflik52/TestMap": {
+      "last_crawled": "2026-02-19T14:31:31.960Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "scorteanucosmin/Oxide.Rust": {
+      "last_crawled": "2026-02-20T04:51:34.499Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "dextermyles/Oxide.Rust": {
+      "last_crawled": "2026-02-20T15:09:20.532Z",
+      "plugins_count": 2,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/HardpointMode": {
+      "last_crawled": "2026-02-21T09:36:30.942Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "estxbvnnn/TagsTwitchRivalsRust": {
+      "last_crawled": "2026-02-21T13:00:28.018Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SNiTEBoBy/Vote-For-Money": {
+      "last_crawled": "2026-02-22T02:42:06.607Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "jerkypaisen/Speedometer": {
+      "last_crawled": "2026-02-22T07:40:53.240Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES": {
+      "last_crawled": "2026-02-23T11:24:14.549Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/HandcuffLimiter": {
+      "last_crawled": "2026-02-24T13:50:59.695Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/BlueprintShare-Fixed": {
+      "last_crawled": "2026-02-24T13:51:01.704Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/Rust-Command-Chat-Logger": {
+      "last_crawled": "2026-02-24T13:51:03.642Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/SmartSmelt": {
+      "last_crawled": "2026-02-24T13:51:05.603Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Fritoqc/ServerSave": {
+      "last_crawled": "2026-02-25T02:39:30.769Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-12T20:40:54.516Z",
-      "completed_at": "2026-02-12T20:40:57.761Z",
-      "duration_ms": 3245
+      "started_at": "2026-02-24T13:50:58.804Z",
+      "completed_at": "2026-02-24T13:51:04.192Z",
+      "duration_ms": 5388
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1378,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1399,
+      "newly_processed": 3,
+      "successful": 3,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1508,
-      "new_plugins": 1508
+      "total_found": 3,
+      "new_plugins": 1
     }
   }
 }

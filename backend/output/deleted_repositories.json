@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-02-15T04:26:45.179Z",
-  "count": 38,
+  "generated_at": "2026-02-25T04:23:01.870Z",
+  "count": 39,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -21,6 +21,7 @@
     "Wrecks830/rustplugin-scraponomics",
     "build6477-ship-it/RustPluginsDumpWithAI",
     "fuflik52/CloneRustApp",
+    "gjdunga/Oxide.Rust",
     "l0cks-acab/BMChecker",
     "l0cks-acab/BlackJackGamble",
     "l0cks-acab/ChickenGun",
