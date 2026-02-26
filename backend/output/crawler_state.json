@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-25T02:39:30.774Z",
-  "total_repositories_processed": 1404,
-  "successful_crawls": 1402,
+  "last_updated": "2026-02-26T20:01:48.360Z",
+  "total_repositories_processed": 1405,
+  "successful_crawls": 1403,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8428,6 +8428,12 @@
     },
     "Fritoqc/ServerSave": {
       "last_crawled": "2026-02-25T02:39:30.769Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "FtuoilXelrash/rCEventScheduler": {
+      "last_crawled": "2026-02-26T20:01:48.354Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
