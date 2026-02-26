@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-26T13:34:15.038Z",
+  "generated_at": "2026-02-26T19:24:28.136Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1302,
+  "count": 1303,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -106,6 +106,7 @@
     "Fritoqc/ServerSave",
     "FtuoilXelrash/CelestialBarrage",
     "FtuoilXelrash/rAlwaysDay",
+    "FtuoilXelrash/rCEventScheduler",
     "FtuoilXelrash/rDailyServerRestarts",
     "FtuoilXelrash/rFireworkShow",
     "FtuoilXelrash/rHelp",
