@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-26T20:01:48.360Z",
-  "total_repositories_processed": 1405,
-  "successful_crawls": 1403,
+  "last_updated": "2026-02-27T16:02:04.759Z",
+  "total_repositories_processed": 1406,
+  "successful_crawls": 1404,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8435,6 +8435,12 @@
     "FtuoilXelrash/rCEventScheduler": {
       "last_crawled": "2026-02-26T20:01:48.354Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "lagzya-dev/Carbon.Common": {
+      "last_crawled": "2026-02-27T16:02:04.743Z",
+      "plugins_count": 7,
       "success": true,
       "errors": []
     }
