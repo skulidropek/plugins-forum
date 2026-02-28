@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-02-27T19:09:25.576Z",
+  "generated_at": "2026-02-28T02:39:56.355Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1303,
+  "count": 1306,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1105,6 +1105,9 @@
     "l0cks-acab/SAMSiteReach",
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
+    "lagzya-dev/Carbon.Common",
+    "lagzya-dev/Rust-Voice-Streaming-Plugin",
+    "lagzya-dev/plugin",
     "lbgcomm/Rust-User-Management",
     "leaderos-net/rust-leaderos-connect",
     "liam-wiltshire/Tebex-Oxide",

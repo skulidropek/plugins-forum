@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-02-27T19:09:25.575Z",
+  "last_updated": "2026-02-28T02:39:56.354Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -829,7 +829,7 @@
       "success": true
     },
     "Psystec": {
-      "last_processed": "2026-02-20T13:20:20.643Z",
+      "last_processed": "2026-02-28T02:38:50.328Z",
       "repositories_found": 3,
       "success": true
     },
@@ -895,7 +895,7 @@
       "success": true
     },
     "RustopiaOfficial": {
-      "last_processed": "2026-02-20T13:20:36.444Z",
+      "last_processed": "2026-02-28T02:39:10.837Z",
       "repositories_found": 3,
       "success": true
     },
@@ -920,7 +920,7 @@
       "success": true
     },
     "WeirdPhrog": {
-      "last_processed": "2026-02-20T13:20:24.939Z",
+      "last_processed": "2026-02-28T02:38:55.821Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1191,7 +1191,7 @@
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2026-02-20T13:20:51.689Z",
+      "last_processed": "2026-02-28T02:39:32.217Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1322,7 +1322,7 @@
       "success": true
     },
     "DevGonzi": {
-      "last_processed": "2026-02-20T13:21:08.142Z",
+      "last_processed": "2026-02-28T02:39:54.344Z",
       "repositories_found": 6,
       "success": true
     },
@@ -1480,7 +1480,7 @@
       "success": true
     },
     "Nikedemos": {
-      "last_processed": "2026-02-20T13:20:08.416Z",
+      "last_processed": "2026-02-28T02:38:33.823Z",
       "repositories_found": 7,
       "success": true
     },
@@ -2117,12 +2117,12 @@
       "success": true
     },
     "xrevoltsx": {
-      "last_processed": "2026-02-20T13:19:29.074Z",
+      "last_processed": "2026-02-28T02:36:19.832Z",
       "repositories_found": 2,
       "success": true
     },
     "tom-does-code": {
-      "last_processed": "2026-02-20T19:03:34.183Z",
+      "last_processed": "2026-02-28T02:37:46.364Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2147,7 +2147,7 @@
       "success": true
     },
     "dextermyles": {
-      "last_processed": "2026-02-20T19:03:12.927Z",
+      "last_processed": "2026-02-28T02:37:20.063Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2170,6 +2170,11 @@
     "Fritoqc": {
       "last_processed": "2026-02-25T02:52:19.546Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "lagzya-dev": {
+      "last_processed": "2026-02-28T02:35:37.387Z",
+      "repositories_found": 3,
       "success": true
     }
   },
@@ -3476,6 +3481,9 @@
     "SeesAll/Rust-Command-Chat-Logger",
     "SeesAll/SmartSmelt",
     "Fritoqc/ServerSave",
-    "FtuoilXelrash/rCEventScheduler"
+    "FtuoilXelrash/rCEventScheduler",
+    "lagzya-dev/Carbon.Common",
+    "lagzya-dev/plugin",
+    "lagzya-dev/Rust-Voice-Streaming-Plugin"
   ]
 }
