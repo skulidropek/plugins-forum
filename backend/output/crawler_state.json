@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-27T16:02:04.759Z",
-  "total_repositories_processed": 1406,
-  "successful_crawls": 1404,
+  "last_updated": "2026-02-28T04:06:38.086Z",
+  "total_repositories_processed": 1408,
+  "successful_crawls": 1406,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8443,23 +8443,35 @@
       "plugins_count": 7,
       "success": true,
       "errors": []
+    },
+    "lagzya-dev/Rust-Voice-Streaming-Plugin": {
+      "last_crawled": "2026-02-28T04:06:36.011Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "lagzya-dev/plugin": {
+      "last_crawled": "2026-02-28T04:06:38.081Z",
+      "plugins_count": 9,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-24T13:50:58.804Z",
-      "completed_at": "2026-02-24T13:51:04.192Z",
-      "duration_ms": 5388
+      "started_at": "2026-02-28T04:06:34.846Z",
+      "completed_at": "2026-02-28T04:06:36.641Z",
+      "duration_ms": 1795
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1399,
-      "newly_processed": 3,
-      "successful": 3,
+      "already_processed": 1406,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 3,
+      "total_found": 1,
       "new_plugins": 1
     }
   }
