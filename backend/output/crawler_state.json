@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-28T04:06:38.086Z",
-  "total_repositories_processed": 1408,
-  "successful_crawls": 1406,
+  "last_updated": "2026-03-02T14:24:25.908Z",
+  "total_repositories_processed": 1409,
+  "successful_crawls": 1407,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8453,6 +8453,12 @@
     "lagzya-dev/plugin": {
       "last_crawled": "2026-02-28T04:06:38.081Z",
       "plugins_count": 9,
+      "success": true,
+      "errors": []
+    },
+    "UnrealSalty/StarGuard-Rust": {
+      "last_crawled": "2026-03-02T14:24:25.902Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
