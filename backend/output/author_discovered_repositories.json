@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-02T13:21:01.397Z",
+  "generated_at": "2026-03-02T19:03:00.963Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1306,
+  "count": 1307,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -495,6 +495,7 @@
     "UltraRust/No-Decay-Candles-Ultra",
     "UltraRust/Supply-Alert",
     "UncleMle/Rust-Ban-System",
+    "UnrealSalty/StarGuard-Rust",
     "VFlov/RustMod",
     "VFlov/RustPlugins",
     "ViolationHandler-exe/BGrade",
