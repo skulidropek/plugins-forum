@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-02T04:16:44.883Z",
-  "count": 41,
+  "generated_at": "2026-03-03T04:17:16.042Z",
+  "count": 42,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -20,6 +20,7 @@
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
     "build6477-ship-it/RustPluginsDumpWithAI",
+    "db13256-hash/Rust-arena-plugin-leaderboard",
     "estxbvnnn/HardpointMode",
     "estxbvnnn/TagsTwitchRivalsRust",
     "fuflik52/CloneRustApp",
