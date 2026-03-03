@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-02T14:24:25.908Z",
-  "total_repositories_processed": 1409,
-  "successful_crawls": 1407,
+  "last_updated": "2026-03-03T11:37:24.101Z",
+  "total_repositories_processed": 1410,
+  "successful_crawls": 1408,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8459,6 +8459,12 @@
     "UnrealSalty/StarGuard-Rust": {
       "last_crawled": "2026-03-02T14:24:25.902Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "0xF1o/random-free-rustplugins": {
+      "last_crawled": "2026-03-03T11:37:24.092Z",
+      "plugins_count": 77,
       "success": true,
       "errors": []
     }
