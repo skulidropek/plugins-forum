@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-03T18:06:26.048Z",
-  "total_repositories_processed": 1411,
-  "successful_crawls": 1409,
+  "last_updated": "2026-03-05T22:38:01.946Z",
+  "total_repositories_processed": 1413,
+  "successful_crawls": 1411,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8473,24 +8473,36 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "RobinPlay-2025/rust-template": {
+      "last_crawled": "2026-03-05T22:37:59.526Z",
+      "plugins_count": 8,
+      "success": true,
+      "errors": []
+    },
+    "bsk193/Carbon.Core": {
+      "last_crawled": "2026-03-05T22:38:01.900Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-28T04:06:34.846Z",
-      "completed_at": "2026-02-28T04:06:36.641Z",
-      "duration_ms": 1795
+      "started_at": "2026-03-05T22:37:50.785Z",
+      "completed_at": "2026-03-05T22:38:00.155Z",
+      "duration_ms": 9370
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1406,
+      "already_processed": 1411,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 8,
+      "new_plugins": 8
     }
   }
 }
