@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-06T02:57:52.590Z",
+  "generated_at": "2026-03-06T07:06:07.948Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1308,
+  "count": 1311,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -421,6 +421,8 @@
     "Remod-org/TinCanBoom",
     "Remod-org/Toilette",
     "Remod-org/Waypoints",
+    "RobinPlay-2025/Free-Plugins",
+    "RobinPlay-2025/rust-template",
     "Ross-Ward/Oxide",
     "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
@@ -875,6 +877,7 @@
     "bradygaster/Aspire.Hosting.Facepunch.Rust",
     "bradygaster/RustMods",
     "brandonnorsworthy/R1Z1",
+    "bsk193/Carbon.Core",
     "bubbafett5611/Backpacks",
     "bugrakaann/MurderGameMode",
     "bugrakaann/TeamIdentifier",
