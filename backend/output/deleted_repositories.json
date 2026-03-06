@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-05T04:16:18.744Z",
-  "count": 43,
+  "generated_at": "2026-03-06T04:12:48.212Z",
+  "count": 49,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -25,6 +25,12 @@
     "estxbvnnn/HardpointMode",
     "estxbvnnn/TagsTwitchRivalsRust",
     "fuflik52/CloneRustApp",
+    "fuflik52/NewApi",
+    "fuflik52/TestMap",
+    "fuflik52/maptest",
+    "fuflik52/plugins-forum-main3",
+    "fuflik52/rustt",
+    "fuflik52/umod-plugins",
     "gjdunga/Oxide.Rust",
     "l0cks-acab/BMChecker",
     "l0cks-acab/BlackJackGamble",
