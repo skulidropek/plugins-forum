@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-05T22:38:01.946Z",
-  "total_repositories_processed": 1413,
-  "successful_crawls": 1411,
+  "last_updated": "2026-03-06T07:43:46.261Z",
+  "total_repositories_processed": 1414,
+  "successful_crawls": 1412,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8482,6 +8482,12 @@
     },
     "bsk193/Carbon.Core": {
       "last_crawled": "2026-03-05T22:38:01.900Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "RobinPlay-2025/Free-Plugins": {
+      "last_crawled": "2026-03-06T07:43:46.247Z",
       "plugins_count": 5,
       "success": true,
       "errors": []
