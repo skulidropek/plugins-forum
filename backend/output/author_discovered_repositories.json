@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-06T07:06:07.948Z",
+  "generated_at": "2026-03-06T13:36:49.807Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1311,
+  "count": 1312,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -960,6 +960,7 @@
     "estxbvnnn/TagsTwitchRivalsRust",
     "estxbvnnn/TournamentsDTags",
     "famus0v/Rust-Plugins",
+    "features-not-bugs/Rust-CustomMapVehicleVendorFix",
     "fenderrex/Oxide.Ext.RustEdit",
     "firemandave6024/sqllogger",
     "flintmonkey/DeathNotes",
