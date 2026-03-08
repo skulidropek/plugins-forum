@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-08T13:19:18.335Z",
+  "generated_at": "2026-03-08T19:09:05.081Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1312,
+  "count": 1313,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -49,6 +49,7 @@
     "Cannabis-CFG/OxidePlugins",
     "CaptainBlake/RaidMe",
     "CaptainBlake/ServerCommands",
+    "CarbonCommunity/Carbon",
     "CarbonCommunity/Carbon.Common",
     "CarbonCommunity/Carbon.Oxide",
     "CarbonCommunity/Carbon.OxideRust",
