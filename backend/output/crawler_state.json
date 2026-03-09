@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-06T11:34:35.355Z",
-  "total_repositories_processed": 1415,
-  "successful_crawls": 1413,
+  "last_updated": "2026-03-09T13:16:01.505Z",
+  "total_repositories_processed": 1416,
+  "successful_crawls": 1414,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8495,6 +8495,12 @@
     "features-not-bugs/Rust-CustomMapVehicleVendorFix": {
       "last_crawled": "2026-03-06T11:34:35.349Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "VoodooCor/rust-server-plugins": {
+      "last_crawled": "2026-03-09T13:16:01.496Z",
+      "plugins_count": 68,
       "success": true,
       "errors": []
     }
