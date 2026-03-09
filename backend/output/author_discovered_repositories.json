@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-09T13:26:17.315Z",
+  "generated_at": "2026-03-09T19:08:22.979Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1313,
+  "count": 1314,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -671,6 +671,7 @@
     "Vlad-00003/PluginsWorkspace",
     "Vlad-00003/oxideplugins",
     "Vladimir123123123/rust-template",
+    "VoodooCor/rust-server-plugins",
     "Wakanda1519/RUST-Plugins-from-AI",
     "Warri0r007/Rust-plugins",
     "WeirdPhrog/plugin",
