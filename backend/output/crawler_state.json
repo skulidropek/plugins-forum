@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T04:47:37.280Z",
-  "total_repositories_processed": 1424,
-  "successful_crawls": 1422,
+  "last_updated": "2026-03-11T13:19:00.341Z",
+  "total_repositories_processed": 1425,
+  "successful_crawls": 1423,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8549,6 +8549,12 @@
     "SeesAll/PrivateMessages-Enhanced": {
       "last_crawled": "2026-03-11T04:47:37.276Z",
       "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "WeirdPhrog/Carbon": {
+      "last_crawled": "2026-03-11T13:19:00.295Z",
+      "plugins_count": 7,
       "success": true,
       "errors": []
     }
