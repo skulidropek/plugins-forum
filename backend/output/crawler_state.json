@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-09T13:16:01.505Z",
-  "total_repositories_processed": 1416,
-  "successful_crawls": 1414,
+  "last_updated": "2026-03-11T04:47:37.280Z",
+  "total_repositories_processed": 1424,
+  "successful_crawls": 1422,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8503,24 +8503,72 @@
       "plugins_count": 68,
       "success": true,
       "errors": []
+    },
+    "SeesAll/BetterChat-Optimized": {
+      "last_crawled": "2026-03-11T04:47:24.510Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/BetterChatMute-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:26.284Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/ClanRenameLogs": {
+      "last_crawled": "2026-03-11T04:47:27.978Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/ClanSteamIDs": {
+      "last_crawled": "2026-03-11T04:47:29.660Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/InfiniteVendingStock-FIXED": {
+      "last_crawled": "2026-03-11T04:47:32.107Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/LootBouncer-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:33.807Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/MoneyTime-Fixed": {
+      "last_crawled": "2026-03-11T04:47:35.544Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/PrivateMessages-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:37.276Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-03-05T22:37:50.785Z",
-      "completed_at": "2026-03-05T22:38:00.155Z",
-      "duration_ms": 9370
+      "started_at": "2026-03-11T04:47:23.895Z",
+      "completed_at": "2026-03-11T04:47:36.130Z",
+      "duration_ms": 12235
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1411,
-      "newly_processed": 1,
-      "successful": 1,
+      "already_processed": 1416,
+      "newly_processed": 7,
+      "successful": 7,
       "failed": 0
     },
     "plugins": {
-      "total_found": 8,
-      "new_plugins": 8
+      "total_found": 7,
+      "new_plugins": 1
     }
   }
 }
