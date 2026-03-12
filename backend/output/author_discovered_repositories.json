@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-12T13:22:10.990Z",
+  "generated_at": "2026-03-12T19:47:32.063Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1322,
+  "count": 1323,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -939,6 +939,7 @@
     "davidc538/rust-oxide-aimbots",
     "db13256-hash/Rust-arena-plugin-leaderboard",
     "db13256-hash/arena3",
+    "db13256-hash/ssmelt",
     "dbteku/UMod.Rust.BetterElectricty",
     "dbteku/UMod.Rust.SharedDoors",
     "dcdustin/Backpacks",
