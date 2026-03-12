@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-11T13:19:00.341Z",
-  "total_repositories_processed": 1425,
-  "successful_crawls": 1423,
+  "last_updated": "2026-03-12T19:59:36.646Z",
+  "total_repositories_processed": 1426,
+  "successful_crawls": 1424,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8555,6 +8555,12 @@
     "WeirdPhrog/Carbon": {
       "last_crawled": "2026-03-11T13:19:00.295Z",
       "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "db13256-hash/ssmelt": {
+      "last_crawled": "2026-03-12T19:59:36.640Z",
+      "plugins_count": 1,
       "success": true,
       "errors": []
     }
