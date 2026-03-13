@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-13T03:05:26.628Z",
-  "current_author_index": 236,
+  "last_updated": "2026-03-13T07:10:43.341Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-03-12T19:31:10.697Z",
@@ -655,7 +655,7 @@
       "success": true
     },
     "mkojoa": {
-      "last_processed": "2026-03-06T02:56:58.445Z",
+      "last_processed": "2026-03-13T07:09:50.352Z",
       "repositories_found": 1,
       "success": true
     },
@@ -680,7 +680,7 @@
       "success": true
     },
     "notpeelz": {
-      "last_processed": "2026-03-06T02:57:02.936Z",
+      "last_processed": "2026-03-13T07:09:54.905Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (107)"
@@ -691,7 +691,7 @@
       "success": true
     },
     "ApocDev": {
-      "last_processed": "2026-03-06T02:57:50.582Z",
+      "last_processed": "2026-03-13T07:10:41.333Z",
       "repositories_found": 1,
       "success": true
     },
@@ -748,7 +748,7 @@
       "success": true
     },
     "DeXGaming": {
-      "last_processed": "2026-03-06T02:57:05.670Z",
+      "last_processed": "2026-03-13T07:09:57.626Z",
       "repositories_found": 2,
       "success": true
     },
