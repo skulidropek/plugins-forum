@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-14T03:03:24.017Z",
+  "last_updated": "2026-03-14T07:07:49.772Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -829,7 +829,7 @@
       "success": true
     },
     "Psystec": {
-      "last_processed": "2026-03-07T07:00:57.183Z",
+      "last_processed": "2026-03-14T07:06:55.154Z",
       "repositories_found": 3,
       "success": true
     },
@@ -895,7 +895,7 @@
       "success": true
     },
     "RustopiaOfficial": {
-      "last_processed": "2026-03-07T07:01:11.020Z",
+      "last_processed": "2026-03-14T07:07:09.535Z",
       "repositories_found": 3,
       "success": true
     },
@@ -920,8 +920,8 @@
       "success": true
     },
     "WeirdPhrog": {
-      "last_processed": "2026-03-07T06:56:42.423Z",
-      "repositories_found": 1,
+      "last_processed": "2026-03-14T07:02:47.786Z",
+      "repositories_found": 2,
       "success": true
     },
     "ch3rn1k": {
@@ -1191,7 +1191,7 @@
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2026-03-07T07:01:30.957Z",
+      "last_processed": "2026-03-14T07:07:30.775Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1322,7 +1322,7 @@
       "success": true
     },
     "DevGonzi": {
-      "last_processed": "2026-03-07T07:01:47.680Z",
+      "last_processed": "2026-03-14T07:07:47.762Z",
       "repositories_found": 6,
       "success": true
     },
@@ -1480,7 +1480,7 @@
       "success": true
     },
     "Nikedemos": {
-      "last_processed": "2026-03-07T07:00:39.627Z",
+      "last_processed": "2026-03-14T07:06:38.112Z",
       "repositories_found": 7,
       "success": true
     },
@@ -2117,12 +2117,12 @@
       "success": true
     },
     "xrevoltsx": {
-      "last_processed": "2026-03-07T06:58:26.045Z",
+      "last_processed": "2026-03-14T07:04:26.638Z",
       "repositories_found": 2,
       "success": true
     },
     "tom-does-code": {
-      "last_processed": "2026-03-07T06:59:52.072Z",
+      "last_processed": "2026-03-14T07:05:50.765Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2147,7 +2147,7 @@
       "success": true
     },
     "dextermyles": {
-      "last_processed": "2026-03-07T06:59:27.726Z",
+      "last_processed": "2026-03-14T07:05:24.620Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2173,7 +2173,7 @@
       "success": true
     },
     "lagzya-dev": {
-      "last_processed": "2026-03-07T06:57:45.180Z",
+      "last_processed": "2026-03-14T07:03:45.280Z",
       "repositories_found": 3,
       "success": true
     },
@@ -3532,6 +3532,7 @@
     "SeesAll/LootBouncer-Enhanced",
     "SeesAll/MoneyTime-Fixed",
     "SeesAll/PrivateMessages-Enhanced",
-    "db13256-hash/ssmelt"
+    "db13256-hash/ssmelt",
+    "WeirdPhrog/Carbon"
   ]
 }

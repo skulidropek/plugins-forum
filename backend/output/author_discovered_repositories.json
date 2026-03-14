@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-14T03:03:24.018Z",
+  "generated_at": "2026-03-14T07:07:49.773Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1323,
+  "count": 1324,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -682,6 +682,7 @@
     "VoodooCor/rust-server-plugins",
     "Wakanda1519/RUST-Plugins-from-AI",
     "Warri0r007/Rust-plugins",
+    "WeirdPhrog/Carbon",
     "WeirdPhrog/plugin",
     "WheteThunger/AllowBackpacksInLockers",
     "WheteThunger/AlwaysLootableTurrets",
