@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-12T19:59:36.646Z",
-  "total_repositories_processed": 1426,
-  "successful_crawls": 1424,
+  "last_updated": "2026-03-15T16:38:35.072Z",
+  "total_repositories_processed": 1427,
+  "successful_crawls": 1425,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8560,6 +8560,12 @@
     },
     "db13256-hash/ssmelt": {
       "last_crawled": "2026-03-12T19:59:36.640Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Juan321654/rust_mod_plugins": {
+      "last_crawled": "2026-03-15T16:38:35.066Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
