@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-15T16:38:35.072Z",
-  "total_repositories_processed": 1427,
-  "successful_crawls": 1425,
+  "last_updated": "2026-03-17T12:03:24.934Z",
+  "total_repositories_processed": 1428,
+  "successful_crawls": 1426,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8566,6 +8566,12 @@
     },
     "Juan321654/rust_mod_plugins": {
       "last_crawled": "2026-03-15T16:38:35.066Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "scardotdev/ItemAPI": {
+      "last_crawled": "2026-03-17T12:03:24.928Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
