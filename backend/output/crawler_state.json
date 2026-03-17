@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-17T12:03:24.934Z",
-  "total_repositories_processed": 1428,
-  "successful_crawls": 1426,
+  "last_updated": "2026-03-17T16:40:56.085Z",
+  "total_repositories_processed": 1430,
+  "successful_crawls": 1428,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8575,23 +8575,35 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "Teoory/Rust_ModernSkillTree": {
+      "last_crawled": "2026-03-17T16:40:54.052Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "PlaySafeID/playsafe-id-community-plugins": {
+      "last_crawled": "2026-03-17T16:40:56.081Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-03-11T04:47:23.895Z",
-      "completed_at": "2026-03-11T04:47:36.130Z",
-      "duration_ms": 12235
+      "started_at": "2026-03-17T16:40:53.002Z",
+      "completed_at": "2026-03-17T16:40:54.667Z",
+      "duration_ms": 1665
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1416,
-      "newly_processed": 7,
-      "successful": 7,
+      "already_processed": 1428,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 7,
+      "total_found": 1,
       "new_plugins": 1
     }
   }
