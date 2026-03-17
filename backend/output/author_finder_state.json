@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T14:44:21.928Z",
+  "last_updated": "2026-03-17T19:45:00.909Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2218,6 +2218,16 @@
       "last_processed": "2026-03-17T14:42:13.491Z",
       "repositories_found": 1,
       "success": true
+    },
+    "Teoory": {
+      "last_processed": "2026-03-17T19:44:55.626Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "PlaySafeID": {
+      "last_processed": "2026-03-17T19:44:58.898Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3545,6 +3555,8 @@
     "SeesAll/PrivateMessages-Enhanced",
     "db13256-hash/ssmelt",
     "WeirdPhrog/Carbon",
-    "scardotdev/ItemAPI"
+    "scardotdev/ItemAPI",
+    "Teoory/Rust_ModernSkillTree",
+    "PlaySafeID/playsafe-id-community-plugins"
   ]
 }
