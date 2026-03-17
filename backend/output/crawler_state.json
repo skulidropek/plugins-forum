@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-02-25T02:39:30.774Z",
-  "total_repositories_processed": 1404,
-  "successful_crawls": 1402,
+  "last_updated": "2026-03-17T16:40:56.085Z",
+  "total_repositories_processed": 1430,
+  "successful_crawls": 1428,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8431,23 +8431,179 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "FtuoilXelrash/rCEventScheduler": {
+      "last_crawled": "2026-02-26T20:01:48.354Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "lagzya-dev/Carbon.Common": {
+      "last_crawled": "2026-02-27T16:02:04.743Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "lagzya-dev/Rust-Voice-Streaming-Plugin": {
+      "last_crawled": "2026-02-28T04:06:36.011Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "lagzya-dev/plugin": {
+      "last_crawled": "2026-02-28T04:06:38.081Z",
+      "plugins_count": 9,
+      "success": true,
+      "errors": []
+    },
+    "UnrealSalty/StarGuard-Rust": {
+      "last_crawled": "2026-03-02T14:24:25.902Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "0xF1o/random-free-rustplugins": {
+      "last_crawled": "2026-03-03T11:37:24.092Z",
+      "plugins_count": 77,
+      "success": true,
+      "errors": []
+    },
+    "db13256-hash/arena3": {
+      "last_crawled": "2026-03-03T18:06:26.042Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "RobinPlay-2025/rust-template": {
+      "last_crawled": "2026-03-05T22:37:59.526Z",
+      "plugins_count": 8,
+      "success": true,
+      "errors": []
+    },
+    "bsk193/Carbon.Core": {
+      "last_crawled": "2026-03-05T22:38:01.900Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "RobinPlay-2025/Free-Plugins": {
+      "last_crawled": "2026-03-06T07:43:46.247Z",
+      "plugins_count": 5,
+      "success": true,
+      "errors": []
+    },
+    "features-not-bugs/Rust-CustomMapVehicleVendorFix": {
+      "last_crawled": "2026-03-06T11:34:35.349Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "VoodooCor/rust-server-plugins": {
+      "last_crawled": "2026-03-09T13:16:01.496Z",
+      "plugins_count": 68,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/BetterChat-Optimized": {
+      "last_crawled": "2026-03-11T04:47:24.510Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/BetterChatMute-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:26.284Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/ClanRenameLogs": {
+      "last_crawled": "2026-03-11T04:47:27.978Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/ClanSteamIDs": {
+      "last_crawled": "2026-03-11T04:47:29.660Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/InfiniteVendingStock-FIXED": {
+      "last_crawled": "2026-03-11T04:47:32.107Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/LootBouncer-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:33.807Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/MoneyTime-Fixed": {
+      "last_crawled": "2026-03-11T04:47:35.544Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "SeesAll/PrivateMessages-Enhanced": {
+      "last_crawled": "2026-03-11T04:47:37.276Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "WeirdPhrog/Carbon": {
+      "last_crawled": "2026-03-11T13:19:00.295Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "db13256-hash/ssmelt": {
+      "last_crawled": "2026-03-12T19:59:36.640Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Juan321654/rust_mod_plugins": {
+      "last_crawled": "2026-03-15T16:38:35.066Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "scardotdev/ItemAPI": {
+      "last_crawled": "2026-03-17T12:03:24.928Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "Teoory/Rust_ModernSkillTree": {
+      "last_crawled": "2026-03-17T16:40:54.052Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "PlaySafeID/playsafe-id-community-plugins": {
+      "last_crawled": "2026-03-17T16:40:56.081Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-02-24T13:50:58.804Z",
-      "completed_at": "2026-02-24T13:51:04.192Z",
-      "duration_ms": 5388
+      "started_at": "2026-03-17T16:40:53.002Z",
+      "completed_at": "2026-03-17T16:40:54.667Z",
+      "duration_ms": 1665
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1399,
-      "newly_processed": 3,
-      "successful": 3,
+      "already_processed": 1428,
+      "newly_processed": 1,
+      "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 3,
+      "total_found": 1,
       "new_plugins": 1
     }
   }
