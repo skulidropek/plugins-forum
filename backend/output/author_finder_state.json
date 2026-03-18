@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-17T19:45:00.909Z",
+  "last_updated": "2026-03-18T02:55:55.723Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2163,8 +2163,8 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-03-11T02:43:27.198Z",
-      "repositories_found": 12,
+      "last_processed": "2026-03-18T02:55:53.715Z",
+      "repositories_found": 14,
       "success": true
     },
     "Fritoqc": {
@@ -3557,6 +3557,8 @@
     "WeirdPhrog/Carbon",
     "scardotdev/ItemAPI",
     "Teoory/Rust_ModernSkillTree",
-    "PlaySafeID/playsafe-id-community-plugins"
+    "PlaySafeID/playsafe-id-community-plugins",
+    "SeesAll/DayNightWeatherController",
+    "SeesAll/SmartCleanup"
   ]
 }
