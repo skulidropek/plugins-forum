@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-19T04:27:23.038Z",
-  "count": 49,
+  "generated_at": "2026-03-20T04:17:07.445Z",
+  "count": 50,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -23,6 +23,7 @@
     "build6477-ship-it/RustPluginsDumpWithAI",
     "db13256-hash/Rust-arena-plugin-leaderboard",
     "estxbvnnn/HardpointMode",
+    "estxbvnnn/Roam-Event-Rust",
     "estxbvnnn/TagsTwitchRivalsRust",
     "fuflik52/CloneRustApp",
     "fuflik52/NewApi",
