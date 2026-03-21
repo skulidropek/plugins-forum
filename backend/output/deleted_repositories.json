@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-03-20T04:17:07.445Z",
-  "count": 50,
+  "generated_at": "2026-03-21T04:08:03.884Z",
+  "count": 51,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -51,6 +51,7 @@
     "l0cks-acab/SAMSiteReach",
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
-    "ryanscarpelli/TradeLog"
+    "ryanscarpelli/TradeLog",
+    "st-little/rust-plugin-development"
   ]
 }
