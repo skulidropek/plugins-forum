@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-23T19:28:54.734Z",
-  "total_repositories_processed": 1434,
-  "successful_crawls": 1432,
+  "last_updated": "2026-03-23T20:05:20.326Z",
+  "total_repositories_processed": 1436,
+  "successful_crawls": 1434,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8611,24 +8611,36 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "GabrielTrigo/RustLegacyPlugins": {
+      "last_crawled": "2026-03-23T20:05:16.977Z",
+      "plugins_count": 223,
+      "success": true,
+      "errors": []
+    },
+    "GabrielTrigo/oxideplugins": {
+      "last_crawled": "2026-03-23T20:05:20.261Z",
+      "plugins_count": 682,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-03-18T05:01:10.586Z",
-      "completed_at": "2026-03-18T05:01:12.220Z",
-      "duration_ms": 1634
+      "started_at": "2026-03-23T20:05:09.116Z",
+      "completed_at": "2026-03-23T20:05:17.809Z",
+      "duration_ms": 8693
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1430,
+      "already_processed": 1434,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 223,
+      "new_plugins": 223
     }
   }
 }
