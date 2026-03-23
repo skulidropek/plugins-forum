@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-23T08:04:19.329Z",
-  "total_repositories_processed": 1433,
-  "successful_crawls": 1431,
+  "last_updated": "2026-03-23T19:28:54.734Z",
+  "total_repositories_processed": 1434,
+  "successful_crawls": 1432,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8602,6 +8602,12 @@
     },
     "jerkypaisen/DeepSeaAdmin": {
       "last_crawled": "2026-03-23T08:04:19.323Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "GabrielTrigo/Oxide.RustLegacy": {
+      "last_crawled": "2026-03-23T19:28:54.726Z",
       "plugins_count": 1,
       "success": true,
       "errors": []
