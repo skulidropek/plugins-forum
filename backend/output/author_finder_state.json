@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-23T13:49:39.562Z",
-  "current_author_index": 87,
+  "last_updated": "2026-03-23T19:28:15.189Z",
+  "current_author_index": 135,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-03-20T02:48:05.276Z",
@@ -447,125 +447,125 @@
       "success": true
     },
     "niekschoemaker": {
-      "last_processed": "2026-03-16T08:04:23.025Z",
+      "last_processed": "2026-03-23T19:10:47.119Z",
       "repositories_found": 8,
       "success": true
     },
     "BattleSheep94": {
-      "last_processed": "2026-03-16T08:04:53.859Z",
+      "last_processed": "2026-03-23T19:11:32.763Z",
       "repositories_found": 3,
       "success": true
     },
     "vick-kumar": {
-      "last_processed": "2026-03-16T08:05:11.453Z",
+      "last_processed": "2026-03-23T19:11:55.856Z",
       "repositories_found": 1,
       "success": true
     },
     "RustServers-IO": {
-      "last_processed": "2026-03-16T08:05:16.968Z",
+      "last_processed": "2026-03-23T19:12:02.182Z",
       "repositories_found": 2,
       "success": true
     },
     "openmailbox": {
-      "last_processed": "2026-03-16T08:05:46.115Z",
+      "last_processed": "2026-03-23T19:12:38.834Z",
       "repositories_found": 2,
       "success": true
     },
     "jacobcoughenour": {
-      "last_processed": "2026-03-16T13:51:43.993Z",
+      "last_processed": "2026-03-23T19:16:37.654Z",
       "repositories_found": 3,
       "success": true
     },
     "PsychoTea": {
-      "last_processed": "2026-03-16T13:52:31.913Z",
+      "last_processed": "2026-03-23T19:17:36.891Z",
       "repositories_found": 5,
       "success": true
     },
     "diametric": {
-      "last_processed": "2026-03-16T13:53:02.186Z",
+      "last_processed": "2026-03-23T19:18:17.731Z",
       "repositories_found": 2,
       "success": true
     },
     "Ryan-J-D": {
-      "last_processed": "2026-03-16T13:53:18.915Z",
+      "last_processed": "2026-03-23T19:18:37.202Z",
       "repositories_found": 5,
       "success": true
     },
     "i-love-code": {
-      "last_processed": "2026-03-16T13:54:05.934Z",
+      "last_processed": "2026-03-23T19:19:28.979Z",
       "repositories_found": 3,
       "success": true
     },
     "Skippeh": {
-      "last_processed": "2026-03-16T13:55:37.105Z",
+      "last_processed": "2026-03-23T19:21:16.456Z",
       "repositories_found": 4,
       "success": true
     },
     "byome": {
-      "last_processed": "2026-03-16T13:55:57.680Z",
+      "last_processed": "2026-03-23T19:21:38.687Z",
       "repositories_found": 3,
       "success": true
     },
     "zanderwar": {
-      "last_processed": "2026-03-16T13:56:02.657Z",
+      "last_processed": "2026-03-23T19:21:43.374Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (102)"
     },
     "davidc538": {
-      "last_processed": "2026-03-16T13:56:42.604Z",
+      "last_processed": "2026-03-23T19:22:25.546Z",
       "repositories_found": 2,
       "success": true
     },
     "DeusProx": {
-      "last_processed": "2026-03-16T13:57:14.849Z",
+      "last_processed": "2026-03-23T19:23:05.575Z",
       "repositories_found": 2,
       "success": true
     },
     "Hallonkaka": {
-      "last_processed": "2026-03-16T13:57:18.982Z",
+      "last_processed": "2026-03-23T19:23:10.890Z",
       "repositories_found": 1,
       "success": true
     },
     "Nogrod": {
-      "last_processed": "2026-03-16T13:58:04.224Z",
+      "last_processed": "2026-03-23T19:24:04.645Z",
       "repositories_found": 1,
       "success": true
     },
     "tolland": {
-      "last_processed": "2026-03-16T13:58:09.190Z",
+      "last_processed": "2026-03-23T19:24:09.908Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (105)"
     },
     "strykes": {
-      "last_processed": "2026-03-16T13:58:23.021Z",
+      "last_processed": "2026-03-23T19:24:25.631Z",
       "repositories_found": 2,
       "success": true
     },
     "ternpixel": {
-      "last_processed": "2026-03-16T13:58:54.268Z",
+      "last_processed": "2026-03-23T19:25:04.532Z",
       "repositories_found": 1,
       "success": true
     },
     "JonathanPorta": {
-      "last_processed": "2026-03-16T13:59:01.185Z",
+      "last_processed": "2026-03-23T19:25:11.529Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (187)"
     },
     "scorpyon": {
-      "last_processed": "2026-03-16T13:59:43.388Z",
+      "last_processed": "2026-03-23T19:25:57.160Z",
       "repositories_found": 1,
       "success": true
     },
     "QuetzalQatl": {
-      "last_processed": "2026-03-16T13:59:55.487Z",
+      "last_processed": "2026-03-23T19:26:10.885Z",
       "repositories_found": 1,
       "success": true
     },
     "pedroivorbgrodrigues": {
-      "last_processed": "2026-03-16T14:00:15.213Z",
+      "last_processed": "2026-03-23T19:26:34.788Z",
       "repositories_found": 2,
       "success": true
     },
@@ -738,7 +738,7 @@
       "success": true
     },
     "Crushedice": {
-      "last_processed": "2026-03-16T14:01:30.934Z",
+      "last_processed": "2026-03-23T19:28:05.849Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2132,8 +2132,8 @@
       "success": true
     },
     "its-snapple": {
-      "last_processed": "2026-03-16T19:18:53.999Z",
-      "repositories_found": 1,
+      "last_processed": "2026-03-23T19:27:34.329Z",
+      "repositories_found": 2,
       "success": true
     },
     "hopollo": {
@@ -2204,12 +2204,12 @@
       "success": true
     },
     "VoodooCor": {
-      "last_processed": "2026-03-16T19:18:21.208Z",
+      "last_processed": "2026-03-23T19:28:15.189Z",
       "repositories_found": 1,
       "success": true
     },
     "Juan321654": {
-      "last_processed": "2026-03-16T14:00:21.513Z",
+      "last_processed": "2026-03-23T19:28:12.148Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (160)"
@@ -2227,6 +2227,11 @@
     "PlaySafeID": {
       "last_processed": "2026-03-17T19:44:58.898Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "GabrielTrigo": {
+      "last_processed": "2026-03-23T19:27:28.759Z",
+      "repositories_found": 3,
       "success": true
     }
   },
@@ -3560,6 +3565,10 @@
     "PlaySafeID/playsafe-id-community-plugins",
     "SeesAll/DayNightWeatherController",
     "SeesAll/SmartCleanup",
-    "jerkypaisen/DeepSeaAdmin"
+    "jerkypaisen/DeepSeaAdmin",
+    "GabrielTrigo/Oxide.RustLegacy",
+    "GabrielTrigo/oxideplugins",
+    "GabrielTrigo/RustLegacyPlugins",
+    "its-snapple/Carbon"
   ]
 }
