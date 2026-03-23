@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-23T02:59:46.442Z",
+  "generated_at": "2026-03-23T07:45:20.805Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1329,
+  "count": 1330,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1054,6 +1054,7 @@
     "jerkypaisen/ChippyKing",
     "jerkypaisen/CreativityDump",
     "jerkypaisen/CustomBpDropOnly",
+    "jerkypaisen/DeepSeaAdmin",
     "jerkypaisen/EggArtist",
     "jerkypaisen/EzBpDropOnly",
     "jerkypaisen/ItemOwnerShipEdit",
