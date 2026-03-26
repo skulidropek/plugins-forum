@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-03-26T07:24:25.837Z",
+  "generated_at": "2026-03-26T13:50:20.754Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1334,
+  "count": 1335,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1298,6 +1298,7 @@
     "skulidropek/oxideplugins",
     "skulidropek/rust-template-240",
     "skulidropek/umod-pluigns-dataset",
+    "smarshall-rightside/Carbon",
     "soerr/github-to-rust",
     "spencermcw/rust-land-claim",
     "st-little/rust-plugin-development",

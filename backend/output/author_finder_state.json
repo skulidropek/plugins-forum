@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-03-26T07:24:25.836Z",
+  "last_updated": "2026-03-26T13:50:20.753Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2233,6 +2233,11 @@
       "last_processed": "2026-03-23T19:27:28.759Z",
       "repositories_found": 3,
       "success": true
+    },
+    "smarshall-rightside": {
+      "last_processed": "2026-03-26T13:50:18.742Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3569,6 +3574,7 @@
     "GabrielTrigo/Oxide.RustLegacy",
     "GabrielTrigo/oxideplugins",
     "GabrielTrigo/RustLegacyPlugins",
-    "its-snapple/Carbon"
+    "its-snapple/Carbon",
+    "smarshall-rightside/Carbon"
   ]
 }
