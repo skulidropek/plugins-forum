@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-23T20:05:20.326Z",
-  "total_repositories_processed": 1436,
-  "successful_crawls": 1434,
+  "last_updated": "2026-03-26T13:41:00.726Z",
+  "total_repositories_processed": 1437,
+  "successful_crawls": 1435,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8621,6 +8621,12 @@
     "GabrielTrigo/oxideplugins": {
       "last_crawled": "2026-03-23T20:05:20.261Z",
       "plugins_count": 682,
+      "success": true,
+      "errors": []
+    },
+    "smarshall-rightside/Carbon": {
+      "last_crawled": "2026-03-26T13:41:00.691Z",
+      "plugins_count": 7,
       "success": true,
       "errors": []
     }
