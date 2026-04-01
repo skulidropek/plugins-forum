@@ -1,7 +1,7 @@
 {
-  "last_updated": "2026-03-18T05:01:13.717Z",
-  "total_repositories_processed": 1432,
-  "successful_crawls": 1430,
+  "last_updated": "2026-03-26T15:10:55.868Z",
+  "total_repositories_processed": 1438,
+  "successful_crawls": 1436,
   "failed_crawls": 2,
   "processed_repositories": {
     "djimbou92/SimpleScrapShop": {
@@ -8599,24 +8599,60 @@
       "plugins_count": 1,
       "success": true,
       "errors": []
+    },
+    "jerkypaisen/DeepSeaAdmin": {
+      "last_crawled": "2026-03-23T08:04:19.323Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "GabrielTrigo/Oxide.RustLegacy": {
+      "last_crawled": "2026-03-23T19:28:54.726Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
+    },
+    "GabrielTrigo/RustLegacyPlugins": {
+      "last_crawled": "2026-03-23T20:05:16.977Z",
+      "plugins_count": 223,
+      "success": true,
+      "errors": []
+    },
+    "GabrielTrigo/oxideplugins": {
+      "last_crawled": "2026-03-23T20:05:20.261Z",
+      "plugins_count": 682,
+      "success": true,
+      "errors": []
+    },
+    "smarshall-rightside/Carbon": {
+      "last_crawled": "2026-03-26T13:41:00.691Z",
+      "plugins_count": 7,
+      "success": true,
+      "errors": []
+    },
+    "Eremith-s/ServerMonitorPlugin": {
+      "last_crawled": "2026-03-26T15:10:55.863Z",
+      "plugins_count": 1,
+      "success": true,
+      "errors": []
     }
   },
   "latest_session_statistics": {
     "crawl_session": {
-      "started_at": "2026-03-18T05:01:10.586Z",
-      "completed_at": "2026-03-18T05:01:12.220Z",
-      "duration_ms": 1634
+      "started_at": "2026-03-23T20:05:09.116Z",
+      "completed_at": "2026-03-23T20:05:17.809Z",
+      "duration_ms": 8693
     },
     "repositories": {
       "total_found": 0,
-      "already_processed": 1430,
+      "already_processed": 1434,
       "newly_processed": 1,
       "successful": 1,
       "failed": 0
     },
     "plugins": {
-      "total_found": 1,
-      "new_plugins": 1
+      "total_found": 223,
+      "new_plugins": 223
     }
   }
 }
