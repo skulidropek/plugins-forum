@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T12:52:38.796Z",
-  "current_author_index": 110,
+  "last_updated": "2026-05-01T18:50:51.217Z",
+  "current_author_index": 151,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-05-01T01:01:33.996Z",
@@ -565,12 +565,12 @@
       "success": true
     },
     "pedroivorbgrodrigues": {
-      "last_processed": "2026-03-23T19:26:34.788Z",
+      "last_processed": "2026-05-01T18:33:53.072Z",
       "repositories_found": 2,
       "success": true
     },
     "ZaeBallsa": {
-      "last_processed": "2026-03-20T19:04:01.383Z",
+      "last_processed": "2026-05-01T18:48:06.170Z",
       "repositories_found": 1,
       "success": true
     },
@@ -617,7 +617,7 @@
       "success": true
     },
     "13dasd123": {
-      "last_processed": "2026-03-20T02:57:29.961Z",
+      "last_processed": "2026-05-01T18:39:36.551Z",
       "repositories_found": 14,
       "success": true
     },
@@ -633,7 +633,7 @@
       "success": true
     },
     "Jake-Rich": {
-      "last_processed": "2026-03-20T02:58:38.441Z",
+      "last_processed": "2026-05-01T18:48:51.288Z",
       "repositories_found": 3,
       "success": true
     },
@@ -650,9 +650,10 @@
       "error": "Skipped - too many repositories (156)"
     },
     "skulidropek": {
-      "last_processed": "2026-03-20T02:54:55.045Z",
-      "repositories_found": 5,
-      "success": true
+      "last_processed": "2026-05-01T18:48:03.799Z",
+      "repositories_found": 0,
+      "success": true,
+      "error": "Skipped - too many repositories (102)"
     },
     "mkojoa": {
       "last_processed": "2026-03-20T07:22:41.897Z",
@@ -738,7 +739,7 @@
       "success": true
     },
     "Crushedice": {
-      "last_processed": "2026-03-23T19:28:05.849Z",
+      "last_processed": "2026-05-01T18:42:16.864Z",
       "repositories_found": 3,
       "success": true
     },
@@ -799,7 +800,7 @@
       "success": true
     },
     "Dpendable": {
-      "last_processed": "2026-03-20T19:09:54.407Z",
+      "last_processed": "2026-05-01T18:47:59.720Z",
       "repositories_found": 1,
       "success": true
     },
@@ -895,7 +896,7 @@
       "success": true
     },
     "RustopiaOfficial": {
-      "last_processed": "2026-03-21T18:55:59.268Z",
+      "last_processed": "2026-05-01T18:45:19.745Z",
       "repositories_found": 3,
       "success": true
     },
@@ -920,7 +921,7 @@
       "success": true
     },
     "WeirdPhrog": {
-      "last_processed": "2026-03-21T18:52:41.407Z",
+      "last_processed": "2026-05-01T18:43:58.028Z",
       "repositories_found": 2,
       "success": true
     },
@@ -980,8 +981,8 @@
       "success": true
     },
     "gettakaro": {
-      "last_processed": "2026-03-21T07:11:04.374Z",
-      "repositories_found": 1,
+      "last_processed": "2026-05-01T18:43:48.744Z",
+      "repositories_found": 2,
       "success": true
     },
     "david7-dev": {
@@ -1050,7 +1051,7 @@
       "success": true
     },
     "IIIaKa": {
-      "last_processed": "2026-03-20T19:16:36.458Z",
+      "last_processed": "2026-05-01T18:34:06.553Z",
       "repositories_found": 6,
       "success": true
     },
@@ -1065,7 +1066,7 @@
       "success": true
     },
     "setfps": {
-      "last_processed": "2026-03-21T07:20:04.368Z",
+      "last_processed": "2026-05-01T18:41:22.529Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1126,7 +1127,7 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2026-03-22T07:14:00.805Z",
+      "last_processed": "2026-05-01T18:50:48.012Z",
       "repositories_found": 5,
       "success": true
     },
@@ -1327,7 +1328,7 @@
       "success": true
     },
     "rust-app-io": {
-      "last_processed": "2026-03-20T02:57:54.343Z",
+      "last_processed": "2026-05-01T18:35:22.724Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1577,7 +1578,7 @@
       "success": true
     },
     "saramindra": {
-      "last_processed": "2026-03-20T02:57:50.072Z",
+      "last_processed": "2026-05-01T18:35:49.320Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1709,8 +1710,8 @@
       "success": true
     },
     "milestorme": {
-      "last_processed": "2026-03-22T19:06:23.269Z",
-      "repositories_found": 1,
+      "last_processed": "2026-05-01T18:35:17.763Z",
+      "repositories_found": 18,
       "success": true
     },
     "Pho3niX90": {
@@ -1882,7 +1883,7 @@
       "error": "Skipped - too many repositories (110)"
     },
     "gjdunga": {
-      "last_processed": "2026-03-24T02:50:15.082Z",
+      "last_processed": "2026-05-01T18:40:59.214Z",
       "repositories_found": 4,
       "success": true
     },
@@ -2022,7 +2023,7 @@
       "success": true
     },
     "orangemart": {
-      "last_processed": "2026-03-24T13:44:41.968Z",
+      "last_processed": "2026-05-01T18:36:06.435Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2067,8 +2068,8 @@
       "success": true
     },
     "dcdustin": {
-      "last_processed": "2026-03-24T02:57:05.441Z",
-      "repositories_found": 4,
+      "last_processed": "2026-05-01T18:44:24.374Z",
+      "repositories_found": 5,
       "success": true
     },
     "Eadris": {
@@ -2082,7 +2083,7 @@
       "success": true
     },
     "Ross-Ward": {
-      "last_processed": "2026-03-24T02:50:50.220Z",
+      "last_processed": "2026-05-01T18:36:44.317Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2097,7 +2098,7 @@
       "success": true
     },
     "AlexanderVolk25": {
-      "last_processed": "2026-03-25T19:09:08.821Z",
+      "last_processed": "2026-05-01T18:41:14.294Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2112,7 +2113,7 @@
       "success": true
     },
     "Enilgles": {
-      "last_processed": "2026-03-20T19:05:04.100Z",
+      "last_processed": "2026-05-01T18:35:59.605Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2132,12 +2133,12 @@
       "success": true
     },
     "its-snapple": {
-      "last_processed": "2026-03-23T19:27:34.329Z",
-      "repositories_found": 2,
+      "last_processed": "2026-05-01T18:47:13.167Z",
+      "repositories_found": 1,
       "success": true
     },
     "hopollo": {
-      "last_processed": "2026-03-24T19:19:24.020Z",
+      "last_processed": "2026-05-01T18:50:38.673Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2173,8 +2174,8 @@
       "success": true
     },
     "lagzya-dev": {
-      "last_processed": "2026-03-21T18:52:34.063Z",
-      "repositories_found": 3,
+      "last_processed": "2026-05-01T18:46:27.272Z",
+      "repositories_found": 4,
       "success": true
     },
     "UnrealSalty": {
@@ -2183,7 +2184,7 @@
       "success": true
     },
     "0xF1o": {
-      "last_processed": "2026-03-24T19:18:28.657Z",
+      "last_processed": "2026-05-01T18:39:41.101Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (160)"
@@ -2204,7 +2205,7 @@
       "success": true
     },
     "VoodooCor": {
-      "last_processed": "2026-03-23T19:28:15.189Z",
+      "last_processed": "2026-05-01T18:49:36.583Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2235,7 +2236,72 @@
       "success": true
     },
     "smarshall-rightside": {
-      "last_processed": "2026-03-26T13:50:18.742Z",
+      "last_processed": "2026-05-01T18:45:03.732Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "PenguinzTech": {
+      "last_processed": "2026-05-01T18:34:31.491Z",
+      "repositories_found": 2,
+      "success": true
+    },
+    "S1gil0": {
+      "last_processed": "2026-05-01T18:34:40.401Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "thetimmyman": {
+      "last_processed": "2026-05-01T18:35:26.174Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "networkluki": {
+      "last_processed": "2026-05-01T18:40:41.469Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "trentbredahl-sudo": {
+      "last_processed": "2026-05-01T18:40:45.339Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "gmoddev": {
+      "last_processed": "2026-05-01T18:43:27.002Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "LoneWolfRust": {
+      "last_processed": "2026-05-01T18:43:30.418Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "NoxiousPluK": {
+      "last_processed": "2026-05-01T18:47:09.608Z",
+      "repositories_found": 2,
+      "success": true
+    },
+    "xADROCx1": {
+      "last_processed": "2026-05-01T18:49:03.927Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "Tomaxikz": {
+      "last_processed": "2026-05-01T18:49:17.512Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "jcdrqtx": {
+      "last_processed": "2026-05-01T18:49:27.586Z",
+      "repositories_found": 2,
+      "success": true
+    },
+    "TGWA0": {
+      "last_processed": "2026-05-01T18:49:31.701Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "Eremith-s": {
+      "last_processed": "2026-05-01T18:50:51.217Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3577,6 +3643,43 @@
     "its-snapple/Carbon",
     "smarshall-rightside/Carbon",
     "ilovepatatos-rust/oxide-core",
-    "jerkypaisen/SplatSpray"
+    "jerkypaisen/SplatSpray",
+    "PenguinzTech/penguin-rust-base",
+    "PenguinzTech/penguin-rust-plugins",
+    "S1gil0/RustAI",
+    "milestorme/BetterLoot",
+    "milestorme/Clans",
+    "milestorme/CraftingController",
+    "milestorme/CustomIcon",
+    "milestorme/Customizable-Extended-Magazines",
+    "milestorme/DangerousTreasures",
+    "milestorme/FurnaceManager",
+    "milestorme/GatherManager",
+    "milestorme/GuardedCrates",
+    "milestorme/HeliControl",
+    "milestorme/NPCSpawn",
+    "milestorme/RaidAlarm",
+    "milestorme/RustStormRank",
+    "milestorme/RustStormWelcome",
+    "milestorme/RustStormWipeWebhook",
+    "milestorme/SimpleHomes",
+    "milestorme/TimeOfDay",
+    "thetimmyman/WH40K-Rust-Plugin",
+    "networkluki/Rust-Work-Project-networkluki",
+    "trentbredahl-sudo/Rust_Sandbox_Mod",
+    "gmoddev/RustPluginsPublic",
+    "LoneWolfRust/SleeperCheck",
+    "gettakaro/connectors",
+    "dcdustin/Carbon",
+    "lagzya-dev/Carbon",
+    "NoxiousPluK/Oxide.Rust",
+    "NoxiousPluK/RustTelegramAPI",
+    "xADROCx1/misfits-studios-site",
+    "Tomaxikz/Plugin-for-player-manager",
+    "jcdrqtx/rust-template",
+    "jcdrqtx/WebServerPanel",
+    "TGWA0/BetterLoot-UMod",
+    "VoodooCor/NpcSpawnAutoManager",
+    "Eremith-s/ServerMonitorPlugin"
   ]
 }
