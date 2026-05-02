@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-01T18:50:51.217Z",
-  "current_author_index": 151,
+  "last_updated": "2026-05-02T01:15:51.561Z",
+  "current_author_index": 183,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-05-01T01:01:33.996Z",
@@ -575,20 +575,20 @@
       "success": true
     },
     "alexanderndev": {
-      "last_processed": "2026-03-20T19:04:04.836Z",
+      "last_processed": "2026-05-02T01:01:26.814Z",
       "repositories_found": 1,
       "success": true
     },
     "Hardcore-fs": {
-      "last_processed": "2026-03-20T19:04:25.803Z",
-      "repositories_found": 3,
+      "last_processed": "2026-05-02T01:01:22.570Z",
+      "repositories_found": 0,
       "success": true
     },
     "Willdiedog": {
-      "last_processed": "2026-03-20T19:04:15.698Z",
+      "last_processed": "2026-05-02T01:01:22.474Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (297)"
+      "error": "Skipped - too many repositories (298)"
     },
     "scarecr0w12": {
       "last_processed": "2026-03-20T03:01:51.780Z",
@@ -602,7 +602,7 @@
       "error": "Skipped - too many repositories (7088)"
     },
     "Rahulsinghz": {
-      "last_processed": "2026-03-20T03:06:30.958Z",
+      "last_processed": "2026-05-02T01:02:13.726Z",
       "repositories_found": 2,
       "success": true
     },
@@ -628,7 +628,7 @@
       "error": "Skipped - too many repositories (505)"
     },
     "Remod-org": {
-      "last_processed": "2026-03-20T19:07:17.012Z",
+      "last_processed": "2026-05-02T01:07:35.384Z",
       "repositories_found": 82,
       "success": true
     },
@@ -638,10 +638,10 @@
       "success": true
     },
     "bmgjet": {
-      "last_processed": "2026-03-20T07:17:45.525Z",
+      "last_processed": "2026-05-02T00:56:04.359Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (121)"
+      "error": "Skipped - too many repositories (122)"
     },
     "yetzt": {
       "last_processed": "2026-03-21T02:43:47.441Z",
@@ -676,7 +676,7 @@
       "success": true
     },
     "MrBlue": {
-      "last_processed": "2026-03-20T19:10:44.837Z",
+      "last_processed": "2026-05-02T01:01:09.765Z",
       "repositories_found": 4,
       "success": true
     },
@@ -697,7 +697,7 @@
       "success": true
     },
     "scorteanucosmin": {
-      "last_processed": "2026-03-20T19:04:55.636Z",
+      "last_processed": "2026-05-02T01:05:47.566Z",
       "repositories_found": 3,
       "success": true
     },
@@ -825,7 +825,7 @@
       "success": true
     },
     "shady14u": {
-      "last_processed": "2026-03-21T07:00:35.421Z",
+      "last_processed": "2026-05-02T01:11:28.127Z",
       "repositories_found": 8,
       "success": true
     },
@@ -865,12 +865,12 @@
       "success": true
     },
     "achrafthedev": {
-      "last_processed": "2026-03-20T19:14:52.777Z",
+      "last_processed": "2026-05-02T01:00:01.156Z",
       "repositories_found": 1,
       "success": true
     },
     "EReis0": {
-      "last_processed": "2026-03-21T07:06:54.101Z",
+      "last_processed": "2026-05-02T01:01:18.309Z",
       "repositories_found": 1,
       "success": true
     },
@@ -891,7 +891,7 @@
       "success": true
     },
     "Visagalis": {
-      "last_processed": "2026-03-20T02:59:00.302Z",
+      "last_processed": "2026-05-02T01:06:10.531Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1192,7 +1192,7 @@
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2026-03-21T18:56:19.308Z",
+      "last_processed": "2026-05-02T01:00:20.633Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1333,7 +1333,7 @@
       "success": true
     },
     "admin4eg": {
-      "last_processed": "2026-03-24T02:50:29.021Z",
+      "last_processed": "2026-05-02T01:12:07.869Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1715,7 +1715,7 @@
       "success": true
     },
     "Pho3niX90": {
-      "last_processed": "2026-03-20T19:08:54.414Z",
+      "last_processed": "2026-05-02T01:11:03.275Z",
       "repositories_found": 4,
       "success": true
     },
@@ -2013,7 +2013,7 @@
       "success": true
     },
     "yuikeasa": {
-      "last_processed": "2026-03-20T02:59:03.705Z",
+      "last_processed": "2026-05-02T01:13:58.489Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2108,7 +2108,7 @@
       "success": true
     },
     "db13256-hash": {
-      "last_processed": "2026-03-20T02:57:59.393Z",
+      "last_processed": "2026-05-02T01:12:12.880Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2118,7 +2118,7 @@
       "success": true
     },
     "xrevoltsx": {
-      "last_processed": "2026-03-21T18:53:23.027Z",
+      "last_processed": "2026-05-02T01:13:24.009Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2148,28 +2148,28 @@
       "success": true
     },
     "dextermyles": {
-      "last_processed": "2026-03-21T18:54:19.801Z",
+      "last_processed": "2026-05-02T01:15:51.561Z",
       "repositories_found": 1,
       "success": true
     },
     "SNiTEBoBy": {
-      "last_processed": "2026-03-24T02:53:20.982Z",
+      "last_processed": "2026-05-02T01:14:57.957Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (6949)"
+      "error": "Skipped - too many repositories (6952)"
     },
     "Hetachi": {
-      "last_processed": "2026-03-24T02:51:11.874Z",
+      "last_processed": "2026-05-02T01:13:55.030Z",
       "repositories_found": 1,
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-03-25T02:56:56.220Z",
-      "repositories_found": 14,
+      "last_processed": "2026-05-02T01:12:43.606Z",
+      "repositories_found": 15,
       "success": true
     },
     "Fritoqc": {
-      "last_processed": "2026-03-25T13:44:04.327Z",
+      "last_processed": "2026-05-02T01:12:25.355Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2179,7 +2179,7 @@
       "success": true
     },
     "UnrealSalty": {
-      "last_processed": "2026-03-24T02:50:33.231Z",
+      "last_processed": "2026-05-02T01:12:18.067Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2190,17 +2190,17 @@
       "error": "Skipped - too many repositories (160)"
     },
     "RobinPlay-2025": {
-      "last_processed": "2026-03-20T13:20:31.219Z",
+      "last_processed": "2026-05-02T01:05:05.268Z",
       "repositories_found": 2,
       "success": true
     },
     "bsk193": {
-      "last_processed": "2026-03-20T19:06:11.067Z",
+      "last_processed": "2026-05-02T01:04:48.096Z",
       "repositories_found": 1,
       "success": true
     },
     "features-not-bugs": {
-      "last_processed": "2026-03-20T19:09:14.687Z",
+      "last_processed": "2026-05-02T01:11:51.659Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2210,29 +2210,29 @@
       "success": true
     },
     "Juan321654": {
-      "last_processed": "2026-03-23T19:28:12.148Z",
+      "last_processed": "2026-05-02T01:11:11.583Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (160)"
     },
     "scardotdev": {
-      "last_processed": "2026-03-24T19:18:21.437Z",
+      "last_processed": "2026-05-02T01:11:06.467Z",
       "repositories_found": 1,
       "success": true
     },
     "Teoory": {
-      "last_processed": "2026-03-25T02:56:39.481Z",
+      "last_processed": "2026-05-02T01:09:12.077Z",
       "repositories_found": 1,
       "success": true
     },
     "PlaySafeID": {
-      "last_processed": "2026-03-25T02:54:59.526Z",
+      "last_processed": "2026-05-02T01:03:17.074Z",
       "repositories_found": 1,
       "success": true
     },
     "GabrielTrigo": {
-      "last_processed": "2026-03-23T19:27:28.759Z",
-      "repositories_found": 3,
+      "last_processed": "2026-05-02T01:03:13.942Z",
+      "repositories_found": 5,
       "success": true
     },
     "smarshall-rightside": {
@@ -3680,6 +3680,9 @@
     "jcdrqtx/WebServerPanel",
     "TGWA0/BetterLoot-UMod",
     "VoodooCor/NpcSpawnAutoManager",
-    "Eremith-s/ServerMonitorPlugin"
+    "Eremith-s/ServerMonitorPlugin",
+    "GabrielTrigo/CSharp",
+    "GabrielTrigo/Old-Rust-Legacy-Plugins",
+    "SeesAll/AutoDoors-Enhanced"
   ]
 }

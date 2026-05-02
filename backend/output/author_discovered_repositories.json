@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-01T18:50:51.218Z",
+  "generated_at": "2026-05-02T01:15:51.561Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1374,
+  "count": 1377,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -116,6 +116,8 @@
     "FtuoilXelrash/rServerMessages",
     "GFLClan/Rust-User-Management",
     "GTJono/RustChess",
+    "GabrielTrigo/CSharp",
+    "GabrielTrigo/Old-Rust-Legacy-Plugins",
     "GabrielTrigo/Oxide.RustLegacy",
     "GabrielTrigo/RustLegacyPlugins",
     "GabrielTrigo/oxideplugins",
@@ -453,6 +455,7 @@
     "Ryan-J-D/Rust-Item-IDs",
     "Ryan-J-D/Vanish",
     "S1gil0/RustAI",
+    "SeesAll/AutoDoors-Enhanced",
     "SeesAll/BetterChat-Optimized",
     "SeesAll/BetterChatMute-Enhanced",
     "SeesAll/BlueprintShare-Fixed",
