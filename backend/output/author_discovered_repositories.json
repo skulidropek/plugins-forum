@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-03T18:47:34.497Z",
+  "generated_at": "2026-05-04T01:11:50.547Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1380,
+  "count": 1381,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -85,6 +85,7 @@
     "Eoin-McCartan/RustyRockets",
     "Eremith-s/ServerMonitorPlugin",
     "ErikGrischuk/Entity-Cleaner",
+    "ErikGrischuk/Tranquility-PvE-Commits",
     "Fayozjon/BanSystem",
     "Feramor/Oxide",
     "Feverr92/QuickSmelt",
