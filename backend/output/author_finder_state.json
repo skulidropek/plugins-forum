@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T01:11:50.547Z",
+  "last_updated": "2026-05-04T07:18:46.289Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1818,7 +1818,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-03-20T07:15:19.787Z",
+      "last_processed": "2026-05-04T07:17:07.703Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2305,6 +2305,21 @@
     "Eremith-s": {
       "last_processed": "2026-05-01T18:50:51.217Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "dactDMA": {
+      "last_processed": "2026-05-04T07:16:44.829Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "PationPrime": {
+      "last_processed": "2026-05-04T07:17:04.412Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "maxijonson": {
+      "last_processed": "2026-05-04T07:18:44.278Z",
+      "repositories_found": 2,
       "success": true
     }
   },
@@ -3689,6 +3704,10 @@
     "FtuoilXelrash/rBumShacks",
     "cashr17/Carbon.Ext.DllLoader",
     "Flash-Ticker/cfg",
-    "ErikGrischuk/Tranquility-PvE-Commits"
+    "ErikGrischuk/Tranquility-PvE-Commits",
+    "dactDMA/rust-prefabs",
+    "PationPrime/RustServerDataPlugin",
+    "maxijonson/broadcast-preferences",
+    "maxijonson/uMod-Quests"
   ]
 }
