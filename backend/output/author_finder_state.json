@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-04T18:45:27.866Z",
+  "last_updated": "2026-05-05T00:54:14.393Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2326,6 +2326,11 @@
       "last_processed": "2026-05-04T12:47:55.377Z",
       "repositories_found": 1,
       "success": true
+    },
+    "whitecristafer": {
+      "last_processed": "2026-05-05T00:54:12.381Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3714,6 +3719,7 @@
     "PationPrime/RustServerDataPlugin",
     "maxijonson/broadcast-preferences",
     "maxijonson/uMod-Quests",
-    "AntoineRatoUniversity/RustPatreonAPI"
+    "AntoineRatoUniversity/RustPatreonAPI",
+    "whitecristafer/AutoAnnounce"
   ]
 }
