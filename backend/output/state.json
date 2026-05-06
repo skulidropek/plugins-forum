@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
+  "currentVariant": 20,
   "currentPage": 9,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -7539,7 +7539,18 @@
     "OxideMod/oxidemod.org#threads/registering-permissions-c.14733/index.html#15c780e341473261ac9ff903cb7ae0a7ea25b4f8": true,
     "Ghenghis/Rust-AI-Base-Builder2#RUST-Plugins/Lockoven.cs#184ac0b3b5aaed7ac580b7e5154cce0fe33ed69c": true,
     "Remod-org/Omnibus#Omnibus.cs#171a21d4617e6f3178e7929a5cf0201edcbc89cc": true,
-    "OxideMod/oxidemod.org#threads/calling-a-hook-in-nested-type.24609/index.html#1960121e3f70e44f993a20d04ba13ef5de2cde6d": true
+    "OxideMod/oxidemod.org#threads/calling-a-hook-in-nested-type.24609/index.html#1960121e3f70e44f993a20d04ba13ef5de2cde6d": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/BolotoRust/BHair.cs#0da86de91c79bad784322a1101156d412b05f6ae": true,
+    "13dasd123/RustPlugins#TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/InfoMenu.cs#13aa954a982d7abcb1d848049b1189ce4ce6d881": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/HudRust/WipeSchedule.cs#0ea77d138a8431be13644cbf6d83ced8261046bc": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/ChopperSurvival.cs#12911d3934f3eadc61643e029414032451d95bae": true,
+    "Enilgles/pluginsrust#BeeRust/AntiRB.cs#141e78aca7606ab721262be2e3d9add96a0a77d9": true,
+    "dassjosh/DiscordExtensionBeta#Plugins/2.0/DiscordPM/DiscordPM.cs#11b8a72f37c58ed1c0d623c0dc3dd1e29045dc42": true,
+    "13dasd123/RustPlugins#all ready server plugins v1.0/RandomCases-0.0.1.cs#1282fad7d5fd32677d456ddf5984ea4bf77a8be5": true,
+    "13dasd123/RustPlugins#Minimal/Сборка Minimal/ShopSystem.cs#0fa6d3628e2870c374ec87b4fdba178590ff5e30": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/WoundedLogo.cs#13b8435e88f48bdd3db0b2ecc75c019eaf1804e9": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/WoundedLogo.cs#13b8435e88f48bdd3db0b2ecc75c019eaf1804e9": true,
+    "Enilgles/pluginsrust#Help.cs#1ad4c293bc4afd59c94f908fc6eed532d7662bf0": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
