@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 20,
-  "currentPage": 8,
+  "currentVariant": 21,
+  "currentPage": 1,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -6912,7 +6912,10 @@
     "Enilgles/pluginsrust#FortWars.cs#6887ee95722f1a21233a4ad49dc251eaabe27327": true,
     "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/Antiddos.cs#a16290ee831d8f542ef4909e2074945470d28d64": true,
     "Enilgles/pluginsrust#AutoDecay.cs#7e915d22a4f8a2bef94cf1c707ffa646b3919e3a": true,
-    "13dasd123/RustPlugins#9f39f732327930da/сборка саншайна/plugins/AdminESP.cs#399a68fc10a8f4f29f4548ca690e91780f461e9a": true
+    "13dasd123/RustPlugins#9f39f732327930da/сборка саншайна/plugins/AdminESP.cs#399a68fc10a8f4f29f4548ca690e91780f461e9a": true,
+    "k1lly0u/Oxide#UEconomics.cs#0ecf3c43d066d1458822915a52dc00653c09494d": true,
+    "0xF1o/random-free-rustplugins#NWGConfigEditor.cs#174f392fb381981820bd5292e4992d43c50d2205": true,
+    "john-clark/rust-oxide-umod#old/plugins/universal/WelcomeMessages.cs#177ac85111e24cea25e7b6b75e304c0bca8715ac": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
