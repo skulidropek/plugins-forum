@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 17,
-  "currentPage": 3,
+  "currentPage": 10,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -6865,7 +6865,18 @@
     "Crushedice/LatestPlugins#rust/TrollTax.cs#6e1c8127fa309d2e4127be677230ce36bc9cd6df": true,
     "Enilgles/pluginsrust#TrollTax.cs#6e1c8127fa309d2e4127be677230ce36bc9cd6df": true,
     "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/RustMenu.cs#04652b2065e7e4bbd7d250bee59964b30cb17913": true,
-    "Calytic/oxideplugins#rust/ZoneCommand.cs#0441fbf65a73e847ecfa69d43921ad55c614c986": true
+    "Calytic/oxideplugins#rust/ZoneCommand.cs#0441fbf65a73e847ecfa69d43921ad55c614c986": true,
+    "publicrust/umod-pluigns-dataset#plugins/T/TranslationAPI/TranslationAPI.cs#036fb0e1fab76666cbca0a962f35b4cd3cc71254": true,
+    "PRISM-Servers/plugins_public#plugins/BoxLooter.cs#00a36e18babf4ce3f8da1f8a7cc60c8602943345": true,
+    "Enilgles/pluginsrust#DVMenu.cs#0555a00e892e46ff9dc6e65b24ee27f914365c54": true,
+    "publicrust/umod-pluigns-dataset#plugins/B/BetterElevators/BetterElevators.cs#03acdc726879a6c4b01bad5d549f46a72ff46094": true,
+    "13dasd123/RustPlugins#FlashBack/FlashBack/plugins/BuildingUpgrade.cs#042e730f750516f70dab3d4dce96dfaa57573779": true,
+    "Enilgles/pluginsrust#HudRust/DVMenu.cs#0555a00e892e46ff9dc6e65b24ee27f914365c54": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/BetterLoot.cs#0bdf8032387ab0c224fd99d69ea2d8c3362487ab": true,
+    "Enilgles/pluginsrust#BeeRust/Obmen.cs#0c87bb6f33c41da1d0469c6f2b802ebfc3466a4b": true,
+    "RustServers-IO/oxideplugins#reign of kings/Hulk.cs#06b34f8c4bc333f75a4e037496f25d9969e7b4e7": true,
+    "RustServers-IO/oxideplugins#universal/UEconomics.cs#0ecf3c43d066d1458822915a52dc00653c09494d": true,
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/BuildingGrades.cs#0e14756039249bdfb7826ed3cf1f93da0e7eaa9a": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
