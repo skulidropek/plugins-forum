@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 10,
-  "currentPage": 3,
+  "currentPage": 4,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -5096,7 +5096,17 @@
     "Enilgles/pluginsrust#OnlinePlus.cs#5cbbc91f23c3f7f2cde376d8bdc6bebe0309f3ca": true,
     "PenisBlistashiq/Rust-plugins-236-240-dev#NameRewards.cs#a9eddc31abf92e26166ab4bf4d07c3fecbce7270": true,
     "rustcommunity/OxidePlugins#Rust/ConnectionLimiter.cs#ab23e4f7516566a4a46d008f8be068031f758fc2": true,
-    "PenisBlistashiq/Rust-plugins-236-240-dev#Vendor Block v1.0.0/VendorBlock-1.0.0.cs#82a166bb20f1e410510dd7fe339a0aa32fc3a001": true
+    "PenisBlistashiq/Rust-plugins-236-240-dev#Vendor Block v1.0.0/VendorBlock-1.0.0.cs#82a166bb20f1e410510dd7fe339a0aa32fc3a001": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/BedRenameBlocker.cs#15af3d631f23cec1385cd325db2e281bfa783437": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/DevblogAnnouncer.cs#18fb626c47a30d1ec6bb43f8a0f466d8dd7aa2e5": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/ProtocolKickInfo.cs#1b407665bd1cc9e28dc39da08a976c60d2b202da": true,
+    "13dasd123/RustPlugins#Moscow.OVH/oxide/plugins/StashWarning.cs#0c461e8193eaef8f86b4c59bb9a06b3502fd299f": true,
+    "Enilgles/pluginsrust#RulesGUI.cs#02cbaca014fa7c90614e1f5e8781f873b1ef67e4": true,
+    "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/DamageExplosiveSettings.cs#15ff0412f659bf0484eec25fdb01eb227e1419e5": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/CraftSpamBlocker.cs#1bb0c7e261917d00df9d41578be9a2400cecbb0a": true,
+    "13dasd123/RustPlugins#Moscow.OVH/oxide/plugins/GoldSkull.cs#05c7f7ecdb4316968ba77902552fb02a97be3210": true,
+    "13dasd123/RustPlugins#FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/kryNickReward.cs#1aa3a332ebc2143916985f3b434adc48216eb87d": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/AutomatedEvents.cs#1059dacd43812b4b8f8fada17e8846eb858dd812": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
