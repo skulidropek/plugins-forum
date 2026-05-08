@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 17,
-  "currentPage": 2,
+  "currentPage": 6,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -7332,7 +7332,25 @@
     "13dasd123/RustPlugins#by.kacatski/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
     "13dasd123/RustPlugins#Жирный раст/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
     "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
-    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "PenisBlistashiq/Rust-plugins-236-240-dev#plugins/XSkinMenu.cs#5a70f4245e415312a5fd06d6c436e108bc2c2103": true,
+    "PenisBlistashiq/Rust-plugins-236-240-dev#plugins1/XSkinMenu.cs#5a70f4245e415312a5fd06d6c436e108bc2c2103": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/BGrade.cs#b5dbb517f67d9059c64ef9f19b7dd3f95e6dfa0e": true,
+    "abolfazl3133/leaked_new_rust_plugins_AI_Dumped#NoEscape(1).cs#d8957a40343aa68024dd17e9df6254e0315bdb95": true,
+    "Ross-Ward/Oxide#plugins/NWGStacks.cs#e35b64d4764f8174fea85f94da9b4c2ecceaf0f0": true,
+    "Crushedice/LatestPlugins#rust/MagicChat.cs#783b886350827a0ac49ca02c996adfdd3d33ab07": true,
+    "Enilgles/pluginsrust#MagicChat.cs#783b886350827a0ac49ca02c996adfdd3d33ab07": true,
+    "13dasd123/RustPlugins#all ready server plugins v1.0/Economics-3.8.5.cs#e25f0f5b44e786379a7f77bc2d65f4ce1ed6471f": true,
+    "RustServers-IO/oxideplugins#reign of kings/InventoryInfo.cs#00bdb0b8cbf9e2776b69cc995ade29eeec8a265e": true,
+    "RustServers-IO/oxideplugins#7 days to die/Teleport.cs#047b091aa1faca7137aa33ce32c4b42ca9d1c355": true,
+    "13dasd123/SlivPlugins#ArenaCTF.cs#06b4d4c4a1408499db8f5eec53a3ee00be14d51d": true,
+    "13dasd123/RustPlugins#Dayz_Rust/oxide parasha/plugins/IQTurret.cs#026fcc1eea7539e34289a0fa4673a58176381c54": true,
+    "RustServers-IO/oxideplugins#rust/Martyrdom.cs#05a111451b2c145c75314c1d3f5d2f4dd8ddb0c0": true,
+    "13dasd123/SlivPlugins#Arena/ArenaCTF.cs#06b4d4c4a1408499db8f5eec53a3ee00be14d51d": true,
+    "13dasd123/SlivPlugins#Arena 2.0.29_upd_lts_oxide +RDP/Arena 2.0.29_upd_lts_oxide/ArenaCTF.cs#06b4d4c4a1408499db8f5eec53a3ee00be14d51d": true,
+    "13dasd123/RustPlugins#Dota_Rust/oxide parasha/plugins/IQTurret.cs#026fcc1eea7539e34289a0fa4673a58176381c54": true,
+    "13dasd123/RustPlugins#RUSSIA_RUST/RUSSIA RUST/oxide/plugins/IQTurret.cs#026fcc1eea7539e34289a0fa4673a58176381c54": true,
+    "k1lly0u/Oxide#Martyrdom.cs#05a111451b2c145c75314c1d3f5d2f4dd8ddb0c0": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
