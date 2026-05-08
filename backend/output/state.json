@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 16,
-  "currentPage": 8,
+  "currentPage": 10,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -7320,7 +7320,19 @@
     "OxideMod/oxidemod.org#threads/eventmanager.6162/page-72.html#1a05f794c0679cfa5025f283ae03d0dac63f9d0c": true,
     "Ghenghis/Auto-Base-Builder#docs/AI-Implementation-Blueprint.md#161383e861cc64819bdd1e68ee68b246638b00e0": true,
     "13dasd123/RustPlugins#all ready server plugins v1.0/RaidNotes-0.0.3.cs#1620a70ab2d7ba75c906bdb56f934c77d551dc0a": true,
-    "abolfazl3133/leaked_new_rust_plugins_AI_Dumped#WipeBlock(1).cs#150ec746a78f9f2f8e208c89a89fd7f522ef4508": true
+    "abolfazl3133/leaked_new_rust_plugins_AI_Dumped#WipeBlock(1).cs#150ec746a78f9f2f8e208c89a89fd7f522ef4508": true,
+    "RustWipeDay/RustWipeDay#plugins/LeaderboardGuiOld.cs#13f8fe6e27648a03debbe14407a6600dd7b001ea": true,
+    "13dasd123/RustPlugins#PUNKRUST/PUNKRUST/oxide/plugins/EconomicsEvo.cs#147202b40056e9c777224754f46d36716bcf5509": true,
+    "read-0nly/Rust-coop-survival#Oxide/plugins/MonuNet.cs#14a3787818d2af6212c1110e6fc6b9105dc9d8f0": true,
+    "13dasd123/RustPlugins#by.kacatski/Жирный раст/oxide/plugins/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "13dasd123/SlivPlugins#AnticheatPlus.cs#14ad60b73bc69a2e0106a29e536e01ececa3f2a9": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/AutoKit.cs#154eaf9bddd41790b8ff9f5e0a091fe52141b30f": true,
+    "13dasd123/SlivPlugins#Genie.cs#11786eed3e7780428aea95d1eadd146308c35360": true,
+    "publicrust/umod-pluigns-dataset#plugins/B/BlueprintManager/BlueprintManager.cs#15790b59e63bf509413d93bd76fb20bd729662ea": true,
+    "13dasd123/RustPlugins#by.kacatski/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "13dasd123/RustPlugins#Жирный раст/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins_old/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
