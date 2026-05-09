@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-09T01:17:17.346Z",
+  "generated_at": "2026-05-09T07:14:39.865Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1389,
+  "count": 1390,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1076,6 +1076,7 @@
     "jacobmstein/Kits",
     "jacobmstein/Oxide.Core",
     "jcdrqtx/WebServerPanel",
+    "jcdrqtx/bloodmenu",
     "jcdrqtx/rust-template",
     "jchernin4/AimTraining",
     "jchernin4/Stats",
