@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 20,
-  "currentPage": 8,
+  "currentVariant": 21,
+  "currentPage": 1,
   "seenKeys": {
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
     "Calytic/oxideplugins#rust/PM.cs#4da8c3aacaf83dbe25a7e7cd20ac167e2b470404": true,
@@ -7555,7 +7555,11 @@
     "MrBlue/oxidemod.org#threads/eventmanager.6162/page-96.html#0c647d0d6c31dbefe580459b110ba7abf091639d": true,
     "osirislab/LeakyPastes-V2#pastes/pastes_20240616060540.csv#1131a79b084ae4d0e6bcfbf5121406b78c25a21e": true,
     "OxideMod/oxidemod.org#threads/namespace-newtonsoft-not-found.30785/index.html#1507aa1cf195d534f5a199620846167b4348340a": true,
-    "publicrust/umod-pluigns-dataset#plugins/C/CarCommanderLite/CarCommanderLite.cs#129f25f0e1334f90efaa432e619a20fee0b155d9": true
+    "publicrust/umod-pluigns-dataset#plugins/C/CarCommanderLite/CarCommanderLite.cs#129f25f0e1334f90efaa432e619a20fee0b155d9": true,
+    "RustServers-IO/oxideplugins#rust/Skins.cs#19ef3a1781097bf7308ea9aa60ab41e5e804ee91": true,
+    "john-clark/rust-oxide-umod#old/plugins/other/MyMiniCopter.cs#1d3455bcfc4a67cf682899d1e41d5fbd82b600b9": true,
+    "Calytic/oxideplugins#rust/XPManager.cs#1caf471e80461b0e64383cc1fc83d9e7510cccf7": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/BedShare.cs#180de6f23fa5d21fc2edcaf8ad53241fa2b54d00": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
