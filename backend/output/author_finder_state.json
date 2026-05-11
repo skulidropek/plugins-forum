@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-11T07:35:14.441Z",
+  "last_updated": "2026-05-11T13:17:36.425Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1818,7 +1818,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-05-04T07:17:07.703Z",
+      "last_processed": "2026-05-11T13:15:51.468Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2308,22 +2308,22 @@
       "success": true
     },
     "dactDMA": {
-      "last_processed": "2026-05-04T07:16:44.829Z",
+      "last_processed": "2026-05-11T13:15:28.296Z",
       "repositories_found": 1,
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-05-04T07:17:04.412Z",
+      "last_processed": "2026-05-11T13:15:48.127Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-05-04T07:18:44.278Z",
+      "last_processed": "2026-05-11T13:17:34.416Z",
       "repositories_found": 2,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-05-04T12:47:55.377Z",
+      "last_processed": "2026-05-11T13:15:07.150Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2334,6 +2334,16 @@
     },
     "ShiroKSH": {
       "last_processed": "2026-05-09T01:06:37.511Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "leo-lizi": {
+      "last_processed": "2026-05-11T13:14:25.062Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "mazurk4": {
+      "last_processed": "2026-05-11T13:14:31.799Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3728,6 +3738,8 @@
     "whitecristafer/AutoAnnounce",
     "HunterZ/Carbon",
     "ShiroKSH/rust-plugins",
-    "jcdrqtx/bloodmenu"
+    "jcdrqtx/bloodmenu",
+    "leo-lizi/rust-bloodhunt",
+    "mazurk4/rust-game-beginnerguard"
   ]
 }

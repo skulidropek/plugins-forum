@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-11T07:35:14.442Z",
+  "generated_at": "2026-05-11T13:17:36.426Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1390,
+  "count": 1392,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1168,6 +1168,7 @@
     "lagzya-dev/plugin",
     "lbgcomm/Rust-User-Management",
     "leaderos-net/rust-leaderos-connect",
+    "leo-lizi/rust-bloodhunt",
     "liam-wiltshire/Tebex-Oxide",
     "manuelbpc/ALTF4-Rust",
     "matbyte-com/vyhub-umod",
@@ -1175,6 +1176,7 @@
     "mattwilshire/Oxide.Ext.WebSocket",
     "maxijonson/broadcast-preferences",
     "maxijonson/uMod-Quests",
+    "mazurk4/rust-game-beginnerguard",
     "mbedda/BackpackButton",
     "mbedda/Backpacks",
     "mbedda/Carbon.Common",
