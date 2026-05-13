@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-13T01:01:17.639Z",
+  "last_updated": "2026-05-13T07:16:38.049Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2346,6 +2346,11 @@
       "last_processed": "2026-05-11T13:14:31.799Z",
       "repositories_found": 1,
       "success": true
+    },
+    "L4m1fy": {
+      "last_processed": "2026-05-13T07:16:36.041Z",
+      "repositories_found": 3,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3740,6 +3745,9 @@
     "ShiroKSH/rust-plugins",
     "jcdrqtx/bloodmenu",
     "leo-lizi/rust-bloodhunt",
-    "mazurk4/rust-game-beginnerguard"
+    "mazurk4/rust-game-beginnerguard",
+    "L4m1fy/Always-Hotspot",
+    "L4m1fy/Player-Count",
+    "L4m1fy/Show-Player-Count"
   ]
 }
