@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T07:40:58.842Z",
+  "generated_at": "2026-05-15T13:04:49.914Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1397,
+  "count": 1398,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -292,6 +292,7 @@
     "Nikedemos/Oxide.Rust",
     "Nikedemos/SignArtist",
     "Nikedemos/Skin-Preloader",
+    "Nodemcu1/www",
     "Nogrod/OxidePlugins",
     "NoxiousPluK/Oxide.Rust",
     "NoxiousPluK/RustTelegramAPI",
