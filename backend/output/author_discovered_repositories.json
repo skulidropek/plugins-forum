@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-15T01:00:03.310Z",
+  "generated_at": "2026-05-15T07:40:58.842Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1395,
+  "count": 1397,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -256,6 +256,8 @@
     "MaltrzD/SteamVoiceEncoder",
     "MateoTaylor/Rust-Reinforcement-Learning",
     "Mentol0408/Test",
+    "Mercury-devs/Oxide.Rust",
+    "Mercury-devs/plugin",
     "MeziGit/Oxide.Core.Tests",
     "Mheetu/RustVoiceActivity",
     "Mike-Baks/Oxide.Rust",
