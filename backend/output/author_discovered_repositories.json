@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-16T01:16:48.758Z",
+  "generated_at": "2026-05-16T07:17:53.187Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1398,
+  "count": 1399,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1027,6 +1027,7 @@
     "gjdunga/ModernNoCupboardDecay",
     "gjdunga/NitroBoostLinker",
     "gjdunga/Oxide.Rust",
+    "gjdunga/PVEDamageGuard",
     "gjdunga/bottomlesswater",
     "gmoddev/RustPluginsPublic",
     "granis/RustItemDumper",
