@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-16T18:30:13.241Z",
+  "generated_at": "2026-05-17T01:23:41.680Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1399,
+  "count": 1400,
   "repositories": [
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
@@ -1251,6 +1251,7 @@
     "openmailbox/RustExamples",
     "openmailbox/RustMods",
     "orangemart/RustPlugins",
+    "oscarcodedev/VIPPlaytime",
     "paynow-gg/rust-plugin",
     "pedroivorbgrodrigues/Oxide",
     "pedroivorbgrodrigues/hunt",
