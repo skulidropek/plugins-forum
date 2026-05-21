@@ -1,8 +1,10 @@
 {
-  "generated_at": "2026-05-20T18:59:41.267Z",
+  "generated_at": "2026-05-21T01:07:13.779Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1400,
+  "count": 1402,
   "repositories": [
+    "006mi4/TheAdminpanel-GUI-Rust",
+    "0killrest/plugins.server.rust",
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",
     "1337-create/simple-link-discord-steam-linking-system",

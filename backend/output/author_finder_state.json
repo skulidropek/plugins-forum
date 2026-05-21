@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-20T18:59:41.266Z",
+  "last_updated": "2026-05-21T01:07:13.778Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2366,6 +2366,16 @@
       "last_processed": "2026-05-17T01:04:11.929Z",
       "repositories_found": 1,
       "success": true
+    },
+    "006mi4": {
+      "last_processed": "2026-05-21T01:07:07.294Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "0killrest": {
+      "last_processed": "2026-05-21T01:07:11.771Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3768,6 +3778,8 @@
     "Mercury-devs/plugin",
     "Nodemcu1/www",
     "gjdunga/PVEDamageGuard",
-    "oscarcodedev/VIPPlaytime"
+    "oscarcodedev/VIPPlaytime",
+    "006mi4/TheAdminpanel-GUI-Rust",
+    "0killrest/plugins.server.rust"
   ]
 }
