@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 5,
-  "currentPage": 6,
+  "currentVariant": 7,
+  "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Prod.cs#ce93a5db7ede6bf849778b318b8565aa632185d1": true,
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -988,7 +988,11 @@
     "skulidropek/oxideplugins#hurtworld/CountryBlock.cs#0cc80752f9ab197c9ae438d5eae8f088dc64db3e": true,
     "ZaeBallsa/oxideplugins#hurtworld/CountryBlock.cs#0cc80752f9ab197c9ae438d5eae8f088dc64db3e": true,
     "alexanderndev/oxideplugins#rust/ExplosivesModifier.cs#05c8c5505a3ea9500344d45a78ba476d3694a3ef": true,
-    "Willdiedog/oxideplugins#rust/ExplosivesModifier.cs#05c8c5505a3ea9500344d45a78ba476d3694a3ef": true
+    "Willdiedog/oxideplugins#rust/ExplosivesModifier.cs#05c8c5505a3ea9500344d45a78ba476d3694a3ef": true,
+    "strykes/Oxide2Plugins#Legacy/CraftingController.cs#2cff37429da0417a569ed881fb3ef0b9f462a17c": true,
+    "strykes/Oxide2Plugins#CSharp/BuildingPrivileges.cs#3fe7dc54a2ac4b5cdd44eafe7cad563273b2ddaa": true,
+    "chucklenugget/imperium#src/Ui/ImageDownloader.cs#c02bcb79965bde06bda01a3f52139c981557dc18": true,
+    "chucklenugget/imperium#src/Options/PvpOptions.cs#f117f41968a8e935c45d123d114ed9705dee7a1a": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
