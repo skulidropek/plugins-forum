@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-05-24T18:42:34.556Z",
-  "current_author_index": 0,
+  "last_updated": "2026-05-25T01:26:06.680Z",
+  "current_author_index": 359,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-05-22T07:28:01.893Z",
@@ -702,7 +702,7 @@
       "success": true
     },
     "Slut": {
-      "last_processed": "2026-05-17T18:33:47.971Z",
+      "last_processed": "2026-05-25T01:08:55.659Z",
       "repositories_found": 3,
       "success": true
     },
@@ -712,7 +712,7 @@
       "success": true
     },
     "Ragonz2": {
-      "last_processed": "2026-05-17T18:33:42.978Z",
+      "last_processed": "2026-05-25T01:08:50.603Z",
       "repositories_found": 1,
       "success": true
     },
@@ -976,7 +976,7 @@
       "success": true
     },
     "Mr-Dead2": {
-      "last_processed": "2026-05-17T18:33:25.767Z",
+      "last_processed": "2026-05-25T01:07:34.139Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1076,7 +1076,7 @@
       "success": true
     },
     "sami3737": {
-      "last_processed": "2026-05-17T18:33:14.240Z",
+      "last_processed": "2026-05-25T01:08:33.329Z",
       "repositories_found": 23,
       "success": true
     },
@@ -1106,18 +1106,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2026-05-17T18:44:45.818Z",
+      "last_processed": "2026-05-25T01:23:43.614Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (36927)"
+      "error": "Skipped - too many repositories (37014)"
     },
     "ImKiri86": {
-      "last_processed": "2026-05-17T18:44:45.876Z",
+      "last_processed": "2026-05-25T01:23:43.662Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2026-05-17T18:45:24.767Z",
+      "last_processed": "2026-05-25T01:24:22.380Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1132,13 +1132,13 @@
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2026-05-17T18:45:27.946Z",
+      "last_processed": "2026-05-25T01:24:25.275Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (108)"
+      "error": "Skipped - too many repositories (109)"
     },
     "TOWUK": {
-      "last_processed": "2026-05-17T18:45:32.996Z",
+      "last_processed": "2026-05-25T01:24:30.051Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1148,17 +1148,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2026-05-17T18:45:37.338Z",
+      "last_processed": "2026-05-25T01:24:34.343Z",
       "repositories_found": 3,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2026-05-17T18:45:53.107Z",
+      "last_processed": "2026-05-25T01:24:49.781Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2026-05-17T18:46:04.754Z",
+      "last_processed": "2026-05-25T01:25:01.191Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1168,12 +1168,12 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2026-05-17T18:46:07.543Z",
+      "last_processed": "2026-05-25T01:25:03.987Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2026-05-17T18:47:09.059Z",
+      "last_processed": "2026-05-25T01:26:06.680Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2166,7 +2166,7 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-05-17T18:34:01.085Z",
+      "last_processed": "2026-05-25T01:09:09.134Z",
       "repositories_found": 15,
       "success": true
     },
@@ -2374,6 +2374,11 @@
     },
     "0killrest": {
       "last_processed": "2026-05-21T01:07:11.771Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "oscarxdev": {
+      "last_processed": "2026-05-25T01:07:21.466Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3780,6 +3785,7 @@
     "gjdunga/PVEDamageGuard",
     "oscarcodedev/VIPPlaytime",
     "006mi4/TheAdminpanel-GUI-Rust",
-    "0killrest/plugins.server.rust"
+    "0killrest/plugins.server.rust",
+    "oscarxdev/VIPPlaytime"
   ]
 }

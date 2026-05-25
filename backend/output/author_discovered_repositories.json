@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-24T18:42:34.557Z",
+  "generated_at": "2026-05-25T01:26:06.681Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1402,
+  "count": 1403,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1254,6 +1254,7 @@
     "openmailbox/RustMods",
     "orangemart/RustPlugins",
     "oscarcodedev/VIPPlaytime",
+    "oscarxdev/VIPPlaytime",
     "paynow-gg/rust-plugin",
     "pedroivorbgrodrigues/Oxide",
     "pedroivorbgrodrigues/hunt",
