@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 15,
-  "currentPage": 11,
+  "currentVariant": 21,
+  "currentPage": 3,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Prod.cs#ce93a5db7ede6bf849778b318b8565aa632185d1": true,
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -7447,7 +7447,24 @@
     "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/KualaRust/ActiveSort.cs#2913219678750184bab5e05d4d9109eb4e7b0898": true,
     "skulidropek/AssemblyToAPI#Library/CSharpSyntaxWalkers/HookFinderVisitor.cs#27f2bb059fd0a54778d565ed48bb1cf0558059d0": true,
     "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/UpdateNotice.cs#2379ebd0d15d0305507cde2be34ff101164bb99a": true,
-    "manuelbpc/ALTF4-Rust#plugins/PermsUI.cs#22c18f1e2be353a1f7d1efed5c7288051e72bb50": true
+    "manuelbpc/ALTF4-Rust#plugins/PermsUI.cs#22c18f1e2be353a1f7d1efed5c7288051e72bb50": true,
+    "PRISM-Servers/plugins_public#plugins/FriendlyFire.cs#0b79a53643ed4919ab3767cb1cf84ebe4f80331d": true,
+    "RustServers-IO/oxideplugins#rust/QuickSmelt.cs#11c0a600ee69fe12e2eab1c3c4784b88d06ad331": true,
+    "13dasd123/RustPlugins#PUNKRUST/PUNKRUST/oxide/plugins/EconomicsEvo.cs#147202b40056e9c777224754f46d36716bcf5509": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/AutoKit.cs#154eaf9bddd41790b8ff9f5e0a091fe52141b30f": true,
+    "13dasd123/SlivPlugins#ConsumableEffects.cs#0bf004afa28a992b027d36147f85fdf032a5f0d4": true,
+    "publicrust/umod-pluigns-dataset#plugins/F/FogVoting/FogVoting.cs#0bd59c43d764df039a8551174c74aeba41a977a1": true,
+    "john-clark/rust-oxide-umod#old/plugins/other/InventoryInfo.cs#113cda865646e862f08afe8143b61591789a3063": true,
+    "publicrust/umod-pluigns-dataset#plugins/T/TurretManager/TurretManager.cs#13bd5d060898faaf02cf45f8e8eca34759a26617": true,
+    "publicrust/umod-pluigns-dataset#plugins/A/AutoChat/AutoChat.cs#14aa89864ebc2593b44f3f64c2338e2a602487c7": true,
+    "13dasd123/SlivPlugins#ComponentBox.cs#1010e7ab9fd73f266dbc76323622125c534335f1": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/BolotoRust/BHair.cs#0da86de91c79bad784322a1101156d412b05f6ae": true,
+    "publicrust/umod-pluigns-dataset#plugins/C/CraftMultiplier/CraftMultiplier.cs#146c6184a626120595e351854510d75513a8a0ee": true,
+    "RustServers-IO/oxideplugins#universal/UEconomics.cs#0ecf3c43d066d1458822915a52dc00653c09494d": true,
+    "publicrust/umod-pluigns-dataset#plugins/A/AutoPlant/AutoPlant.cs#15c3f904e5c543e4f7aa1929afafadb1f18cc2f7": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/PlayerBlinder.cs#0f2685a353d49465a3763cefb47d050e3917fe1e": true,
+    "k1lly0u/Oxide#UEconomics.cs#0ecf3c43d066d1458822915a52dc00653c09494d": true,
+    "publicrust/umod-pluigns-dataset#plugins/P/PlayerBlinder/PlayerBlinder.cs#0f2685a353d49465a3763cefb47d050e3917fe1e": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
