@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-26T01:06:36.240Z",
+  "generated_at": "2026-05-26T07:27:58.651Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1403,
+  "count": 1408,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1383,6 +1383,11 @@
     "trentbredahl-sudo/Rust_Sandbox_Mod",
     "txnitxnichopper/Oxide.Rust",
     "unet-dev/Decompiled-Assemblies",
+    "unkn0wn-97/BlindDeath",
+    "unkn0wn-97/ConvertKor",
+    "unkn0wn-97/ServerStatus",
+    "unkn0wn-97/SkinChanger",
+    "unkn0wn-97/Tools",
     "upperking/Old-Rust-Legacy-Plugins",
     "vicbarbosa/Oxide2Plugins",
     "vicbarbosa/rust-imperium",

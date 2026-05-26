@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-05-26T01:06:36.181Z",
+  "last_updated": "2026-05-26T07:27:58.650Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2328,7 +2328,7 @@
       "success": true
     },
     "whitecristafer": {
-      "last_processed": "2026-05-19T01:04:58.590Z",
+      "last_processed": "2026-05-26T07:27:56.640Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2380,6 +2380,11 @@
     "oscarxdev": {
       "last_processed": "2026-05-25T01:07:21.466Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "unkn0wn-97": {
+      "last_processed": "2026-05-26T07:27:47.178Z",
+      "repositories_found": 5,
       "success": true
     }
   },
@@ -3786,6 +3791,11 @@
     "oscarcodedev/VIPPlaytime",
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
-    "oscarxdev/VIPPlaytime"
+    "oscarxdev/VIPPlaytime",
+    "unkn0wn-97/BlindDeath",
+    "unkn0wn-97/ConvertKor",
+    "unkn0wn-97/ServerStatus",
+    "unkn0wn-97/SkinChanger",
+    "unkn0wn-97/Tools"
   ]
 }
