@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 11,
-  "currentPage": 5,
+  "currentPage": 6,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Prod.cs#ce93a5db7ede6bf849778b318b8565aa632185d1": true,
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -5419,7 +5419,33 @@
     "john-clark/rust-oxide-umod#old/plugins/rust/HazmatDiving.cs#211afb3334647ad712884d263d6e6c63c212e4a1": true,
     "Calytic/oxideplugins#hurtworld/Reporting.cs#138d5d5993afc5081ad60a8f1f1dfdab9aa6db8a": true,
     "publicrust/umod-pluigns-dataset#plugins/C/CupboardForFriends/CupboardForFriends.cs#1e81bfeb605becb7c5a5aeedb679aae9adc54f54": true,
-    "Calytic/oxideplugins#rust/AFK.cs#221374fed5d8a9fb3a9f984af59ce1af36ad688b": true
+    "Calytic/oxideplugins#rust/AFK.cs#221374fed5d8a9fb3a9f984af59ce1af36ad688b": true,
+    "PenguinzTech/penguin-rust-base#tests/MorningFog.Tests/MorningFogTests.cs#11b1bd1a201d028eca4ddc5a077601cde1ac3b04": true,
+    "13dasd123/RustPlugins#Сборка DayzRust/oxide/plugins/AutoCleanup.cs#1bf75de79573691a95c7ffb4c5e485f4fdfccf60": true,
+    "Enilgles/pluginsrust#BuildingBlockGUI.cs#194bdba81d789a179d5f3f8fe713f5988eb04183": true,
+    "AeonLucid/RustOxidePlugins#Plugins/MSortSplit.cs#20945dd0e63411fcdcee1c58bc61eb733fd02b7b": true,
+    "13dasd123/RustPlugins#FlashBack/FlashBack/plugins/EconomicsBalanceGUI.cs#1a0b0ef1a9073e5315dc2125fc347aa8ea78cc0d": true,
+    "13dasd123/RustPlugins#all ready server plugins v1.0/EconomicsBalanceGUI-1.1.4.cs#1a0b0ef1a9073e5315dc2125fc347aa8ea78cc0d": true,
+    "RustServers-IO/oxideplugins#hurtworld/Reporting.cs#138d5d5993afc5081ad60a8f1f1dfdab9aa6db8a": true,
+    "Crushedice/LatestPlugins#hurtworld/Reporting.cs#138d5d5993afc5081ad60a8f1f1dfdab9aa6db8a": true,
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/CupboardForFriends.cs#1e81bfeb605becb7c5a5aeedb679aae9adc54f54": true,
+    "Crushedice/LatestPlugins#rust/AFK.cs#221374fed5d8a9fb3a9f984af59ce1af36ad688b": true,
+    "chucklenugget/imperium#src/Core/Raiding.cs#268a91d1f4263e66eccee5407aac6afd809f6457": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/ReviveArrows.cs#2ffd9a22cdc33b0aece7fe761d7ea420c1815434": true,
+    "publicrust/umod-pluigns-dataset#plugins/D/DroneHover/DroneHover.cs#2515168442600de9a91f2d2509049e7b41aeaf35": true,
+    "RustServers-IO/oxideplugins#universal/PrivateMessages.cs#30df55125a34afbd4a55124ce9851a7b4f3cfd67": true,
+    "VisEntities/RocketDamageModifier#RocketDamageModifier.cs#2287439b086e884cdcdd8806a4c1e536faa35d36": true,
+    "Enilgles/pluginsrust#BeeRust/Recycler.cs#2fca9b5ad023612d50ca069f19a15d9a9e97ec56": true,
+    "13dasd123/RustPlugins#TRAVELER RUST/TRAVELER RUST/plugins/WipeInfo.cs#2ff5a771d7c2b525275ab2f3ae3c101de15d0ca2": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/LadderAnywhere.cs#2e8588880a8bfe9b51c1b2391cc82a7ebd3f5d50": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/PrivilegeDeploy.cs#29acf0c22450e9320a47f2514d1112838dce9fe5": true,
+    "HandyS11/PopCommand#PopCommand.cs#337a4c1329c66aec112cfbf09450013c83bbd9aa": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/IndividualDC.cs#2718b47559e288ea941ad09b1c25c1ade8d2f82b": true,
+    "RustServers-IO/oxideplugins#rust/ExplosionTracker.cs#2ad0f1e3e75394e97e1023210db7981a0aeb7c4d": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/Ragnarok.cs#2da20a6e5259156c96d82ba8aae745bbf8c85142": true,
+    "RustServers-IO/oxideplugins#rust/ConsoleMessages.cs#25c0e686b96c9ef3916418581dc9011ae3cd15c8": true,
+    "RustServers-IO/oxideplugins#rust/StashGap.cs#31e705aa254113e4616fbcc5fc755bac50b3ac36": true,
+    "abolfazl3133/leaked_new_rust_plugins_AI_Dumped#AutoKit(1).cs#255af28b93568ff7c2c76a9ed8af0871ace46ded": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
