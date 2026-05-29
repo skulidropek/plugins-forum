@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 3,
+  "currentVariant": 18,
+  "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Prod.cs#ce93a5db7ede6bf849778b318b8565aa632185d1": true,
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -7438,7 +7438,25 @@
     "Calytic/oxideplugins#rust/DeadPlayersList.md#26ae4d5b9d3a45faf91b29f563693fb160af545c": true,
     "OxideMod/oxidemod.org#threads/loot-spawn-lists-unmaintained.72/page-49.html#2acbbae5631d850217431adfcc7a00971a2f0239": true,
     "Sk3tch-Dev-Ux/Kurai.dev#src/app/rust-servers/page.tsx#2dcf9db9017cb21e903200f1607eb4ae9b1a9820": true,
-    "0xF1o/random-free-rustplugins#NWGGather.cs#294fb835d15a7c1e272f7804f38fea6aed0c2052": true
+    "0xF1o/random-free-rustplugins#NWGGather.cs#294fb835d15a7c1e272f7804f38fea6aed0c2052": true,
+    "RustServers-IO/oxideplugins#rust/ChopperSurvival.cs#15fc90a51e37ac0460c0b46f77ea51637f988726": true,
+    "Calytic/oxideplugins#rust/HideAndSeek.cs#12f415fd869a9d3bd4d86613568ab50f178abe91": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/BolotoRust/BHair.cs#0da86de91c79bad784322a1101156d412b05f6ae": true,
+    "Calytic/oxideplugins#hurtworld/EconomyBanks.cs#0eaf3eee8a810202a35f52059d95f9c04beeac68": true,
+    "13dasd123/RustPlugins#PUNKRUST/PUNKRUST/oxide/plugins/ZetaDeathAnoncer.cs#156f6dc43c501b16fdb340e5e3aa7ca44d4e2d70": true,
+    "Orhidea-Development/WishRivals#DatabaseUsageTemplate/GodMode.cs#0ffc1b32cb91ef3efb04f9d5bbcb68c64cc9f2fb": true,
+    "13dasd123/SlivPlugins#ComponentBox.cs#1010e7ab9fd73f266dbc76323622125c534335f1": true,
+    "Calytic/oxideplugins#rust/NoDecay.cs#11e83c220d850c5fe3bd965d1b64522af657460c": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/GoldenAKChallenge.cs#15e558db1f1c6e75c2fe9e6b158d1e05826463cd": true,
+    "13dasd123/RustPlugins#PUNKRUST/PUNKRUST/oxide/plugins/BattlePass.cs#0f7bfbc742761fef1f269324a30f9e71f02f843c": true,
+    "publicrust/umod-pluigns-dataset#plugins/A/AutoPlant/AutoPlant.cs#15c3f904e5c543e4f7aa1929afafadb1f18cc2f7": true,
+    "Crushedice/LatestPlugins#rust/HideAndSeek.cs#12f415fd869a9d3bd4d86613568ab50f178abe91": true,
+    "Enilgles/pluginsrust#HideAndSeek.cs#12f415fd869a9d3bd4d86613568ab50f178abe91": true,
+    "Crushedice/LatestPlugins#hurtworld/EconomyBanks.cs#0eaf3eee8a810202a35f52059d95f9c04beeac68": true,
+    "13dasd123/RustPlugins#Cyberpunk_Edition_1.26/Cyberpunk Edition 1.2/Сборка - oxide/oxide/plugins/ZetaDeathAnoncer.cs#156f6dc43c501b16fdb340e5e3aa7ca44d4e2d70": true,
+    "13dasd123/RustPlugins#Cyberpunk_Edition_1.15/Cyberpunk Edition 1.15/Cама сборка/oxide/plugins/ZetaDeathAnoncer.cs#156f6dc43c501b16fdb340e5e3aa7ca44d4e2d70": true,
+    "Crushedice/LatestPlugins#rust/NoDecay.cs#11e83c220d850c5fe3bd965d1b64522af657460c": true,
+    "Enilgles/pluginsrust#NoDecay.cs#11e83c220d850c5fe3bd965d1b64522af657460c": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
