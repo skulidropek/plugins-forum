@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-29T07:53:13.385Z",
+  "generated_at": "2026-05-29T13:36:30.893Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1408,
+  "count": 1409,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -84,6 +84,7 @@
     "ElliotRedhead/EntityHealth",
     "Enilgles/pluginsrust",
     "Enilgles/umod-pluigns-dataset",
+    "Eoin-McCartan/HavocRust.Plugins",
     "Eoin-McCartan/Rust.HarmonyMods",
     "Eoin-McCartan/RustyRockets",
     "Eremith-s/ServerMonitorPlugin",
