@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-30T07:33:33.676Z",
+  "generated_at": "2026-05-30T12:56:54.877Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1409,
+  "count": 1410,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1336,6 +1336,7 @@
     "sami3737/Voter",
     "sami3737/rusttech",
     "saramindra/d1",
+    "savrius-sys/PrismCart_plugin",
     "scalbox/rust-rcon",
     "scardotdev/ItemAPI",
     "scarecr0w12/Oxide",
