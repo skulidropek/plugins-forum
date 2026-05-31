@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-05-31T01:18:23.140Z",
+  "generated_at": "2026-05-31T07:51:52.067Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1410,
+  "count": 1411,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1180,6 +1180,7 @@
     "leaderos-net/rust-leaderos-connect",
     "leo-lizi/rust-bloodhunt",
     "liam-wiltshire/Tebex-Oxide",
+    "luang93/marola-rustbr",
     "manuelbpc/ALTF4-Rust",
     "matbyte-com/vyhub-umod",
     "math280h/Oxide-ChatManager",
