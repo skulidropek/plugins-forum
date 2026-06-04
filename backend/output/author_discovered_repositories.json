@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-03T19:36:28.290Z",
+  "generated_at": "2026-06-04T01:23:24.729Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1411,
+  "count": 1412,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1003,6 +1003,7 @@
     "dusty-modding/OxidePlugins",
     "eandersson/RustWars",
     "eandersson/rustarena",
+    "elblayko/Rust-Era-Tech-Race",
     "electrikbox/VIPElectrik",
     "erikmoch/OxidePlugins",
     "estxbvnnn/HardpointMode",

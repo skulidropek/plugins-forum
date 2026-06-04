@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-03T19:36:28.289Z",
+  "last_updated": "2026-06-04T01:23:24.729Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1453,7 +1453,7 @@
       "success": true
     },
     "Feramor": {
-      "last_processed": "2026-05-25T08:07:53.453Z",
+      "last_processed": "2026-06-04T01:19:07.389Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2328,7 +2328,7 @@
       "success": true
     },
     "whitecristafer": {
-      "last_processed": "2026-05-26T07:27:56.640Z",
+      "last_processed": "2026-06-04T01:23:22.722Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2348,7 +2348,7 @@
       "success": true
     },
     "L4m1fy": {
-      "last_processed": "2026-05-27T07:44:37.059Z",
+      "last_processed": "2026-06-04T01:23:11.983Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2383,12 +2383,12 @@
       "success": true
     },
     "unkn0wn-97": {
-      "last_processed": "2026-05-26T07:27:47.178Z",
+      "last_processed": "2026-06-04T01:23:06.827Z",
       "repositories_found": 5,
       "success": true
     },
     "Sk3tch-Dev-Ux": {
-      "last_processed": "2026-05-27T07:44:32.348Z",
+      "last_processed": "2026-06-04T01:22:56.685Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2399,6 +2399,11 @@
     },
     "luang93": {
       "last_processed": "2026-05-31T07:32:13.557Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "elblayko": {
+      "last_processed": "2026-06-04T01:18:30.706Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3814,6 +3819,7 @@
     "unkn0wn-97/Tools",
     "Eoin-McCartan/HavocRust.Plugins",
     "savrius-sys/PrismCart_plugin",
-    "luang93/marola-rustbr"
+    "luang93/marola-rustbr",
+    "elblayko/Rust-Era-Tech-Race"
   ]
 }
