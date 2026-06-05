@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T01:09:29.780Z",
+  "generated_at": "2026-06-05T07:58:33.271Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1414,
+  "count": 1416,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -261,6 +261,7 @@
     "MaltrzD/SteamVoiceEncoder",
     "MateoTaylor/Rust-Reinforcement-Learning",
     "Mentol0408/Test",
+    "Mercury-devs/Carbon",
     "Mercury-devs/Oxide.Rust",
     "Mercury-devs/plugin",
     "MeziGit/Oxide.Core.Tests",
@@ -1109,6 +1110,7 @@
     "jerkypaisen/MyFran",
     "jerkypaisen/NpcDropTag",
     "jerkypaisen/PlayMovieButtons",
+    "jerkypaisen/SignMoviePlayer",
     "jerkypaisen/SpearOfLonginus",
     "jerkypaisen/Speedometer",
     "jerkypaisen/SplatSpray",
