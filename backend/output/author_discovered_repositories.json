@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-05T13:16:32.347Z",
+  "generated_at": "2026-06-05T19:05:46.917Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1416,
+  "count": 1417,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -837,6 +837,7 @@
     "YaMang0w0/OwnPlugins",
     "Yorboot/MessagePlugin",
     "ZacharyWolfe/CSharpDotNet",
+    "Zackslay/RustStats",
     "ZaeBallsa/oxideplugins",
     "Zand3rsCode/CountdownPlugin",
     "Zer0x89A/Attachment-Blocker",
