@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-04T19:00:02.189Z",
+  "last_updated": "2026-06-05T01:09:29.779Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2406,6 +2406,11 @@
       "last_processed": "2026-06-04T01:18:30.706Z",
       "repositories_found": 1,
       "success": true
+    },
+    "HeyImDionysus": {
+      "last_processed": "2026-06-05T01:09:27.769Z",
+      "repositories_found": 2,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3820,6 +3825,8 @@
     "Eoin-McCartan/HavocRust.Plugins",
     "savrius-sys/PrismCart_plugin",
     "luang93/marola-rustbr",
-    "elblayko/Rust-Era-Tech-Race"
+    "elblayko/Rust-Era-Tech-Race",
+    "HeyImDionysus/corrodedadmin",
+    "HeyImDionysus/unraider"
   ]
 }
