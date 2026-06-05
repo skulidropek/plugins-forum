@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-04T03:22:18.153Z",
-  "count": 64,
+  "generated_at": "2026-06-05T03:19:14.093Z",
+  "count": 66,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -29,6 +29,8 @@
     "abolfazl3133/leaked_new_rust_plugins_AI_Dumped",
     "build6477-ship-it/RustPluginsDumpWithAI",
     "db13256-hash/Rust-arena-plugin-leaderboard",
+    "eandersson/RustWars",
+    "eandersson/rustarena",
     "estxbvnnn/HardpointMode",
     "estxbvnnn/Roam-Event-Rust",
     "estxbvnnn/TagsTwitchRivalsRust",
