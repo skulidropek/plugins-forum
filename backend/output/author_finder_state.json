@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-05T19:05:46.915Z",
+  "last_updated": "2026-06-06T01:07:42.631Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -371,22 +371,22 @@
       "success": true
     },
     "Cannabis-CFG": {
-      "last_processed": "2026-05-29T19:05:44.318Z",
+      "last_processed": "2026-06-06T01:05:40.978Z",
       "repositories_found": 3,
       "success": true
     },
     "codeStev": {
-      "last_processed": "2026-05-29T19:06:01.911Z",
+      "last_processed": "2026-06-06T01:05:54.063Z",
       "repositories_found": 1,
       "success": true
     },
     "Grimston": {
-      "last_processed": "2026-05-29T19:06:29.577Z",
+      "last_processed": "2026-06-06T01:06:13.768Z",
       "repositories_found": 2,
       "success": true
     },
     "k1lly0u": {
-      "last_processed": "2026-05-29T19:06:59.749Z",
+      "last_processed": "2026-06-06T01:06:36.565Z",
       "repositories_found": 7,
       "success": true
     },
@@ -2415,6 +2415,26 @@
     "Zackslay": {
       "last_processed": "2026-06-05T19:05:37.919Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "little-method": {
+      "last_processed": "2026-06-06T01:06:55.445Z",
+      "repositories_found": 0,
+      "success": true
+    },
+    "wither-rebirth": {
+      "last_processed": "2026-06-06T01:07:28.432Z",
+      "repositories_found": 0,
+      "success": true
+    },
+    "krypton2355": {
+      "last_processed": "2026-06-06T01:07:31.400Z",
+      "repositories_found": 0,
+      "success": true
+    },
+    "maned2": {
+      "last_processed": "2026-06-06T01:07:40.624Z",
+      "repositories_found": 0,
       "success": true
     }
   },
