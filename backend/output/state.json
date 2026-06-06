@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 1,
+  "currentVariant": 20,
+  "currentPage": 4,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7157,7 +7157,28 @@
     "MrBlue/oxidemod.org#threads/checking-stored-data.16592/index.html#64f8a6211b74e3bdcf12df2fe9c3ceb15e824a9c": true,
     "MrBlue/oxidemod.org#threads/remove-structures-via-hammer.14969/index.html#a0ae9e2d6a04cffe380978e6cea462661813c97a": true,
     "Calytic/oxideplugins#rust/PushAPI.md#e89c1384cdac02291100bd67be7abde1c931ad0f": true,
-    "Calytic/oxideplugins#rust/Updater.md#a281f0c688e21253db81f138e6928be81b63351a": true
+    "Calytic/oxideplugins#rust/Updater.md#a281f0c688e21253db81f138e6928be81b63351a": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/ChatToConsole.cs#d7526579d04f40185eecb7ab056344eb07bc812f": true,
+    "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/AdminESP.cs#e7c93633eab5b313bd97af4b9e22a357773806cc": true,
+    "publicrust/umod-pluigns-dataset#plugins/H/HeliVote/HeliVote.cs#cbf20eddb0edb2c2af0229d38d8756569b993f84": true,
+    "RustServers-IO/oxideplugins#rust/Replenish.cs#ea7dd46d1e055ac3ab129d79b12b41d9110b26fd": true,
+    "publicrust/umod-pluigns-dataset#plugins/H/HazmatSkinChanger/HazmatSkinChanger.cs#c8a78157cf9160bea0757dbd1b8af087ccbe2863": true,
+    "13dasd123/RustPlugins#Сборка DayzRust/oxide/plugins/BlueprintManager.cs#87ca0a8679484488c6c9c8035b86a07369679c72": true,
+    "john-clark/rust-oxide-umod#old/plugins/other/RaidOffDefender.cs#2866a0983b41970f4caf903f23c7487cff82e3c8": true,
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/SkinBox.cs#03858c201acf63ee1424ffb27af21c6a7b766f1e": true,
+    "PenisBlistashiq/Rust-plugins-236-240-dev#plugins1/Kits.cs#c7caf14efebc8f933fbb54e46f296f73c4d08dc3": true,
+    "13dasd123/RustPlugins#CHIPPY_RUST/Сборка CHIPPY RUST/plugins/XMenu.cs#3e54c83a72b28f4b611ca19cfb3d6d8cac5c9f92": true,
+    "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/Vanish.cs#334633bce95045f3f59aed471787d0afb03c8a3c": true,
+    "13dasd123/RustPlugins#BASE_RUST_NEEEW/BASE RUST NEEEW/oxide/plugins/BrokenItemsCleaner.cs#431b2e73adffbc4532421d8f09d8713090075338": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/Ignore.cs#e4fb20e88439989d43249349805bde7a1a1eea96": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/SQLStats.cs#214601a94f635bc1ac354baf4f432544576c87a4": true,
+    "13dasd123/RustPlugins#TRAVELER_RUST/TRAVELER RUST/plugins/TicketSystem.cs#1d7c72bfa7702c6e48c4a2305bc4335fd0e441c5": true,
+    "RustServers-IO/oxideplugins#rust/EnhancedHammer.cs#1cb8e1478e978d7268b4473019719f6cbb3b1f49": true,
+    "13dasd123/SlivPlugins#ScrapVendingExchange.cs#df83656f28f460b82226bf32ea1276cffb651ad5": true,
+    "Enilgles/pluginsrust#LastManStanding.cs#032dd2556d177e413d3fe58e88a7e8bedff23bc4": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/Underworld.cs#8e1433163322c4913c43d2cdf129bcbb0a41606c": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/RUSTMODS/TPKits.cs#923862bc1a2b02c4777b19a275060c1b0cd0f267": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/KualaRust/BlueprintManager.cs#2c70db88ad1ba8f2f0c12b79209b2377f9b38793": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
