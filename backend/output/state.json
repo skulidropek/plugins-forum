@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 20,
-  "currentPage": 4,
+  "currentPage": 8,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7321,7 +7321,10 @@
     "john-clark/rust-oxide-umod#old/plugins/other/PluginBoilerplate.cs#99d6bbf8913027647a6c6cc24cea7edf95b05757": true,
     "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/DamageExplosiveSettings.cs#15ff0412f659bf0484eec25fdb01eb227e1419e5": true,
     "Zackslay/RustStats#plugin/ApAuction.cs#eb3f4ea106cf27b5c423d49f0e154519579b9cf1": true,
-    "publicrust/umod-pluigns-dataset#plugins/N/NightPVP/NightPVP.cs#26b02a0f6ae86ff8e491f3b30531edeee55954d1": true
+    "publicrust/umod-pluigns-dataset#plugins/N/NightPVP/NightPVP.cs#26b02a0f6ae86ff8e491f3b30531edeee55954d1": true,
+    "Enilgles/pluginsrust#HandyMan.cs#f56238410461de340b6e65c498bbf2441f69e3d9": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/IQInfo.cs#5ba19a1679ce90952829e94f438faf01ff641b80": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/SlotPanel.cs#949a49c6b1e6463404f09a1f5ca84260736e430c": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
