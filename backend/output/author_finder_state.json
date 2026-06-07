@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-06T18:57:20.876Z",
-  "current_author_index": 237,
+  "last_updated": "2026-06-07T01:22:15.743Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-05T07:44:00.421Z",
@@ -591,7 +591,7 @@
       "error": "Skipped - too many repositories (300)"
     },
     "scarecr0w12": {
-      "last_processed": "2026-05-31T01:12:28.031Z",
+      "last_processed": "2026-06-07T01:16:20.346Z",
       "repositories_found": 2,
       "success": true
     },
@@ -607,12 +607,12 @@
       "success": true
     },
     "rustafied": {
-      "last_processed": "2026-05-31T01:12:53.336Z",
+      "last_processed": "2026-06-07T01:16:52.728Z",
       "repositories_found": 1,
       "success": true
     },
     "ads102003": {
-      "last_processed": "2026-05-31T01:17:10.568Z",
+      "last_processed": "2026-06-07T01:21:10.318Z",
       "repositories_found": 7,
       "success": true
     },
@@ -830,7 +830,7 @@
       "success": true
     },
     "Psystec": {
-      "last_processed": "2026-05-31T01:15:55.675Z",
+      "last_processed": "2026-06-07T01:19:54.533Z",
       "repositories_found": 3,
       "success": true
     },
@@ -1081,8 +1081,8 @@
       "success": true
     },
     "fuflik52": {
-      "last_processed": "2026-05-31T01:12:32.420Z",
-      "repositories_found": 0,
+      "last_processed": "2026-06-07T01:16:31.481Z",
+      "repositories_found": 1,
       "success": true
     },
     "seanmb0": {
@@ -1483,7 +1483,7 @@
       "success": true
     },
     "Nikedemos": {
-      "last_processed": "2026-05-31T01:15:10.508Z",
+      "last_processed": "2026-06-07T01:19:09.229Z",
       "repositories_found": 7,
       "success": true
     },
@@ -1630,7 +1630,7 @@
       "success": true
     },
     "Steamcord": {
-      "last_processed": "2026-05-31T01:17:56.619Z",
+      "last_processed": "2026-06-07T01:21:48.917Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1828,7 +1828,7 @@
       "success": true
     },
     "paynow-gg": {
-      "last_processed": "2026-05-31T01:15:36.339Z",
+      "last_processed": "2026-06-07T01:19:34.826Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1895,7 +1895,7 @@
       "success": true
     },
     "Misailov1993": {
-      "last_processed": "2026-05-31T01:13:18.293Z",
+      "last_processed": "2026-06-07T01:17:17.874Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1955,17 +1955,17 @@
       "success": true
     },
     "neu-sec": {
-      "last_processed": "2026-05-31T01:15:44.096Z",
+      "last_processed": "2026-06-07T01:19:42.392Z",
       "repositories_found": 1,
       "success": true
     },
     "handcaster": {
-      "last_processed": "2026-05-31T01:15:40.681Z",
+      "last_processed": "2026-06-07T01:19:38.951Z",
       "repositories_found": 1,
       "success": true
     },
     "belisario-afk": {
-      "last_processed": "2026-05-30T18:53:24.318Z",
+      "last_processed": "2026-06-07T01:13:52.941Z",
       "repositories_found": 28,
       "success": true
     },
@@ -1975,7 +1975,7 @@
       "success": true
     },
     "jmg5215": {
-      "last_processed": "2026-05-31T01:13:34.680Z",
+      "last_processed": "2026-06-07T01:17:34.153Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2020,7 +2020,7 @@
       "success": true
     },
     "AlexALX": {
-      "last_processed": "2026-05-31T01:18:11.284Z",
+      "last_processed": "2026-06-07T01:22:03.955Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2035,37 +2035,37 @@
       "success": true
     },
     "ALONEINNZ": {
-      "last_processed": "2026-05-31T01:18:21.132Z",
+      "last_processed": "2026-06-07T01:22:13.736Z",
       "repositories_found": 1,
       "success": true
     },
     "hixiomh": {
-      "last_processed": "2026-05-31T01:17:51.159Z",
+      "last_processed": "2026-06-07T01:21:43.410Z",
       "repositories_found": 0,
       "success": true
     },
     "K4TFJ": {
-      "last_processed": "2026-05-31T01:17:40.271Z",
+      "last_processed": "2026-06-07T01:21:41.345Z",
       "repositories_found": 1,
       "success": true
     },
     "puttydotexe": {
-      "last_processed": "2026-05-31T01:16:35.577Z",
+      "last_processed": "2026-06-07T01:20:35.231Z",
       "repositories_found": 1,
       "success": true
     },
     "baotien2019nb-afk": {
-      "last_processed": "2026-05-31T01:16:56.251Z",
+      "last_processed": "2026-06-07T01:20:56.043Z",
       "repositories_found": 1,
       "success": true
     },
     "mbedda": {
-      "last_processed": "2026-05-31T01:15:22.991Z",
+      "last_processed": "2026-06-07T01:19:21.774Z",
       "repositories_found": 6,
       "success": true
     },
     "Koltou": {
-      "last_processed": "2026-05-31T01:16:53.224Z",
+      "last_processed": "2026-06-07T01:20:53.038Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2075,12 +2075,12 @@
       "success": true
     },
     "Eadris": {
-      "last_processed": "2026-05-31T01:16:03.650Z",
+      "last_processed": "2026-06-07T01:20:02.513Z",
       "repositories_found": 1,
       "success": true
     },
     "LosGranada": {
-      "last_processed": "2026-05-31T01:16:13.999Z",
+      "last_processed": "2026-06-07T01:20:13.329Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2090,12 +2090,12 @@
       "success": true
     },
     "ryanscarpelli": {
-      "last_processed": "2026-05-31T01:15:12.583Z",
+      "last_processed": "2026-06-07T01:19:11.295Z",
       "repositories_found": 0,
       "success": true
     },
     "Samosborne94": {
-      "last_processed": "2026-05-31T01:14:30.501Z",
+      "last_processed": "2026-06-07T01:18:29.019Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2105,7 +2105,7 @@
       "success": true
     },
     "OverTimeHosting": {
-      "last_processed": "2026-05-31T01:13:28.826Z",
+      "last_processed": "2026-06-07T01:17:28.296Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2125,12 +2125,12 @@
       "success": true
     },
     "tom-does-code": {
-      "last_processed": "2026-05-31T01:13:12.799Z",
+      "last_processed": "2026-06-07T01:17:12.255Z",
       "repositories_found": 1,
       "success": true
     },
     "zonely-gen-tr": {
-      "last_processed": "2026-05-31T01:12:42.497Z",
+      "last_processed": "2026-06-07T01:16:41.627Z",
       "repositories_found": 1,
       "success": true
     },
@@ -3873,6 +3873,7 @@
     "Spiikesan/BuildingWrapper",
     "Spiikesan/CupboardLimiter",
     "Spiikesan/TellMyVote",
-    "milestorme/quicksmelt"
+    "milestorme/quicksmelt",
+    "fuflik52/Loot"
   ]
 }
