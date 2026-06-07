@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 7,
+  "currentVariant": 20,
+  "currentPage": 4,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7297,7 +7297,31 @@
     "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/SkinBox.cs#03858c201acf63ee1424ffb27af21c6a7b766f1e": true,
     "13dasd123/RustPlugins#ragerust/oxide/plugins/NameRewards.cs#878126d034e0696183b8ac944e3573294b38ca44": true,
     "gjdunga/NitroBoostLinker#oxide/plugins/NitroBoostLinker.cs#4c7068d64655bfd762bff5cfa1885e6a78272bff": true,
-    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/LimeBench.cs#4cdd5e0eb6e13d1f90117c528ac09460a7b79d9d": true
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/LimeBench.cs#4cdd5e0eb6e13d1f90117c528ac09460a7b79d9d": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/IQMenu.cs#5dd535098379db6c60f41aa93752c20b930f3b51": true,
+    "13dasd123/RustPlugins#9f39f732327930da/сборка саншайна/plugins/Vanish.cs#7059b5cab91bbd0c901403d1672c78ca282ebdd2": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/TPKits.cs#4384e850a8f1e8b3aad02e3a4bc5c6611e95113a": true,
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/HazmatDiving.cs#abdf0c7794862275c535c73b748f89bd90d986cf": true,
+    "13dasd123/RustPlugins#f8082849a49b3b89/Влад раст/oxide/plugins/RustMenu.cs#9c00ff77273771635875c4b1824afe8ccf08a9c1": true,
+    "13dasd123/RustPlugins#WONT-DAYZ_RUST/WONT RUST/plugins/TeamMarker.cs#5d85822501ce5a443e188c64a6ef4219868c7ce0": true,
+    "13dasd123/RustPlugins#all ready server plugins v1.0/Exchanger-2.0.0.cs#ee63efe1040397782fedc0e9a152d6adb1b58b4e": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Vip TopPlugin/Report.cs#1dc3684cbdded86db651545df1d58669f2642476": true,
+    "13dasd123/RustPlugins#f8082849a49b3b89/Влад раст/oxide/plugins/CrystalFarm.cs#59bb9d19893a0ffe981ed887a9e7529504d661c6": true,
+    "john-clark/rust-oxide-umod#old/plugins/universal/Freeze.cs#d57d6602505c2bf29d25d8722f44e073d5a40845": true,
+    "13dasd123/RustPlugins#BASE RUST OXIDE Base_Rust/oxide/plugins/Trade.cs#a5cf2e529457e13b8349976c19118bc1dfd9f94b": true,
+    "13dasd123/RustPlugins#WONT-DAYZ_RUST/WONT RUST/plugins/BetterLoot.cs#5cec66f936ef9e062ce65f35e693ab328a5fd57d": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/TwigsDecay.cs#5e807a6cd9c73f474b88267ddb324389f943ca6c": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BetterLoot.cs#efdda01882170c741233f54b47ec34550675d347": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/MachiningTools.cs#39d7deeeef9a268b59386d11e1c66de43d5921d2": true,
+    "Enilgles/pluginsrust#BeautyRestart.cs#d43931c3ed82c91658230963dc322898c205eed6": true,
+    "publicrust/umod-pluigns-dataset#plugins/A/AFKAPI/AFKAPI.cs#404ee9158a9b36157d55144eb69365a4723efa3c": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/Cornucopia.cs#199494a57a97d4837bb8d523933bdb5f6fd5cc77": true,
+    "publicrust/umod-pluigns-dataset#plugins/H/HeliSams/HeliSams.cs#d271f459ca28d903658decaad1208c03587b697a": true,
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/MapMyAirDrop.cs#11397f85b1545244e51c96c1c5e383083092d58b": true,
+    "john-clark/rust-oxide-umod#old/plugins/other/PluginBoilerplate.cs#99d6bbf8913027647a6c6cc24cea7edf95b05757": true,
+    "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/DamageExplosiveSettings.cs#15ff0412f659bf0484eec25fdb01eb227e1419e5": true,
+    "Zackslay/RustStats#plugin/ApAuction.cs#eb3f4ea106cf27b5c423d49f0e154519579b9cf1": true,
+    "publicrust/umod-pluigns-dataset#plugins/N/NightPVP/NightPVP.cs#26b02a0f6ae86ff8e491f3b30531edeee55954d1": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
