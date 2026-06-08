@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-08T13:41:53.809Z",
+  "generated_at": "2026-06-08T19:07:23.276Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1426,
+  "count": 1427,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -57,6 +57,7 @@
     "CarbonCommunity/Carbon.Oxide",
     "CarbonCommunity/Carbon.OxideRust",
     "CatMeat/DynamicPVP",
+    "ChrisNewmanDev/CoreLoot",
     "Cl1cker0/lua-scripts",
     "Comm512-1/RustPlugins",
     "CraftingStore/OxidePlugin",
