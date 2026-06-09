@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-08T03:20:56.566Z",
-  "count": 66,
+  "generated_at": "2026-06-09T03:17:58.824Z",
+  "count": 67,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -8,6 +8,7 @@
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
     "BurntRouter/rust-rcon",
+    "CaptainBlake/RaidMe",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
     "CherrySofts/https-slivrust-plugin.ru-",
     "Cl1cker0/lua-scripts",
