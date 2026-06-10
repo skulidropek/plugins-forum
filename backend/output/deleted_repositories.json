@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-09T03:17:58.824Z",
-  "count": 67,
+  "generated_at": "2026-06-10T03:18:02.358Z",
+  "count": 70,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -16,6 +16,9 @@
     "Hardcore-fs/PlayerAdministration",
     "Hardcore-fs/Tebex-Oxide",
     "Hardcore-fs/oxideplugins",
+    "HeyImDionysus/anythingun",
+    "HeyImDionysus/corrodedadmin",
+    "HeyImDionysus/unraider",
     "PsixXxrus/MyTask",
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
