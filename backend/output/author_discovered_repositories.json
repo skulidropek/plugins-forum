@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-10T08:02:42.020Z",
+  "generated_at": "2026-06-10T13:39:33.935Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1427,
+  "count": 1428,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -842,6 +842,7 @@
     "Wrecks830/RaidableShelters",
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
+    "Y4n1ss3/Rust",
     "YaMang0w0/OwnPlugins",
     "Yorboot/MessagePlugin",
     "ZacharyWolfe/CSharpDotNet",
