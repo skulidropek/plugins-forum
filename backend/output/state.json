@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 17,
-  "currentPage": 1,
+  "currentVariant": 20,
+  "currentPage": 4,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Fly.cs#74888b86ca6c148134d58abb385afe5f6ed78d9c": true,
     "chucklenugget/imperium#src/Ui/Ui.cs#c87bee2b7ac054becf9b2ae2f43f7aed4f3260ed": true,
@@ -7090,7 +7090,19 @@
     "publicrust/umod-pluigns-dataset#plugins/E/EntityData/EntityData.cs#9774268204420815200ecf41f7349b314d32edc2": true,
     "PenguinzTech/penguin-rust-base#docker/plugins/patched/Pets2.cs#eb29615be81854b40db73bcd5400ca1032753d6e": true,
     "13dasd123/RustPlugins#WONT-DAYZ_RUST/WONT RUST/plugins/BetterLoot.cs#5cec66f936ef9e062ce65f35e693ab328a5fd57d": true,
-    "KichDM/RustLegacyPlugins#Servidores Rust LEgacy/RustExtended/RustExtended Original + Oxide/serverdata/oxide/plugins/Trader.cs#738b49771b440d303dfb2de7bd508110147e4545": true
+    "KichDM/RustLegacyPlugins#Servidores Rust LEgacy/RustExtended/RustExtended Original + Oxide/serverdata/oxide/plugins/Trader.cs#738b49771b440d303dfb2de7bd508110147e4545": true,
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins_old/VehicleManager.cs#2d2a50a76923679df2fd7975783b71accf132e58": true,
+    "WheteThunger/UnlimitedDroneRange#UnlimitedDroneRange.cs#08c51f4c9eda45ba0fa4e23cc224c7ac1a7d9bdf": true,
+    "Substrata1/MiscRustPlugins#FixLargeBarnVendor.cs#97420023b5f4e5fa13882d6677fe281e822ffe6f": true,
+    "muxira/RustPlugins#[RustRewards - Steenamaroo - 3.1.4]/RustRewards.cs#be0006021c881c78e3d533d15efcfb70e4de068e": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/TwigsDecay.cs#5e807a6cd9c73f474b88267ddb324389f943ca6c": true,
+    "publicrust/umod-pluigns-dataset#plugins/C/CommandSplitter/CommandSplitter.cs#cd758aeae7000b5cdfb835cf26ecfadc44e974ef": true,
+    "Cannabis-CFG/Oxide#ZLevelsRemastered.cs#ff28fe6808d16f4d950802c5122fe6b4c4e4dc3b": true,
+    "CarbonCommunity/Carbon.Oxide#src/Covalence/CovalencePlugin.cs#6f2309c125917165e621c0642de7fbc35af6aee1": true,
+    "publicrust/umod-pluigns-dataset#plugins/I/InstantMixingTable/InstantMixingTable.cs#adc10c9f9b9de7eb2ecd12ca60575d7553bfd27b": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/BigBox.cs#e31fa69007de299b8b3778adac3f5fc9f26d101a": true,
+    "robbie-williams/rust-server-docker#rust_config/oxide/plugins/FatigueText.cs#554ab222f807b6ccd764e8f1c99824a94c24a45a": true,
+    "publicrust/umod-pluigns-dataset#plugins/N/NoServerCCTV/NoServerCCTV.cs#902b7a3338a8f8c786d8693ab9c32850f8c2e450": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
