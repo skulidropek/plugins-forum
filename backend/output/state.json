@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 21,
-  "currentPage": 8,
+  "currentVariant": 22,
+  "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -6272,7 +6272,8 @@
     "MrBlue/oxidemod.org#threads/stopping-study-of-blueprints.16193/index.html#d4dca23f993193b693ff93aee3e13ab02abba96e": true,
     "MrBlue/oxidemod.org#threads/helptext.5836/page-14.html#71d1f32e743ed523cb4b2ec3ba225774020b6cad": true,
     "MrBlue/oxidemod.org#threads/copy-paste.5981/page-80.html#aed06efe0dc28ce57e83aed8372ad5b5620213db": true,
-    "MrBlue/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true
+    "MrBlue/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true,
+    "PenisBlistashiq/Rust-plugins-236-240-dev#SpectatorPlus.cs#190e8bd77537f48bec067e28d0abc485ea2bc3e6": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
