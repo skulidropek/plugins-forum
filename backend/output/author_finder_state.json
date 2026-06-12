@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-11T19:13:12.204Z",
+  "last_updated": "2026-06-12T01:14:50.226Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2408,8 +2408,8 @@
       "success": true
     },
     "HeyImDionysus": {
-      "last_processed": "2026-06-05T01:09:27.769Z",
-      "repositories_found": 2,
+      "last_processed": "2026-06-12T01:14:48.215Z",
+      "repositories_found": 1,
       "success": true
     },
     "Zackslay": {
@@ -3891,6 +3891,7 @@
     "milestorme/quicksmelt",
     "fuflik52/Loot",
     "ChrisNewmanDev/CoreLoot",
-    "Y4n1ss3/Rust"
+    "Y4n1ss3/Rust",
+    "HeyImDionysus/serverstatus"
   ]
 }
