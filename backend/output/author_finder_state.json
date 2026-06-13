@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-13T13:07:29.894Z",
+  "last_updated": "2026-06-13T18:46:27.093Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -633,12 +633,12 @@
       "success": true
     },
     "Jake-Rich": {
-      "last_processed": "2026-06-06T18:41:21.093Z",
+      "last_processed": "2026-06-13T18:44:15.136Z",
       "repositories_found": 3,
       "success": true
     },
     "bmgjet": {
-      "last_processed": "2026-06-06T18:43:48.103Z",
+      "last_processed": "2026-06-13T18:46:27.090Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (123)"
@@ -800,7 +800,7 @@
       "success": true
     },
     "Dpendable": {
-      "last_processed": "2026-06-06T18:39:59.550Z",
+      "last_processed": "2026-06-13T18:42:54.246Z",
       "repositories_found": 1,
       "success": true
     },
@@ -896,7 +896,7 @@
       "success": true
     },
     "RustopiaOfficial": {
-      "last_processed": "2026-06-06T18:40:53.031Z",
+      "last_processed": "2026-06-13T18:43:47.061Z",
       "repositories_found": 3,
       "success": true
     },
@@ -1051,7 +1051,7 @@
       "success": true
     },
     "IIIaKa": {
-      "last_processed": "2026-06-06T18:42:36.949Z",
+      "last_processed": "2026-06-13T18:45:34.201Z",
       "repositories_found": 6,
       "success": true
     },
@@ -1066,7 +1066,7 @@
       "success": true
     },
     "setfps": {
-      "last_processed": "2026-06-06T18:43:08.787Z",
+      "last_processed": "2026-06-13T18:45:48.295Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1127,7 +1127,7 @@
       "success": true
     },
     "Substrata1": {
-      "last_processed": "2026-06-06T18:43:42.226Z",
+      "last_processed": "2026-06-13T18:46:21.259Z",
       "repositories_found": 5,
       "success": true
     },
@@ -1885,8 +1885,8 @@
       "error": "Skipped - too many repositories (110)"
     },
     "gjdunga": {
-      "last_processed": "2026-06-06T12:59:37.274Z",
-      "repositories_found": 5,
+      "last_processed": "2026-06-13T18:41:06.788Z",
+      "repositories_found": 6,
       "success": true
     },
     "Wrath-age": {
@@ -2177,7 +2177,7 @@
       "success": true
     },
     "lagzya-dev": {
-      "last_processed": "2026-06-06T18:40:41.572Z",
+      "last_processed": "2026-06-13T18:43:35.792Z",
       "repositories_found": 4,
       "success": true
     },
@@ -2198,7 +2198,7 @@
       "success": true
     },
     "bsk193": {
-      "last_processed": "2026-06-06T18:39:19.799Z",
+      "last_processed": "2026-06-13T18:42:14.588Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2208,7 +2208,7 @@
       "success": true
     },
     "VoodooCor": {
-      "last_processed": "2026-06-06T18:43:35.073Z",
+      "last_processed": "2026-06-13T18:46:14.315Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2249,12 +2249,12 @@
       "success": true
     },
     "S1gil0": {
-      "last_processed": "2026-06-06T18:42:41.866Z",
+      "last_processed": "2026-06-13T18:45:39.058Z",
       "repositories_found": 1,
       "success": true
     },
     "thetimmyman": {
-      "last_processed": "2026-06-06T18:42:44.626Z",
+      "last_processed": "2026-06-13T18:45:43.412Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2269,17 +2269,17 @@
       "success": true
     },
     "gmoddev": {
-      "last_processed": "2026-06-06T18:42:24.771Z",
+      "last_processed": "2026-06-13T18:45:22.160Z",
       "repositories_found": 1,
       "success": true
     },
     "LoneWolfRust": {
-      "last_processed": "2026-06-06T18:43:11.617Z",
+      "last_processed": "2026-06-13T18:45:51.069Z",
       "repositories_found": 1,
       "success": true
     },
     "NoxiousPluK": {
-      "last_processed": "2026-06-06T18:41:46.978Z",
+      "last_processed": "2026-06-13T18:44:46.338Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2289,22 +2289,22 @@
       "success": true
     },
     "Tomaxikz": {
-      "last_processed": "2026-06-06T18:43:22.692Z",
+      "last_processed": "2026-06-13T18:46:02.545Z",
       "repositories_found": 1,
       "success": true
     },
     "jcdrqtx": {
-      "last_processed": "2026-06-06T18:43:30.481Z",
+      "last_processed": "2026-06-13T18:46:10.182Z",
       "repositories_found": 3,
       "success": true
     },
     "TGWA0": {
-      "last_processed": "2026-06-06T18:42:28.205Z",
+      "last_processed": "2026-06-13T18:45:25.626Z",
       "repositories_found": 1,
       "success": true
     },
     "Eremith-s": {
-      "last_processed": "2026-06-06T18:43:45.044Z",
+      "last_processed": "2026-06-13T18:46:24.075Z",
       "repositories_found": 1,
       "success": true
     },
@@ -3900,6 +3900,7 @@
     "Y4n1ss3/Rust",
     "HeyImDionysus/serverstatus",
     "artem567yt/ExplorationRPG-Rust-Plugin",
-    "artem567yt/Rust-Advanced-AntiCheat"
+    "artem567yt/Rust-Advanced-AntiCheat",
+    "gjdunga/ModernInfoPanel"
   ]
 }

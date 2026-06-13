@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T13:07:29.895Z",
+  "generated_at": "2026-06-13T18:46:27.094Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1431,
+  "count": 1432,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1044,6 +1044,7 @@
     "fuflik52/umod-plugins",
     "gettakaro/connectors",
     "gettakaro/rust-mods",
+    "gjdunga/ModernInfoPanel",
     "gjdunga/ModernItemBlocker",
     "gjdunga/ModernNoCupboardDecay",
     "gjdunga/NitroBoostLinker",
