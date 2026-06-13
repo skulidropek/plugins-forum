@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T01:32:32.162Z",
-  "current_author_index": 76,
+  "last_updated": "2026-06-13T07:47:22.986Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-12T07:52:11.742Z",
@@ -391,108 +391,108 @@
       "success": true
     },
     "MorganSkilly": {
-      "last_processed": "2026-06-06T07:19:36.914Z",
+      "last_processed": "2026-06-13T07:33:55.779Z",
       "repositories_found": 1,
       "success": true
     },
     "decaydev": {
-      "last_processed": "2026-06-06T07:19:53.731Z",
+      "last_processed": "2026-06-13T07:34:08.271Z",
       "repositories_found": 2,
       "success": true
     },
     "kus": {
-      "last_processed": "2026-06-06T07:21:31.825Z",
+      "last_processed": "2026-06-13T07:35:34.061Z",
       "repositories_found": 1,
       "success": true
     },
     "eandersson": {
-      "last_processed": "2026-06-06T07:21:53.134Z",
+      "last_processed": "2026-06-13T07:35:48.978Z",
       "repositories_found": 0,
       "success": true
     },
     "SpencerSharkey": {
-      "last_processed": "2026-06-06T07:21:57.410Z",
+      "last_processed": "2026-06-13T07:35:51.869Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (105)"
     },
     "tVeratti": {
-      "last_processed": "2026-06-06T07:23:15.465Z",
+      "last_processed": "2026-06-13T07:36:48.251Z",
       "repositories_found": 1,
       "success": true
     },
     "Calytic": {
-      "last_processed": "2026-06-06T07:23:47.857Z",
+      "last_processed": "2026-06-13T07:37:11.047Z",
       "repositories_found": 5,
       "success": true
     },
     "PierreAnken": {
-      "last_processed": "2026-06-06T07:24:00.365Z",
+      "last_processed": "2026-06-13T07:37:19.315Z",
       "repositories_found": 1,
       "success": true
     },
     "MrGraversen": {
-      "last_processed": "2026-06-06T07:24:28.149Z",
+      "last_processed": "2026-06-13T07:37:39.229Z",
       "repositories_found": 2,
       "success": true
     },
     "unet-dev": {
-      "last_processed": "2026-06-06T07:24:34.503Z",
+      "last_processed": "2026-06-13T07:37:43.930Z",
       "repositories_found": 1,
       "success": true
     },
     "chucklenugget": {
-      "last_processed": "2026-06-06T07:24:44.456Z",
+      "last_processed": "2026-06-13T07:37:50.055Z",
       "repositories_found": 5,
       "success": true
     },
     "niekschoemaker": {
-      "last_processed": "2026-06-06T07:26:43.279Z",
+      "last_processed": "2026-06-13T07:39:16.819Z",
       "repositories_found": 8,
       "success": true
     },
     "BattleSheep94": {
-      "last_processed": "2026-06-06T07:27:36.824Z",
+      "last_processed": "2026-06-13T07:40:00.436Z",
       "repositories_found": 3,
       "success": true
     },
     "vick-kumar": {
-      "last_processed": "2026-06-06T07:27:59.601Z",
+      "last_processed": "2026-06-13T07:40:15.785Z",
       "repositories_found": 1,
       "success": true
     },
     "RustServers-IO": {
-      "last_processed": "2026-06-06T07:28:05.967Z",
+      "last_processed": "2026-06-13T07:40:20.944Z",
       "repositories_found": 2,
       "success": true
     },
     "openmailbox": {
-      "last_processed": "2026-06-06T07:28:41.361Z",
+      "last_processed": "2026-06-13T07:40:46.254Z",
       "repositories_found": 2,
       "success": true
     },
     "jacobcoughenour": {
-      "last_processed": "2026-06-06T07:32:38.310Z",
+      "last_processed": "2026-06-13T07:44:12.948Z",
       "repositories_found": 3,
       "success": true
     },
     "PsychoTea": {
-      "last_processed": "2026-06-06T07:33:39.040Z",
+      "last_processed": "2026-06-13T07:44:56.520Z",
       "repositories_found": 5,
       "success": true
     },
     "diametric": {
-      "last_processed": "2026-06-06T07:34:17.497Z",
+      "last_processed": "2026-06-13T07:45:24.618Z",
       "repositories_found": 2,
       "success": true
     },
     "Ryan-J-D": {
-      "last_processed": "2026-06-06T07:34:37.659Z",
+      "last_processed": "2026-06-13T07:45:40.911Z",
       "repositories_found": 5,
       "success": true
     },
     "i-love-code": {
-      "last_processed": "2026-06-06T07:35:31.926Z",
+      "last_processed": "2026-06-13T07:46:21.081Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2358,7 +2358,7 @@
       "success": true
     },
     "Nodemcu1": {
-      "last_processed": "2026-06-05T19:05:44.908Z",
+      "last_processed": "2026-06-13T07:47:20.977Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2413,27 +2413,27 @@
       "success": true
     },
     "Zackslay": {
-      "last_processed": "2026-06-05T19:05:37.919Z",
+      "last_processed": "2026-06-13T07:46:36.988Z",
       "repositories_found": 1,
       "success": true
     },
     "little-method": {
-      "last_processed": "2026-06-06T01:06:55.445Z",
+      "last_processed": "2026-06-13T07:46:54.115Z",
       "repositories_found": 0,
       "success": true
     },
     "wither-rebirth": {
-      "last_processed": "2026-06-06T01:07:28.432Z",
+      "last_processed": "2026-06-13T07:47:03.275Z",
       "repositories_found": 0,
       "success": true
     },
     "krypton2355": {
-      "last_processed": "2026-06-06T01:07:31.400Z",
+      "last_processed": "2026-06-13T07:47:06.060Z",
       "repositories_found": 0,
       "success": true
     },
     "maned2": {
-      "last_processed": "2026-06-06T01:07:40.624Z",
+      "last_processed": "2026-06-13T07:47:14.243Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2460,6 +2460,11 @@
     "Y4n1ss3": {
       "last_processed": "2026-06-10T13:26:40.725Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "artem567yt": {
+      "last_processed": "2026-06-13T07:46:33.502Z",
+      "repositories_found": 2,
       "success": true
     }
   },
@@ -3892,6 +3897,8 @@
     "fuflik52/Loot",
     "ChrisNewmanDev/CoreLoot",
     "Y4n1ss3/Rust",
-    "HeyImDionysus/serverstatus"
+    "HeyImDionysus/serverstatus",
+    "artem567yt/ExplorationRPG-Rust-Plugin",
+    "artem567yt/Rust-Advanced-AntiCheat"
   ]
 }

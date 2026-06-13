@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T01:32:32.163Z",
+  "generated_at": "2026-06-13T07:47:22.987Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1429,
+  "count": 1431,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -891,6 +891,8 @@
     "alfredo-leonelli/RaidAlert",
     "alfredo-leonelli/ServerPop",
     "alfredo-leonelli/VipManager",
+    "artem567yt/ExplorationRPG-Rust-Plugin",
+    "artem567yt/Rust-Advanced-AntiCheat",
     "atlas-rust-servers/console-extension",
     "atlas-rust-servers/gizmos-extension",
     "atlasrustservers/JERRYSun",
