@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-13T18:46:27.094Z",
+  "generated_at": "2026-06-14T01:33:41.998Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1432,
+  "count": 1433,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -147,6 +147,7 @@
     "HunterZ/Carbon",
     "HunterZ/MonumentAddons",
     "HunterZ/rustmods",
+    "Hustle-Industries/plugin",
     "I4IgO32/Rust-NoSteam",
     "IIIaKa/FreeRT",
     "IIIaKa/MonumentsWatcher",

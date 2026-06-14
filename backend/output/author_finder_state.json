@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-13T18:46:27.093Z",
-  "current_author_index": 0,
+  "last_updated": "2026-06-14T01:33:41.997Z",
+  "current_author_index": 242,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-12T07:52:11.742Z",
@@ -580,7 +580,7 @@
       "success": true
     },
     "Hardcore-fs": {
-      "last_processed": "2026-06-06T18:47:39.758Z",
+      "last_processed": "2026-06-14T01:19:29.789Z",
       "repositories_found": 0,
       "success": true
     },
@@ -825,7 +825,7 @@
       "success": true
     },
     "shady14u": {
-      "last_processed": "2026-06-06T18:52:09.744Z",
+      "last_processed": "2026-06-14T01:25:11.440Z",
       "repositories_found": 8,
       "success": true
     },
@@ -865,12 +865,12 @@
       "success": true
     },
     "achrafthedev": {
-      "last_processed": "2026-06-06T18:47:16.907Z",
+      "last_processed": "2026-06-14T01:18:59.966Z",
       "repositories_found": 1,
       "success": true
     },
     "EReis0": {
-      "last_processed": "2026-06-06T18:47:37.673Z",
+      "last_processed": "2026-06-14T01:19:27.576Z",
       "repositories_found": 1,
       "success": true
     },
@@ -891,7 +891,7 @@
       "success": true
     },
     "Visagalis": {
-      "last_processed": "2026-06-06T18:49:13.189Z",
+      "last_processed": "2026-06-14T01:21:15.095Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1193,7 +1193,7 @@
       "success": true
     },
     "SkiTee3000": {
-      "last_processed": "2026-06-06T18:47:31.169Z",
+      "last_processed": "2026-06-14T01:19:18.999Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1580,7 +1580,7 @@
       "success": true
     },
     "saramindra": {
-      "last_processed": "2026-06-06T18:43:03.809Z",
+      "last_processed": "2026-06-14T01:14:47.717Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1717,7 +1717,7 @@
       "success": true
     },
     "Pho3niX90": {
-      "last_processed": "2026-06-06T18:51:51.773Z",
+      "last_processed": "2026-06-14T01:24:48.695Z",
       "repositories_found": 4,
       "success": true
     },
@@ -1965,7 +1965,7 @@
       "success": true
     },
     "belisario-afk": {
-      "last_processed": "2026-06-07T01:13:52.941Z",
+      "last_processed": "2026-06-14T01:33:41.997Z",
       "repositories_found": 28,
       "success": true
     },
@@ -2030,7 +2030,7 @@
       "success": true
     },
     "estxbvnnn": {
-      "last_processed": "2026-06-06T18:57:20.876Z",
+      "last_processed": "2026-06-14T01:31:17.564Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2121,7 +2121,7 @@
       "success": true
     },
     "xrevoltsx": {
-      "last_processed": "2026-06-06T18:53:13.496Z",
+      "last_processed": "2026-06-14T01:26:31.676Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2136,7 +2136,7 @@
       "success": true
     },
     "its-snapple": {
-      "last_processed": "2026-06-06T18:41:49.905Z",
+      "last_processed": "2026-06-14T01:14:27.444Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2151,18 +2151,18 @@
       "success": true
     },
     "dextermyles": {
-      "last_processed": "2026-06-06T18:56:33.091Z",
+      "last_processed": "2026-06-14T01:30:22.444Z",
       "repositories_found": 1,
       "success": true
     },
     "SNiTEBoBy": {
-      "last_processed": "2026-06-06T18:55:51.472Z",
+      "last_processed": "2026-06-14T01:29:27.592Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (6962)"
     },
     "Hetachi": {
-      "last_processed": "2026-06-06T18:53:33.570Z",
+      "last_processed": "2026-06-14T01:27:00.439Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2172,7 +2172,7 @@
       "success": true
     },
     "Fritoqc": {
-      "last_processed": "2026-06-06T18:52:39.420Z",
+      "last_processed": "2026-06-14T01:25:48.296Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2182,7 +2182,7 @@
       "success": true
     },
     "UnrealSalty": {
-      "last_processed": "2026-06-06T18:52:33.873Z",
+      "last_processed": "2026-06-14T01:25:41.118Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2193,7 +2193,7 @@
       "error": "Skipped - too many repositories (160)"
     },
     "RobinPlay-2025": {
-      "last_processed": "2026-06-06T18:48:53.286Z",
+      "last_processed": "2026-06-14T01:20:50.293Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2203,7 +2203,7 @@
       "success": true
     },
     "features-not-bugs": {
-      "last_processed": "2026-06-06T18:52:29.756Z",
+      "last_processed": "2026-06-14T01:25:35.796Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2213,7 +2213,7 @@
       "success": true
     },
     "Juan321654": {
-      "last_processed": "2026-06-06T18:51:57.055Z",
+      "last_processed": "2026-06-14T01:24:54.063Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (160)"
@@ -2224,17 +2224,17 @@
       "success": true
     },
     "Teoory": {
-      "last_processed": "2026-06-06T18:50:21.735Z",
+      "last_processed": "2026-06-14T01:22:58.277Z",
       "repositories_found": 1,
       "success": true
     },
     "PlaySafeID": {
-      "last_processed": "2026-06-06T18:48:38.213Z",
+      "last_processed": "2026-06-14T01:20:33.611Z",
       "repositories_found": 1,
       "success": true
     },
     "GabrielTrigo": {
-      "last_processed": "2026-06-06T18:48:35.344Z",
+      "last_processed": "2026-06-14T01:20:30.344Z",
       "repositories_found": 5,
       "success": true
     },
@@ -2466,6 +2466,11 @@
     "artem567yt": {
       "last_processed": "2026-06-13T07:46:33.502Z",
       "repositories_found": 2,
+      "success": true
+    },
+    "Hustle-Industries": {
+      "last_processed": "2026-06-14T01:14:24.004Z",
+      "repositories_found": 1,
       "success": true
     }
   },
@@ -3901,6 +3906,7 @@
     "HeyImDionysus/serverstatus",
     "artem567yt/ExplorationRPG-Rust-Plugin",
     "artem567yt/Rust-Advanced-AntiCheat",
-    "gjdunga/ModernInfoPanel"
+    "gjdunga/ModernInfoPanel",
+    "Hustle-Industries/plugin"
   ]
 }
