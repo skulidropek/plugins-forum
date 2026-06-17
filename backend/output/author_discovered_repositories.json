@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-17T01:14:14.277Z",
+  "generated_at": "2026-06-17T08:25:13.210Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1433,
+  "count": 1434,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/plugins.server.rust",
@@ -1391,6 +1391,7 @@
     "soerr/github-to-rust",
     "spencermcw/rust-land-claim",
     "st-little/rust-plugin-development",
+    "sthebzpnkt/Skinbox",
     "stoneharry/rust-game-server",
     "strykes/Oxide",
     "strykes/Oxide2Plugins",

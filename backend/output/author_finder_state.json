@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T01:14:14.276Z",
-  "current_author_index": 0,
+  "last_updated": "2026-06-17T08:25:13.209Z",
+  "current_author_index": 381,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-12T07:52:11.742Z",
@@ -1106,18 +1106,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2026-06-10T01:25:45.452Z",
+      "last_processed": "2026-06-17T08:23:30.273Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (37199)"
+      "error": "Skipped - too many repositories (37235)"
     },
     "ImKiri86": {
-      "last_processed": "2026-06-10T01:25:45.576Z",
+      "last_processed": "2026-06-17T08:23:30.359Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2026-06-10T01:26:40.777Z",
+      "last_processed": "2026-06-17T08:24:19.450Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1132,13 +1132,13 @@
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2026-06-10T01:26:44.202Z",
+      "last_processed": "2026-06-17T08:24:22.767Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (112)"
+      "error": "Skipped - too many repositories (113)"
     },
     "TOWUK": {
-      "last_processed": "2026-06-10T01:26:51.808Z",
+      "last_processed": "2026-06-17T08:24:31.909Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1148,17 +1148,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2026-06-10T01:26:57.222Z",
+      "last_processed": "2026-06-17T08:24:37.325Z",
       "repositories_found": 3,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2026-06-10T01:27:19.040Z",
+      "last_processed": "2026-06-17T08:24:56.726Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2026-06-10T01:27:34.078Z",
+      "last_processed": "2026-06-17T08:25:10.151Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1168,7 +1168,7 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2026-06-10T01:27:37.266Z",
+      "last_processed": "2026-06-17T08:25:13.209Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2470,6 +2470,11 @@
     },
     "Hustle-Industries": {
       "last_processed": "2026-06-14T01:14:24.004Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "sthebzpnkt": {
+      "last_processed": "2026-06-17T08:07:01.531Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3907,6 +3912,7 @@
     "artem567yt/ExplorationRPG-Rust-Plugin",
     "artem567yt/Rust-Advanced-AntiCheat",
     "gjdunga/ModernInfoPanel",
-    "Hustle-Industries/plugin"
+    "Hustle-Industries/plugin",
+    "sthebzpnkt/Skinbox"
   ]
 }
