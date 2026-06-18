@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-17T19:22:12.490Z",
-  "current_author_index": 471,
+  "last_updated": "2026-06-18T01:20:38.735Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-12T07:52:11.742Z",
@@ -1732,12 +1732,12 @@
       "success": true
     },
     "oculus42": {
-      "last_processed": "2026-06-10T19:17:54.153Z",
+      "last_processed": "2026-06-18T01:14:50.166Z",
       "repositories_found": 1,
       "success": true
     },
     "Fayozjon": {
-      "last_processed": "2026-06-10T19:20:34.338Z",
+      "last_processed": "2026-06-18T01:16:46.587Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1747,68 +1747,68 @@
       "success": true
     },
     "electrikbox": {
-      "last_processed": "2026-06-10T19:21:03.551Z",
+      "last_processed": "2026-06-18T01:17:08.885Z",
       "repositories_found": 1,
       "success": true
     },
     "matbyte-com": {
-      "last_processed": "2026-06-10T19:21:23.465Z",
+      "last_processed": "2026-06-18T01:17:23.497Z",
       "repositories_found": 1,
       "success": true
     },
     "pilate": {
-      "last_processed": "2026-06-10T19:23:03.519Z",
+      "last_processed": "2026-06-18T01:18:38.650Z",
       "repositories_found": 1,
       "success": true
     },
     "RuchirRajOld": {
-      "last_processed": "2026-06-10T19:23:20.672Z",
+      "last_processed": "2026-06-18T01:18:45.384Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (525)"
     },
     "Timestorm": {
-      "last_processed": "2026-06-10T19:23:47.146Z",
+      "last_processed": "2026-06-18T01:19:03.804Z",
       "repositories_found": 0,
       "success": true
     },
     "TheNeo2k": {
-      "last_processed": "2026-06-11T01:12:08.350Z",
+      "last_processed": "2026-06-18T01:19:50.291Z",
       "repositories_found": 1,
       "success": true
     },
     "Buzgero": {
-      "last_processed": "2026-06-11T01:12:12.106Z",
+      "last_processed": "2026-06-18T01:19:54.007Z",
       "repositories_found": 1,
       "success": true
     },
     "lbgcomm": {
-      "last_processed": "2026-06-11T01:12:21.188Z",
+      "last_processed": "2026-06-18T01:20:03.148Z",
       "repositories_found": 1,
       "success": true
     },
     "hixio-mh": {
-      "last_processed": "2026-06-11T01:12:23.307Z",
+      "last_processed": "2026-06-18T01:20:05.277Z",
       "repositories_found": 0,
       "success": true
     },
     "Swishhyy": {
-      "last_processed": "2026-06-11T01:12:42.107Z",
+      "last_processed": "2026-06-18T01:20:23.862Z",
       "repositories_found": 1,
       "success": true
     },
     "atlasrustservers": {
-      "last_processed": "2026-06-11T01:12:45.079Z",
+      "last_processed": "2026-06-18T01:20:26.779Z",
       "repositories_found": 1,
       "success": true
     },
     "RazoRRustPlugins": {
-      "last_processed": "2026-06-11T01:12:53.326Z",
+      "last_processed": "2026-06-18T01:20:34.623Z",
       "repositories_found": 5,
       "success": true
     },
     "CherrySofts": {
-      "last_processed": "2026-06-11T01:12:55.443Z",
+      "last_processed": "2026-06-18T01:20:36.732Z",
       "repositories_found": 0,
       "success": true
     },
