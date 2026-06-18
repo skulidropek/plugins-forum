@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 1,
+  "currentVariant": 17,
+  "currentPage": 9,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7240,7 +7240,15 @@
     "MrBlue/oxidemod.org#threads/stopping-study-of-blueprints.16193/index.html#d4dca23f993193b693ff93aee3e13ab02abba96e": true,
     "MrBlue/oxidemod.org#threads/helptext.5836/page-14.html#71d1f32e743ed523cb4b2ec3ba225774020b6cad": true,
     "MrBlue/oxidemod.org#threads/copy-paste.5981/page-80.html#aed06efe0dc28ce57e83aed8372ad5b5620213db": true,
-    "MrBlue/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true
+    "MrBlue/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/BlueprintBlocker.cs#7fbf54faed7d04c4a36bee50bd973520e9e82508": true,
+    "13dasd123/RustPlugins#EXPLOSIVERUST/EXPLOSIVERUST/plugins/FurnaceSorter.cs#b03ad900e1d6b7217570b788802a92a1ae33729e": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/StatsSystem.cs#a5d39f96e45e06428fc894583b3d33973415ca8b": true,
+    "13dasd123/RustPlugins#FLEEP RUST 10X/oxide/plugins/AProtection.cs#88dbdacff6653705baba897908aa798077fa01e3": true,
+    "13dasd123/RustPlugins#basetop oxide/oxide/plugins/XFireGloves.cs#e5165968a75ab68b8ead192e0f767976f6cab045": true,
+    "MitchBriles/RustPlugins#IgnoreCollision.cs#013dfa2255facde09a14a7ae2c636c65358e9648": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/TimeOfDay.cs#b7b567621fa6d7de3c3e97d5c8aba21691bab603": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/WantedForMurder.cs#eb4a7dd860c75f5b9670c1f83d98a140015638a9": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
