@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-06-18T01:20:38.736Z",
+  "generated_at": "2026-06-18T07:59:09.069Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1434,
+  "count": 1435,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
+    "0killrest/Other-plugins-rust",
     "0killrest/plugins.server.rust",
     "0xBlitzmachine/Rust-Tools",
     "0xz00m/test",

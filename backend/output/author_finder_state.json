@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-18T01:20:38.735Z",
+  "last_updated": "2026-06-18T07:59:09.068Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1438,7 +1438,7 @@
       "success": true
     },
     "Comm512-1": {
-      "last_processed": "2026-06-10T13:26:47.645Z",
+      "last_processed": "2026-06-18T07:57:57.439Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1453,7 +1453,7 @@
       "success": true
     },
     "Feramor": {
-      "last_processed": "2026-06-11T07:57:29.299Z",
+      "last_processed": "2026-06-18T07:59:07.059Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1560,7 +1560,7 @@
       "success": true
     },
     "robbie-williams": {
-      "last_processed": "2026-06-10T13:27:03.491Z",
+      "last_processed": "2026-06-18T07:58:13.612Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1742,7 +1742,7 @@
       "success": true
     },
     "seanbyrne88": {
-      "last_processed": "2026-06-10T19:04:33.848Z",
+      "last_processed": "2026-06-18T07:58:25.901Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2374,8 +2374,8 @@
       "success": true
     },
     "0killrest": {
-      "last_processed": "2026-06-11T07:56:48.140Z",
-      "repositories_found": 1,
+      "last_processed": "2026-06-18T07:57:02.303Z",
+      "repositories_found": 2,
       "success": true
     },
     "oscarxdev": {
@@ -2404,7 +2404,7 @@
       "success": true
     },
     "elblayko": {
-      "last_processed": "2026-06-11T07:56:58.660Z",
+      "last_processed": "2026-06-18T07:58:36.453Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2459,7 +2459,7 @@
       "success": true
     },
     "Y4n1ss3": {
-      "last_processed": "2026-06-10T13:26:40.725Z",
+      "last_processed": "2026-06-18T07:57:51.058Z",
       "repositories_found": 1,
       "success": true
     },
@@ -3913,6 +3913,7 @@
     "artem567yt/Rust-Advanced-AntiCheat",
     "gjdunga/ModernInfoPanel",
     "Hustle-Industries/plugin",
-    "sthebzpnkt/Skinbox"
+    "sthebzpnkt/Skinbox",
+    "0killrest/Other-plugins-rust"
   ]
 }
