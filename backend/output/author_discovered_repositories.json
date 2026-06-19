@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-19T01:20:01.315Z",
+  "generated_at": "2026-06-19T08:22:05.985Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1436,
+  "count": 1438,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1121,6 +1121,7 @@
     "jerkypaisen/DeepSeaAdmin",
     "jerkypaisen/EggArtist",
     "jerkypaisen/EzBpDropOnly",
+    "jerkypaisen/Finisher",
     "jerkypaisen/ItemOwnerShipEdit",
     "jerkypaisen/LifeOverStamina",
     "jerkypaisen/MyCaravan",
@@ -1136,6 +1137,7 @@
     "jerkypaisen/ToastMessage",
     "jerkypaisen/WaterGunHeal",
     "jerkypaisen/code-memo",
+    "jerkypaisen/rust-custom-3d-display",
     "jkole4/AntiNoobRaid",
     "jkole4/BrightNight",
     "jkole4/FPSRestart",
