@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-18T03:20:28.548Z",
-  "count": 71,
+  "generated_at": "2026-06-19T03:21:51.576Z",
+  "count": 73,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -24,6 +24,7 @@
     "RustyyTown/plugins",
     "TurkLee/Decompiled-Assemblies",
     "VoodooCor/rust-server-plugins",
+    "WeirdPhrog/Carbon",
     "Wrath-age/TheAddiction",
     "Wrath-age/TheAddictionPlugins",
     "Wrath-age/TheAddictionSite",
@@ -67,6 +68,7 @@
     "l0cks-acab/SAMSiteReach",
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
+    "networkluki/Rust-Work-Project-networkluki",
     "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
     "st-little/rust-plugin-development",
