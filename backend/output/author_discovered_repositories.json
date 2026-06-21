@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-21T01:16:39.894Z",
+  "generated_at": "2026-06-21T08:11:42.100Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1438,
+  "count": 1439,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1029,6 +1029,7 @@
     "estxbvnnn/TCTournaments",
     "estxbvnnn/TagsTwitchRivalsRust",
     "estxbvnnn/TournamentsDTags",
+    "estxbvnnn/estxbvnnnweb",
     "famus0v/Rust-Plugins",
     "features-not-bugs/Rust-CustomMapVehicleVendorFix",
     "fenderrex/Oxide.Ext.RustEdit",
