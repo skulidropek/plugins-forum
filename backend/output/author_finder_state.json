@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-06-21T19:02:39.018Z",
-  "current_author_index": 364,
+  "last_updated": "2026-06-22T01:19:50.591Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-06-19T08:07:25.526Z",
@@ -1046,7 +1046,7 @@
       "success": true
     },
     "oleduc": {
-      "last_processed": "2026-06-14T18:58:08.119Z",
+      "last_processed": "2026-06-22T01:16:56.274Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1056,12 +1056,12 @@
       "success": true
     },
     "danielgnh": {
-      "last_processed": "2026-06-14T18:58:21.762Z",
+      "last_processed": "2026-06-22T01:17:09.313Z",
       "repositories_found": 1,
       "success": true
     },
     "UltraRust": {
-      "last_processed": "2026-06-14T18:58:29.007Z",
+      "last_processed": "2026-06-22T01:17:16.299Z",
       "repositories_found": 7,
       "success": true
     },
@@ -1071,7 +1071,7 @@
       "success": true
     },
     "sknchan": {
-      "last_processed": "2026-06-14T18:59:41.627Z",
+      "last_processed": "2026-06-22T01:18:24.740Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1086,22 +1086,22 @@
       "success": true
     },
     "seanmb0": {
-      "last_processed": "2026-06-14T18:59:46.321Z",
+      "last_processed": "2026-06-22T01:18:29.110Z",
       "repositories_found": 1,
       "success": true
     },
     "kisuka": {
-      "last_processed": "2026-06-14T19:00:52.508Z",
+      "last_processed": "2026-06-22T01:19:32.661Z",
       "repositories_found": 1,
       "success": true
     },
     "xmxv": {
-      "last_processed": "2026-06-14T19:01:03.319Z",
+      "last_processed": "2026-06-22T01:19:42.990Z",
       "repositories_found": 2,
       "success": true
     },
     "Killa4": {
-      "last_processed": "2026-06-14T19:01:09.485Z",
+      "last_processed": "2026-06-22T01:19:48.586Z",
       "repositories_found": 0,
       "success": true
     },
