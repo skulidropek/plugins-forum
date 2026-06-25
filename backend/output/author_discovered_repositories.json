@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-25T13:02:45.390Z",
+  "generated_at": "2026-06-25T19:01:30.137Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1439,
+  "count": 1441,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1426,6 +1426,8 @@
     "vinnyborderhops/CustomShooter",
     "weedz/oxide_rustextras",
     "whitecristafer/AutoAnnounce",
+    "whitecristafer/BuildingLicense",
+    "whitecristafer/WhiteSpawn",
     "whitecristafer/oxide-RecallHub",
     "williamtrelawny/Oxide.Core",
     "xADROCx1/misfits-studios-site",
