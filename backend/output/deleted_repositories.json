@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-06-24T03:18:04.598Z",
-  "count": 73,
+  "generated_at": "2026-06-25T03:17:47.681Z",
+  "count": 74,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -74,6 +74,7 @@
     "st-little/rust-plugin-development",
     "vinnyborderhops/CustomShooter",
     "wither-rebirth/Hackthebox-Walkthrough",
+    "xADROCx1/misfits-studios-site",
     "yacvaguer/uav-signal"
   ]
 }
