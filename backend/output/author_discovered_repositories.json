@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-26T07:32:06.522Z",
+  "generated_at": "2026-06-26T13:13:11.135Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1441,
+  "count": 1442,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1120,6 +1120,7 @@
     "jerkypaisen/CreativityDump",
     "jerkypaisen/CustomBpDropOnly",
     "jerkypaisen/DeepSeaAdmin",
+    "jerkypaisen/DroneShow",
     "jerkypaisen/EggArtist",
     "jerkypaisen/EzBpDropOnly",
     "jerkypaisen/Finisher",
