@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-06-28T01:26:41.855Z",
+  "last_updated": "2026-06-28T07:35:23.749Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1580,7 +1580,7 @@
       "success": true
     },
     "saramindra": {
-      "last_processed": "2026-06-21T01:16:37.886Z",
+      "last_processed": "2026-06-28T07:35:21.738Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2136,7 +2136,7 @@
       "success": true
     },
     "its-snapple": {
-      "last_processed": "2026-06-21T01:16:11.077Z",
+      "last_processed": "2026-06-28T07:34:54.913Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2299,7 +2299,7 @@
       "success": true
     },
     "TGWA0": {
-      "last_processed": "2026-06-21T01:16:08.058Z",
+      "last_processed": "2026-06-28T07:34:51.970Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2469,7 +2469,7 @@
       "success": true
     },
     "Hustle-Industries": {
-      "last_processed": "2026-06-21T01:16:18.965Z",
+      "last_processed": "2026-06-28T07:35:02.857Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2481,6 +2481,11 @@
     "Alienatedmamal": {
       "last_processed": "2026-06-28T01:09:56.238Z",
       "repositories_found": 1,
+      "success": true
+    },
+    "HizenLabs": {
+      "last_processed": "2026-06-28T07:34:48.519Z",
+      "repositories_found": 2,
       "success": true
     }
   },
@@ -3927,6 +3932,8 @@
     "whitecristafer/BuildingLicense",
     "whitecristafer/WhiteSpawn",
     "jerkypaisen/DroneShow",
-    "Alienatedmamal/NOR-RCON-Dashboard"
+    "Alienatedmamal/NOR-RCON-Dashboard",
+    "HizenLabs/Carbon",
+    "HizenLabs/HizenLabs.Shared"
   ]
 }

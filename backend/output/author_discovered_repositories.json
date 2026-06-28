@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-28T01:26:41.856Z",
+  "generated_at": "2026-06-28T07:35:23.750Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1443,
+  "count": 1445,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -146,6 +146,8 @@
     "HeyImDionysus/corrodedadmin",
     "HeyImDionysus/serverstatus",
     "HeyImDionysus/unraider",
+    "HizenLabs/Carbon",
+    "HizenLabs/HizenLabs.Shared",
     "HunterZ/Carbon",
     "HunterZ/MonumentAddons",
     "HunterZ/rustmods",
