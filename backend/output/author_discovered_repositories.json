@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-06-27T18:54:28.287Z",
+  "generated_at": "2026-06-28T01:26:41.856Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1442,
+  "count": 1443,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -31,6 +31,7 @@
     "AlexALX/Oxide",
     "AlexALX/botovnet-legacy-archive",
     "AlexanderVolk25/GoldMine",
+    "Alienatedmamal/NOR-RCON-Dashboard",
     "AntiKnox/antiknox-rust-plugin",
     "AntoineRatoUniversity/RustPatreonAPI",
     "ApocDev/Oxide",
