@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 24,
-  "currentPage": 4,
+  "currentPage": 7,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7743,7 +7743,25 @@
     "RazoR-XXX/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/ForestBerries.cs#95322b9c96fca4d3a605baa2456f11e372fecdbe": true,
     "Rahulsinghz/oxideplugins#reign of kings/NoFriendlyFire.cs#7d5981c87f88ff5bf888eb6ae8f5e1245fce42cd": true,
     "Rahulsinghz/oxideplugins#universal/ReportBot.cs#11c15bb67f0b30690d9ae198e25868e4a06fe1b0": true,
-    "Rahulsinghz/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true
+    "Rahulsinghz/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true,
+    "Willdiedog/oxideplugins#reign of kings/NoFriendlyFire.cs#7d5981c87f88ff5bf888eb6ae8f5e1245fce42cd": true,
+    "alexanderndev/oxideplugins#reign of kings/NoFriendlyFire.cs#7d5981c87f88ff5bf888eb6ae8f5e1245fce42cd": true,
+    "ZaeBallsa/oxideplugins#reign of kings/NoFriendlyFire.cs#7d5981c87f88ff5bf888eb6ae8f5e1245fce42cd": true,
+    "skulidropek/oxideplugins#reign of kings/NoFriendlyFire.cs#7d5981c87f88ff5bf888eb6ae8f5e1245fce42cd": true,
+    "Willdiedog/oxideplugins#universal/ReportBot.cs#11c15bb67f0b30690d9ae198e25868e4a06fe1b0": true,
+    "alexanderndev/oxideplugins#universal/ReportBot.cs#11c15bb67f0b30690d9ae198e25868e4a06fe1b0": true,
+    "ZaeBallsa/oxideplugins#universal/ReportBot.cs#11c15bb67f0b30690d9ae198e25868e4a06fe1b0": true,
+    "skulidropek/oxideplugins#universal/ReportBot.cs#11c15bb67f0b30690d9ae198e25868e4a06fe1b0": true,
+    "Willdiedog/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true,
+    "alexanderndev/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true,
+    "ZaeBallsa/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true,
+    "skulidropek/oxideplugins#rust/FlashBang.cs#3462d6e4e05181821ae3a03b76254fbde81a13a3": true,
+    "RazoR-XXX/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/ExtraSeating.cs#e593f6d018a312ffe33399341a66aab4a26222d9": true,
+    "Kulltero/Carbon.Core#Carbon.Core/Carbon.Common/src/Oxide/Covalence/CovalencePlugin.cs#9414e18587b09fb7156557a2cbccf7016fde4e47": true,
+    "RazoR-XXX/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/RecoveryItems.cs#f6c5a56e8dd67249b36544add67bd5a948c2a9f6": true,
+    "RazoR-XXX/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins2/BigBox.cs#e31fa69007de299b8b3778adac3f5fc9f26d101a": true,
+    "Rahulsinghz/oxideplugins#rust/EasyHeal.cs#2cac6206cd145fa57187b1099c46f0cac00dbf8c": true,
+    "TurkLee/Decompiled-Assemblies#Oxide.CSharp/Oxide.Plugins/CommandAttribute.cs#a0e066574560efd806acf52cdbad789ed3c6582e": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
