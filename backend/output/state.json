@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 10,
+  "currentVariant": 17,
+  "currentPage": 7,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7597,7 +7597,8 @@
     "13dasd123/SlivPlugins#BuriedTreasure.cs#00c2f4f18a7294324619dbbc9a11a555611689ad": true,
     "john-clark/rust-oxide-umod#old/plugins/rust/FlyingCarpet.cs#68c8a57f01331ce61092b7d704223bb77be9c5ee": true,
     "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/SeedOre.cs#c7fe0666c4b3ee227315c9f877675cbbfa2d5d3a": true,
-    "13dasd123/RustPlugins#RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XRate.cs#41c3b244a669e51fff187562a04e22751219ab72": true
+    "13dasd123/RustPlugins#RUSSIA_RUST/RUSSIA RUST/oxide/plugins/XRate.cs#41c3b244a669e51fff187562a04e22751219ab72": true,
+    "13dasd123/RustPlugins#SUMMER_SLIV/SUMMER СЛИВ/plugins/DisableErrors.cs#ac90e54daca7992512e41c3bb2ba3138e09c5b73": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
