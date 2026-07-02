@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-02T14:24:30.682Z",
+  "last_updated": "2026-07-02T19:44:26.438Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1439,7 +1439,7 @@
       "success": true
     },
     "Comm512-1": {
-      "last_processed": "2026-06-25T13:01:17.599Z",
+      "last_processed": "2026-07-02T19:39:02.490Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1454,7 +1454,7 @@
       "success": true
     },
     "Feramor": {
-      "last_processed": "2026-06-25T13:02:43.379Z",
+      "last_processed": "2026-07-02T19:40:32.055Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1561,7 +1561,7 @@
       "success": true
     },
     "robbie-williams": {
-      "last_processed": "2026-06-25T13:01:38.634Z",
+      "last_processed": "2026-07-02T19:39:25.125Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1743,7 +1743,7 @@
       "success": true
     },
     "seanbyrne88": {
-      "last_processed": "2026-06-25T13:01:54.011Z",
+      "last_processed": "2026-07-02T19:39:42.350Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2330,8 +2330,8 @@
       "success": true
     },
     "whitecristafer": {
-      "last_processed": "2026-06-25T18:57:18.462Z",
-      "repositories_found": 4,
+      "last_processed": "2026-07-02T19:38:03.413Z",
+      "repositories_found": 5,
       "success": true
     },
     "ShiroKSH": {
@@ -2350,7 +2350,7 @@
       "success": true
     },
     "L4m1fy": {
-      "last_processed": "2026-06-25T19:01:28.127Z",
+      "last_processed": "2026-07-02T19:44:24.433Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2370,12 +2370,12 @@
       "success": true
     },
     "006mi4": {
-      "last_processed": "2026-06-25T19:01:22.837Z",
+      "last_processed": "2026-07-02T19:44:18.908Z",
       "repositories_found": 1,
       "success": true
     },
     "0killrest": {
-      "last_processed": "2026-06-25T13:00:13.846Z",
+      "last_processed": "2026-07-02T19:37:46.640Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2385,12 +2385,12 @@
       "success": true
     },
     "unkn0wn-97": {
-      "last_processed": "2026-06-25T19:01:14.847Z",
+      "last_processed": "2026-07-02T19:44:10.188Z",
       "repositories_found": 5,
       "success": true
     },
     "Sk3tch-Dev-Ux": {
-      "last_processed": "2026-06-25T19:01:05.748Z",
+      "last_processed": "2026-07-02T19:43:58.716Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2405,7 +2405,7 @@
       "success": true
     },
     "elblayko": {
-      "last_processed": "2026-06-25T13:02:07.840Z",
+      "last_processed": "2026-07-02T19:39:56.883Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2460,7 +2460,7 @@
       "success": true
     },
     "Y4n1ss3": {
-      "last_processed": "2026-06-25T13:01:08.494Z",
+      "last_processed": "2026-07-02T19:38:53.818Z",
       "repositories_found": 1,
       "success": true
     },
@@ -3935,6 +3935,7 @@
     "jerkypaisen/DroneShow",
     "Alienatedmamal/NOR-RCON-Dashboard",
     "HizenLabs/Carbon",
-    "HizenLabs/HizenLabs.Shared"
+    "HizenLabs/HizenLabs.Shared",
+    "whitecristafer/MagicTags"
   ]
 }
