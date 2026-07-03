@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-03T09:28:07.394Z",
+  "generated_at": "2026-07-03T14:32:49.774Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1447,
+  "count": 1448,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -239,6 +239,7 @@
     "MONaH-Rasta/DiscordLogger-uMod",
     "MONaH-Rasta/DiscordWipe",
     "MONaH-Rasta/EntityOwner",
+    "MONaH-Rasta/Finder",
     "MONaH-Rasta/ImageLibrary",
     "MONaH-Rasta/InstantUntie",
     "MONaH-Rasta/InventoryBackup",
