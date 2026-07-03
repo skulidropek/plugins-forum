@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-02T19:44:26.439Z",
+  "generated_at": "2026-07-03T03:39:57.677Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1446,
+  "count": 1447,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1306,6 +1306,7 @@
     "read-0nly/Oxide.Rust",
     "read-0nly/Rust-coop-survival",
     "read-0nly/RustMods",
+    "rifle-ak/zone-manager-rewrite",
     "robbie-williams/rust-server-docker",
     "romgerman/CGUI",
     "romgerman/RustPlugins",
