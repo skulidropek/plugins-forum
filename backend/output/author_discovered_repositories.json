@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-05T09:02:36.328Z",
+  "generated_at": "2026-07-05T14:09:50.762Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1450,
+  "count": 1451,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -38,6 +38,7 @@
     "Ardivaba/CodeSamples",
     "AsielElaouare/blueprintmanager-rust",
     "Azuriom/AzLink-CSharp",
+    "BLANKxSS/txAdmin-rust",
     "BattleSheep94/AutoFuel",
     "BattleSheep94/CloudflareUpdater-Plugin",
     "BattleSheep94/Rust-Plugin-Collection",
