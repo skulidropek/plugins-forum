@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-05T06:12:30.747Z",
-  "count": 75,
+  "generated_at": "2026-07-06T06:37:43.524Z",
+  "count": 76,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -21,6 +21,7 @@
     "HeyImDionysus/corrodedadmin",
     "HeyImDionysus/serverstatus",
     "HeyImDionysus/unraider",
+    "HizenLabs/Carbon",
     "PsixXxrus/MyTask",
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
