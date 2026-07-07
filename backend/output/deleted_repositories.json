@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-06T06:37:43.524Z",
-  "count": 76,
+  "generated_at": "2026-07-07T06:15:19.758Z",
+  "count": 77,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -8,6 +8,7 @@
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
     "Alienatedmamal/NOR-RCON-Dashboard",
+    "BLANKxSS/txAdmin-rust",
     "BurntRouter/rust-rcon",
     "CaptainBlake/RaidMe",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
