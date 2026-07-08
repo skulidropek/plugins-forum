@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-08T14:26:24.074Z",
+  "last_updated": "2026-07-08T19:55:15.789Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1107,13 +1107,13 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2026-07-01T19:10:37.489Z",
+      "last_processed": "2026-07-08T19:55:11.666Z",
       "repositories_found": 0,
-      "success": true,
-      "error": "Skipped - too many repositories (37281)"
+      "success": false,
+      "error": "HTTP 502: Bad Gateway"
     },
     "ImKiri86": {
-      "last_processed": "2026-07-01T19:10:37.608Z",
+      "last_processed": "2026-07-08T19:55:13.787Z",
       "repositories_found": 0,
       "success": true
     },
@@ -1204,7 +1204,7 @@
       "success": true
     },
     "Kulltero": {
-      "last_processed": "2026-07-01T18:51:11.514Z",
+      "last_processed": "2026-07-08T19:39:47.935Z",
       "repositories_found": 2,
       "success": true
     },
