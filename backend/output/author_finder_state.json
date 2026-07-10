@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-10T03:42:35.898Z",
+  "last_updated": "2026-07-10T09:45:22.133Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2410,8 +2410,8 @@
       "success": true
     },
     "HeyImDionysus": {
-      "last_processed": "2026-07-03T09:28:05.388Z",
-      "repositories_found": 0,
+      "last_processed": "2026-07-10T09:45:20.122Z",
+      "repositories_found": 1,
       "success": true
     },
     "Zackslay": {
@@ -3956,6 +3956,7 @@
     "MONaH-Rasta/Finder",
     "redman-racer/raidlands",
     "redman-racer/rust_server",
-    "BLANKxSS/txAdmin-rust"
+    "BLANKxSS/txAdmin-rust",
+    "HeyImDionysus/Moo"
   ]
 }
