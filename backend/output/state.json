@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 21,
-  "currentPage": 6,
+  "currentPage": 7,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -6364,7 +6364,11 @@
     "Pho3niX90/PoliticalSurvival#PoliticalSurvival.cs#8686cf90f7d53a350471c0eaa2d5898249e0648b": true,
     "KichDM/RustLegacyPlugins#Oxide-2.0/WeaponRecycler.cs#af290cace6267494b62ba7c6d7a747093f3a0373": true,
     "13dasd123/RustPlugins#TRAVELER_RUST1.0.2/TRAVELER RUST/plugins/Trade.cs#2801e558c524a3392760b261caf06f4be4ba4fc3": true,
-    "openmailbox/RustMods#RustMods/HungerGames.cs#1a0e04aca3e826132d1db65f77c146cac52cfdc4": true
+    "openmailbox/RustMods#RustMods/HungerGames.cs#1a0e04aca3e826132d1db65f77c146cac52cfdc4": true,
+    "13dasd123/RustPlugins#SUMMER_SLIV/SUMMER СЛИВ/plugins/DisableErrors.cs#ac90e54daca7992512e41c3bb2ba3138e09c5b73": true,
+    "13dasd123/RustPlugins#Dota_Rust/oxide parasha/plugins/LimitObject.cs#516be402ce8f603697b3a7703a57ad862a305bd8": true,
+    "13dasd123/RustPlugins#basetop oxide/oxide/plugins/SurveyBlocker.cs#3bf2d7307169fc6e6fd0d630285c2d0ea9fa7648": true,
+    "13dasd123/RustPlugins#ragerust/oxide/plugins/DespawnConfig.cs#38ecdc8b5bf57f4f2f48dc195bbe10066ccd04b9": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
