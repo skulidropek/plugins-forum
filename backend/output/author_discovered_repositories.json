@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-13T19:44:26.227Z",
+  "generated_at": "2026-07-14T02:49:23.232Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1455,
+  "count": 1456,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1417,6 +1417,7 @@
     "teamgamesllc/teamgames-umod",
     "tebexio/Tebex-Oxide",
     "tebexio/Tebex-Rust",
+    "terex-mint/NoNoSteam",
     "ternpixel/plugins",
     "thenetimp/NoNameChange",
     "thenetimp/Rust_SystemNotifications",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-13T19:44:26.226Z",
+  "last_updated": "2026-07-14T02:49:23.231Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2503,6 +2503,11 @@
       "last_processed": "2026-07-12T19:14:49.085Z",
       "repositories_found": 1,
       "success": true
+    },
+    "terex-mint": {
+      "last_processed": "2026-07-14T02:49:21.223Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -3960,6 +3965,7 @@
     "HeyImDionysus/Moo",
     "TGWA0/RustPluginTemplate",
     "estxbvnnn/Rustuto",
-    "dextermyles/Oxide.Core"
+    "dextermyles/Oxide.Core",
+    "terex-mint/NoNoSteam"
   ]
 }
