@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-14T19:27:50.425Z",
+  "last_updated": "2026-07-15T02:52:08.161Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1281,7 +1281,7 @@
       "success": true
     },
     "txnitxnichopper": {
-      "last_processed": "2026-07-07T20:05:48.582Z",
+      "last_processed": "2026-07-15T02:49:11.838Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1819,7 +1819,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-07-07T20:07:14.652Z",
+      "last_processed": "2026-07-15T02:50:32.125Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2310,22 +2310,22 @@
       "success": true
     },
     "dactDMA": {
-      "last_processed": "2026-07-07T20:06:56.926Z",
+      "last_processed": "2026-07-15T02:50:15.032Z",
       "repositories_found": 1,
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-07-07T20:07:11.336Z",
+      "last_processed": "2026-07-15T02:50:27.966Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-07-07T20:08:54.794Z",
+      "last_processed": "2026-07-15T02:52:06.151Z",
       "repositories_found": 2,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-07-07T20:06:35.346Z",
+      "last_processed": "2026-07-15T02:49:55.111Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2340,12 +2340,12 @@
       "success": true
     },
     "leo-lizi": {
-      "last_processed": "2026-07-07T20:05:56.475Z",
+      "last_processed": "2026-07-15T02:49:19.679Z",
       "repositories_found": 1,
       "success": true
     },
     "mazurk4": {
-      "last_processed": "2026-07-07T20:06:02.842Z",
+      "last_processed": "2026-07-15T02:49:25.850Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2506,6 +2506,11 @@
     },
     "terex-mint": {
       "last_processed": "2026-07-14T02:49:21.223Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "EthanDelong": {
+      "last_processed": "2026-07-15T02:48:04.831Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3966,6 +3971,7 @@
     "TGWA0/RustPluginTemplate",
     "estxbvnnn/Rustuto",
     "dextermyles/Oxide.Core",
-    "terex-mint/NoNoSteam"
+    "terex-mint/NoNoSteam",
+    "EthanDelong/Carbon"
   ]
 }

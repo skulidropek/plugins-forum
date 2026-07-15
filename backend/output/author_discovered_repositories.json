@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-14T19:27:50.425Z",
+  "generated_at": "2026-07-15T02:52:08.163Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1456,
+  "count": 1457,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -94,6 +94,7 @@
     "Eremith-s/ServerMonitorPlugin",
     "ErikGrischuk/Entity-Cleaner",
     "ErikGrischuk/Tranquility-PvE-Commits",
+    "EthanDelong/Carbon",
     "Fayozjon/BanSystem",
     "Feramor/Oxide",
     "Feverr92/QuickSmelt",
