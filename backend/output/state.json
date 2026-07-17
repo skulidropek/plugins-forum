@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 15,
-  "currentPage": 9,
+  "currentVariant": 16,
+  "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7206,7 +7206,31 @@
     "Joe90384/syncPipes#src/SyncPipesDevelopment.csproj#f5cb8c1a0ebdaf2b0730f16863232ebfb736997e": true,
     "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/IQRankSystem.cs#c706c1276ab5cd72903ed6279c4f9e57a8c8d91d": true,
     "john-clark/rust-oxide-umod#old/plugins/rust/StackSizeController.cs#fc69ce4c26c33bfe9353dd11730deca8e341f99f": true,
-    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/BlueprintShare.cs#96a23d61b70fb6fdb91c17ae155b6aa2c0effc0e": true
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/BlueprintShare.cs#96a23d61b70fb6fdb91c17ae155b6aa2c0effc0e": true,
+    "13dasd123/RustPlugins#Жирный раст/Жирный раст/oxide/plugins_old/ChatEvent.cs#057876e0429e022ff508c8408e66e0d84480998c": true,
+    "OxideMod/oxidemod.org#threads/copy-paste.5981/page-80.html#aed06efe0dc28ce57e83aed8372ad5b5620213db": true,
+    "Enilgles/pluginsrust#RTEvent.cs#c5ab98e6c9316c5638dc22e551974495b1ffecd3": true,
+    "13dasd123/SlivPlugins#BeeProtect.cs#297a2d13749cb9036410eee45f9b5810728dd327": true,
+    "13dasd123/RustPlugins#Сборка DayzRust/oxide/plugins/NavMeshErrorFix.cs#9a1f868bc427ffe6663fbcc96fe9a4551a001732": true,
+    "13dasd123/RustPlugins#BRAWL_RUST/BRAWL RUST/oxide/plugins/Obmen.cs#7f32cc620ad9d75639bcea6545a1e3293ee37e66": true,
+    "OxideMod/oxidemod.org#threads/hwfly.14499/page-7.html#51844635fc0aedff6f0e852077d42cc47404422b": true,
+    "13dasd123/RustPlugins#f8082849a49b3b89/Влад раст/oxide/plugins/RustMenu.cs#9c00ff77273771635875c4b1824afe8ccf08a9c1": true,
+    "13dasd123/RustPlugins#SUMMER_SLIV/SUMMER СЛИВ/plugins/Metabolism.cs#53ce09ec8de274611b1f847dede3adc7d92b2f9f": true,
+    "Sk3tch-Dev-Ux/Kurai.dev#src/app/tutorials/rust-plugins/page.tsx#237443cc7546ad243829ffa2b7d45c3b4a3cd97e": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/BGrade.cs#9f836201f747d0a70ad2d1694b7ab0fe0a21363e": true,
+    "13dasd123/RustPlugins#Dayz_Rust/oxide parasha/plugins/BetterLoot.cs#bb99332ce2b41c35171f339cc96892611aa3495e": true,
+    "13dasd123/RustPlugins#Жирный раст/Жирный раст/oxide/plugins/TreePlanter.cs#29015d3468f37641f7838f438f9e41038ad88e3f": true,
+    "Enilgles/pluginsrust#KualaRust/WipeBlock.cs#d3272011f9ed2e7d01a8ebf0cf0971382a01f450": true,
+    "publicrust/umod-pluigns-dataset#plugins/G/GSTBanCtrl/GSTBanCtrl.cs#5181d00884f0862d124381946163c7a385941b65": true,
+    "13dasd123/RustPlugins#Drakess_state/Drakess state/plugins/SkinBox.cs#03858c201acf63ee1424ffb27af21c6a7b766f1e": true,
+    "OxideMod/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true,
+    "MrBlue/oxidemod.org#threads/stack-size-controller-moved.9848/page-32.html#6a1fb60681b2bea687d982c5cb73aed538c24d5a": true,
+    "MrBlue/oxidemod.org#threads/copy-paste.5981/page-80.html#aed06efe0dc28ce57e83aed8372ad5b5620213db": true,
+    "MrBlue/oxidemod.org#threads/hwfly.14499/page-7.html#51844635fc0aedff6f0e852077d42cc47404422b": true,
+    "MrBlue/oxidemod.org#threads/writing-c-plugins.9800/page-2.html#e31d331af39331343e60203661b8b71e46e2ab82": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/PlayerBlinder.cs#0f2685a353d49465a3763cefb47d050e3917fe1e": true,
+    "tjdavenport/rust-mod-studio#src/ui/pages/Home/pluginBoilerplate.ts#4b477db51893329d3687e11378f2302e6411daeb": true,
+    "OxideMod/oxidemod.org#threads/deathnotes.6855/page-59.html#bc16f578bd440d580a7b7ce4053691e011c70214": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
