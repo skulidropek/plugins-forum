@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
-  "currentPage": 5,
+  "currentVariant": 17,
+  "currentPage": 2,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7145,7 +7145,23 @@
     "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/MapMyAirDrop.cs#11397f85b1545244e51c96c1c5e383083092d58b": true,
     "OxideMod/oxidemod.org#threads/guide-how-to-develop-on-your-local-dev-machine.18963/index.html#c2f40610bed394bc3c3e992e8526089308f23b32": true,
     "neu-sec/rust-oxide-plugins#MiniDeath.cs#54e6161b284b474431de8abe0c54f15e8fd744a8": true,
-    "13dasd123/RustPlugins#Drakess_state/Drakess state/plugins/ModerTools.cs#1076360030027f7dd987878cc42c3aa514d65ddf": true
+    "13dasd123/RustPlugins#Drakess_state/Drakess state/plugins/ModerTools.cs#1076360030027f7dd987878cc42c3aa514d65ddf": true,
+    "13dasd123/RustPlugins#Blood Menu/BloodKit.cs#347505eae78089fdd0ad463b6c0985e6c52deb3c": true,
+    "Enilgles/pluginsrust#AntiChatFlood.cs#c1ebc53511d86a0f7ae4d3e201f01ab6f7bc3a42": true,
+    "Crushedice/LatestPlugins#hurtworld/EconomyBanks.cs#0eaf3eee8a810202a35f52059d95f9c04beeac68": true,
+    "Ghenghis/Auto-Base-Builder#scripts/RUST-Plugins/AutoLock.cs#c7b5446a8b0f7b80421647b6d27679638051dfb9": true,
+    "RustServers-IO/oxideplugins#rust/PersonalBeacon.cs#768aa1b39492ebe14d862511636c6272e4fab3bc": true,
+    "13dasd123/RustPlugins#SUMMER_SLIV/SUMMER СЛИВ/plugins/ProxyBlocker.cs#a9ee15d47ba845e179d6d954c4d5b4121fc6c485": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/plugins1/MagicTree.cs#fc9766206de7604b824fb1ef2aed991757a1f44e": true,
+    "Ghenghis/Auto-Base-Builder#scripts/RUST-Plugins/AutoPurge.cs#804e5d67eac98000b976f3e6255b793947b36c83": true,
+    "publicrust/umod-pluigns-dataset#plugins/D/DiscordCommands/DiscordCommands.cs#ef956e5b8127a1fff354dff23cc36746c4cae2c5": true,
+    "13dasd123/RustPlugins#Trash rust Жирный раст/Жирный раст/oxide/plugins/IQRankSystem.cs#c706c1276ab5cd72903ed6279c4f9e57a8c8d91d": true,
+    "Enilgles/pluginsrust#FurnaceSplitter.cs#25f4f7e193f91404db5761e5e821cbfe2dfadded": true,
+    "Crushedice/LatestPlugins#hurtworld/Updater.cs#c3bab531b639f0bf70310b21006f312d8d885da3": true,
+    "strykes/Oxide2Plugins#Garbage/Kits_old.cs#15d9b14af08b7fc1d8879f550ca5f8faa9c2f024": true,
+    "Orhidea-Development/WishRivals#WishInfrastructure/DatabaseClient.cs#fbd5a7a20eeb0410ac87783f80df65dc68e082df": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Rust-plugins-236-240-dev-main/Rust-plugins-236-240-dev-main/BetterLoot.cs#efdda01882170c741233f54b47ec34550675d347": true,
+    "artem567yt/ExplorationRPG-Rust-Plugin#ExplorationRPG.cs#9854ea828844028e4a5ec333894a24ef5357fa1c": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
