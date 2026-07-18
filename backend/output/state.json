@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 16,
-  "currentPage": 1,
+  "currentPage": 5,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7143,7 +7143,9 @@
     "13dasd123/RustPlugins#all ready server plugins v1.0/RaidAlert-1.0.10.cs#ac1c1a365bf32e4c2b5785d4299964d1db2b2f09": true,
     "OxideMod/oxidemod.org#threads/c-override-loadconfig.23788/index.html#764a3449dae4c9d50610e9f04e6bfd87a00473a4": true,
     "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/MapMyAirDrop.cs#11397f85b1545244e51c96c1c5e383083092d58b": true,
-    "OxideMod/oxidemod.org#threads/guide-how-to-develop-on-your-local-dev-machine.18963/index.html#c2f40610bed394bc3c3e992e8526089308f23b32": true
+    "OxideMod/oxidemod.org#threads/guide-how-to-develop-on-your-local-dev-machine.18963/index.html#c2f40610bed394bc3c3e992e8526089308f23b32": true,
+    "neu-sec/rust-oxide-plugins#MiniDeath.cs#54e6161b284b474431de8abe0c54f15e8fd744a8": true,
+    "13dasd123/RustPlugins#Drakess_state/Drakess state/plugins/ModerTools.cs#1076360030027f7dd987878cc42c3aa514d65ddf": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
