@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 16,
-  "currentPage": 5,
+  "currentPage": 7,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -7003,7 +7003,16 @@
     "Tacman1981/Rust-Plugins#CPUInfo.cs#43fbaefe9dbbbe3eff6cd25b1fdf5e5b7b2dd8fc": true,
     "TheFriendlyChap/RustPlugins#MiniPlate.cs#d4d7904b0323f0e172454c29190750e664e25ec2": true,
     "PenisBlistashiq/Rust-plugins-236-240-dev#Antiddos.cs#a16290ee831d8f542ef4909e2074945470d28d64": true,
-    "13dasd123/SlivPlugins#NameFix.cs#31e3fe4da0d1c01656427f3f68bbb66a96b988a3": true
+    "13dasd123/SlivPlugins#NameFix.cs#31e3fe4da0d1c01656427f3f68bbb66a96b988a3": true,
+    "13dasd123/RustPlugins#Blood Menu/BloodKit.cs#347505eae78089fdd0ad463b6c0985e6c52deb3c": true,
+    "13dasd123/Fat-plant#plugins/BuildingUpgrade.cs#147ea065c20f3e3f1a360ec58338b9317c974007": true,
+    "13dasd123/RustPlugins#all ready server plugins v1.0/RandomSpawns-0.0.2.cs#652c4e04c9b3598d59aa9ebe7ae01310555e2cbe": true,
+    "13dasd123/RustPlugins#Drakess_state/Drakess state/plugins/TalsV2.cs#33e8decb6a791ae404eb44256625be46638459b6": true,
+    "13dasd123/RustPlugins#Rust_Plugins/Rust Plugins/plugins/plugins/FarmTools.cs#7f3c6c7789bcb4260ddf45bfad24d66186ac675c": true,
+    "PRISM-Servers/plugins_public#plugins/AAESPBlocker.cs#06b8cc78467d4503a26eb1707bf3065dd87587b8": true,
+    "Enilgles/pluginsrust#HardcoreWorkbench.cs#b988c88d35055ac9bc9224b7ea6acbdd3be69628": true,
+    "Enilgles/pluginsrust#StoreBonus.cs#89d17786fc4f1fcbdc10a17bd84d37d3590ed84d": true,
+    "13dasd123/RustPlugins#SECRET_RUST_MUSOR/MUSORKA/plugins/Vanish.cs#334633bce95045f3f59aed471787d0afb03c8a3c": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
