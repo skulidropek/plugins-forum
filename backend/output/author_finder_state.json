@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-21T19:43:54.321Z",
+  "last_updated": "2026-07-22T03:02:43.797Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1281,7 +1281,7 @@
       "success": true
     },
     "txnitxnichopper": {
-      "last_processed": "2026-07-15T02:49:11.838Z",
+      "last_processed": "2026-07-22T02:59:55.471Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1819,7 +1819,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-07-15T02:50:32.125Z",
+      "last_processed": "2026-07-22T03:01:08.165Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2310,22 +2310,22 @@
       "success": true
     },
     "dactDMA": {
-      "last_processed": "2026-07-15T02:50:15.032Z",
+      "last_processed": "2026-07-22T03:00:51.021Z",
       "repositories_found": 1,
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-07-15T02:50:27.966Z",
+      "last_processed": "2026-07-22T03:01:03.978Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-07-15T02:52:06.151Z",
+      "last_processed": "2026-07-22T03:02:41.786Z",
       "repositories_found": 2,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-07-15T02:49:55.111Z",
+      "last_processed": "2026-07-22T03:00:31.072Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2341,12 +2341,12 @@
       "error": "Skipped - too many repositories (157)"
     },
     "leo-lizi": {
-      "last_processed": "2026-07-15T02:49:19.679Z",
+      "last_processed": "2026-07-22T02:58:29.397Z",
       "repositories_found": 1,
       "success": true
     },
     "mazurk4": {
-      "last_processed": "2026-07-15T02:49:25.850Z",
+      "last_processed": "2026-07-22T03:00:01.758Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2511,12 +2511,17 @@
       "success": true
     },
     "EthanDelong": {
-      "last_processed": "2026-07-15T02:48:04.831Z",
+      "last_processed": "2026-07-22T02:58:48.315Z",
       "repositories_found": 1,
       "success": true
     },
     "FritoQC": {
       "last_processed": "2026-07-18T19:14:11.748Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "joaolucasdsp": {
+      "last_processed": "2026-07-22T02:58:21.503Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3982,6 +3987,7 @@
     "whitecristafer/CWEssentials",
     "HunterZ/CopyPaste",
     "jerkypaisen/RustFlowEdit",
-    "FritoQC/ServerSave"
+    "FritoQC/ServerSave",
+    "joaolucasdsp/Monocle"
   ]
 }

@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-21T19:43:54.322Z",
+  "generated_at": "2026-07-22T03:02:43.798Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1461,
+  "count": 1462,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1161,6 +1161,7 @@
     "jmg5215/BeastBosses",
     "jmg5215/OmniRPGEngine",
     "jmg5215/UnrealDungeons2.0",
+    "joaolucasdsp/Monocle",
     "john-clark/rust-oxide-umod",
     "johnmcclumpha/DeathNotes",
     "johnmcclumpha/RustDeathNotices",
