@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-07-22T05:26:39.332Z",
-  "count": 77,
+  "generated_at": "2026-07-23T05:31:29.468Z",
+  "count": 78,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -53,6 +53,7 @@
     "greggianbayocboc/rust-simple-mods",
     "its-snapple/Carbon.Common",
     "its-snapple/Carbon.Modules",
+    "joaolucasdsp/Monocle",
     "l0cks-acab/BMChecker",
     "l0cks-acab/BlackJackGamble",
     "l0cks-acab/ChickenGun",
