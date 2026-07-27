@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-27T10:03:47.546Z",
+  "generated_at": "2026-07-27T15:06:42.523Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1462,
+  "count": 1463,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -531,6 +531,7 @@
     "Substrata1/WaterCatcherBoost",
     "Swishhyy/Night-Zombies",
     "TGWA0/BetterLoot-UMod",
+    "TGWA0/NoDecay",
     "TGWA0/RustPluginTemplate",
     "TOWUK/test",
     "Tacman1981/Connect-Log-Parser",
