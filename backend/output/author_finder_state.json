@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-07-27T15:06:42.522Z",
-  "current_author_index": 348,
+  "last_updated": "2026-07-27T19:46:27.473Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-07-24T19:32:55.547Z",
@@ -810,7 +810,7 @@
       "success": true
     },
     "AsielElaouare": {
-      "last_processed": "2026-07-20T14:33:29.331Z",
+      "last_processed": "2026-07-27T19:43:35.109Z",
       "repositories_found": 1,
       "success": true
     },
@@ -820,7 +820,7 @@
       "success": true
     },
     "flutessources": {
-      "last_processed": "2026-07-20T14:33:59.830Z",
+      "last_processed": "2026-07-27T19:44:02.600Z",
       "repositories_found": 2,
       "success": true
     },
@@ -840,7 +840,7 @@
       "success": true
     },
     "badw000lf": {
-      "last_processed": "2026-07-20T14:34:05.663Z",
+      "last_processed": "2026-07-27T19:44:07.635Z",
       "repositories_found": 1,
       "success": true
     },
@@ -850,17 +850,17 @@
       "success": true
     },
     "nbistrov255": {
-      "last_processed": "2026-07-20T14:34:11.116Z",
+      "last_processed": "2026-07-27T19:44:12.076Z",
       "repositories_found": 1,
       "success": true
     },
     "l0cks-acab": {
-      "last_processed": "2026-07-20T14:34:16.611Z",
+      "last_processed": "2026-07-27T19:44:16.839Z",
       "repositories_found": 1,
       "success": true
     },
     "ToastyToast25": {
-      "last_processed": "2026-07-20T14:34:18.756Z",
+      "last_processed": "2026-07-27T19:44:18.939Z",
       "repositories_found": 0,
       "success": true
     },
@@ -876,7 +876,7 @@
       "success": true
     },
     "UB1AFU": {
-      "last_processed": "2026-07-20T14:34:24.382Z",
+      "last_processed": "2026-07-27T19:44:23.660Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (139)"
@@ -887,7 +887,7 @@
       "success": true
     },
     "thenetimp": {
-      "last_processed": "2026-07-20T14:36:02.035Z",
+      "last_processed": "2026-07-27T19:45:40.106Z",
       "repositories_found": 2,
       "success": true
     },
@@ -902,17 +902,17 @@
       "success": true
     },
     "atlas-rust-servers": {
-      "last_processed": "2026-07-20T14:36:11.679Z",
+      "last_processed": "2026-07-27T19:45:48.491Z",
       "repositories_found": 2,
       "success": true
     },
     "izatrix": {
-      "last_processed": "2026-07-20T14:36:26.098Z",
+      "last_processed": "2026-07-27T19:46:00.063Z",
       "repositories_found": 3,
       "success": true
     },
     "I4IgO32": {
-      "last_processed": "2026-07-20T14:36:31.386Z",
+      "last_processed": "2026-07-27T19:46:04.832Z",
       "repositories_found": 1,
       "success": true
     },
@@ -942,7 +942,7 @@
       "success": true
     },
     "5Dev24": {
-      "last_processed": "2026-07-20T14:36:56.237Z",
+      "last_processed": "2026-07-27T19:46:25.466Z",
       "repositories_found": 2,
       "success": true
     },
