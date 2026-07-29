@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-28T19:44:59.028Z",
+  "generated_at": "2026-07-29T02:57:13.943Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1463,
+  "count": 1464,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1268,6 +1268,7 @@
     "msharp19/RustBangBangAirdropPlugin",
     "msharp19/RustStarterKitPlugin",
     "msharp19/rust-skinzoneitems",
+    "mtvProof/BuildServerFiles",
     "muxira/RustPlugins",
     "mvanzanten/docker-rust-server",
     "nbistrov255/lightrp",
