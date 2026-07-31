@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-07-31T09:05:56.083Z",
+  "last_updated": "2026-07-31T14:59:59.024Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2411,8 +2411,8 @@
       "success": true
     },
     "HeyImDionysus": {
-      "last_processed": "2026-07-24T13:55:17.090Z",
-      "repositories_found": 1,
+      "last_processed": "2026-07-31T14:59:57.014Z",
+      "repositories_found": 3,
       "success": true
     },
     "Zackslay": {
@@ -3995,6 +3995,7 @@
     "FritoQC/ServerSave",
     "joaolucasdsp/Monocle",
     "TGWA0/NoDecay",
-    "mtvProof/BuildServerFiles"
+    "mtvProof/BuildServerFiles",
+    "HeyImDionysus/SignTool"
   ]
 }

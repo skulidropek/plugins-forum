@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-07-31T09:05:56.084Z",
+  "generated_at": "2026-07-31T14:59:59.025Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1464,
+  "count": 1465,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -147,6 +147,7 @@
     "Hardcore-fs/oxideplugins",
     "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES",
     "HeyImDionysus/Moo",
+    "HeyImDionysus/SignTool",
     "HeyImDionysus/corrodedadmin",
     "HeyImDionysus/serverstatus",
     "HeyImDionysus/unraider",
