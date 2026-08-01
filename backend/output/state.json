@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 10,
-  "currentPage": 4,
+  "currentPage": 6,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -3246,7 +3246,8 @@
     "john-clark/rust-oxide-umod#old/plugins/other/ID.cs#f2f0b408a1dd82e70fc5cb87a628dedf5df9a619": true,
     "john-clark/rust-oxide-umod#old/plugins/other/Pwn.cs#e90caf6397ac168e65d5427dc373362911c262e7": true,
     "publicrust/umod-pluigns-dataset#plugins/D/Dance/Dance.cs#cc0ec3fc5b8dac9645bbf2e592f5abead11e2225": true,
-    "john-clark/rust-oxide-umod#old/plugins/other/Draw.cs#ddd3d18b9807357d81a1ac9dedd64c463003d59f": true
+    "john-clark/rust-oxide-umod#old/plugins/other/Draw.cs#ddd3d18b9807357d81a1ac9dedd64c463003d59f": true,
+    "john-clark/rust-oxide-umod#old/plugins/rust/NoLoot.cs#7bfbab403637ecd755d0320eb48c9471ad89045d": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
