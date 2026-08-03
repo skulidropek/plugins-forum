@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-02T19:39:09.424Z",
-  "current_author_index": 247,
+  "last_updated": "2026-08-03T03:34:28.992Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-07-31T19:43:06.187Z",
@@ -825,7 +825,7 @@
       "success": true
     },
     "shady14u": {
-      "last_processed": "2026-07-26T19:35:46.033Z",
+      "last_processed": "2026-08-03T03:28:34.871Z",
       "repositories_found": 8,
       "success": true
     },
@@ -1718,7 +1718,7 @@
       "success": true
     },
     "Pho3niX90": {
-      "last_processed": "2026-07-26T19:34:51.523Z",
+      "last_processed": "2026-08-03T03:27:34.848Z",
       "repositories_found": 4,
       "success": true
     },
@@ -2122,7 +2122,7 @@
       "success": true
     },
     "xrevoltsx": {
-      "last_processed": "2026-07-26T19:37:01.043Z",
+      "last_processed": "2026-08-03T03:30:03.165Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2152,18 +2152,18 @@
       "success": true
     },
     "dextermyles": {
-      "last_processed": "2026-07-26T19:40:46.326Z",
+      "last_processed": "2026-08-03T03:34:26.984Z",
       "repositories_found": 2,
       "success": true
     },
     "SNiTEBoBy": {
-      "last_processed": "2026-07-26T19:39:54.871Z",
+      "last_processed": "2026-08-03T03:33:19.836Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (6966)"
     },
     "Hetachi": {
-      "last_processed": "2026-07-26T19:37:27.583Z",
+      "last_processed": "2026-08-03T03:30:36.944Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2173,7 +2173,7 @@
       "success": true
     },
     "Fritoqc": {
-      "last_processed": "2026-07-26T19:36:22.325Z",
+      "last_processed": "2026-08-03T03:29:16.310Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2183,7 +2183,7 @@
       "success": true
     },
     "UnrealSalty": {
-      "last_processed": "2026-07-26T19:36:15.617Z",
+      "last_processed": "2026-08-03T03:29:07.912Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2204,7 +2204,7 @@
       "success": true
     },
     "features-not-bugs": {
-      "last_processed": "2026-07-26T19:36:10.908Z",
+      "last_processed": "2026-08-03T03:29:02.414Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2214,7 +2214,7 @@
       "success": true
     },
     "Juan321654": {
-      "last_processed": "2026-07-26T19:34:56.574Z",
+      "last_processed": "2026-08-03T03:27:40.587Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (160)"
@@ -2225,7 +2225,7 @@
       "success": true
     },
     "Teoory": {
-      "last_processed": "2026-07-26T19:33:10.168Z",
+      "last_processed": "2026-08-03T03:25:28.791Z",
       "repositories_found": 1,
       "success": true
     },
