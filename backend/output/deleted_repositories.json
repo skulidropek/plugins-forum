@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-03T06:24:34.284Z",
-  "count": 78,
+  "generated_at": "2026-08-04T05:23:18.662Z",
+  "count": 80,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -25,6 +25,7 @@
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
     "ShiroKSH/rust-plugins",
+    "ToastyToast25/Skinbox",
     "VisEntities/NoGibs",
     "VoodooCor/rust-server-plugins",
     "WeirdPhrog/Carbon",
@@ -76,6 +77,7 @@
     "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
     "st-little/rust-plugin-development",
+    "sthebzpnkt/Skinbox",
     "vinnyborderhops/CustomShooter",
     "wither-rebirth/Hackthebox-Walkthrough",
     "xADROCx1/misfits-studios-site",
