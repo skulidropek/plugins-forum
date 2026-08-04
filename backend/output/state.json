@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 25,
-  "currentPage": 3,
+  "currentPage": 4,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -5845,7 +5845,9 @@
     "mkojoa/Oxide2Plugins#Garbage/Jail.cs#9b3912b1389f821a50d61746d6ae309b5b0ded79": true,
     "mkojoa/Oxide2Plugins#Legacy/Jail.cs#26a75ddc20b273fff8cc5d57f6011f041d14fb66": true,
     "mkojoa/Oxide2Plugins#Legacy/Kits.cs#953b811aa90c0dd0f829eb4a27c86569ba65b5a8": true,
-    "MSylvia/Oxide#Oxide.Ext.CSharp/CSharpPlugin.cs#3f0a4830292110e51fdf3200dcd60fa0f78d0890": true
+    "MSylvia/Oxide#Oxide.Ext.CSharp/CSharpPlugin.cs#3f0a4830292110e51fdf3200dcd60fa0f78d0890": true,
+    "RustopiaOfficial/Oxide.Rust#src/RustPlugin.cs#ddd7bbd91cecd5481f88f2720dd8e2b593b7b83a": true,
+    "DeXGaming/rust-plugins#x_UnpolishedPlugins/AdmTools.cs#b82b52552305c3a9cf4e87db8185d1ffa5999ff7": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
