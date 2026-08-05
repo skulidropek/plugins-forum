@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-05T08:45:03.807Z",
+  "last_updated": "2026-08-05T15:16:32.594Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1281,7 +1281,7 @@
       "success": true
     },
     "txnitxnichopper": {
-      "last_processed": "2026-07-29T08:52:17.394Z",
+      "last_processed": "2026-08-05T15:13:41.738Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1819,7 +1819,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-07-29T08:53:24.764Z",
+      "last_processed": "2026-08-05T15:14:51.874Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2310,22 +2310,22 @@
       "success": true
     },
     "dactDMA": {
-      "last_processed": "2026-07-29T08:53:08.791Z",
-      "repositories_found": 1,
+      "last_processed": "2026-08-05T15:14:34.019Z",
+      "repositories_found": 2,
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-07-29T08:53:20.684Z",
+      "last_processed": "2026-08-05T15:14:46.948Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-07-29T08:54:50.515Z",
+      "last_processed": "2026-08-05T15:16:30.585Z",
       "repositories_found": 2,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-07-29T08:52:49.087Z",
+      "last_processed": "2026-08-05T15:14:19.491Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2341,12 +2341,12 @@
       "error": "Skipped - too many repositories (266)"
     },
     "leo-lizi": {
-      "last_processed": "2026-07-29T08:51:14.950Z",
+      "last_processed": "2026-08-05T15:12:42.542Z",
       "repositories_found": 1,
       "success": true
     },
     "mazurk4": {
-      "last_processed": "2026-07-29T08:52:22.994Z",
+      "last_processed": "2026-08-05T15:13:46.698Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2511,7 +2511,7 @@
       "success": true
     },
     "EthanDelong": {
-      "last_processed": "2026-07-29T08:50:11.670Z",
+      "last_processed": "2026-08-05T15:10:56.125Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2521,7 +2521,7 @@
       "success": true
     },
     "joaolucasdsp": {
-      "last_processed": "2026-07-29T08:51:07.097Z",
+      "last_processed": "2026-08-05T15:12:35.743Z",
       "repositories_found": 0,
       "success": true
     },
@@ -3996,6 +3996,7 @@
     "joaolucasdsp/Monocle",
     "TGWA0/NoDecay",
     "mtvProof/BuildServerFiles",
-    "HeyImDionysus/SignTool"
+    "HeyImDionysus/SignTool",
+    "dactDMA/RustDataExporter"
   ]
 }

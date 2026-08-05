@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-05T08:45:03.808Z",
+  "generated_at": "2026-08-05T15:16:32.595Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1465,
+  "count": 1466,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -985,6 +985,7 @@
     "connorrichlen/SkipNightUI",
     "cornholio21/ScrapMultiplier",
     "cornholio21/chairtrap",
+    "dactDMA/RustDataExporter",
     "dactDMA/rust-prefabs",
     "dakkinbyte/ClanTeam",
     "dan4451/Rust",
