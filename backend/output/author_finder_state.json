@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-07T13:19:05.555Z",
+  "last_updated": "2026-08-07T19:13:01.036Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1439,7 +1439,7 @@
       "success": true
     },
     "Comm512-1": {
-      "last_processed": "2026-07-31T09:00:22.428Z",
+      "last_processed": "2026-08-07T19:07:55.360Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1454,7 +1454,7 @@
       "success": true
     },
     "Feramor": {
-      "last_processed": "2026-07-31T09:01:46.150Z",
+      "last_processed": "2026-08-07T19:09:09.173Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1561,7 +1561,7 @@
       "success": true
     },
     "robbie-williams": {
-      "last_processed": "2026-07-31T09:00:41.818Z",
+      "last_processed": "2026-08-07T19:08:11.759Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1743,7 +1743,7 @@
       "success": true
     },
     "seanbyrne88": {
-      "last_processed": "2026-07-31T09:00:57.013Z",
+      "last_processed": "2026-08-07T19:08:25.851Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2330,7 +2330,7 @@
       "success": true
     },
     "whitecristafer": {
-      "last_processed": "2026-07-31T08:58:50.456Z",
+      "last_processed": "2026-08-07T19:06:23.196Z",
       "repositories_found": 6,
       "success": true
     },
@@ -2351,7 +2351,7 @@
       "success": true
     },
     "L4m1fy": {
-      "last_processed": "2026-07-31T09:05:54.078Z",
+      "last_processed": "2026-08-07T19:12:59.029Z",
       "repositories_found": 3,
       "success": true
     },
@@ -2371,12 +2371,12 @@
       "success": true
     },
     "006mi4": {
-      "last_processed": "2026-07-31T09:05:49.048Z",
+      "last_processed": "2026-08-07T19:12:54.526Z",
       "repositories_found": 1,
       "success": true
     },
     "0killrest": {
-      "last_processed": "2026-07-31T08:58:56.613Z",
+      "last_processed": "2026-08-07T19:06:28.504Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2386,12 +2386,12 @@
       "success": true
     },
     "unkn0wn-97": {
-      "last_processed": "2026-07-31T09:05:42.024Z",
+      "last_processed": "2026-08-07T19:12:47.411Z",
       "repositories_found": 5,
       "success": true
     },
     "Sk3tch-Dev-Ux": {
-      "last_processed": "2026-07-31T09:05:32.993Z",
+      "last_processed": "2026-08-07T19:12:39.623Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2406,13 +2406,13 @@
       "success": true
     },
     "elblayko": {
-      "last_processed": "2026-07-31T09:01:11.537Z",
+      "last_processed": "2026-08-07T19:08:37.247Z",
       "repositories_found": 1,
       "success": true
     },
     "HeyImDionysus": {
-      "last_processed": "2026-07-31T14:59:57.014Z",
-      "repositories_found": 3,
+      "last_processed": "2026-08-07T19:06:04.887Z",
+      "repositories_found": 2,
       "success": true
     },
     "Zackslay": {
@@ -2461,7 +2461,7 @@
       "success": true
     },
     "Y4n1ss3": {
-      "last_processed": "2026-07-31T09:00:14.733Z",
+      "last_processed": "2026-08-07T19:07:49.061Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2491,7 +2491,7 @@
       "success": true
     },
     "rifle-ak": {
-      "last_processed": "2026-07-31T08:59:19.824Z",
+      "last_processed": "2026-08-07T19:06:47.090Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2527,6 +2527,11 @@
     },
     "mtvProof": {
       "last_processed": "2026-08-05T08:45:01.793Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "Grimm530": {
+      "last_processed": "2026-08-07T19:05:56.247Z",
       "repositories_found": 1,
       "success": true
     }
@@ -3997,6 +4002,7 @@
     "TGWA0/NoDecay",
     "mtvProof/BuildServerFiles",
     "HeyImDionysus/SignTool",
-    "dactDMA/RustDataExporter"
+    "dactDMA/RustDataExporter",
+    "Grimm530/HarmonyMods"
   ]
 }
