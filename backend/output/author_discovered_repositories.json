@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T07:22:31.112Z",
+  "generated_at": "2026-08-11T13:34:53.076Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1467,
+  "count": 1468,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -505,6 +505,7 @@
     "SeesAll/PrivateMessages-Enhanced",
     "SeesAll/Rust-Command-Chat-Logger",
     "SeesAll/SmartCleanup",
+    "SeesAll/SmartRecon",
     "SeesAll/SmartSmelt",
     "ServerArmour/ServerArmour",
     "SettLe1/BadPrefabsCleaner",
