@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-11T13:34:53.076Z",
+  "generated_at": "2026-08-11T19:52:59.741Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1468,
+  "count": 1470,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -138,6 +138,8 @@
     "Grimston/PVELoot",
     "Grimston/RemoteRcon",
     "Hallonkaka/OxidePlugins",
+    "Hamunaptra77/Rust-ServerManager",
+    "Hamunaptra77/uMods",
     "HandyS11/PopCommand",
     "HandyS11/RUST-Update-Notice",
     "HandyS11/RebootScheduler",
