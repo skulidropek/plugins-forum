@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T01:34:15.216Z",
+  "generated_at": "2026-08-15T07:02:39.059Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1471,
+  "count": 1472,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -63,6 +63,7 @@
     "ChrisNewmanDev/CoreLoot",
     "Cl1cker0/lua-scripts",
     "Comm512-1/RustPlugins",
+    "CrabSerg/EstateUpkeep",
     "CraftingStore/OxidePlugin",
     "Crushedice/LatestPlugins",
     "Crushedice/Rust-NoSteam",
