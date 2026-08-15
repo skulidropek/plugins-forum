@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T07:02:39.058Z",
+  "last_updated": "2026-08-15T12:47:24.146Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -220,12 +220,12 @@
       "success": true
     },
     "RustWipeDay": {
-      "last_processed": "2026-08-08T07:02:23.242Z",
+      "last_processed": "2026-08-15T12:47:03.700Z",
       "repositories_found": 1,
       "success": true
     },
     "mjmfighter": {
-      "last_processed": "2026-08-08T07:02:30.268Z",
+      "last_processed": "2026-08-15T12:47:09.956Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2356,7 +2356,7 @@
       "success": true
     },
     "Mercury-devs": {
-      "last_processed": "2026-08-08T07:02:41.706Z",
+      "last_processed": "2026-08-15T12:47:22.139Z",
       "repositories_found": 3,
       "success": true
     },
