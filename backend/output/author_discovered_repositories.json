@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-15T18:38:51.441Z",
+  "generated_at": "2026-08-16T01:40:38.888Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1472,
+  "count": 1473,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -278,6 +278,7 @@
     "Mabel8686/VehicleStorage",
     "MaltrzD/SteamVoiceEncoder",
     "MateoTaylor/Rust-Reinforcement-Learning",
+    "Mateuus/RustAgent",
     "Mentol0408/Test",
     "Mercury-devs/Carbon",
     "Mercury-devs/Oxide.Rust",

@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-08-15T18:38:51.440Z",
+  "last_updated": "2026-08-16T01:40:38.887Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2550,6 +2550,11 @@
       "last_processed": "2026-08-15T07:02:37.046Z",
       "repositories_found": 1,
       "success": true
+    },
+    "Mateuus": {
+      "last_processed": "2026-08-16T01:40:36.877Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -4024,6 +4029,7 @@
     "Hamunaptra77/Rust-ServerManager",
     "Hamunaptra77/uMods",
     "mazurk4/rust-game-wabi",
-    "CrabSerg/EstateUpkeep"
+    "CrabSerg/EstateUpkeep",
+    "Mateuus/RustAgent"
   ]
 }
