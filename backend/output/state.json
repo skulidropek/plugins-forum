@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
+  "currentVariant": 0,
   "currentPage": 1,
   "seenKeys": {},
   "repoCache": {
@@ -158670,6 +158670,6 @@
       "subscribers_count": 0
     }
   },
-  "lastFullScanAt": "2026-08-17T15:25:15.542Z",
+  "lastFullScanAt": "2026-08-17T17:13:21.371Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs"
 }
