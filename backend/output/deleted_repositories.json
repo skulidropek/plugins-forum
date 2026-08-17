@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-08-16T03:07:55.899Z",
-  "count": 80,
+  "generated_at": "2026-08-17T03:05:50.636Z",
+  "count": 81,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -14,6 +14,7 @@
     "CherrySofts/https-slivrust-plugin.ru-",
     "Cl1cker0/lua-scripts",
     "EHCanadian/Oxide_Rust_Decompiled",
+    "Hamunaptra77/Rust-ServerManager",
     "Hamunaptra77/uMods",
     "Hardcore-fs/PlayerAdministration",
     "Hardcore-fs/Tebex-Oxide",
