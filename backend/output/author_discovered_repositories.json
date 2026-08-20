@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-19T18:43:59.450Z",
+  "generated_at": "2026-08-20T01:33:23.979Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1474,
+  "count": 1475,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -27,6 +27,7 @@
     "2chevskii/Plugins-uMod",
     "5Dev24/Recycle",
     "5Dev24/ScheduledBuilding",
+    "6oJIb/CounterRust",
     "ALONEINNZ/idk",
     "AlexALX/Oxide",
     "AlexALX/botovnet-legacy-archive",
