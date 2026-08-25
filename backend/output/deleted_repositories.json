@@ -1,10 +1,11 @@
 {
-  "generated_at": "2026-08-24T03:09:19.602Z",
-  "count": 82,
+  "generated_at": "2026-08-25T03:06:28.826Z",
+  "count": 84,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
     "13dasd123/RustPluginsDumpWithAI1",
+    "13dasd123/rust-free-plugins",
     "13dasd123/rust-school-discord-indexing",
     "13dasd123/yougame-plugins",
     "Alienatedmamal/NOR-RCON-Dashboard",
@@ -14,6 +15,7 @@
     "CherrySofts/https-slivrust-plugin.ru-",
     "Cl1cker0/lua-scripts",
     "EHCanadian/Oxide_Rust_Decompiled",
+    "Flash-Ticker/NoPowerXmasLights",
     "Hamunaptra77/Rust-ServerManager",
     "Hamunaptra77/uMods",
     "Hardcore-fs/PlayerAdministration",
