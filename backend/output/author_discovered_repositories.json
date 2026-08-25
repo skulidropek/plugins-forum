@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-25T13:05:09.256Z",
+  "generated_at": "2026-08-25T19:26:03.080Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1475,
+  "count": 1477,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -118,6 +118,8 @@
     "Flash-Ticker/SwimmingDrops",
     "Flash-Ticker/XmasTreeGifts",
     "Flash-Ticker/cfg",
+    "FourEightZer0/RustMod_HostileTakeover",
+    "FourEightZer0/RustMod_PrivateProperty",
     "FritoQC/ServerSave",
     "Fritoqc/ServerSave",
     "FtuoilXelrash/CelestialBarrage",
