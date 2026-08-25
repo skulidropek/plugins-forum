@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 15,
-  "currentPage": 10,
+  "currentVariant": 16,
+  "currentPage": 5,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "chucklenugget/imperium#src/Ui/Image.cs#b69212b3d377a0c81ab355a394eb620cf36fbb90": true,
@@ -6618,7 +6618,12 @@
     "MrBlue/oxidemod.org#threads/trouble-adding-a-button-after-player-init.16776/index.html#e61a8042bd4a96326748a4a803b41e89e9c8f18e": true,
     "OxideMod/oxidemod.org#threads/extension-development-and-hooks.30585/index.html#9ab38582bc8b89a8e3a5c5a099f8f57fd978ce57": true,
     "MrBlue/oxidemod.org#threads/extension-development-and-hooks.30585/index.html#9ab38582bc8b89a8e3a5c5a099f8f57fd978ce57": true,
-    "Vladimir123123123/rust-template#.github/workflows/sync-rust-data.yml#c23c3e69edf706be5fe01b504e21cea5dbe4ef89": true
+    "Vladimir123123123/rust-template#.github/workflows/sync-rust-data.yml#c23c3e69edf706be5fe01b504e21cea5dbe4ef89": true,
+    "MrBlue/oxidemod.org#threads/hiticon.18098/page-2.html#fdfa2adcf4da8bf4debb4b921b517b3a730d0c02": true,
+    "OxideMod/oxidemod.org#threads/rust-io-clans.7292/page-13.html#6f36fa2ee75e9c47953240be984a2d1d10c57f74": true,
+    "MrBlue/oxidemod.org#threads/rust-io-clans.7292/page-13.html#6f36fa2ee75e9c47953240be984a2d1d10c57f74": true,
+    "OxideMod/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true,
+    "MrBlue/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
