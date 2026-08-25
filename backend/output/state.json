@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 18,
-  "currentPage": 1,
+  "currentVariant": 21,
+  "currentPage": 6,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
     "strykes/Oxide2Plugins#Legacy/TPR.cs#9d52efebe79434f2f96003a69c77c61ff9945062": true,
@@ -6788,7 +6788,8 @@
     "OxideMod/oxidemod.org#threads/stop-bears-eating-corpses.24743/index.html#86b15e021080ba0726c5723766d9c23bafd27c05": true,
     "MrBlue/oxidemod.org#threads/rust-io-clans.7292/page-13.html#6f36fa2ee75e9c47953240be984a2d1d10c57f74": true,
     "MrBlue/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true,
-    "13dasd123/RustPlugins#FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/kryNickReward.cs#1aa3a332ebc2143916985f3b434adc48216eb87d": true
+    "13dasd123/RustPlugins#FLEEP_RUST_10X/FLEEP_RUST_10X/oxide/plugins/kryNickReward.cs#1aa3a332ebc2143916985f3b434adc48216eb87d": true,
+    "rube200/Oxide.Ext.DllLoader#DllLoader.Test.Assembly1/Circular/RefAFCircular.cs#68f4261fdf6effaeff5f2959507c1cf1e61398aa": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
