@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-25T19:26:03.079Z",
-  "current_author_index": 220,
+  "last_updated": "2026-08-26T01:50:27.073Z",
+  "current_author_index": 387,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-08-22T06:48:14.652Z",
@@ -596,10 +596,10 @@
       "success": true
     },
     "CyberSys": {
-      "last_processed": "2026-08-18T19:00:17.009Z",
+      "last_processed": "2026-08-26T01:37:06.986Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (7358)"
+      "error": "Skipped - too many repositories (7372)"
     },
     "Rahulsinghz": {
       "last_processed": "2026-08-24T13:02:57.078Z",
@@ -702,7 +702,7 @@
       "success": true
     },
     "Slut": {
-      "last_processed": "2026-08-18T18:58:56.763Z",
+      "last_processed": "2026-08-26T01:33:14.477Z",
       "repositories_found": 3,
       "success": true
     },
@@ -712,7 +712,7 @@
       "success": true
     },
     "Ragonz2": {
-      "last_processed": "2026-08-18T18:58:50.945Z",
+      "last_processed": "2026-08-26T01:33:07.011Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1007,47 +1007,47 @@
       "success": true
     },
     "fenderrex": {
-      "last_processed": "2026-08-18T19:03:44.374Z",
+      "last_processed": "2026-08-26T01:40:25.538Z",
       "repositories_found": 1,
       "success": true
     },
     "Whitecandor": {
-      "last_processed": "2026-08-18T19:03:47.948Z",
+      "last_processed": "2026-08-26T01:40:29.167Z",
       "repositories_found": 1,
       "success": true
     },
     "a-downing": {
-      "last_processed": "2026-08-18T19:04:25.255Z",
+      "last_processed": "2026-08-26T01:41:12.681Z",
       "repositories_found": 3,
       "success": true
     },
     "jonaslagoni": {
-      "last_processed": "2026-08-19T01:30:12.154Z",
+      "last_processed": "2026-08-26T01:43:30.106Z",
       "repositories_found": 1,
       "success": true
     },
     "tebexio": {
-      "last_processed": "2026-08-19T01:31:10.808Z",
+      "last_processed": "2026-08-26T01:44:25.216Z",
       "repositories_found": 2,
       "success": true
     },
     "HandyS11": {
-      "last_processed": "2026-08-19T01:32:15.950Z",
+      "last_processed": "2026-08-26T01:45:26.295Z",
       "repositories_found": 5,
       "success": true
     },
     "CraftingStore": {
-      "last_processed": "2026-08-19T01:32:25.652Z",
+      "last_processed": "2026-08-26T01:45:35.833Z",
       "repositories_found": 1,
       "success": true
     },
     "UncleMle": {
-      "last_processed": "2026-08-19T01:32:53.619Z",
+      "last_processed": "2026-08-26T01:46:02.787Z",
       "repositories_found": 1,
       "success": true
     },
     "oleduc": {
-      "last_processed": "2026-08-19T01:35:07.155Z",
+      "last_processed": "2026-08-26T01:48:11.213Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1057,12 +1057,12 @@
       "success": true
     },
     "danielgnh": {
-      "last_processed": "2026-08-19T01:35:28.750Z",
+      "last_processed": "2026-08-26T01:48:32.299Z",
       "repositories_found": 1,
       "success": true
     },
     "UltraRust": {
-      "last_processed": "2026-08-19T01:35:39.232Z",
+      "last_processed": "2026-08-26T01:48:41.963Z",
       "repositories_found": 7,
       "success": true
     },
@@ -1072,12 +1072,12 @@
       "success": true
     },
     "sknchan": {
-      "last_processed": "2026-08-19T01:37:28.316Z",
+      "last_processed": "2026-08-26T01:50:21.220Z",
       "repositories_found": 1,
       "success": true
     },
     "sami3737": {
-      "last_processed": "2026-08-18T18:58:32.401Z",
+      "last_processed": "2026-08-26T01:32:47.848Z",
       "repositories_found": 23,
       "success": true
     },
@@ -1087,7 +1087,7 @@
       "success": true
     },
     "seanmb0": {
-      "last_processed": "2026-08-19T01:37:34.375Z",
+      "last_processed": "2026-08-26T01:50:27.073Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2112,7 +2112,7 @@
       "success": true
     },
     "db13256-hash": {
-      "last_processed": "2026-08-18T19:00:51.391Z",
+      "last_processed": "2026-08-26T01:37:27.673Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2147,7 +2147,7 @@
       "success": true
     },
     "MateoTaylor": {
-      "last_processed": "2026-08-18T19:00:46.651Z",
+      "last_processed": "2026-08-26T01:37:22.264Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2168,7 +2168,7 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-08-18T19:01:08.735Z",
+      "last_processed": "2026-08-26T01:37:49.101Z",
       "repositories_found": 16,
       "success": true
     },
