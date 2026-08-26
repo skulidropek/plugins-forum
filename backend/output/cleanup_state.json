@@ -1,0 +1,5169 @@
+{
+  "version": "1",
+  "createdAt": "2026-08-26T03:05:02.545Z",
+  "updatedAt": "2026-08-26T03:07:30.699Z",
+  "repositories": [
+    "006mi4/TheAdminpanel-GUI-Rust",
+    "0killrest/Other-plugins-rust",
+    "0killrest/plugins.server.rust",
+    "0xBlitzmachine/Rust-Tools",
+    "0xF1o/random-free-rustplugins",
+    "0xz00m/test",
+    "1337-create/simple-link-discord-steam-linking-system",
+    "13dasd123/-1-TheRustBay",
+    "13dasd123/-DayzRust",
+    "13dasd123/Fat-plant",
+    "13dasd123/Rust-School-Plugins",
+    "13dasd123/RustPlugins",
+    "13dasd123/RustPluginsDirectLeaks",
+    "13dasd123/RustPluginsDumpWithAI",
+    "13dasd123/RustPluginsDumpWithAI1",
+    "13dasd123/SlivPlugins",
+    "13dasd123/asdasd",
+    "13dasd123/asdsaadarust-template",
+    "13dasd123/https-slivrust-plugin.ru-",
+    "13dasd123/oxideplugins",
+    "13dasd123/rust-free-plugins",
+    "13dasd123/rust-school-discord-indexing",
+    "13dasd123/rust-template",
+    "13dasd123/rust-template-private",
+    "13dasd123/sunshine-assembly",
+    "13dasd123/umod-pluigns-dataset",
+    "13dasd123/yougame-plugins",
+    "2chevskii/Plugins-uMod",
+    "5Dev24/Recycle",
+    "5Dev24/ScheduledBuilding",
+    "6oJIb/CounterRust",
+    "ALONEINNZ/idk",
+    "AeonLucid/RustOxidePlugins",
+    "AlexALX/Oxide",
+    "AlexALX/botovnet-legacy-archive",
+    "AlexanderVolk25/GoldMine",
+    "Alienatedmamal/NOR-RCON-Dashboard",
+    "AntiKnox/antiknox-rust-plugin",
+    "AntoineRatoUniversity/RustPatreonAPI",
+    "Anus228331/promps",
+    "ApocDev/Oxide",
+    "Ardivaba/CodeSamples",
+    "AsielElaouare/blueprintmanager-rust",
+    "Azuriom/AzLink-CSharp",
+    "BLANKxSS/txAdmin-rust",
+    "BattleSheep94/AutoFuel",
+    "BattleSheep94/CloudflareUpdater-Plugin",
+    "BattleSheep94/Rust-Plugin-Collection",
+    "BurntRouter/rust-rcon",
+    "Buzgero/HumanNPC",
+    "CalvFletch/PilotPro",
+    "Calytic/Give",
+    "Calytic/Night-Zombies",
+    "Calytic/Oxide.Ext.Discord",
+    "Calytic/Recycle",
+    "Calytic/Rewards",
+    "Calytic/oxideplugins",
+    "Cannabis-CFG/Backpacks",
+    "Cannabis-CFG/Oxide",
+    "Cannabis-CFG/OxidePlugins",
+    "CaptainBlake/RaidMe",
+    "CaptainBlake/ServerCommands",
+    "CarbonCommunity/Carbon",
+    "CarbonCommunity/Carbon.Common",
+    "CarbonCommunity/Carbon.Compat",
+    "CarbonCommunity/Carbon.Documentation",
+    "CarbonCommunity/Carbon.Hooks.Community",
+    "CarbonCommunity/Carbon.Oxide",
+    "CarbonCommunity/Carbon.OxideRust",
+    "CatMeat/DynamicPVP",
+    "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
+    "CherrySofts/https-slivrust-plugin.ru-",
+    "ChrisNewmanDev/CoreLoot",
+    "Cl1cker0/lua-scripts",
+    "Comm512-1/RustPlugins",
+    "CrabSerg/EstateUpkeep",
+    "CraftingStore/OxidePlugin",
+    "Crushedice/LatestPlugins",
+    "Crushedice/Rust-NoSteam",
+    "Crushedice/RustManagerAgent",
+    "Crushedice/Rust_Plugins",
+    "Crushedice/RusticalandOPS",
+    "CyberSys/Oxide",
+    "DanielHenderson-17/PrivateMessageRustPlugin",
+    "DeXGaming/Oxide.SevenDaysToDie",
+    "DeXGaming/rust-plugins",
+    "DemoNiMa/RS-project",
+    "DeusProx/Share",
+    "DeusProx/SkinZ",
+    "DevGonzi/uMod-Build",
+    "DevGonzi/uMod-ChatPrefix",
+    "DevGonzi/uMod-DiscordStatus",
+    "DevGonzi/uMod-InfoPanel",
+    "DevGonzi/uMod-Quests",
+    "DevGonzi/uMod-TeamPing",
+    "Dids/seedery.io-mapgen",
+    "DocValerian/rust-plugins",
+    "Dpendable/Oxide",
+    "EHCanadian/Oxide_Rust_Decompiled",
+    "EReis0/Oxide.Rust",
+    "Eadris/CrateGuardCS",
+    "EgorBlagov/rust-discord",
+    "ElliotRedhead/EntityHealth",
+    "Enilgles/pluginsrust",
+    "Enilgles/umod-pluigns-dataset",
+    "Eoin-McCartan/HavocRust.Plugins",
+    "Eoin-McCartan/Rust.HarmonyMods",
+    "Eoin-McCartan/RustyRockets",
+    "Eremith-s/ServerMonitorPlugin",
+    "ErikGrischuk/Entity-Cleaner",
+    "ErikGrischuk/Tranquility-PvE-Commits",
+    "EthanDelong/Carbon",
+    "Fayozjon/BanSystem",
+    "Feramor/Oxide",
+    "Feramor/Oxide.Ext.AutoUpdater",
+    "Feverr92/QuickSmelt",
+    "Feverr92/Trade-Rust",
+    "Feverr92/WarriorShop",
+    "Feverr92/kits",
+    "FireIce7/BaseFixer",
+    "Flash-Ticker/AdminLootProtection",
+    "Flash-Ticker/BarDoorCloser",
+    "Flash-Ticker/CompanyManagement",
+    "Flash-Ticker/GoldenScrap",
+    "Flash-Ticker/HauntedDoors",
+    "Flash-Ticker/JumpScare",
+    "Flash-Ticker/MyNotify",
+    "Flash-Ticker/MyPlayerBuilds",
+    "Flash-Ticker/NoPowerXmasLights",
+    "Flash-Ticker/SafeZoneVehicle",
+    "Flash-Ticker/SkinFinder",
+    "Flash-Ticker/SwimmingDrops",
+    "Flash-Ticker/XmasTreeGifts",
+    "Flash-Ticker/cfg",
+    "FourEightZer0/RustMod_HostileTakeover",
+    "FourEightZer0/RustMod_PrivateProperty",
+    "FritoQC/ServerSave",
+    "Fritoqc/ServerSave",
+    "FtuoilXelrash/CelestialBarrage",
+    "FtuoilXelrash/rAlwaysDay",
+    "FtuoilXelrash/rBumShacks",
+    "FtuoilXelrash/rCEventScheduler",
+    "FtuoilXelrash/rDailyServerRestarts",
+    "FtuoilXelrash/rFireworkShow",
+    "FtuoilXelrash/rHelp",
+    "FtuoilXelrash/rPop",
+    "FtuoilXelrash/rServerMessages",
+    "GFLClan/Rust-User-Management",
+    "GTJono/RustChess",
+    "GabrielTrigo/CSharp",
+    "GabrielTrigo/Old-Rust-Legacy-Plugins",
+    "GabrielTrigo/Oxide.RustLegacy",
+    "GabrielTrigo/RustLegacyPlugins",
+    "GabrielTrigo/oxideplugins",
+    "Ghenghis/Auto-Base-Builder",
+    "Ghenghis/RUST-TEST",
+    "Ghenghis/Rust-AI-Base-Builder2",
+    "Grimm530/HarmonyMods",
+    "Grimston/PVELoot",
+    "Grimston/RemoteRcon",
+    "Hallonkaka/OxidePlugins",
+    "Hamunaptra77/Rust-ServerManager",
+    "Hamunaptra77/uMods",
+    "HandyS11/PopCommand",
+    "HandyS11/RUST-Update-Notice",
+    "HandyS11/RebootScheduler",
+    "HandyS11/RustPluginTemplate",
+    "HandyS11/RustPluginsWorkplace",
+    "Hardcore-fs/PlayerAdministration",
+    "Hardcore-fs/Tebex-Oxide",
+    "Hardcore-fs/oxideplugins",
+    "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES",
+    "HeyImDionysus/Moo",
+    "HeyImDionysus/SignTool",
+    "HeyImDionysus/anythingun",
+    "HeyImDionysus/corrodedadmin",
+    "HeyImDionysus/serverstatus",
+    "HeyImDionysus/unraider",
+    "HizenLabs/Carbon",
+    "HizenLabs/HizenLabs.Shared",
+    "HunterZ/Carbon",
+    "HunterZ/CopyPaste",
+    "HunterZ/MonumentAddons",
+    "HunterZ/rustmods",
+    "Hustle-Industries/plugin",
+    "I4IgO32/Rust-NoSteam",
+    "IIIaKa/FreeRT",
+    "IIIaKa/MonumentsWatcher",
+    "IIIaKa/Oxide.Core",
+    "IIIaKa/Oxide.Rust",
+    "IIIaKa/SilentItemsGive",
+    "IIIaKa/TemporaryPermissions",
+    "ImKiri86/VIPPlaytime",
+    "InfamousVague/rust-nuke",
+    "ItzNxthaniel/RestrictPlacement",
+    "ItzNxthaniel/TrueWelcomer",
+    "J-Pster/InventoryCleaner",
+    "JIMER228/bloodmenu",
+    "Jake-Rich/Oxide",
+    "Jake-Rich/Oxide.CSharp",
+    "Jake-Rich/Oxide.Core",
+    "Jake-Rich/Oxide.Ext.Catalyst",
+    "Jake-Rich/Oxide.Rust",
+    "Jake-Rich/seedery.io-mapgen",
+    "JesseMH/rust_tides",
+    "Joe90384/syncPipes",
+    "John-Willikers/RustCircuitBoss",
+    "JonathanPorta/rust-server-cookbook",
+    "JorgeCayetano1/peruhurt-hw-server",
+    "Juan321654/rust_mod_plugins",
+    "Juliiiian/Rocket",
+    "Juliiiian/RocketPlugin",
+    "K4TFJ/DynamicPVP",
+    "Kaidoz/Rust-NoSteam",
+    "KajWithAJ/DungProtector",
+    "KajWithAJ/EMInterface",
+    "KajWithAJ/EventManager",
+    "KajWithAJ/PveAdmin",
+    "KajWithAJ/TollButtons",
+    "KajWithAJ/Watchdog",
+    "KajWithAJ/YouveGotMail",
+    "KichDM/RustLegacyPlugins",
+    "Killa4/uMod.Rust",
+    "Kirollos/Oxide.Ext.Discord",
+    "Kirollos/Oxide.Ext.IRC",
+    "Koltou/rust-donation-plugin-tip4serv",
+    "KopatychUSSR/Plugins-rust",
+    "Kulltero/Carbon.Core",
+    "Kulltero/Oxide.Rust",
+    "KuraiDevelopment/Kurai.dev",
+    "L4m1fy/Always-Hotspot",
+    "L4m1fy/Player-Count",
+    "L4m1fy/Show-Player-Count",
+    "LaserHydra/AdminChat",
+    "LaserHydra/AdminChatroom",
+    "LaserHydra/Backpacks",
+    "LaserHydra/BetterChat",
+    "LaserHydra/BetterChatMute",
+    "LaserHydra/CapsNoCaps",
+    "LaserHydra/ChatImpersonator",
+    "LaserHydra/DeathNotes",
+    "LaserHydra/DeathNotesGui",
+    "LaserHydra/HWTeleportation",
+    "LaserHydra/Oxide",
+    "LaserHydra/SleeperGuard",
+    "LaserHydra/TimedPermissions",
+    "LaserHydra/UpdateChecker",
+    "LauraRozier/BanSync",
+    "LauraRozier/EnforceSingleResourceExtractor",
+    "LauraRozier/ItemSkinSetter",
+    "LauraRozier/Oxide.Core",
+    "LauraRozier/Oxide.Rust",
+    "LauraRozier/PlayerAdministration",
+    "LauraRozier/VerificationGatekeeper",
+    "LauraRozier/uMod-Project-Template",
+    "LeagueRaINi/OxidePlugins",
+    "Limmek/MStats-for-rust",
+    "Limmek/MySql-Chat-Log-for-Rust",
+    "Limmek/ZLevelsRemastered-MySQL",
+    "LoneWolfRust/SleeperCheck",
+    "Lootvoet/DiscordCoreRewards",
+    "LosGranada/MyRustServer",
+    "LostStormX/NPCEvents-Plugin",
+    "LucienMP/Rust-Voice-Streaming-Plugin",
+    "MONaH-Rasta/AdminRadar",
+    "MONaH-Rasta/AntiSpam",
+    "MONaH-Rasta/AutoDoors",
+    "MONaH-Rasta/AutoLock",
+    "MONaH-Rasta/AutoPlant",
+    "MONaH-Rasta/BaseRepair",
+    "MONaH-Rasta/BetterChat",
+    "MONaH-Rasta/BuildingGrades",
+    "MONaH-Rasta/BuildingWorkbench",
+    "MONaH-Rasta/ChestStackMultiplier",
+    "MONaH-Rasta/ChillFuel",
+    "MONaH-Rasta/Clans",
+    "MONaH-Rasta/CopyPaste",
+    "MONaH-Rasta/DangerousTreasures",
+    "MONaH-Rasta/DiscordLogger-uMod",
+    "MONaH-Rasta/DiscordWipe",
+    "MONaH-Rasta/EntityOwner",
+    "MONaH-Rasta/Finder",
+    "MONaH-Rasta/ImageLibrary",
+    "MONaH-Rasta/InstantUntie",
+    "MONaH-Rasta/InventoryBackup",
+    "MONaH-Rasta/InventoryViewer",
+    "MONaH-Rasta/Kits",
+    "MONaH-Rasta/LootBouncer",
+    "MONaH-Rasta/LootDefender",
+    "MONaH-Rasta/NTeleportation",
+    "MONaH-Rasta/NightVision",
+    "MONaH-Rasta/NoCrashFlyingVehicles",
+    "MONaH-Rasta/OilRigDoorsFix",
+    "MONaH-Rasta/QuickSort",
+    "MONaH-Rasta/RemoverTool",
+    "MONaH-Rasta/RustTranslationAPI",
+    "MONaH-Rasta/ServerRewards",
+    "MONaH-Rasta/SignArtist",
+    "MONaH-Rasta/Skins",
+    "MONaH-Rasta/TeamSaver",
+    "MONaH-Rasta/TruePVE",
+    "MONaH-Rasta/Vanish",
+    "MONaH-Rasta/VehicleLicence",
+    "MONaH-Rasta/WaterWorks",
+    "MONaH-Rasta/ZLevelsRemastered",
+    "MSylvia/Oxide",
+    "MSylvia/Oxide.Core",
+    "Mabel8686/RustPlugins",
+    "Mabel8686/VehicleLicense",
+    "Mabel8686/VehicleStorage",
+    "MaltrzD/SteamVoiceEncoder",
+    "MateoTaylor/Rust-Reinforcement-Learning",
+    "Mateuus/RustAgent",
+    "Mentol0408/Test",
+    "Mercury-devs/Carbon",
+    "Mercury-devs/Oxide.Rust",
+    "Mercury-devs/plugin",
+    "MeziGit/Oxide.Core.Tests",
+    "Mheetu/RustVoiceActivity",
+    "Mike-Baks/Oxide.Rust",
+    "Misailov1993/1",
+    "MitchBriles/RustPlugins",
+    "MoonpieBD/BlueprintPrestige",
+    "MoonpieBD/SimplePatrolSignal",
+    "MoonpieBD/Voter",
+    "MoonpieBD/skipnight",
+    "MorganSkilly/Unity-Discord-Webhook-System",
+    "Mr-Dead2/newsbroadcaster",
+    "MrBlue/CopyPaste",
+    "MrBlue/Oxide.Core",
+    "MrBlue/Oxide.Hurtworld",
+    "MrBlue/Oxide.Rust",
+    "MrBlue/oxidemod.org",
+    "MrDesedresh/TB",
+    "MrDesedresh/plug",
+    "MrDesedresh/plugin",
+    "MrDesedresh/plugin2",
+    "MrGraversen/DeathNotes",
+    "MrGraversen/rust-rcon",
+    "Murgator/rust-donation-plugin-tip4serv",
+    "MyhreDev/uMod.Test",
+    "Naaathan/Tebex-Oxide",
+    "Navio1430/AntiRoofCamp",
+    "NeewMeta88/Rust-game-Plugin",
+    "NemoAM7/Rust-Terminal-Hack-Plugin",
+    "Nikedemos/Custom-Entities",
+    "Nikedemos/HumanNPC",
+    "Nikedemos/InventoryCleaner",
+    "Nikedemos/Lone.DesignUpdateChecker",
+    "Nikedemos/Oxide.Rust",
+    "Nikedemos/SignArtist",
+    "Nikedemos/Skin-Preloader",
+    "Nodemcu1/www",
+    "Nogrod/OxidePlugins",
+    "NoxiousPluK/Oxide.Rust",
+    "NoxiousPluK/RustTelegramAPI",
+    "OhItsDiiTz/RustPlugin",
+    "Orhidea-Development/WishRivals",
+    "OverTimeHosting/Documentation",
+    "Owned67/FailedCodeAlert",
+    "Owned67/InvasivePlants",
+    "Owned67/MonumentAddons",
+    "Owned67/MonumentAddonsTanki",
+    "Owned67/Oxide-PlantsNeverDie",
+    "Owned67/RustPlugins",
+    "OxideMod/Oxide.CSharp",
+    "OxideMod/Oxide.Core",
+    "OxideMod/Oxide.Docs",
+    "OxideMod/Oxide.Hurtworld",
+    "OxideMod/Oxide.ReignOfKings",
+    "OxideMod/Oxide.Rust",
+    "OxideMod/Oxide.RustLegacy",
+    "OxideMod/Oxide.SevenDaysToDie",
+    "OxideMod/Oxide.TheForest",
+    "OxideMod/oxidemod.org",
+    "PRISM-Servers/plugins_public",
+    "PT-Studios/rust-donation-credits",
+    "PationPrime/RustServerDataPlugin",
+    "Patrette/Oxide.Core",
+    "Patrette/RustNoEAC",
+    "PayNow-Services/PayNow.GameServers.Plugins.OxideMod",
+    "PenguinzTech/penguin-rust-base",
+    "PenguinzTech/penguin-rust-plugins",
+    "PenisBlistashiq/Rust-plugins-236-240-dev",
+    "Pho3niX90/Carbon",
+    "Pho3niX90/ExtraSeating",
+    "Pho3niX90/MiniCopterOptions",
+    "Pho3niX90/PlayerAdministration",
+    "Pho3niX90/PoliticalSurvival",
+    "PierreAnken/ROK_Plugins",
+    "PlaySafeID/playsafe-id-community-plugins",
+    "PsixXxrus/MyTask",
+    "PsychoTea/CloudflareUpdater-Plugin",
+    "PsychoTea/Oxide.CSharp",
+    "PsychoTea/Oxide.Ext.Discord",
+    "PsychoTea/Oxide.Rust",
+    "PsychoTea/Oxide.RustLegacy",
+    "PsychoTea/RustArena",
+    "Psystec/RUST-Update-Notice",
+    "Psystec/uMod-Chat-To-Discord-Relay",
+    "Psystec/uMod-Chat-To-Telegram-Relay",
+    "QWERTY-Seba/rust_patrol",
+    "QWERTY-Seba/rust_plugins",
+    "QuakeShots/Rust",
+    "QuetzalQatl/RustPluginManual",
+    "REALJasonAU/maze-test",
+    "RMODHosting/HarmonizedOxidePlugin",
+    "ROMA0589/RUST-BackpackButton",
+    "Ragonz2/Oxide",
+    "Rahulsinghz/Oxide2Plugins",
+    "Rahulsinghz/oxideplugins",
+    "Randactyl/Salvage",
+    "RazoR-XXX/https-slivrust-plugin.ru-",
+    "RazoR-XXX/rust-template",
+    "RazoR-XXX/umod-pluigns-dataset",
+    "RazoRRustPlugins/AdminMenu-1.3.1",
+    "RazoRRustPlugins/Airfield-Event-1.5.3",
+    "RazoRRustPlugins/Armored-Train-1.8.2",
+    "RazoRRustPlugins/Battlepass-1.37.3",
+    "RazoRRustPlugins/Convoy-Reforged-2.8.1",
+    "RebeccaStevens/Oxide.Rust",
+    "RebeccaStevens/oxide-Plugin-AutoCode",
+    "RebeccaStevens/oxide-Plugin-UiBuilderLibrary",
+    "RebeccaStevens/oxide-plugins",
+    "RebeccaStevens/uMod-Fork-CopyPaste",
+    "RebeccaStevens/uMod-Rust-Plugin-GatherManager",
+    "RedizGG/AttachmentBlocker",
+    "RedizGG/Creative_Images",
+    "Reheight/BoomboxRust",
+    "Reheight/ClansRecoded",
+    "Reheight/PMCharacterLimit",
+    "Reheight/SimpleKillMessages",
+    "Reheight/SimpleLinkingSolution",
+    "RelFost/Relfost.Plugins",
+    "Remod-org/AcidRain",
+    "Remod-org/AggressiveAnimals",
+    "Remod-org/AirwolfVendorFix",
+    "Remod-org/AnimalTurret",
+    "Remod-org/AutoFurnace",
+    "Remod-org/AuxidePlugins",
+    "Remod-org/BikeClaim",
+    "Remod-org/BowShield",
+    "Remod-org/CCTVControl",
+    "Remod-org/ChatBot",
+    "Remod-org/ChuteManager",
+    "Remod-org/CoffinLock",
+    "Remod-org/CompoundOptions",
+    "Remod-org/CookStorage",
+    "Remod-org/Cornucopia",
+    "Remod-org/DeathSpawn",
+    "Remod-org/DronePatrol",
+    "Remod-org/ElectricFridge",
+    "Remod-org/ElectricOven",
+    "Remod-org/ElectroLock",
+    "Remod-org/FlyingCarpet",
+    "Remod-org/FlyingKayak",
+    "Remod-org/FlyingPiano",
+    "Remod-org/ForestryZones",
+    "Remod-org/ForeverBackpack",
+    "Remod-org/Gesture-Wheel",
+    "Remod-org/GrillPickup",
+    "Remod-org/Horses",
+    "Remod-org/HumanNPC",
+    "Remod-org/HumanNPCGUI",
+    "Remod-org/Humanoids",
+    "Remod-org/IceBox",
+    "Remod-org/InstaWear",
+    "Remod-org/JunkPileSci",
+    "Remod-org/JustEat",
+    "Remod-org/LOTL",
+    "Remod-org/LootProtect",
+    "Remod-org/MagazinBoost",
+    "Remod-org/MiningOutpostQuarries",
+    "Remod-org/MonBots",
+    "Remod-org/MonumentNPC",
+    "Remod-org/MyAttackCopter",
+    "Remod-org/MyMiniCopter",
+    "Remod-org/NREHook",
+    "Remod-org/NextGenPVE",
+    "Remod-org/NoDecay",
+    "Remod-org/NoOffline",
+    "Remod-org/OldSchoolResearch",
+    "Remod-org/Omnibus",
+    "Remod-org/Oxide.Ext.LocalFiles",
+    "Remod-org/PathFinding",
+    "Remod-org/Photog",
+    "Remod-org/Plagued",
+    "Remod-org/PlayerAdministration",
+    "Remod-org/Portals",
+    "Remod-org/PowerWalk",
+    "Remod-org/PushIt",
+    "Remod-org/QRadar",
+    "Remod-org/Quests",
+    "Remod-org/RProtect",
+    "Remod-org/RTeleportation",
+    "Remod-org/ReJack",
+    "Remod-org/RealPortals",
+    "Remod-org/RecycleBP",
+    "Remod-org/RecycleCost",
+    "Remod-org/RemLoad",
+    "Remod-org/Replicator",
+    "Remod-org/RoadFinder",
+    "Remod-org/SAMTargeting",
+    "Remod-org/SignArtist",
+    "Remod-org/SimpleLight",
+    "Remod-org/Stacks",
+    "Remod-org/SteamFriends",
+    "Remod-org/Stumped",
+    "Remod-org/TCGui",
+    "Remod-org/Telekinesis",
+    "Remod-org/Teleportication",
+    "Remod-org/Tides",
+    "Remod-org/TimedExecuteV2",
+    "Remod-org/TinCanBoom",
+    "Remod-org/Toilette",
+    "Remod-org/Waypoints",
+    "Rene-Sackers/RustPlugins",
+    "RobinPlay-2025/Free-Plugins",
+    "RobinPlay-2025/rust-template",
+    "Ross-Ward/Oxide",
+    "RuchirRajOld/uMod.Rust",
+    "Rust-Haus/OpenAI-Rust-Plugin",
+    "Rust-Haus/RustGPT",
+    "Rust-Haus/ai-death-feed",
+    "RustServers-IO/Oxide.Ext.Catalyst",
+    "RustServers-IO/oxideplugins",
+    "RustServers-IO/rustplugins",
+    "RustServers-gg/EasyVote",
+    "RustServers-gg/Voting-Rewards",
+    "RustWipeDay/RustWipeDay",
+    "RustopiaOfficial/DisableIndustrialConveyors",
+    "RustopiaOfficial/Oxide.Rust",
+    "RustopiaOfficial/paynow-rust-plugin",
+    "RustyyTown/plugins",
+    "Ryan-J-D/NoRaid",
+    "Ryan-J-D/Oxide",
+    "Ryan-J-D/Oxide.Core",
+    "Ryan-J-D/Oxide.Rust",
+    "Ryan-J-D/Rust-Item-IDs",
+    "Ryan-J-D/Vanish",
+    "S1gil0/RustAI",
+    "SNiTEBoBy/Vote-For-Money",
+    "Samosborne94/GrieferHub",
+    "SeesAll/AutoDoors-Enhanced",
+    "SeesAll/BetterChat-Optimized",
+    "SeesAll/BetterChatMute-Enhanced",
+    "SeesAll/BlueprintShare-Fixed",
+    "SeesAll/ClanRenameLogs",
+    "SeesAll/ClanSteamIDs",
+    "SeesAll/DayNightWeatherController",
+    "SeesAll/HandcuffLimiter",
+    "SeesAll/InfiniteVendingStock-FIXED",
+    "SeesAll/LootBouncer-Enhanced",
+    "SeesAll/MoneyTime-Fixed",
+    "SeesAll/PrivateMessages-Enhanced",
+    "SeesAll/Rust-Command-Chat-Logger",
+    "SeesAll/SmartCleanup",
+    "SeesAll/SmartRecon",
+    "SeesAll/SmartSmelt",
+    "ServerArmour/ServerArmour",
+    "SettLe1/BadPrefabsCleaner",
+    "ShiroKSH/rust-plugins",
+    "Sk3tch-Dev-Ux/Kurai.dev",
+    "SkiTee3000/Carbon",
+    "SkiTee3000/Oxide.Core",
+    "SkiTee3000/Oxide.Rust",
+    "SkiTee3000/Rust.UIFramework2",
+    "Skippeh/Oxide",
+    "Skippeh/Oxide-Plugins",
+    "Skippeh/Oxide.Ext.ServerManager",
+    "Skippeh/calcrust.com-backend",
+    "Slut/Oxide.CSharp",
+    "Slut/Oxide.Core",
+    "Slut/Oxide.Rust",
+    "SpencerSharkey/rustcord",
+    "Spiikesan/BetterScarecrows",
+    "Spiikesan/BuildingWrapper",
+    "Spiikesan/CupboardLimiter",
+    "Spiikesan/TellMyVote",
+    "Spookywooky3/HeliDamage",
+    "Spookywooky3/SpawnHeli",
+    "Steamcord/steamcord-rust",
+    "Substrata1/ClothedMurderers",
+    "Substrata1/Inbound",
+    "Substrata1/MiscRustPlugins",
+    "Substrata1/Oxide.Rust",
+    "Substrata1/WaterCatcherBoost",
+    "SweetInk/uMod.HumanFallFlat",
+    "Swishhyy/Night-Zombies",
+    "TGWA0/BetterLoot-UMod",
+    "TGWA0/NoDecay",
+    "TGWA0/RustPluginTemplate",
+    "TOWUK/test",
+    "Tacman1981/Connect-Log-Parser",
+    "Tacman1981/Rust-Plugins",
+    "TebexOllie/Tebex-Oxide",
+    "Teoory/Rust_ModernSkillTree",
+    "TheFriendlyChap/NikoWeather",
+    "TheFriendlyChap/OpenNexusFC",
+    "TheFriendlyChap/RustPlugins",
+    "TheFriendlyChap/SafeSpace",
+    "TheFriendlyChap/SpaceyDrop",
+    "TheFriendlyChap/oxideplugins",
+    "TheNeo2k/Kits",
+    "ThePitereq/Carbon.Common",
+    "ThePitereq/Oxide.Rust",
+    "Timestorm/uMod.Rust",
+    "ToastyToast25/Skinbox",
+    "Tomaxikz/Plugin-for-player-manager",
+    "Tryhard999/Carbon.Common",
+    "Tryhard999/NoHeliFire",
+    "Tryhard999/NoSunGlare",
+    "Tryhard999/Oxide.Rust",
+    "TurkLee/Decompiled-Assemblies",
+    "TurtleMcTurtle/Oxide.Ext.RustEdit",
+    "TurtleMcTurtle/Oxide.Rust",
+    "Tyler-Lopez/RUSTDynasty",
+    "Tyler-Lopez/Rust-Factions-Plugin",
+    "Tyler-Lopez/RustPluginTemplate",
+    "Tyler-Lopez/SignUploadAPI",
+    "UB1AFU/Oxide.Rust",
+    "UltraRust/Anti-Spam-Names",
+    "UltraRust/CH47-no-scientists-bug-fix",
+    "UltraRust/CargoShip-no-scientists-bug-fix",
+    "UltraRust/Ent-Kill-Loot-Keeper",
+    "UltraRust/Fog-Voting",
+    "UltraRust/No-Decay-Candles-Ultra",
+    "UltraRust/Supply-Alert",
+    "UncleMle/Rust-Ban-System",
+    "UnrealSalty/StarGuard-Rust",
+    "VFlov/RustMod",
+    "VFlov/RustPlugins",
+    "Venedas/Ven-Maps22",
+    "ViolationHandler-exe/BGrade",
+    "ViolationHandler-exe/Backpacks",
+    "ViolationHandler-exe/BetterChat",
+    "ViolationHandler-exe/BlockUsers",
+    "ViolationHandler-exe/BombTrucks",
+    "ViolationHandler-exe/Economics",
+    "ViolationHandler-exe/Free-Driving-Vehicles",
+    "ViolationHandler-exe/Friends-or-BlockedUsers-Plugin",
+    "ViolationHandler-exe/Ignore-and-Blocked",
+    "ViolationHandler-exe/NTeleportation-Blocking",
+    "ViolationHandler-exe/PerformanceMonitor",
+    "ViolationHandler-exe/Suicide-Cooldown",
+    "ViolationHandler-exe/Timed-Permissions",
+    "ViolationHandler-exe/VehicleLicense",
+    "VisEntities/AirdropSettings",
+    "VisEntities/AirdropTurrets",
+    "VisEntities/AlwaysDriverSeat",
+    "VisEntities/AlwaysInflatedBalloons",
+    "VisEntities/AntiQuickLeaver",
+    "VisEntities/AutoBagRenamer",
+    "VisEntities/AutoCatapultFeeder",
+    "VisEntities/AutoTeamUp",
+    "VisEntities/AutomatedStashTraps",
+    "VisEntities/BalloonStayOn",
+    "VisEntities/BarrelHealth",
+    "VisEntities/BarricadeToWall",
+    "VisEntities/BetterCharcoal",
+    "VisEntities/BetterDroppedItemStacker",
+    "VisEntities/BetterHealing",
+    "VisEntities/BetterLineOfSightTeleport",
+    "VisEntities/BloodBags",
+    "VisEntities/BouncyC4",
+    "VisEntities/BoxedPlayerSpawn",
+    "VisEntities/BradleyCCTV",
+    "VisEntities/BradleyControl",
+    "VisEntities/BradleyKillCooldown",
+    "VisEntities/BuildRefund",
+    "VisEntities/ButtonCommands",
+    "VisEntities/ClanTagFirst",
+    "VisEntities/ConsistentWindPower",
+    "VisEntities/Countdown",
+    "VisEntities/CupboardAcceptsAnything",
+    "VisEntities/CustomGatherRates",
+    "VisEntities/CustomLootSpawns",
+    "VisEntities/CustomUnwrapRewards",
+    "VisEntities/DancingNPC",
+    "VisEntities/DangerousCollectibles",
+    "VisEntities/DefaultItemSkinChanger",
+    "VisEntities/DooredSiegeTowers",
+    "VisEntities/DraggableCorpses",
+    "VisEntities/DurableAttachments",
+    "VisEntities/DynamicThirdPerson",
+    "VisEntities/ExplosionsWithoutFireballs",
+    "VisEntities/ExtendedDemolish",
+    "VisEntities/ExternalWallStacker",
+    "VisEntities/FailedCodeAlert",
+    "VisEntities/FallenTreeRemains",
+    "VisEntities/FarmingRestriction",
+    "VisEntities/FirstTryChainsaw",
+    "VisEntities/ForeverRipe",
+    "VisEntities/ForgivenUponRespawn",
+    "VisEntities/FoundationOnlyDeployables",
+    "VisEntities/FullWaterCatchers",
+    "VisEntities/FurnaceGoBrrr",
+    "VisEntities/GearCore",
+    "VisEntities/GlowingEyes",
+    "VisEntities/GunStats",
+    "VisEntities/HalfLootedEmptier",
+    "VisEntities/HarvestableVehicles",
+    "VisEntities/HealthyGuns",
+    "VisEntities/HorseEquipment",
+    "VisEntities/HouseKeys",
+    "VisEntities/IgnitableMixingTables",
+    "VisEntities/InfiniteWaterBucket",
+    "VisEntities/InstantCrops",
+    "VisEntities/InstantSiegeDeploy",
+    "VisEntities/InstantSiegeReload",
+    "VisEntities/InstantTeamJoin",
+    "VisEntities/InventoryLock",
+    "VisEntities/ItemlessPlayerSpawn",
+    "VisEntities/KillAwards",
+    "VisEntities/LaptopCrateHack",
+    "VisEntities/LeaderlessTeamDisband",
+    "VisEntities/LegacyAirdrops",
+    "VisEntities/LimitedSiegeBombDeploy",
+    "VisEntities/LuckyBarrel",
+    "VisEntities/MapMarkerTeleport",
+    "VisEntities/MinigunReloadAnywhere",
+    "VisEntities/ModMail",
+    "VisEntities/NPCLoadouts",
+    "VisEntities/NPCRotator",
+    "VisEntities/NamelessPlayers",
+    "VisEntities/NerfedRaidBuilding",
+    "VisEntities/NeverTeamless",
+    "VisEntities/NoAFKRecycler",
+    "VisEntities/NoCaveBuilding",
+    "VisEntities/NoChinookCratePileup",
+    "VisEntities/NoDistanceBasedTemperature",
+    "VisEntities/NoEventMarkers",
+    "VisEntities/NoExcavatorAirdrops",
+    "VisEntities/NoGibs",
+    "VisEntities/NoHarvestJunk",
+    "VisEntities/NoLocks",
+    "VisEntities/NoMonumentBarricades",
+    "VisEntities/NoPickupPenalty",
+    "VisEntities/NoRaidDebris",
+    "VisEntities/NoRespawnCooldown",
+    "VisEntities/NoSignsOnDeployables",
+    "VisEntities/NoStuckArrows",
+    "VisEntities/NoSuicideCooldown",
+    "VisEntities/NoUnderwaterVending",
+    "VisEntities/NoWaterSleep",
+    "VisEntities/NotEnoughBradleyScientists",
+    "VisEntities/OfflineFurnaces",
+    "VisEntities/OfflineRaidingWeakened",
+    "VisEntities/OnePushBoat",
+    "VisEntities/OneSeatVehicle",
+    "VisEntities/OneTimeBag",
+    "VisEntities/OneTimeParachute",
+    "VisEntities/OrphanedItemRemover",
+    "VisEntities/OutOfCombatHeal",
+    "VisEntities/OverflowToBackpack",
+    "VisEntities/OwnerPickupOnly",
+    "VisEntities/PatrolHeliCantFlare",
+    "VisEntities/PatrolHeliCrashDontRetire",
+    "VisEntities/PatrolHeliCrashSites",
+    "VisEntities/PatrolHeliNoGoMonuments",
+    "VisEntities/PatrolHeliSams",
+    "VisEntities/PlaytimeTracker",
+    "VisEntities/Pop",
+    "VisEntities/PumpAnywhere",
+    "VisEntities/QuarryHealth",
+    "VisEntities/QuarryLock",
+    "VisEntities/QuarryRepair",
+    "VisEntities/RaidableShelters",
+    "VisEntities/RandomKit",
+    "VisEntities/RealisticDeathPhysics",
+    "VisEntities/Reforestation",
+    "VisEntities/ReloadHotbar",
+    "VisEntities/Remineration",
+    "VisEntities/ReviveArrows",
+    "VisEntities/RocketDamageModifier",
+    "VisEntities/RotatingGear",
+    "VisEntities/SafeHeliLanding",
+    "VisEntities/SafeRespawn",
+    "VisEntities/SafeZoneCommands",
+    "VisEntities/SafetyBarrel",
+    "VisEntities/SeedlessFood",
+    "VisEntities/SidecarStorage",
+    "VisEntities/SilentBuildingBlocks",
+    "VisEntities/SkinIt",
+    "VisEntities/StorageUpgrade",
+    "VisEntities/SupplySignalCommands",
+    "VisEntities/SuspiciousCodeUnlock",
+    "VisEntities/TCBan",
+    "VisEntities/TrueSmokeRockets",
+    "VisEntities/TwigCantStay",
+    "VisEntities/UnarmedParachuting",
+    "VisEntities/UndyingCandles",
+    "VisEntities/UndyingWallTorches",
+    "VisEntities/WaterWellSettings",
+    "VisEntities/WeaponlessVehicles",
+    "VisEntities/WetGunsGoJam",
+    "VisEntities/WorkbenchEquipOnly",
+    "VisEntities/YouShallNotSpawn",
+    "Visagalis/Oxide",
+    "Visagalis/Oxide.Rust",
+    "Vlad-00003/Backpacks",
+    "Vlad-00003/Oxide.Rust",
+    "Vlad-00003/PluginsWorkspace",
+    "Vlad-00003/oxideplugins",
+    "Vladimir123123123/rust-template",
+    "VoodooCor/NpcSpawnAutoManager",
+    "VoodooCor/rust-server-plugins",
+    "Wakanda1519/RUST-Plugins-from-AI",
+    "Warri0r007/Rust-plugins",
+    "WeirdPhrog/Carbon",
+    "WeirdPhrog/plugin",
+    "WheteThunger/AllowBackpacksInLockers",
+    "WheteThunger/AlwaysLootableTurrets",
+    "WheteThunger/AutoEngineParts",
+    "WheteThunger/AutoFlipDrones",
+    "WheteThunger/AutomatedWorkcartNotifications",
+    "WheteThunger/AutomatedWorkcarts",
+    "WheteThunger/BackpackButton",
+    "WheteThunger/Backpacks",
+    "WheteThunger/BackpacksRequireParachutes",
+    "WheteThunger/BetterChinookPatrol",
+    "WheteThunger/BetterDroneCollision",
+    "WheteThunger/BetterElevators",
+    "WheteThunger/BetterRootCombiners",
+    "WheteThunger/BetterTurretAim",
+    "WheteThunger/BlockItemActions",
+    "WheteThunger/BombTrucks",
+    "WheteThunger/BoomboxDurability",
+    "WheteThunger/CarLockUI",
+    "WheteThunger/CarSpawnSettings",
+    "WheteThunger/CarTurrets",
+    "WheteThunger/ClaimVehicle",
+    "WheteThunger/CorpseLocker",
+    "WheteThunger/CraftChassis",
+    "WheteThunger/CustomNetworkRange",
+    "WheteThunger/CustomVendingSetup",
+    "WheteThunger/DebugHookCalls",
+    "WheteThunger/DebugMissingParentEntity",
+    "WheteThunger/DisableBackpacksInZones",
+    "WheteThunger/DroneBoombox",
+    "WheteThunger/DroneEffects",
+    "WheteThunger/DroneHover",
+    "WheteThunger/DroneLights",
+    "WheteThunger/DroneScaleManager",
+    "WheteThunger/DroneSettings",
+    "WheteThunger/DroneStorage",
+    "WheteThunger/DroneTurrets",
+    "WheteThunger/DropBackpackInDynamicPVPZone",
+    "WheteThunger/DynamicWireColors",
+    "WheteThunger/ElevatorCounters",
+    "WheteThunger/ElevatorFallFix",
+    "WheteThunger/EnginePartsDurability",
+    "WheteThunger/EntityScaleManager",
+    "WheteThunger/FastRepair",
+    "WheteThunger/Free-Build",
+    "WheteThunger/GatherRates",
+    "WheteThunger/HeliSams",
+    "WheteThunger/IODebug",
+    "WheteThunger/ItemPuller",
+    "WheteThunger/ItemRetriever",
+    "WheteThunger/KitGroups",
+    "WheteThunger/LimitTrainLength",
+    "WheteThunger/LimitedDroneHeight",
+    "WheteThunger/LimitedDroneRange",
+    "WheteThunger/MLRSRespawner",
+    "WheteThunger/MegaDrones",
+    "WheteThunger/MiniCopterOptions",
+    "WheteThunger/ModularCarCodeLocks",
+    "WheteThunger/MonumentAddons",
+    "WheteThunger/MonumentAddonsRemovals",
+    "WheteThunger/MonumentAddonsSafeZones",
+    "WheteThunger/MonumentFinder",
+    "WheteThunger/NoBuildInNoclip",
+    "WheteThunger/NoDroneSway",
+    "WheteThunger/NoEngineParts",
+    "WheteThunger/NoRestoreInDynamicPVPZone",
+    "WheteThunger/NoSupplyDropLights",
+    "WheteThunger/NoTechTree",
+    "WheteThunger/NoTunnelSpawn",
+    "WheteThunger/Oxide.Rust",
+    "WheteThunger/ParentedEntityRenderFix",
+    "WheteThunger/PlayerAdministration",
+    "WheteThunger/PowerlessElectronics",
+    "WheteThunger/QuickSmelt",
+    "WheteThunger/RCIdentifierFix",
+    "WheteThunger/Recycle",
+    "WheteThunger/RecycleManager",
+    "WheteThunger/ResetHostileOnDeath",
+    "WheteThunger/RidableDrones",
+    "WheteThunger/SharingAPI",
+    "WheteThunger/SkipZeroDamage",
+    "WheteThunger/SortButton",
+    "WheteThunger/SpawnHeli",
+    "WheteThunger/SpawnLoadouts",
+    "WheteThunger/SpawnModularCar",
+    "WheteThunger/StackSizeController",
+    "WheteThunger/StorageMonitorControl",
+    "WheteThunger/TargetableDrones",
+    "WheteThunger/TechTreeControl",
+    "WheteThunger/Telekinesis",
+    "WheteThunger/TrainCollisionDebug",
+    "WheteThunger/TurretLoadouts",
+    "WheteThunger/UnderwaterVehicles",
+    "WheteThunger/UnlimitedDroneRange",
+    "WheteThunger/UpkeepDisplayFix",
+    "WheteThunger/VehicleDecayProtection",
+    "WheteThunger/VehicleDeployedLocks",
+    "WheteThunger/VehicleStorage",
+    "WheteThunger/VehicleVendorOptions",
+    "WheteThunger/VirtualItems",
+    "WheteThunger/WorkcartCardReaders",
+    "WheteThunger/WorkcartSafeZones",
+    "WheteThunger/WoundedFix",
+    "WheteThunger/rust-imperium",
+    "WheteThunger/rustplugin-samsiteauth",
+    "Whitecandor/Oxide.Rust",
+    "Willdiedog/oxideplugins",
+    "Wrath-age/TheAddiction",
+    "Wrath-age/TheAddictionPlugins",
+    "Wrath-age/TheAddictionSite",
+    "Wrecks830/RaidableShelters",
+    "Wrecks830/WhatIsIt",
+    "Wrecks830/rustplugin-scraponomics",
+    "Xairooo/Zombies",
+    "Y4n1ss3/Rust",
+    "YaMang0w0/OwnPlugins",
+    "Yorboot/MessagePlugin",
+    "ZacharyWolfe/CSharpDotNet",
+    "Zackslay/RustStats",
+    "ZaeBallsa/oxideplugins",
+    "Zand3rsCode/CountdownPlugin",
+    "Zer0x89A/Attachment-Blocker",
+    "Zer0x89A/Auto-Fuel",
+    "Zer0x89A/Auto-Takeoff",
+    "Zer0x89A/Entity-Item-Picker",
+    "Zer0x89A/Free-Build",
+    "Zer0x89A/Helicopter-Hover",
+    "Zer0x89A/Neutral-Animals",
+    "Zer0x89A/Night-Zombies",
+    "Zer0x89A/No-Decay",
+    "Zer0x89A/No-Fireworks-On-Terrain",
+    "Zer0x89A/Oxide.Core",
+    "Zer0x89A/Oxide.Rust",
+    "Zer0x89A/Pvp-Toggle",
+    "Zer0x89A/Runaway-Boats",
+    "Zer0x89A/Tool-Cupboard-Turrets",
+    "Zer0x89A/Vending-Machine-Timeout",
+    "ZockiRR/Carbon.Common",
+    "ZockiRR/Oxide.Core",
+    "ZockiRR/RustSirens",
+    "ZockiRR/RustTaser",
+    "a-downing/MiniCopterDrone",
+    "a-downing/uMod.Rust",
+    "a-downing/uModTestStuff",
+    "abolfazl3133/leaked_new_rust_plugins_AI_Dumped",
+    "achrafthedev/Oxide.Rust",
+    "admin4eg/survivalshop-rust",
+    "ads102003/Oxide.CSharp",
+    "ads102003/Oxide.Core",
+    "ads102003/Oxide.Hurtworld",
+    "ads102003/Oxide.ReignOfKings",
+    "ads102003/Oxide.Rust",
+    "ads102003/Oxide.SevenDaysToDie",
+    "ads102003/Oxide.TheForest",
+    "aethyriion/gaming-platform",
+    "ailishev/rust-template-177",
+    "alexanderndev/oxideplugins",
+    "alfredo-leonelli/ClanTeamSync",
+    "alfredo-leonelli/ComunidadHispanoRustAPI",
+    "alfredo-leonelli/RaidAlert",
+    "alfredo-leonelli/ServerPop",
+    "alfredo-leonelli/VipManager",
+    "artem567yt/ExplorationRPG-Rust-Plugin",
+    "artem567yt/Rust-Advanced-AntiCheat",
+    "atlas-rust-servers/console-extension",
+    "atlas-rust-servers/gizmos-extension",
+    "atlas-rust-servers/ilovepatatos-extension",
+    "atlas-rust-servers/ui-framework",
+    "atlasrustservers/JERRYSun",
+    "ay4t/oxideplugins",
+    "ay4t/rust-foundation-wipe",
+    "badw000lf/Accepted-Workshop-Skins-config-for-Skins-by-misticos",
+    "baotien2019nb-afk/achive",
+    "bawNg/HookDispatch",
+    "bawNg/Oxide",
+    "bawNg/Rust",
+    "belisario-afk/-PimpMyTC-",
+    "belisario-afk/2v",
+    "belisario-afk/DATV1",
+    "belisario-afk/Deathmatch-Soccer",
+    "belisario-afk/Dv1",
+    "belisario-afk/FT",
+    "belisario-afk/FTS",
+    "belisario-afk/KillaDome-and-NecroZombies",
+    "belisario-afk/Mw3",
+    "belisario-afk/Private",
+    "belisario-afk/RUST-COD",
+    "belisario-afk/SCO",
+    "belisario-afk/SD",
+    "belisario-afk/aa",
+    "belisario-afk/aaa",
+    "belisario-afk/better",
+    "belisario-afk/dc",
+    "belisario-afk/hhh",
+    "belisario-afk/hy",
+    "belisario-afk/jj",
+    "belisario-afk/killa",
+    "belisario-afk/km",
+    "belisario-afk/mbbb",
+    "belisario-afk/perk",
+    "belisario-afk/ray",
+    "belisario-afk/skinbox",
+    "belisario-afk/supahotfiya",
+    "belisario-afk/v23",
+    "bengreenier-archive/oxide-rust-codelock2fa",
+    "benhamiltonpro/uMod.Rust",
+    "birdenly/NC-handlers",
+    "bmgjet/Downed",
+    "bmgjet/OpenNexus",
+    "bmgjet/OxidePerfCounter",
+    "bmgjet/SkinAndSpay",
+    "bmgjet/TeleportDoors",
+    "bodyweightenergy/CaptureTheFlag",
+    "bodyweightenergy/Nations",
+    "bodyweightenergy/RustMods",
+    "bodyweightenergy/TeamBattlefield",
+    "bodyweightenergy/plugins",
+    "bradygaster/Aspire.Hosting.Facepunch.Rust",
+    "bradygaster/RustMods",
+    "brandonnorsworthy/R1Z1",
+    "bsk193/Carbon.Core",
+    "bubbafett5611/Backpacks",
+    "bugrakaann/MurderGameMode",
+    "bugrakaann/TeamIdentifier",
+    "build6477-ship-it/RustPluginsDumpWithAI",
+    "byome/ByomeConnect",
+    "byome/Oxide",
+    "byome/oxide-configuration",
+    "c-harris/PublicRustPlugins",
+    "cashr17/Carbon.Ext.DllLoader",
+    "cashr17/TestRustProject",
+    "ch3rn1k/rustapp-plugin",
+    "chucklenugget/auth-groups",
+    "chucklenugget/imperium",
+    "chucklenugget/miscellaneous-plugins",
+    "chucklenugget/mjolnir",
+    "chucklenugget/zombie-attack",
+    "cipeaX/travelling-vendor-data",
+    "codeStev/Rust-Plugin-Basics",
+    "codefling-0xf/cui-library",
+    "collectVood/Oxide.Core",
+    "collectVood/Oxide.Rust",
+    "collectVood/Stations",
+    "collectVood/uMod-Plugins",
+    "collectVood/uModPlugins",
+    "compscidr/iac",
+    "connorrichlen/BetterChatFilter",
+    "connorrichlen/BetterChatMute",
+    "connorrichlen/GUIAnnouncements",
+    "connorrichlen/SkipNightUI",
+    "cornholio21/ScrapMultiplier",
+    "cornholio21/chairtrap",
+    "dactDMA/RustDataExporter",
+    "dactDMA/rust-prefabs",
+    "dakkinbyte/ClanTeam",
+    "dan4451/Rust",
+    "danielgnh/plugins_oxide",
+    "dassjosh/DeathNotes",
+    "dassjosh/DiscordExtensionBeta",
+    "dassjosh/Oxide.CSharp",
+    "dassjosh/Oxide.Core",
+    "dassjosh/Oxide.Ext.Discord",
+    "dassjosh/Oxide.Rust",
+    "dassjosh/Plugin.DiscordChat",
+    "dassjosh/Plugin.DiscordCore",
+    "dassjosh/Plugin.DiscordCustomCommands",
+    "dassjosh/Plugin.DiscordPM",
+    "dassjosh/Plugin.DiscordPlayers",
+    "dassjosh/Plugin.DiscordPresence",
+    "dassjosh/Plugin.DiscordRoles",
+    "dassjosh/Plugin.Merge",
+    "dassjosh/Rust.DiscordSignLogger",
+    "dassjosh/Rust.UIFramework",
+    "davereed/AutoDoors",
+    "david7-dev/ExtraGatherBonuses",
+    "davidc538/Zombies",
+    "davidc538/rust-oxide-aimbots",
+    "db13256-hash/Rust-arena-plugin-leaderboard",
+    "db13256-hash/arena3",
+    "db13256-hash/ssmelt",
+    "dbteku/UMod.Rust.BetterElectricty",
+    "dbteku/UMod.Rust.SharedDoors",
+    "dcdustin/Backpacks",
+    "dcdustin/Carbon",
+    "dcdustin/Oxide.Rust",
+    "dcdustin/SortButton",
+    "dcdustin/TruePVE",
+    "dcodeIO/Friends",
+    "decaydev/drops",
+    "decaydev/loot",
+    "dennib/NightLantern",
+    "derekbking/uMod",
+    "devhyper/Oxide.Rust",
+    "dextermyles/Oxide.Core",
+    "dextermyles/Oxide.Rust",
+    "dfxphoenix/AdminUtilities",
+    "dfxphoenix/EasyVoteExtended",
+    "dfxphoenix/WipeInfo",
+    "diametric/Oxide.CSharp",
+    "diametric/oxide-plugins",
+    "diametric/uMod.Rust",
+    "djimbou92/FastSupplyDrop",
+    "djimbou92/SimpleScrapShop",
+    "drakar-bit/PrismCart_plugin",
+    "dusty-modding/OxidePlugins",
+    "eandersson/RustWars",
+    "eandersson/rustarena",
+    "elblayko/Rust-Era-Tech-Race",
+    "electrikbox/VIPElectrik",
+    "erikmoch/OxidePlugins",
+    "estxbvnnn/HardpointMode",
+    "estxbvnnn/Roam-Event-Rust",
+    "estxbvnnn/Rustuto",
+    "estxbvnnn/TCTournaments",
+    "estxbvnnn/TagsTwitchRivalsRust",
+    "estxbvnnn/TournamentsDTags",
+    "estxbvnnn/estxbvnnnweb",
+    "famus0v/Rust-Plugins",
+    "features-not-bugs/Rust-CustomMapVehicleVendorFix",
+    "fenderrex/Oxide.Ext.RustEdit",
+    "firemandave6024/sqllogger",
+    "flintmonkey/DeathNotes",
+    "flintmonkey/MonumentLogger",
+    "flutessources/Oxide.Ext.CustomNpc",
+    "flutessources/Oxide.Rust",
+    "frankie290651/FeedMeUpdates",
+    "fuflik52/CloneRustApp",
+    "fuflik52/Loot",
+    "fuflik52/NewApi",
+    "fuflik52/TestMap",
+    "fuflik52/maptest",
+    "fuflik52/plugins-forum-main3",
+    "fuflik52/rustt",
+    "fuflik52/umod-plugins",
+    "gamemann/Rust-User-Management",
+    "gettakaro/connectors",
+    "gettakaro/rust-mods",
+    "gjdunga/ModernInfoPanel",
+    "gjdunga/ModernItemBlocker",
+    "gjdunga/ModernNoCupboardDecay",
+    "gjdunga/NitroBoostLinker",
+    "gjdunga/Oxide.Rust",
+    "gjdunga/PVEDamageGuard",
+    "gjdunga/bottomlesswater",
+    "gjdunga/rust-plugin-standard",
+    "gmh5225/Oxide.Rust",
+    "gmoddev/RustPluginsPublic",
+    "granis/RustItemDumper",
+    "greggianbayocboc/rust-simple-mods",
+    "haggbart/Oxide.Rust",
+    "haggbart/rustplugin-autoturretauth",
+    "haggbart/rustplugin-boxsorterlite",
+    "haggbart/rustplugin-raidalarm",
+    "haggbart/rustplugin-realtime",
+    "haggbart/rustplugin-samsiteauth",
+    "haggbart/rustplugin-scraponomics",
+    "haggbart/rustplugin-stashwarning",
+    "handcaster/rust-oxide-plugins",
+    "headtapper/ClearInventory",
+    "headtapper/FireworksLogger",
+    "headtapper/FishingRewards",
+    "headtapper/InvasivePlants",
+    "headtapper/NameFilter",
+    "headtapper/NoHeavies",
+    "headtapper/UnlimitedFuel",
+    "heronj2703/RustPlugin-SimpleGather",
+    "heymeepo/Decompiled-Assemblies",
+    "hixio-mh/Vote-For-Money",
+    "hixiomh/Vote-For-Money",
+    "hopollo/RustBetterVanilla",
+    "hoppel/Bloodtrail",
+    "hoppel/CommandWalls",
+    "hoppel/NoBackpacks",
+    "hoppel/Oxide.Rust",
+    "hoppel/PlayerReportGUI",
+    "hoppel/ToolsGatherManager",
+    "hugil/Oxide.CSharp",
+    "hugil/TimedPermissions",
+    "i-love-code/Oxide",
+    "i-love-code/PublicRustPlugins",
+    "i-love-code/seedery.io-mapgen",
+    "illRalli/ImportSkins",
+    "illRalli/Trade-Rust",
+    "ilovepatatos-rust/MiniCopterOptions",
+    "ilovepatatos-rust/Oxide.Core",
+    "ilovepatatos-rust/console-extension",
+    "ilovepatatos-rust/gizmos-extension",
+    "ilovepatatos-rust/ilovepatatos-extension",
+    "ilovepatatos-rust/oxide-core",
+    "ilovepatatos-rust/oxide-csharp",
+    "ilovepatatos-rust/ui-framework",
+    "its-snapple/Carbon",
+    "its-snapple/Carbon.Common",
+    "its-snapple/Carbon.Modules",
+    "itzwaluwe/Oxide.Rust",
+    "izatrix/EventManager",
+    "izatrix/HideHoldOut",
+    "izatrix/Oxide",
+    "jackchapm/eu-roam-events-discord",
+    "jacobcoughenour/Jtech",
+    "jacobcoughenour/JtechTrashCan",
+    "jacobcoughenour/jpipes-legacy",
+    "jacobmstein/Kits",
+    "jacobmstein/Oxide.Core",
+    "jcdrqtx/WebServerPanel",
+    "jcdrqtx/bloodmenu",
+    "jcdrqtx/rust-template",
+    "jchernin4/AimTraining",
+    "jchernin4/Stats",
+    "jerkypaisen/AnimalRock",
+    "jerkypaisen/AutoGroup",
+    "jerkypaisen/BlueprintUnlockManager",
+    "jerkypaisen/CassetteTapeDump",
+    "jerkypaisen/ChippyKing",
+    "jerkypaisen/CreativityDump",
+    "jerkypaisen/CustomBpDropOnly",
+    "jerkypaisen/DeepSeaAdmin",
+    "jerkypaisen/DroneShow",
+    "jerkypaisen/EggArtist",
+    "jerkypaisen/EzBpDropOnly",
+    "jerkypaisen/Finisher",
+    "jerkypaisen/ItemOwnerShipEdit",
+    "jerkypaisen/LifeOverStamina",
+    "jerkypaisen/MyCaravan",
+    "jerkypaisen/MyFran",
+    "jerkypaisen/NpcDropTag",
+    "jerkypaisen/PlayMovieButtons",
+    "jerkypaisen/RustFlowEdit",
+    "jerkypaisen/SignMoviePlayer",
+    "jerkypaisen/SpearOfLonginus",
+    "jerkypaisen/Speedometer",
+    "jerkypaisen/SplatSpray",
+    "jerkypaisen/StreamerVoiceOnly",
+    "jerkypaisen/TcItemCounter",
+    "jerkypaisen/ToastMessage",
+    "jerkypaisen/WaterGunHeal",
+    "jerkypaisen/code-memo",
+    "jerkypaisen/rust-custom-3d-display",
+    "jkole4/AntiNoobRaid",
+    "jkole4/BrightNight",
+    "jkole4/FPSRestart",
+    "jkole4/MovableCCTV",
+    "jkole4/SAM-Site-Authorization",
+    "jmg5215/BeastBosses",
+    "jmg5215/OmniRPGEngine",
+    "jmg5215/UnrealDungeons2.0",
+    "joaolucasdsp/Monocle",
+    "john-clark/rust-oxide-umod",
+    "johnmcclumpha/DeathNotes",
+    "johnmcclumpha/RustDeathNotices",
+    "johnmcclumpha/RustPlaguedMurderers",
+    "jonaslagoni/Oxide.Rust",
+    "k1lly0u/EventManager",
+    "k1lly0u/HideHoldOut",
+    "k1lly0u/Oxide",
+    "k1lly0u/Oxide.CSharp",
+    "k1lly0u/Oxide.Core",
+    "k1lly0u/Oxide.Ext.RustEdit",
+    "k1lly0u/Oxide.Rust",
+    "kiloOhm/GUICreator",
+    "kiloOhm/rustsurvival-plugins-GUICreator",
+    "kiloOhm/rustsurvival-plugins-shop",
+    "kiloOhm/rustsurvival-plugins-skinit",
+    "kiloOhm/shop",
+    "kiloOhm/skin-it",
+    "kirii86/VIPPlaytime",
+    "kisuka/RustPlugins",
+    "klaxxon24/EntityOwner",
+    "klaxxon24/RaidProtection",
+    "koenrad/Oxide",
+    "koenrad/Oxide-2.0-Plugins",
+    "kop7er/ModdedWorkCarts",
+    "kop7er/Player-Poop",
+    "kop7er/Private-Messages",
+    "kop7er/Taser",
+    "krypton2355/rust-linuxgsm-watchdog",
+    "kus/rust-modded-server",
+    "kwamaking/AntiCodeRaid",
+    "kwamaking/AutoBuy",
+    "kwamaking/AutoLoadOut",
+    "kwamaking/AutoSkin",
+    "kwamaking/CompoundTeleport",
+    "kwamaking/rust-plugin-development",
+    "l0cks-acab/BMChecker",
+    "l0cks-acab/BlackJackGamble",
+    "l0cks-acab/ChickenGun",
+    "l0cks-acab/ClanWebhook",
+    "l0cks-acab/EnderChest",
+    "l0cks-acab/EnderFlare",
+    "l0cks-acab/EntCleanup",
+    "l0cks-acab/GamblingStats",
+    "l0cks-acab/KOTH",
+    "l0cks-acab/LogiDetection",
+    "l0cks-acab/LuckyBox",
+    "l0cks-acab/MagicKits",
+    "l0cks-acab/MagicRanks",
+    "l0cks-acab/MailBomber",
+    "l0cks-acab/MyHorse",
+    "l0cks-acab/RustyReef",
+    "l0cks-acab/SAMSiteReach",
+    "l0cks-acab/SpawnHorde",
+    "l0cks-acab/StatTracker",
+    "lagzya-dev/Carbon",
+    "lagzya-dev/Carbon.Common",
+    "lagzya-dev/Rust-Voice-Streaming-Plugin",
+    "lagzya-dev/plugin",
+    "lbgcomm/Rust-User-Management",
+    "leaderos-net/rust-leaderos-connect",
+    "leo-lizi/rust-bloodhunt",
+    "liam-wiltshire/Tebex-Oxide",
+    "little-method/little-method.github.io",
+    "luang93/marola-rustbr",
+    "maned2/server",
+    "manuelbpc/ALTF4-Rust",
+    "matbyte-com/vyhub-umod",
+    "math280h/Oxide-ChatManager",
+    "mattwilshire/Oxide.Ext.WebSocket",
+    "maxijonson/broadcast-preferences",
+    "maxijonson/carbonoxide",
+    "maxijonson/uMod-Quests",
+    "mazurk4/rust-game-beginnerguard",
+    "mazurk4/rust-game-wabi",
+    "mbedda/BackpackButton",
+    "mbedda/Backpacks",
+    "mbedda/Carbon.Common",
+    "mbedda/Oxide.Rust",
+    "mbedda/PirateNPCs",
+    "mbedda/rust-plugins",
+    "micabressan/trabajo_final",
+    "michaelpeterswa/Information-OxidePlugin",
+    "milestorme/BetterLoot",
+    "milestorme/Clans",
+    "milestorme/CraftingController",
+    "milestorme/CustomIcon",
+    "milestorme/Customizable-Extended-Magazines",
+    "milestorme/DangerousTreasures",
+    "milestorme/FurnaceManager",
+    "milestorme/GatherManager",
+    "milestorme/GuardedCrates",
+    "milestorme/HeliControl",
+    "milestorme/NPCSpawn",
+    "milestorme/RaidAlarm",
+    "milestorme/RustStormRank",
+    "milestorme/RustStormWelcome",
+    "milestorme/RustStormWipeWebhook",
+    "milestorme/SimpleHomes",
+    "milestorme/TimeOfDay",
+    "milestorme/pluginlister",
+    "milestorme/quicksmelt",
+    "mjmfighter/RustPlugins",
+    "mkojoa/Oxide2Plugins",
+    "mleem97/DeathcounterIP",
+    "mleem97/UnburnableMeat",
+    "mohamedyassine-benmiled/uMod-DiscordStatus",
+    "molokatanPrivate/Rust-PlanterQuality",
+    "molokatanPrivate/advanced-item-crafting",
+    "molokatanPrivate/advanced-player-metabolism",
+    "moscow-ovh/BanSystem",
+    "moscow-ovh/RustStats",
+    "moscow-ovh/RustStore",
+    "msharp19/RustBangBangAirdropPlugin",
+    "msharp19/RustStarterKitPlugin",
+    "msharp19/rust-skinzoneitems",
+    "mtvProof/BuildServerFiles",
+    "muxira/RustPlugins",
+    "mvanzanten/docker-rust-server",
+    "nbistrov255/lightrp",
+    "netch-dev/Rust.UIFramework",
+    "networkluki/Rust-Work-Project-networkluki",
+    "neu-sec/rust-oxide-plugins",
+    "niekschoemaker/Backpacks",
+    "niekschoemaker/CopyPaste",
+    "niekschoemaker/LootConfig",
+    "niekschoemaker/OxideK1lly0u",
+    "niekschoemaker/blueprintguardian",
+    "niekschoemaker/helicontrol",
+    "niekschoemaker/puzzlechainrepair",
+    "niekschoemaker/timezones",
+    "nosoylito/GatherContainers",
+    "nosoylito/OfflineRaidDefenders",
+    "nosoylito/RandomFaction",
+    "nosoylito/WantedBountyHunt",
+    "notadevasian/Rust-Discord-Link",
+    "notpeelz/Oxide2Plugins",
+    "noxtgm/wipe-timer",
+    "nuGGGz/npc-bodyguard",
+    "nuGGGz/npc-tag-rewards",
+    "nurdism/Nations",
+    "oculus42/Inbound",
+    "oddbunchmedia/pverust",
+    "oddbunchmedia/ruststatus",
+    "oleduc/Oxide-Plagued",
+    "openmailbox/RustExamples",
+    "openmailbox/RustMods",
+    "orangemart/RustPlugins",
+    "oscarcodedev/VIPPlaytime",
+    "oscarxdev/VIPPlaytime",
+    "osirislab/LeakyPastes-V2",
+    "paynow-gg/rust-plugin",
+    "pedroivorbgrodrigues/Oxide",
+    "pedroivorbgrodrigues/hunt",
+    "peter-r-g/uMod.RulesManager",
+    "peter-r-g/uMod.ScheduledMessages",
+    "pilate/WorkingMan",
+    "potaetobag/RustRoyale",
+    "publicrust/MapProtection",
+    "publicrust/plugins-forum",
+    "publicrust/rust-analyzer",
+    "publicrust/rust-plugins",
+    "publicrust/rust-template",
+    "publicrust/rust-template-177",
+    "publicrust/rust-template-240",
+    "publicrust/rust-template-266",
+    "publicrust/rust-template-generator",
+    "publicrust/rustmaps-uploader-telegrambot",
+    "publicrust/umod-pluigns-dataset",
+    "puttydotexe/Carbon.Common",
+    "razorfish-sl/PlayerAdministration-1",
+    "read-0nly/Oxide.Rust",
+    "read-0nly/Rust-coop-survival",
+    "read-0nly/RustMods",
+    "redman-racer/raidlands",
+    "redman-racer/rust_server",
+    "rifle-ak/zone-manager-rewrite",
+    "robbie-williams/rust-server-docker",
+    "romgerman/CGUI",
+    "romgerman/RustPlugins",
+    "romgerman/uMod",
+    "rube200/Oxide.Ext.DllLoader",
+    "rust-app-io/plugin",
+    "rustafied/Oxide",
+    "rustcommunity/EasyVoteExtended",
+    "rustcommunity/OxidePlugins",
+    "rustireland/groupclear",
+    "rustireland/notcblockentity",
+    "rustireland/notifycations",
+    "rustireland/startupcommands",
+    "rustireland/wipecountdownannounce",
+    "rustmy/DonationCredits",
+    "rustmy/HelicopterStatistics",
+    "rustmy/JakeOxidePlugins",
+    "rustmy/Oxide",
+    "rustmy/Oxide-Plugins-1",
+    "rustmy/Oxide-Plugins-5",
+    "rustmy/Oxide2Plugins",
+    "rustmy/OxidePlugins-2",
+    "rustmy/OxidePlugins-3",
+    "rustmy/RustPlugins",
+    "rustmy/RustPlugins-1",
+    "rustmy/SkinZ",
+    "rustmy/incursion",
+    "rustmy/oxide-plugins-2",
+    "rustmy/oxide-plugins-3",
+    "rustmy/oxide-plugins-4",
+    "rustmy/oxideplugins",
+    "rustmy/oxideplugins-1",
+    "rustmy/rust-oxide-aimbots",
+    "rustmy/rustifac",
+    "rustmy/rustylife",
+    "rustmy/seedery.io-mapgen",
+    "ryanscarpelli/TradeLog",
+    "safer-bot/MrGraversen_rust-rcon",
+    "sami3737/BanCleaner",
+    "sami3737/BlueprintShare",
+    "sami3737/Claimer",
+    "sami3737/ClassSelector",
+    "sami3737/CrateLocker",
+    "sami3737/CreativeCraft",
+    "sami3737/DailyRewards",
+    "sami3737/DiscordBoost",
+    "sami3737/EasyAccess",
+    "sami3737/Exchanger",
+    "sami3737/FridgeFood",
+    "sami3737/GiveUI",
+    "sami3737/InventoryTransfer",
+    "sami3737/Loadout",
+    "sami3737/NoStability",
+    "sami3737/PlayerDeath",
+    "sami3737/Running-Man",
+    "sami3737/Rust-Lottery",
+    "sami3737/SimpleLogo",
+    "sami3737/SmartChat",
+    "sami3737/Social",
+    "sami3737/Voter",
+    "sami3737/rusttech",
+    "saramindra/d1",
+    "savrius-sys/PrismCart_plugin",
+    "scalbox/rust-rcon",
+    "scardotdev/ItemAPI",
+    "scarecr0w12/Oxide",
+    "scarecr0w12/rust-imperium",
+    "scorpyon/plugins",
+    "scorteanucosmin/MonoProfiler",
+    "scorteanucosmin/Oxide.CSharp",
+    "scorteanucosmin/Oxide.Core",
+    "scorteanucosmin/Oxide.Rust",
+    "seanbyrne88/RustPlugins",
+    "seanmb0/rustmap",
+    "setfps/rust-devblog-nosteam",
+    "shadowfearzxc/RustExtended-plugins",
+    "shady14u/ExtraLoot",
+    "shady14u/GatherRewards",
+    "shady14u/Hotel",
+    "shady14u/SteamChecks",
+    "shady14u/TimedPermissions",
+    "shady14u/Trapper",
+    "shady14u/imperium",
+    "shady14u/oxideplugins",
+    "sinmastv/sinmasservers",
+    "sixmybad/SimplePVPStats",
+    "sknchan/Oxide.RustLegacy",
+    "skulidropek/AssemblyToAPI",
+    "skulidropek/MapProtection",
+    "skulidropek/Rust-Dedicated-Server",
+    "skulidropek/oxideplugins",
+    "skulidropek/rust-analyzer",
+    "skulidropek/rust-template-240",
+    "skulidropek/rustmaps",
+    "skulidropek/umod-pluigns-dataset",
+    "smarshall-rightside/Carbon",
+    "snitebobbie/Vote-For-Money",
+    "soerr/github-to-rust",
+    "spencermcw/rust-land-claim",
+    "st-little/rust-plugin-development",
+    "sthebzpnkt/Skinbox",
+    "stoneharry/rust-game-server",
+    "strykes/Docs",
+    "strykes/Oxide",
+    "strykes/Oxide2Plugins",
+    "tVeratti/rust-meter",
+    "tbdscripts/cosmo-rust",
+    "teamgamesllc/teamgames-umod",
+    "tebexio/Tebex-Oxide",
+    "tebexio/Tebex-Rust",
+    "terex-mint/NoNoSteam",
+    "ternpixel/plugins",
+    "theblobinc/AzSync",
+    "thenetimp/NoNameChange",
+    "thenetimp/Rust_SystemNotifications",
+    "thetimmyman/WH40K-Rust-Plugin",
+    "tjdavenport/rust-mod-studio",
+    "tolland/incursion",
+    "tom-does-code/EventRandomizer",
+    "trentbredahl-sudo/Rust_Sandbox_Mod",
+    "txnitxnichopper/Oxide.Rust",
+    "unet-dev/Decompiled-Assemblies",
+    "unkn0wn-97/BlindDeath",
+    "unkn0wn-97/ConvertKor",
+    "unkn0wn-97/ServerStatus",
+    "unkn0wn-97/SkinChanger",
+    "unkn0wn-97/Tools",
+    "upperking/Old-Rust-Legacy-Plugins",
+    "vicbarbosa/Oxide2Plugins",
+    "vicbarbosa/rust-imperium",
+    "vicbarbosa/rust-oxide-plugin-advanced-template",
+    "vick-kumar/pubrust",
+    "vinnyborderhops/CustomShooter",
+    "weedz/oxide_rustextras",
+    "whitecristafer/AutoAnnounce",
+    "whitecristafer/BuildingLicense",
+    "whitecristafer/CWEssentials",
+    "whitecristafer/MagicTags",
+    "whitecristafer/WhiteSpawn",
+    "whitecristafer/oxide-RecallHub",
+    "williamtrelawny/Oxide.Core",
+    "wither-rebirth/Hackthebox-Walkthrough",
+    "xADROCx1/misfits-studios-site",
+    "xaray/RustStaticPlayers",
+    "xmxv/admin-map-Rust-",
+    "xmxv/backpacks-rust",
+    "xoxfaby/Rust-Oxide-Y-Position-Info-UI",
+    "xrevoltsx/OxidePack",
+    "xrevoltsx/plugins-for-rust",
+    "xuan2261/Decompiled-Assemblies",
+    "yacvaguer/FirstAidPatches",
+    "yacvaguer/SteamProfiles",
+    "yacvaguer/simple-patrol-signal",
+    "yacvaguer/uav-signal",
+    "yetzt/rust-busstopteleport",
+    "yetzt/rust-grid",
+    "yetzt/rust-holyshit",
+    "yovecio18/PentestBook",
+    "yuikeasa/12",
+    "zanderwar/Oxide",
+    "zanderwar/oxide-statlogger",
+    "zonely-gen-tr/ZonelyCoreRust"
+  ],
+  "processed": {
+    "006mi4/TheAdminpanel-GUI-Rust": {
+      "repo": "006mi4/TheAdminpanel-GUI-Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:02.961Z"
+    },
+    "0killrest/Other-plugins-rust": {
+      "repo": "0killrest/Other-plugins-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:03.298Z"
+    },
+    "0killrest/plugins.server.rust": {
+      "repo": "0killrest/plugins.server.rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:03.607Z"
+    },
+    "0xBlitzmachine/Rust-Tools": {
+      "repo": "0xBlitzmachine/Rust-Tools",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:03.896Z"
+    },
+    "0xF1o/random-free-rustplugins": {
+      "repo": "0xF1o/random-free-rustplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:04.117Z"
+    },
+    "0xz00m/test": {
+      "repo": "0xz00m/test",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:04.377Z"
+    },
+    "1337-create/simple-link-discord-steam-linking-system": {
+      "repo": "1337-create/simple-link-discord-steam-linking-system",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:04.731Z"
+    },
+    "13dasd123/-1-TheRustBay": {
+      "repo": "13dasd123/-1-TheRustBay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:05.010Z"
+    },
+    "13dasd123/-DayzRust": {
+      "repo": "13dasd123/-DayzRust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:05.220Z"
+    },
+    "13dasd123/Fat-plant": {
+      "repo": "13dasd123/Fat-plant",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:05.428Z"
+    },
+    "13dasd123/Rust-School-Plugins": {
+      "repo": "13dasd123/Rust-School-Plugins",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:05.666Z"
+    },
+    "13dasd123/RustPlugins": {
+      "repo": "13dasd123/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:05.862Z"
+    },
+    "13dasd123/RustPluginsDirectLeaks": {
+      "repo": "13dasd123/RustPluginsDirectLeaks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:06.072Z"
+    },
+    "13dasd123/RustPluginsDumpWithAI": {
+      "repo": "13dasd123/RustPluginsDumpWithAI",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:06.294Z"
+    },
+    "13dasd123/RustPluginsDumpWithAI1": {
+      "repo": "13dasd123/RustPluginsDumpWithAI1",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:06.417Z"
+    },
+    "13dasd123/SlivPlugins": {
+      "repo": "13dasd123/SlivPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:06.737Z"
+    },
+    "13dasd123/asdasd": {
+      "repo": "13dasd123/asdasd",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:07.068Z"
+    },
+    "13dasd123/asdsaadarust-template": {
+      "repo": "13dasd123/asdsaadarust-template",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:07.374Z"
+    },
+    "13dasd123/https-slivrust-plugin.ru-": {
+      "repo": "13dasd123/https-slivrust-plugin.ru-",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:07.639Z"
+    },
+    "13dasd123/oxideplugins": {
+      "repo": "13dasd123/oxideplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:07.861Z"
+    },
+    "13dasd123/rust-free-plugins": {
+      "repo": "13dasd123/rust-free-plugins",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:07.995Z"
+    },
+    "13dasd123/rust-school-discord-indexing": {
+      "repo": "13dasd123/rust-school-discord-indexing",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:08.122Z"
+    },
+    "13dasd123/rust-template": {
+      "repo": "13dasd123/rust-template",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:08.375Z"
+    },
+    "13dasd123/rust-template-private": {
+      "repo": "13dasd123/rust-template-private",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:08.579Z"
+    },
+    "13dasd123/sunshine-assembly": {
+      "repo": "13dasd123/sunshine-assembly",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:08.802Z"
+    },
+    "13dasd123/umod-pluigns-dataset": {
+      "repo": "13dasd123/umod-pluigns-dataset",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:09.147Z"
+    },
+    "13dasd123/yougame-plugins": {
+      "repo": "13dasd123/yougame-plugins",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:09.369Z"
+    },
+    "2chevskii/Plugins-uMod": {
+      "repo": "2chevskii/Plugins-uMod",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:09.654Z"
+    },
+    "5Dev24/Recycle": {
+      "repo": "5Dev24/Recycle",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:09.873Z"
+    },
+    "5Dev24/ScheduledBuilding": {
+      "repo": "5Dev24/ScheduledBuilding",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:10.179Z"
+    },
+    "6oJIb/CounterRust": {
+      "repo": "6oJIb/CounterRust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:10.394Z"
+    },
+    "ALONEINNZ/idk": {
+      "repo": "ALONEINNZ/idk",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:10.689Z"
+    },
+    "AeonLucid/RustOxidePlugins": {
+      "repo": "AeonLucid/RustOxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:10.893Z"
+    },
+    "AlexALX/Oxide": {
+      "repo": "AlexALX/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:11.131Z"
+    },
+    "AlexALX/botovnet-legacy-archive": {
+      "repo": "AlexALX/botovnet-legacy-archive",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:11.442Z"
+    },
+    "AlexanderVolk25/GoldMine": {
+      "repo": "AlexanderVolk25/GoldMine",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:11.755Z"
+    },
+    "Alienatedmamal/NOR-RCON-Dashboard": {
+      "repo": "Alienatedmamal/NOR-RCON-Dashboard",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:11.915Z"
+    },
+    "AntiKnox/antiknox-rust-plugin": {
+      "repo": "AntiKnox/antiknox-rust-plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:12.156Z"
+    },
+    "AntoineRatoUniversity/RustPatreonAPI": {
+      "repo": "AntoineRatoUniversity/RustPatreonAPI",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:12.459Z"
+    },
+    "Anus228331/promps": {
+      "repo": "Anus228331/promps",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:12.667Z"
+    },
+    "ApocDev/Oxide": {
+      "repo": "ApocDev/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:13.021Z"
+    },
+    "Ardivaba/CodeSamples": {
+      "repo": "Ardivaba/CodeSamples",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:13.333Z"
+    },
+    "AsielElaouare/blueprintmanager-rust": {
+      "repo": "AsielElaouare/blueprintmanager-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:13.517Z"
+    },
+    "Azuriom/AzLink-CSharp": {
+      "repo": "Azuriom/AzLink-CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:13.816Z"
+    },
+    "BLANKxSS/txAdmin-rust": {
+      "repo": "BLANKxSS/txAdmin-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:13.998Z"
+    },
+    "BattleSheep94/AutoFuel": {
+      "repo": "BattleSheep94/AutoFuel",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:14.278Z"
+    },
+    "BattleSheep94/CloudflareUpdater-Plugin": {
+      "repo": "BattleSheep94/CloudflareUpdater-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:14.605Z"
+    },
+    "BattleSheep94/Rust-Plugin-Collection": {
+      "repo": "BattleSheep94/Rust-Plugin-Collection",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:14.794Z"
+    },
+    "BurntRouter/rust-rcon": {
+      "repo": "BurntRouter/rust-rcon",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:14.997Z"
+    },
+    "Buzgero/HumanNPC": {
+      "repo": "Buzgero/HumanNPC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:15.348Z"
+    },
+    "CalvFletch/PilotPro": {
+      "repo": "CalvFletch/PilotPro",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:15.620Z"
+    },
+    "Calytic/Give": {
+      "repo": "Calytic/Give",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:15.855Z"
+    },
+    "Calytic/Night-Zombies": {
+      "repo": "Calytic/Night-Zombies",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:16.158Z"
+    },
+    "Calytic/Oxide.Ext.Discord": {
+      "repo": "Calytic/Oxide.Ext.Discord",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:16.489Z"
+    },
+    "Calytic/Recycle": {
+      "repo": "Calytic/Recycle",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:16.689Z"
+    },
+    "Calytic/Rewards": {
+      "repo": "Calytic/Rewards",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:16.959Z"
+    },
+    "Calytic/oxideplugins": {
+      "repo": "Calytic/oxideplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:17.243Z"
+    },
+    "Cannabis-CFG/Backpacks": {
+      "repo": "Cannabis-CFG/Backpacks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:17.547Z"
+    },
+    "Cannabis-CFG/Oxide": {
+      "repo": "Cannabis-CFG/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:17.741Z"
+    },
+    "Cannabis-CFG/OxidePlugins": {
+      "repo": "Cannabis-CFG/OxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:18.059Z"
+    },
+    "CaptainBlake/RaidMe": {
+      "repo": "CaptainBlake/RaidMe",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:18.275Z"
+    },
+    "CaptainBlake/ServerCommands": {
+      "repo": "CaptainBlake/ServerCommands",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:18.470Z"
+    },
+    "CarbonCommunity/Carbon": {
+      "repo": "CarbonCommunity/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:18.704Z"
+    },
+    "CarbonCommunity/Carbon.Common": {
+      "repo": "CarbonCommunity/Carbon.Common",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:18.978Z"
+    },
+    "CarbonCommunity/Carbon.Compat": {
+      "repo": "CarbonCommunity/Carbon.Compat",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:19.177Z"
+    },
+    "CarbonCommunity/Carbon.Documentation": {
+      "repo": "CarbonCommunity/Carbon.Documentation",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:19.385Z"
+    },
+    "CarbonCommunity/Carbon.Hooks.Community": {
+      "repo": "CarbonCommunity/Carbon.Hooks.Community",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:19.595Z"
+    },
+    "CarbonCommunity/Carbon.Oxide": {
+      "repo": "CarbonCommunity/Carbon.Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:19.787Z"
+    },
+    "CarbonCommunity/Carbon.OxideRust": {
+      "repo": "CarbonCommunity/Carbon.OxideRust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:20.048Z"
+    },
+    "CatMeat/DynamicPVP": {
+      "repo": "CatMeat/DynamicPVP",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:20.476Z"
+    },
+    "CheeZeDark/leaked_new_rust_plugins_AI_Dumped": {
+      "repo": "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:20.604Z"
+    },
+    "CherrySofts/https-slivrust-plugin.ru-": {
+      "repo": "CherrySofts/https-slivrust-plugin.ru-",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:05:20.961Z"
+    },
+    "ChrisNewmanDev/CoreLoot": {
+      "repo": "ChrisNewmanDev/CoreLoot",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:21.213Z"
+    },
+    "Cl1cker0/lua-scripts": {
+      "repo": "Cl1cker0/lua-scripts",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:21.361Z"
+    },
+    "Comm512-1/RustPlugins": {
+      "repo": "Comm512-1/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:21.589Z"
+    },
+    "CrabSerg/EstateUpkeep": {
+      "repo": "CrabSerg/EstateUpkeep",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:21.789Z"
+    },
+    "CraftingStore/OxidePlugin": {
+      "repo": "CraftingStore/OxidePlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:22.013Z"
+    },
+    "Crushedice/LatestPlugins": {
+      "repo": "Crushedice/LatestPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:22.307Z"
+    },
+    "Crushedice/Rust-NoSteam": {
+      "repo": "Crushedice/Rust-NoSteam",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:22.562Z"
+    },
+    "Crushedice/RustManagerAgent": {
+      "repo": "Crushedice/RustManagerAgent",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:22.751Z"
+    },
+    "Crushedice/Rust_Plugins": {
+      "repo": "Crushedice/Rust_Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:23.032Z"
+    },
+    "Crushedice/RusticalandOPS": {
+      "repo": "Crushedice/RusticalandOPS",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:23.427Z"
+    },
+    "CyberSys/Oxide": {
+      "repo": "CyberSys/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:23.707Z"
+    },
+    "DanielHenderson-17/PrivateMessageRustPlugin": {
+      "repo": "DanielHenderson-17/PrivateMessageRustPlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:23.898Z"
+    },
+    "DeXGaming/Oxide.SevenDaysToDie": {
+      "repo": "DeXGaming/Oxide.SevenDaysToDie",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:24.235Z"
+    },
+    "DeXGaming/rust-plugins": {
+      "repo": "DeXGaming/rust-plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:24.550Z"
+    },
+    "DemoNiMa/RS-project": {
+      "repo": "DemoNiMa/RS-project",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:24.783Z"
+    },
+    "DeusProx/Share": {
+      "repo": "DeusProx/Share",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:25.064Z"
+    },
+    "DeusProx/SkinZ": {
+      "repo": "DeusProx/SkinZ",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:25.320Z"
+    },
+    "DevGonzi/uMod-Build": {
+      "repo": "DevGonzi/uMod-Build",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:25.519Z"
+    },
+    "DevGonzi/uMod-ChatPrefix": {
+      "repo": "DevGonzi/uMod-ChatPrefix",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:25.749Z"
+    },
+    "DevGonzi/uMod-DiscordStatus": {
+      "repo": "DevGonzi/uMod-DiscordStatus",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:25.935Z"
+    },
+    "DevGonzi/uMod-InfoPanel": {
+      "repo": "DevGonzi/uMod-InfoPanel",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:26.216Z"
+    },
+    "DevGonzi/uMod-Quests": {
+      "repo": "DevGonzi/uMod-Quests",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:26.459Z"
+    },
+    "DevGonzi/uMod-TeamPing": {
+      "repo": "DevGonzi/uMod-TeamPing",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:26.664Z"
+    },
+    "Dids/seedery.io-mapgen": {
+      "repo": "Dids/seedery.io-mapgen",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:26.843Z"
+    },
+    "DocValerian/rust-plugins": {
+      "repo": "DocValerian/rust-plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:27.074Z"
+    },
+    "Dpendable/Oxide": {
+      "repo": "Dpendable/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:27.439Z"
+    },
+    "EHCanadian/Oxide_Rust_Decompiled": {
+      "repo": "EHCanadian/Oxide_Rust_Decompiled",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:27.605Z"
+    },
+    "EReis0/Oxide.Rust": {
+      "repo": "EReis0/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:27.862Z"
+    },
+    "Eadris/CrateGuardCS": {
+      "repo": "Eadris/CrateGuardCS",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:28.167Z"
+    },
+    "EgorBlagov/rust-discord": {
+      "repo": "EgorBlagov/rust-discord",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:28.364Z"
+    },
+    "ElliotRedhead/EntityHealth": {
+      "repo": "ElliotRedhead/EntityHealth",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:28.559Z"
+    },
+    "Enilgles/pluginsrust": {
+      "repo": "Enilgles/pluginsrust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:28.750Z"
+    },
+    "Enilgles/umod-pluigns-dataset": {
+      "repo": "Enilgles/umod-pluigns-dataset",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:29.018Z"
+    },
+    "Eoin-McCartan/HavocRust.Plugins": {
+      "repo": "Eoin-McCartan/HavocRust.Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:29.202Z"
+    },
+    "Eoin-McCartan/Rust.HarmonyMods": {
+      "repo": "Eoin-McCartan/Rust.HarmonyMods",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:29.384Z"
+    },
+    "Eoin-McCartan/RustyRockets": {
+      "repo": "Eoin-McCartan/RustyRockets",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:29.577Z"
+    },
+    "Eremith-s/ServerMonitorPlugin": {
+      "repo": "Eremith-s/ServerMonitorPlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:29.795Z"
+    },
+    "ErikGrischuk/Entity-Cleaner": {
+      "repo": "ErikGrischuk/Entity-Cleaner",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:30.066Z"
+    },
+    "ErikGrischuk/Tranquility-PvE-Commits": {
+      "repo": "ErikGrischuk/Tranquility-PvE-Commits",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:30.314Z"
+    },
+    "EthanDelong/Carbon": {
+      "repo": "EthanDelong/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:30.645Z"
+    },
+    "Fayozjon/BanSystem": {
+      "repo": "Fayozjon/BanSystem",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:30.922Z"
+    },
+    "Feramor/Oxide": {
+      "repo": "Feramor/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:31.229Z"
+    },
+    "Feramor/Oxide.Ext.AutoUpdater": {
+      "repo": "Feramor/Oxide.Ext.AutoUpdater",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:31.408Z"
+    },
+    "Feverr92/QuickSmelt": {
+      "repo": "Feverr92/QuickSmelt",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:31.754Z"
+    },
+    "Feverr92/Trade-Rust": {
+      "repo": "Feverr92/Trade-Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:32.031Z"
+    },
+    "Feverr92/WarriorShop": {
+      "repo": "Feverr92/WarriorShop",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:32.320Z"
+    },
+    "Feverr92/kits": {
+      "repo": "Feverr92/kits",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:32.498Z"
+    },
+    "FireIce7/BaseFixer": {
+      "repo": "FireIce7/BaseFixer",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:32.755Z"
+    },
+    "Flash-Ticker/AdminLootProtection": {
+      "repo": "Flash-Ticker/AdminLootProtection",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:33.007Z"
+    },
+    "Flash-Ticker/BarDoorCloser": {
+      "repo": "Flash-Ticker/BarDoorCloser",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:33.259Z"
+    },
+    "Flash-Ticker/CompanyManagement": {
+      "repo": "Flash-Ticker/CompanyManagement",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:33.471Z"
+    },
+    "Flash-Ticker/GoldenScrap": {
+      "repo": "Flash-Ticker/GoldenScrap",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:33.722Z"
+    },
+    "Flash-Ticker/HauntedDoors": {
+      "repo": "Flash-Ticker/HauntedDoors",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:34.007Z"
+    },
+    "Flash-Ticker/JumpScare": {
+      "repo": "Flash-Ticker/JumpScare",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:34.207Z"
+    },
+    "Flash-Ticker/MyNotify": {
+      "repo": "Flash-Ticker/MyNotify",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:34.477Z"
+    },
+    "Flash-Ticker/MyPlayerBuilds": {
+      "repo": "Flash-Ticker/MyPlayerBuilds",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:34.666Z"
+    },
+    "Flash-Ticker/NoPowerXmasLights": {
+      "repo": "Flash-Ticker/NoPowerXmasLights",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:34.803Z"
+    },
+    "Flash-Ticker/SafeZoneVehicle": {
+      "repo": "Flash-Ticker/SafeZoneVehicle",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:35.009Z"
+    },
+    "Flash-Ticker/SkinFinder": {
+      "repo": "Flash-Ticker/SkinFinder",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:35.209Z"
+    },
+    "Flash-Ticker/SwimmingDrops": {
+      "repo": "Flash-Ticker/SwimmingDrops",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:35.402Z"
+    },
+    "Flash-Ticker/XmasTreeGifts": {
+      "repo": "Flash-Ticker/XmasTreeGifts",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:35.589Z"
+    },
+    "Flash-Ticker/cfg": {
+      "repo": "Flash-Ticker/cfg",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:35.826Z"
+    },
+    "FourEightZer0/RustMod_HostileTakeover": {
+      "repo": "FourEightZer0/RustMod_HostileTakeover",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:36.038Z"
+    },
+    "FourEightZer0/RustMod_PrivateProperty": {
+      "repo": "FourEightZer0/RustMod_PrivateProperty",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:36.291Z"
+    },
+    "FritoQC/ServerSave": {
+      "repo": "FritoQC/ServerSave",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:36.546Z"
+    },
+    "Fritoqc/ServerSave": {
+      "repo": "Fritoqc/ServerSave",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:36.776Z"
+    },
+    "FtuoilXelrash/CelestialBarrage": {
+      "repo": "FtuoilXelrash/CelestialBarrage",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:36.969Z"
+    },
+    "FtuoilXelrash/rAlwaysDay": {
+      "repo": "FtuoilXelrash/rAlwaysDay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:37.155Z"
+    },
+    "FtuoilXelrash/rBumShacks": {
+      "repo": "FtuoilXelrash/rBumShacks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:37.489Z"
+    },
+    "FtuoilXelrash/rCEventScheduler": {
+      "repo": "FtuoilXelrash/rCEventScheduler",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:37.798Z"
+    },
+    "FtuoilXelrash/rDailyServerRestarts": {
+      "repo": "FtuoilXelrash/rDailyServerRestarts",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:38.075Z"
+    },
+    "FtuoilXelrash/rFireworkShow": {
+      "repo": "FtuoilXelrash/rFireworkShow",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:38.286Z"
+    },
+    "FtuoilXelrash/rHelp": {
+      "repo": "FtuoilXelrash/rHelp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:38.598Z"
+    },
+    "FtuoilXelrash/rPop": {
+      "repo": "FtuoilXelrash/rPop",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:38.779Z"
+    },
+    "FtuoilXelrash/rServerMessages": {
+      "repo": "FtuoilXelrash/rServerMessages",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:38.983Z"
+    },
+    "GFLClan/Rust-User-Management": {
+      "repo": "GFLClan/Rust-User-Management",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:39.242Z"
+    },
+    "GTJono/RustChess": {
+      "repo": "GTJono/RustChess",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:39.427Z"
+    },
+    "GabrielTrigo/CSharp": {
+      "repo": "GabrielTrigo/CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:39.773Z"
+    },
+    "GabrielTrigo/Old-Rust-Legacy-Plugins": {
+      "repo": "GabrielTrigo/Old-Rust-Legacy-Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:40.103Z"
+    },
+    "GabrielTrigo/Oxide.RustLegacy": {
+      "repo": "GabrielTrigo/Oxide.RustLegacy",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:40.321Z"
+    },
+    "GabrielTrigo/RustLegacyPlugins": {
+      "repo": "GabrielTrigo/RustLegacyPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:40.697Z"
+    },
+    "GabrielTrigo/oxideplugins": {
+      "repo": "GabrielTrigo/oxideplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:41.016Z"
+    },
+    "Ghenghis/Auto-Base-Builder": {
+      "repo": "Ghenghis/Auto-Base-Builder",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:41.207Z"
+    },
+    "Ghenghis/RUST-TEST": {
+      "repo": "Ghenghis/RUST-TEST",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:41.476Z"
+    },
+    "Ghenghis/Rust-AI-Base-Builder2": {
+      "repo": "Ghenghis/Rust-AI-Base-Builder2",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:41.729Z"
+    },
+    "Grimm530/HarmonyMods": {
+      "repo": "Grimm530/HarmonyMods",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:41.927Z"
+    },
+    "Grimston/PVELoot": {
+      "repo": "Grimston/PVELoot",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:42.154Z"
+    },
+    "Grimston/RemoteRcon": {
+      "repo": "Grimston/RemoteRcon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:42.338Z"
+    },
+    "Hallonkaka/OxidePlugins": {
+      "repo": "Hallonkaka/OxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:42.627Z"
+    },
+    "Hamunaptra77/Rust-ServerManager": {
+      "repo": "Hamunaptra77/Rust-ServerManager",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:42.759Z"
+    },
+    "Hamunaptra77/uMods": {
+      "repo": "Hamunaptra77/uMods",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:42.871Z"
+    },
+    "HandyS11/PopCommand": {
+      "repo": "HandyS11/PopCommand",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:43.084Z"
+    },
+    "HandyS11/RUST-Update-Notice": {
+      "repo": "HandyS11/RUST-Update-Notice",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:43.330Z"
+    },
+    "HandyS11/RebootScheduler": {
+      "repo": "HandyS11/RebootScheduler",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:43.598Z"
+    },
+    "HandyS11/RustPluginTemplate": {
+      "repo": "HandyS11/RustPluginTemplate",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:43.804Z"
+    },
+    "HandyS11/RustPluginsWorkplace": {
+      "repo": "HandyS11/RustPluginsWorkplace",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:43.983Z"
+    },
+    "Hardcore-fs/PlayerAdministration": {
+      "repo": "Hardcore-fs/PlayerAdministration",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:44.164Z"
+    },
+    "Hardcore-fs/Tebex-Oxide": {
+      "repo": "Hardcore-fs/Tebex-Oxide",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:44.280Z"
+    },
+    "Hardcore-fs/oxideplugins": {
+      "repo": "Hardcore-fs/oxideplugins",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:44.519Z"
+    },
+    "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES": {
+      "repo": "Hetachi/SDONATE-SELF-HOSTED-SERVER-FILES",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:44.926Z"
+    },
+    "HeyImDionysus/Moo": {
+      "repo": "HeyImDionysus/Moo",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:45.140Z"
+    },
+    "HeyImDionysus/SignTool": {
+      "repo": "HeyImDionysus/SignTool",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:45.423Z"
+    },
+    "HeyImDionysus/anythingun": {
+      "repo": "HeyImDionysus/anythingun",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:45.560Z"
+    },
+    "HeyImDionysus/corrodedadmin": {
+      "repo": "HeyImDionysus/corrodedadmin",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:45.692Z"
+    },
+    "HeyImDionysus/serverstatus": {
+      "repo": "HeyImDionysus/serverstatus",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:45.913Z"
+    },
+    "HeyImDionysus/unraider": {
+      "repo": "HeyImDionysus/unraider",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:46.027Z"
+    },
+    "HizenLabs/Carbon": {
+      "repo": "HizenLabs/Carbon",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:05:46.141Z"
+    },
+    "HizenLabs/HizenLabs.Shared": {
+      "repo": "HizenLabs/HizenLabs.Shared",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:46.372Z"
+    },
+    "HunterZ/Carbon": {
+      "repo": "HunterZ/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:46.700Z"
+    },
+    "HunterZ/CopyPaste": {
+      "repo": "HunterZ/CopyPaste",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:47.014Z"
+    },
+    "HunterZ/MonumentAddons": {
+      "repo": "HunterZ/MonumentAddons",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:47.298Z"
+    },
+    "HunterZ/rustmods": {
+      "repo": "HunterZ/rustmods",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:47.493Z"
+    },
+    "Hustle-Industries/plugin": {
+      "repo": "Hustle-Industries/plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:47.750Z"
+    },
+    "I4IgO32/Rust-NoSteam": {
+      "repo": "I4IgO32/Rust-NoSteam",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:48.084Z"
+    },
+    "IIIaKa/FreeRT": {
+      "repo": "IIIaKa/FreeRT",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:48.331Z"
+    },
+    "IIIaKa/MonumentsWatcher": {
+      "repo": "IIIaKa/MonumentsWatcher",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:48.625Z"
+    },
+    "IIIaKa/Oxide.Core": {
+      "repo": "IIIaKa/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:48.903Z"
+    },
+    "IIIaKa/Oxide.Rust": {
+      "repo": "IIIaKa/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:49.195Z"
+    },
+    "IIIaKa/SilentItemsGive": {
+      "repo": "IIIaKa/SilentItemsGive",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:49.391Z"
+    },
+    "IIIaKa/TemporaryPermissions": {
+      "repo": "IIIaKa/TemporaryPermissions",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:49.572Z"
+    },
+    "ImKiri86/VIPPlaytime": {
+      "repo": "ImKiri86/VIPPlaytime",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:49.976Z"
+    },
+    "InfamousVague/rust-nuke": {
+      "repo": "InfamousVague/rust-nuke",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:50.371Z"
+    },
+    "ItzNxthaniel/RestrictPlacement": {
+      "repo": "ItzNxthaniel/RestrictPlacement",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:50.689Z"
+    },
+    "ItzNxthaniel/TrueWelcomer": {
+      "repo": "ItzNxthaniel/TrueWelcomer",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:50.942Z"
+    },
+    "J-Pster/InventoryCleaner": {
+      "repo": "J-Pster/InventoryCleaner",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:51.153Z"
+    },
+    "JIMER228/bloodmenu": {
+      "repo": "JIMER228/bloodmenu",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:51.424Z"
+    },
+    "Jake-Rich/Oxide": {
+      "repo": "Jake-Rich/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:51.710Z"
+    },
+    "Jake-Rich/Oxide.CSharp": {
+      "repo": "Jake-Rich/Oxide.CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:51.938Z"
+    },
+    "Jake-Rich/Oxide.Core": {
+      "repo": "Jake-Rich/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:52.308Z"
+    },
+    "Jake-Rich/Oxide.Ext.Catalyst": {
+      "repo": "Jake-Rich/Oxide.Ext.Catalyst",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:52.643Z"
+    },
+    "Jake-Rich/Oxide.Rust": {
+      "repo": "Jake-Rich/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:52.895Z"
+    },
+    "Jake-Rich/seedery.io-mapgen": {
+      "repo": "Jake-Rich/seedery.io-mapgen",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:53.112Z"
+    },
+    "JesseMH/rust_tides": {
+      "repo": "JesseMH/rust_tides",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:53.316Z"
+    },
+    "Joe90384/syncPipes": {
+      "repo": "Joe90384/syncPipes",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:53.599Z"
+    },
+    "John-Willikers/RustCircuitBoss": {
+      "repo": "John-Willikers/RustCircuitBoss",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:53.935Z"
+    },
+    "JonathanPorta/rust-server-cookbook": {
+      "repo": "JonathanPorta/rust-server-cookbook",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:54.121Z"
+    },
+    "JorgeCayetano1/peruhurt-hw-server": {
+      "repo": "JorgeCayetano1/peruhurt-hw-server",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:54.376Z"
+    },
+    "Juan321654/rust_mod_plugins": {
+      "repo": "Juan321654/rust_mod_plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:54.591Z"
+    },
+    "Juliiiian/Rocket": {
+      "repo": "Juliiiian/Rocket",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:54.798Z"
+    },
+    "Juliiiian/RocketPlugin": {
+      "repo": "Juliiiian/RocketPlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:54.984Z"
+    },
+    "K4TFJ/DynamicPVP": {
+      "repo": "K4TFJ/DynamicPVP",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:55.238Z"
+    },
+    "Kaidoz/Rust-NoSteam": {
+      "repo": "Kaidoz/Rust-NoSteam",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:55.497Z"
+    },
+    "KajWithAJ/DungProtector": {
+      "repo": "KajWithAJ/DungProtector",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:55.683Z"
+    },
+    "KajWithAJ/EMInterface": {
+      "repo": "KajWithAJ/EMInterface",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:55.889Z"
+    },
+    "KajWithAJ/EventManager": {
+      "repo": "KajWithAJ/EventManager",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:56.095Z"
+    },
+    "KajWithAJ/PveAdmin": {
+      "repo": "KajWithAJ/PveAdmin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:56.274Z"
+    },
+    "KajWithAJ/TollButtons": {
+      "repo": "KajWithAJ/TollButtons",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:56.519Z"
+    },
+    "KajWithAJ/Watchdog": {
+      "repo": "KajWithAJ/Watchdog",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:56.767Z"
+    },
+    "KajWithAJ/YouveGotMail": {
+      "repo": "KajWithAJ/YouveGotMail",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:56.944Z"
+    },
+    "KichDM/RustLegacyPlugins": {
+      "repo": "KichDM/RustLegacyPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:57.239Z"
+    },
+    "Killa4/uMod.Rust": {
+      "repo": "Killa4/uMod.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:57.556Z"
+    },
+    "Kirollos/Oxide.Ext.Discord": {
+      "repo": "Kirollos/Oxide.Ext.Discord",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:57.861Z"
+    },
+    "Kirollos/Oxide.Ext.IRC": {
+      "repo": "Kirollos/Oxide.Ext.IRC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:58.117Z"
+    },
+    "Koltou/rust-donation-plugin-tip4serv": {
+      "repo": "Koltou/rust-donation-plugin-tip4serv",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:58.431Z"
+    },
+    "KopatychUSSR/Plugins-rust": {
+      "repo": "KopatychUSSR/Plugins-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:58.705Z"
+    },
+    "Kulltero/Carbon.Core": {
+      "repo": "Kulltero/Carbon.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:59.007Z"
+    },
+    "Kulltero/Oxide.Rust": {
+      "repo": "Kulltero/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:59.257Z"
+    },
+    "KuraiDevelopment/Kurai.dev": {
+      "repo": "KuraiDevelopment/Kurai.dev",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:05:59.713Z"
+    },
+    "L4m1fy/Always-Hotspot": {
+      "repo": "L4m1fy/Always-Hotspot",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:00.061Z"
+    },
+    "L4m1fy/Player-Count": {
+      "repo": "L4m1fy/Player-Count",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:00.255Z"
+    },
+    "L4m1fy/Show-Player-Count": {
+      "repo": "L4m1fy/Show-Player-Count",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:00.445Z"
+    },
+    "LaserHydra/AdminChat": {
+      "repo": "LaserHydra/AdminChat",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:00.624Z"
+    },
+    "LaserHydra/AdminChatroom": {
+      "repo": "LaserHydra/AdminChatroom",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:00.843Z"
+    },
+    "LaserHydra/Backpacks": {
+      "repo": "LaserHydra/Backpacks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:01.093Z"
+    },
+    "LaserHydra/BetterChat": {
+      "repo": "LaserHydra/BetterChat",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:01.330Z"
+    },
+    "LaserHydra/BetterChatMute": {
+      "repo": "LaserHydra/BetterChatMute",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:01.630Z"
+    },
+    "LaserHydra/CapsNoCaps": {
+      "repo": "LaserHydra/CapsNoCaps",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:01.880Z"
+    },
+    "LaserHydra/ChatImpersonator": {
+      "repo": "LaserHydra/ChatImpersonator",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:02.186Z"
+    },
+    "LaserHydra/DeathNotes": {
+      "repo": "LaserHydra/DeathNotes",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:02.375Z"
+    },
+    "LaserHydra/DeathNotesGui": {
+      "repo": "LaserHydra/DeathNotesGui",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:02.668Z"
+    },
+    "LaserHydra/HWTeleportation": {
+      "repo": "LaserHydra/HWTeleportation",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:02.867Z"
+    },
+    "LaserHydra/Oxide": {
+      "repo": "LaserHydra/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:03.128Z"
+    },
+    "LaserHydra/SleeperGuard": {
+      "repo": "LaserHydra/SleeperGuard",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:03.313Z"
+    },
+    "LaserHydra/TimedPermissions": {
+      "repo": "LaserHydra/TimedPermissions",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:03.562Z"
+    },
+    "LaserHydra/UpdateChecker": {
+      "repo": "LaserHydra/UpdateChecker",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:03.840Z"
+    },
+    "LauraRozier/BanSync": {
+      "repo": "LauraRozier/BanSync",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:04.141Z"
+    },
+    "LauraRozier/EnforceSingleResourceExtractor": {
+      "repo": "LauraRozier/EnforceSingleResourceExtractor",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:04.418Z"
+    },
+    "LauraRozier/ItemSkinSetter": {
+      "repo": "LauraRozier/ItemSkinSetter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:04.682Z"
+    },
+    "LauraRozier/Oxide.Core": {
+      "repo": "LauraRozier/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:04.989Z"
+    },
+    "LauraRozier/Oxide.Rust": {
+      "repo": "LauraRozier/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:05.271Z"
+    },
+    "LauraRozier/PlayerAdministration": {
+      "repo": "LauraRozier/PlayerAdministration",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:05.553Z"
+    },
+    "LauraRozier/VerificationGatekeeper": {
+      "repo": "LauraRozier/VerificationGatekeeper",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:05.841Z"
+    },
+    "LauraRozier/uMod-Project-Template": {
+      "repo": "LauraRozier/uMod-Project-Template",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:06.040Z"
+    },
+    "LeagueRaINi/OxidePlugins": {
+      "repo": "LeagueRaINi/OxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:06.281Z"
+    },
+    "Limmek/MStats-for-rust": {
+      "repo": "Limmek/MStats-for-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:06.566Z"
+    },
+    "Limmek/MySql-Chat-Log-for-Rust": {
+      "repo": "Limmek/MySql-Chat-Log-for-Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:06.818Z"
+    },
+    "Limmek/ZLevelsRemastered-MySQL": {
+      "repo": "Limmek/ZLevelsRemastered-MySQL",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:07.124Z"
+    },
+    "LoneWolfRust/SleeperCheck": {
+      "repo": "LoneWolfRust/SleeperCheck",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:07.335Z"
+    },
+    "Lootvoet/DiscordCoreRewards": {
+      "repo": "Lootvoet/DiscordCoreRewards",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:07.589Z"
+    },
+    "LosGranada/MyRustServer": {
+      "repo": "LosGranada/MyRustServer",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:07.837Z"
+    },
+    "LostStormX/NPCEvents-Plugin": {
+      "repo": "LostStormX/NPCEvents-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:08.145Z"
+    },
+    "LucienMP/Rust-Voice-Streaming-Plugin": {
+      "repo": "LucienMP/Rust-Voice-Streaming-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:08.389Z"
+    },
+    "MONaH-Rasta/AdminRadar": {
+      "repo": "MONaH-Rasta/AdminRadar",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:08.597Z"
+    },
+    "MONaH-Rasta/AntiSpam": {
+      "repo": "MONaH-Rasta/AntiSpam",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:08.865Z"
+    },
+    "MONaH-Rasta/AutoDoors": {
+      "repo": "MONaH-Rasta/AutoDoors",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:09.061Z"
+    },
+    "MONaH-Rasta/AutoLock": {
+      "repo": "MONaH-Rasta/AutoLock",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:09.314Z"
+    },
+    "MONaH-Rasta/AutoPlant": {
+      "repo": "MONaH-Rasta/AutoPlant",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:09.509Z"
+    },
+    "MONaH-Rasta/BaseRepair": {
+      "repo": "MONaH-Rasta/BaseRepair",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:09.717Z"
+    },
+    "MONaH-Rasta/BetterChat": {
+      "repo": "MONaH-Rasta/BetterChat",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:09.949Z"
+    },
+    "MONaH-Rasta/BuildingGrades": {
+      "repo": "MONaH-Rasta/BuildingGrades",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:10.153Z"
+    },
+    "MONaH-Rasta/BuildingWorkbench": {
+      "repo": "MONaH-Rasta/BuildingWorkbench",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:10.471Z"
+    },
+    "MONaH-Rasta/ChestStackMultiplier": {
+      "repo": "MONaH-Rasta/ChestStackMultiplier",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:10.721Z"
+    },
+    "MONaH-Rasta/ChillFuel": {
+      "repo": "MONaH-Rasta/ChillFuel",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:10.904Z"
+    },
+    "MONaH-Rasta/Clans": {
+      "repo": "MONaH-Rasta/Clans",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:11.106Z"
+    },
+    "MONaH-Rasta/CopyPaste": {
+      "repo": "MONaH-Rasta/CopyPaste",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:11.298Z"
+    },
+    "MONaH-Rasta/DangerousTreasures": {
+      "repo": "MONaH-Rasta/DangerousTreasures",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:11.559Z"
+    },
+    "MONaH-Rasta/DiscordLogger-uMod": {
+      "repo": "MONaH-Rasta/DiscordLogger-uMod",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:11.842Z"
+    },
+    "MONaH-Rasta/DiscordWipe": {
+      "repo": "MONaH-Rasta/DiscordWipe",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:12.066Z"
+    },
+    "MONaH-Rasta/EntityOwner": {
+      "repo": "MONaH-Rasta/EntityOwner",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:12.272Z"
+    },
+    "MONaH-Rasta/Finder": {
+      "repo": "MONaH-Rasta/Finder",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:12.482Z"
+    },
+    "MONaH-Rasta/ImageLibrary": {
+      "repo": "MONaH-Rasta/ImageLibrary",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:12.688Z"
+    },
+    "MONaH-Rasta/InstantUntie": {
+      "repo": "MONaH-Rasta/InstantUntie",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:13.000Z"
+    },
+    "MONaH-Rasta/InventoryBackup": {
+      "repo": "MONaH-Rasta/InventoryBackup",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:13.395Z"
+    },
+    "MONaH-Rasta/InventoryViewer": {
+      "repo": "MONaH-Rasta/InventoryViewer",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:13.661Z"
+    },
+    "MONaH-Rasta/Kits": {
+      "repo": "MONaH-Rasta/Kits",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:13.857Z"
+    },
+    "MONaH-Rasta/LootBouncer": {
+      "repo": "MONaH-Rasta/LootBouncer",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:14.038Z"
+    },
+    "MONaH-Rasta/LootDefender": {
+      "repo": "MONaH-Rasta/LootDefender",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:14.323Z"
+    },
+    "MONaH-Rasta/NTeleportation": {
+      "repo": "MONaH-Rasta/NTeleportation",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:14.502Z"
+    },
+    "MONaH-Rasta/NightVision": {
+      "repo": "MONaH-Rasta/NightVision",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:14.751Z"
+    },
+    "MONaH-Rasta/NoCrashFlyingVehicles": {
+      "repo": "MONaH-Rasta/NoCrashFlyingVehicles",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:14.955Z"
+    },
+    "MONaH-Rasta/OilRigDoorsFix": {
+      "repo": "MONaH-Rasta/OilRigDoorsFix",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:15.148Z"
+    },
+    "MONaH-Rasta/QuickSort": {
+      "repo": "MONaH-Rasta/QuickSort",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:15.389Z"
+    },
+    "MONaH-Rasta/RemoverTool": {
+      "repo": "MONaH-Rasta/RemoverTool",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:15.599Z"
+    },
+    "MONaH-Rasta/RustTranslationAPI": {
+      "repo": "MONaH-Rasta/RustTranslationAPI",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:15.801Z"
+    },
+    "MONaH-Rasta/ServerRewards": {
+      "repo": "MONaH-Rasta/ServerRewards",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:16.078Z"
+    },
+    "MONaH-Rasta/SignArtist": {
+      "repo": "MONaH-Rasta/SignArtist",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:16.287Z"
+    },
+    "MONaH-Rasta/Skins": {
+      "repo": "MONaH-Rasta/Skins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:16.559Z"
+    },
+    "MONaH-Rasta/TeamSaver": {
+      "repo": "MONaH-Rasta/TeamSaver",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:16.749Z"
+    },
+    "MONaH-Rasta/TruePVE": {
+      "repo": "MONaH-Rasta/TruePVE",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:16.962Z"
+    },
+    "MONaH-Rasta/Vanish": {
+      "repo": "MONaH-Rasta/Vanish",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:17.185Z"
+    },
+    "MONaH-Rasta/VehicleLicence": {
+      "repo": "MONaH-Rasta/VehicleLicence",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:17.377Z"
+    },
+    "MONaH-Rasta/WaterWorks": {
+      "repo": "MONaH-Rasta/WaterWorks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:17.564Z"
+    },
+    "MONaH-Rasta/ZLevelsRemastered": {
+      "repo": "MONaH-Rasta/ZLevelsRemastered",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:17.869Z"
+    },
+    "MSylvia/Oxide": {
+      "repo": "MSylvia/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:18.209Z"
+    },
+    "MSylvia/Oxide.Core": {
+      "repo": "MSylvia/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:18.533Z"
+    },
+    "Mabel8686/RustPlugins": {
+      "repo": "Mabel8686/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:18.732Z"
+    },
+    "Mabel8686/VehicleLicense": {
+      "repo": "Mabel8686/VehicleLicense",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:19.068Z"
+    },
+    "Mabel8686/VehicleStorage": {
+      "repo": "Mabel8686/VehicleStorage",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:19.369Z"
+    },
+    "MaltrzD/SteamVoiceEncoder": {
+      "repo": "MaltrzD/SteamVoiceEncoder",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:19.619Z"
+    },
+    "MateoTaylor/Rust-Reinforcement-Learning": {
+      "repo": "MateoTaylor/Rust-Reinforcement-Learning",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:19.795Z"
+    },
+    "Mateuus/RustAgent": {
+      "repo": "Mateuus/RustAgent",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:20.088Z"
+    },
+    "Mentol0408/Test": {
+      "repo": "Mentol0408/Test",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:20.280Z"
+    },
+    "Mercury-devs/Carbon": {
+      "repo": "Mercury-devs/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:20.527Z"
+    },
+    "Mercury-devs/Oxide.Rust": {
+      "repo": "Mercury-devs/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:20.759Z"
+    },
+    "Mercury-devs/plugin": {
+      "repo": "Mercury-devs/plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:20.998Z"
+    },
+    "MeziGit/Oxide.Core.Tests": {
+      "repo": "MeziGit/Oxide.Core.Tests",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:21.245Z"
+    },
+    "Mheetu/RustVoiceActivity": {
+      "repo": "Mheetu/RustVoiceActivity",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:21.467Z"
+    },
+    "Mike-Baks/Oxide.Rust": {
+      "repo": "Mike-Baks/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:21.858Z"
+    },
+    "Misailov1993/1": {
+      "repo": "Misailov1993/1",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:22.061Z"
+    },
+    "MitchBriles/RustPlugins": {
+      "repo": "MitchBriles/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:22.279Z"
+    },
+    "MoonpieBD/BlueprintPrestige": {
+      "repo": "MoonpieBD/BlueprintPrestige",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:22.483Z"
+    },
+    "MoonpieBD/SimplePatrolSignal": {
+      "repo": "MoonpieBD/SimplePatrolSignal",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:22.774Z"
+    },
+    "MoonpieBD/Voter": {
+      "repo": "MoonpieBD/Voter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:22.965Z"
+    },
+    "MoonpieBD/skipnight": {
+      "repo": "MoonpieBD/skipnight",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:23.272Z"
+    },
+    "MorganSkilly/Unity-Discord-Webhook-System": {
+      "repo": "MorganSkilly/Unity-Discord-Webhook-System",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:23.655Z"
+    },
+    "Mr-Dead2/newsbroadcaster": {
+      "repo": "Mr-Dead2/newsbroadcaster",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:23.843Z"
+    },
+    "MrBlue/CopyPaste": {
+      "repo": "MrBlue/CopyPaste",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:24.076Z"
+    },
+    "MrBlue/Oxide.Core": {
+      "repo": "MrBlue/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:24.338Z"
+    },
+    "MrBlue/Oxide.Hurtworld": {
+      "repo": "MrBlue/Oxide.Hurtworld",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:24.610Z"
+    },
+    "MrBlue/Oxide.Rust": {
+      "repo": "MrBlue/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:24.894Z"
+    },
+    "MrBlue/oxidemod.org": {
+      "repo": "MrBlue/oxidemod.org",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:25.084Z"
+    },
+    "MrDesedresh/TB": {
+      "repo": "MrDesedresh/TB",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:25.277Z"
+    },
+    "MrDesedresh/plug": {
+      "repo": "MrDesedresh/plug",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:25.568Z"
+    },
+    "MrDesedresh/plugin": {
+      "repo": "MrDesedresh/plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:25.756Z"
+    },
+    "MrDesedresh/plugin2": {
+      "repo": "MrDesedresh/plugin2",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:25.966Z"
+    },
+    "MrGraversen/DeathNotes": {
+      "repo": "MrGraversen/DeathNotes",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:26.292Z"
+    },
+    "MrGraversen/rust-rcon": {
+      "repo": "MrGraversen/rust-rcon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:26.526Z"
+    },
+    "Murgator/rust-donation-plugin-tip4serv": {
+      "repo": "Murgator/rust-donation-plugin-tip4serv",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:26.771Z"
+    },
+    "MyhreDev/uMod.Test": {
+      "repo": "MyhreDev/uMod.Test",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:27.037Z"
+    },
+    "Naaathan/Tebex-Oxide": {
+      "repo": "Naaathan/Tebex-Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:27.301Z"
+    },
+    "Navio1430/AntiRoofCamp": {
+      "repo": "Navio1430/AntiRoofCamp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:27.597Z"
+    },
+    "NeewMeta88/Rust-game-Plugin": {
+      "repo": "NeewMeta88/Rust-game-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:27.814Z"
+    },
+    "NemoAM7/Rust-Terminal-Hack-Plugin": {
+      "repo": "NemoAM7/Rust-Terminal-Hack-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:28.080Z"
+    },
+    "Nikedemos/Custom-Entities": {
+      "repo": "Nikedemos/Custom-Entities",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:28.305Z"
+    },
+    "Nikedemos/HumanNPC": {
+      "repo": "Nikedemos/HumanNPC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:28.642Z"
+    },
+    "Nikedemos/InventoryCleaner": {
+      "repo": "Nikedemos/InventoryCleaner",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:28.886Z"
+    },
+    "Nikedemos/Lone.DesignUpdateChecker": {
+      "repo": "Nikedemos/Lone.DesignUpdateChecker",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:29.075Z"
+    },
+    "Nikedemos/Oxide.Rust": {
+      "repo": "Nikedemos/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:29.380Z"
+    },
+    "Nikedemos/SignArtist": {
+      "repo": "Nikedemos/SignArtist",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:29.626Z"
+    },
+    "Nikedemos/Skin-Preloader": {
+      "repo": "Nikedemos/Skin-Preloader",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:29.798Z"
+    },
+    "Nodemcu1/www": {
+      "repo": "Nodemcu1/www",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:29.990Z"
+    },
+    "Nogrod/OxidePlugins": {
+      "repo": "Nogrod/OxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:30.218Z"
+    },
+    "NoxiousPluK/Oxide.Rust": {
+      "repo": "NoxiousPluK/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:30.551Z"
+    },
+    "NoxiousPluK/RustTelegramAPI": {
+      "repo": "NoxiousPluK/RustTelegramAPI",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:30.792Z"
+    },
+    "OhItsDiiTz/RustPlugin": {
+      "repo": "OhItsDiiTz/RustPlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:30.980Z"
+    },
+    "Orhidea-Development/WishRivals": {
+      "repo": "Orhidea-Development/WishRivals",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:31.304Z"
+    },
+    "OverTimeHosting/Documentation": {
+      "repo": "OverTimeHosting/Documentation",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:31.586Z"
+    },
+    "Owned67/FailedCodeAlert": {
+      "repo": "Owned67/FailedCodeAlert",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:31.925Z"
+    },
+    "Owned67/InvasivePlants": {
+      "repo": "Owned67/InvasivePlants",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:32.258Z"
+    },
+    "Owned67/MonumentAddons": {
+      "repo": "Owned67/MonumentAddons",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:32.556Z"
+    },
+    "Owned67/MonumentAddonsTanki": {
+      "repo": "Owned67/MonumentAddonsTanki",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:32.792Z"
+    },
+    "Owned67/Oxide-PlantsNeverDie": {
+      "repo": "Owned67/Oxide-PlantsNeverDie",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:33.067Z"
+    },
+    "Owned67/RustPlugins": {
+      "repo": "Owned67/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:33.387Z"
+    },
+    "OxideMod/Oxide.CSharp": {
+      "repo": "OxideMod/Oxide.CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:33.686Z"
+    },
+    "OxideMod/Oxide.Core": {
+      "repo": "OxideMod/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:33.940Z"
+    },
+    "OxideMod/Oxide.Docs": {
+      "repo": "OxideMod/Oxide.Docs",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:34.157Z"
+    },
+    "OxideMod/Oxide.Hurtworld": {
+      "repo": "OxideMod/Oxide.Hurtworld",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:34.453Z"
+    },
+    "OxideMod/Oxide.ReignOfKings": {
+      "repo": "OxideMod/Oxide.ReignOfKings",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:34.729Z"
+    },
+    "OxideMod/Oxide.Rust": {
+      "repo": "OxideMod/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:34.944Z"
+    },
+    "OxideMod/Oxide.RustLegacy": {
+      "repo": "OxideMod/Oxide.RustLegacy",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:35.138Z"
+    },
+    "OxideMod/Oxide.SevenDaysToDie": {
+      "repo": "OxideMod/Oxide.SevenDaysToDie",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:35.443Z"
+    },
+    "OxideMod/Oxide.TheForest": {
+      "repo": "OxideMod/Oxide.TheForest",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:35.660Z"
+    },
+    "OxideMod/oxidemod.org": {
+      "repo": "OxideMod/oxidemod.org",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:35.866Z"
+    },
+    "PRISM-Servers/plugins_public": {
+      "repo": "PRISM-Servers/plugins_public",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:36.160Z"
+    },
+    "PT-Studios/rust-donation-credits": {
+      "repo": "PT-Studios/rust-donation-credits",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:36.459Z"
+    },
+    "PationPrime/RustServerDataPlugin": {
+      "repo": "PationPrime/RustServerDataPlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:36.752Z"
+    },
+    "Patrette/Oxide.Core": {
+      "repo": "Patrette/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:36.996Z"
+    },
+    "Patrette/RustNoEAC": {
+      "repo": "Patrette/RustNoEAC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:37.263Z"
+    },
+    "PayNow-Services/PayNow.GameServers.Plugins.OxideMod": {
+      "repo": "PayNow-Services/PayNow.GameServers.Plugins.OxideMod",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:37.586Z"
+    },
+    "PenguinzTech/penguin-rust-base": {
+      "repo": "PenguinzTech/penguin-rust-base",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:37.847Z"
+    },
+    "PenguinzTech/penguin-rust-plugins": {
+      "repo": "PenguinzTech/penguin-rust-plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:38.036Z"
+    },
+    "PenisBlistashiq/Rust-plugins-236-240-dev": {
+      "repo": "PenisBlistashiq/Rust-plugins-236-240-dev",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:38.256Z"
+    },
+    "Pho3niX90/Carbon": {
+      "repo": "Pho3niX90/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:38.508Z"
+    },
+    "Pho3niX90/ExtraSeating": {
+      "repo": "Pho3niX90/ExtraSeating",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:38.772Z"
+    },
+    "Pho3niX90/MiniCopterOptions": {
+      "repo": "Pho3niX90/MiniCopterOptions",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:39.041Z"
+    },
+    "Pho3niX90/PlayerAdministration": {
+      "repo": "Pho3niX90/PlayerAdministration",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:39.358Z"
+    },
+    "Pho3niX90/PoliticalSurvival": {
+      "repo": "Pho3niX90/PoliticalSurvival",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:39.589Z"
+    },
+    "PierreAnken/ROK_Plugins": {
+      "repo": "PierreAnken/ROK_Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:39.785Z"
+    },
+    "PlaySafeID/playsafe-id-community-plugins": {
+      "repo": "PlaySafeID/playsafe-id-community-plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:40.015Z"
+    },
+    "PsixXxrus/MyTask": {
+      "repo": "PsixXxrus/MyTask",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:06:40.217Z"
+    },
+    "PsychoTea/CloudflareUpdater-Plugin": {
+      "repo": "PsychoTea/CloudflareUpdater-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:40.534Z"
+    },
+    "PsychoTea/Oxide.CSharp": {
+      "repo": "PsychoTea/Oxide.CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:40.820Z"
+    },
+    "PsychoTea/Oxide.Ext.Discord": {
+      "repo": "PsychoTea/Oxide.Ext.Discord",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:41.023Z"
+    },
+    "PsychoTea/Oxide.Rust": {
+      "repo": "PsychoTea/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:41.260Z"
+    },
+    "PsychoTea/Oxide.RustLegacy": {
+      "repo": "PsychoTea/Oxide.RustLegacy",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:41.589Z"
+    },
+    "PsychoTea/RustArena": {
+      "repo": "PsychoTea/RustArena",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:41.776Z"
+    },
+    "Psystec/RUST-Update-Notice": {
+      "repo": "Psystec/RUST-Update-Notice",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:42.044Z"
+    },
+    "Psystec/uMod-Chat-To-Discord-Relay": {
+      "repo": "Psystec/uMod-Chat-To-Discord-Relay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:42.311Z"
+    },
+    "Psystec/uMod-Chat-To-Telegram-Relay": {
+      "repo": "Psystec/uMod-Chat-To-Telegram-Relay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:42.500Z"
+    },
+    "QWERTY-Seba/rust_patrol": {
+      "repo": "QWERTY-Seba/rust_patrol",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:42.694Z"
+    },
+    "QWERTY-Seba/rust_plugins": {
+      "repo": "QWERTY-Seba/rust_plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:42.893Z"
+    },
+    "QuakeShots/Rust": {
+      "repo": "QuakeShots/Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:43.103Z"
+    },
+    "QuetzalQatl/RustPluginManual": {
+      "repo": "QuetzalQatl/RustPluginManual",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:43.294Z"
+    },
+    "REALJasonAU/maze-test": {
+      "repo": "REALJasonAU/maze-test",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:06:43.405Z"
+    },
+    "RMODHosting/HarmonizedOxidePlugin": {
+      "repo": "RMODHosting/HarmonizedOxidePlugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:43.615Z"
+    },
+    "ROMA0589/RUST-BackpackButton": {
+      "repo": "ROMA0589/RUST-BackpackButton",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:43.895Z"
+    },
+    "Ragonz2/Oxide": {
+      "repo": "Ragonz2/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:44.140Z"
+    },
+    "Rahulsinghz/Oxide2Plugins": {
+      "repo": "Rahulsinghz/Oxide2Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:45.342Z"
+    },
+    "Rahulsinghz/oxideplugins": {
+      "repo": "Rahulsinghz/oxideplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:45.638Z"
+    },
+    "Randactyl/Salvage": {
+      "repo": "Randactyl/Salvage",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:45.911Z"
+    },
+    "RazoR-XXX/https-slivrust-plugin.ru-": {
+      "repo": "RazoR-XXX/https-slivrust-plugin.ru-",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:46.173Z"
+    },
+    "RazoR-XXX/rust-template": {
+      "repo": "RazoR-XXX/rust-template",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:46.546Z"
+    },
+    "RazoR-XXX/umod-pluigns-dataset": {
+      "repo": "RazoR-XXX/umod-pluigns-dataset",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:46.852Z"
+    },
+    "RazoRRustPlugins/AdminMenu-1.3.1": {
+      "repo": "RazoRRustPlugins/AdminMenu-1.3.1",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:47.143Z"
+    },
+    "RazoRRustPlugins/Airfield-Event-1.5.3": {
+      "repo": "RazoRRustPlugins/Airfield-Event-1.5.3",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:47.352Z"
+    },
+    "RazoRRustPlugins/Armored-Train-1.8.2": {
+      "repo": "RazoRRustPlugins/Armored-Train-1.8.2",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:47.544Z"
+    },
+    "RazoRRustPlugins/Battlepass-1.37.3": {
+      "repo": "RazoRRustPlugins/Battlepass-1.37.3",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:47.859Z"
+    },
+    "RazoRRustPlugins/Convoy-Reforged-2.8.1": {
+      "repo": "RazoRRustPlugins/Convoy-Reforged-2.8.1",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:48.059Z"
+    },
+    "RebeccaStevens/Oxide.Rust": {
+      "repo": "RebeccaStevens/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:48.383Z"
+    },
+    "RebeccaStevens/oxide-Plugin-AutoCode": {
+      "repo": "RebeccaStevens/oxide-Plugin-AutoCode",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:48.591Z"
+    },
+    "RebeccaStevens/oxide-Plugin-UiBuilderLibrary": {
+      "repo": "RebeccaStevens/oxide-Plugin-UiBuilderLibrary",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:48.857Z"
+    },
+    "RebeccaStevens/oxide-plugins": {
+      "repo": "RebeccaStevens/oxide-plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:49.111Z"
+    },
+    "RebeccaStevens/uMod-Fork-CopyPaste": {
+      "repo": "RebeccaStevens/uMod-Fork-CopyPaste",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:49.318Z"
+    },
+    "RebeccaStevens/uMod-Rust-Plugin-GatherManager": {
+      "repo": "RebeccaStevens/uMod-Rust-Plugin-GatherManager",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:49.663Z"
+    },
+    "RedizGG/AttachmentBlocker": {
+      "repo": "RedizGG/AttachmentBlocker",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:49.920Z"
+    },
+    "RedizGG/Creative_Images": {
+      "repo": "RedizGG/Creative_Images",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:50.175Z"
+    },
+    "Reheight/BoomboxRust": {
+      "repo": "Reheight/BoomboxRust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:50.463Z"
+    },
+    "Reheight/ClansRecoded": {
+      "repo": "Reheight/ClansRecoded",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:50.713Z"
+    },
+    "Reheight/PMCharacterLimit": {
+      "repo": "Reheight/PMCharacterLimit",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:50.907Z"
+    },
+    "Reheight/SimpleKillMessages": {
+      "repo": "Reheight/SimpleKillMessages",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:51.219Z"
+    },
+    "Reheight/SimpleLinkingSolution": {
+      "repo": "Reheight/SimpleLinkingSolution",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:51.479Z"
+    },
+    "RelFost/Relfost.Plugins": {
+      "repo": "RelFost/Relfost.Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:51.781Z"
+    },
+    "Remod-org/AcidRain": {
+      "repo": "Remod-org/AcidRain",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:52.085Z"
+    },
+    "Remod-org/AggressiveAnimals": {
+      "repo": "Remod-org/AggressiveAnimals",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:52.338Z"
+    },
+    "Remod-org/AirwolfVendorFix": {
+      "repo": "Remod-org/AirwolfVendorFix",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:52.526Z"
+    },
+    "Remod-org/AnimalTurret": {
+      "repo": "Remod-org/AnimalTurret",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:52.813Z"
+    },
+    "Remod-org/AutoFurnace": {
+      "repo": "Remod-org/AutoFurnace",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:53.010Z"
+    },
+    "Remod-org/AuxidePlugins": {
+      "repo": "Remod-org/AuxidePlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:53.211Z"
+    },
+    "Remod-org/BikeClaim": {
+      "repo": "Remod-org/BikeClaim",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:53.429Z"
+    },
+    "Remod-org/BowShield": {
+      "repo": "Remod-org/BowShield",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:53.694Z"
+    },
+    "Remod-org/CCTVControl": {
+      "repo": "Remod-org/CCTVControl",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:53.997Z"
+    },
+    "Remod-org/ChatBot": {
+      "repo": "Remod-org/ChatBot",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:54.247Z"
+    },
+    "Remod-org/ChuteManager": {
+      "repo": "Remod-org/ChuteManager",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:54.705Z"
+    },
+    "Remod-org/CoffinLock": {
+      "repo": "Remod-org/CoffinLock",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:54.909Z"
+    },
+    "Remod-org/CompoundOptions": {
+      "repo": "Remod-org/CompoundOptions",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:55.110Z"
+    },
+    "Remod-org/CookStorage": {
+      "repo": "Remod-org/CookStorage",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:55.356Z"
+    },
+    "Remod-org/Cornucopia": {
+      "repo": "Remod-org/Cornucopia",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:55.575Z"
+    },
+    "Remod-org/DeathSpawn": {
+      "repo": "Remod-org/DeathSpawn",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:55.890Z"
+    },
+    "Remod-org/DronePatrol": {
+      "repo": "Remod-org/DronePatrol",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:56.091Z"
+    },
+    "Remod-org/ElectricFridge": {
+      "repo": "Remod-org/ElectricFridge",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:56.280Z"
+    },
+    "Remod-org/ElectricOven": {
+      "repo": "Remod-org/ElectricOven",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:56.491Z"
+    },
+    "Remod-org/ElectroLock": {
+      "repo": "Remod-org/ElectroLock",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:56.727Z"
+    },
+    "Remod-org/FlyingCarpet": {
+      "repo": "Remod-org/FlyingCarpet",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:56.927Z"
+    },
+    "Remod-org/FlyingKayak": {
+      "repo": "Remod-org/FlyingKayak",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:57.132Z"
+    },
+    "Remod-org/FlyingPiano": {
+      "repo": "Remod-org/FlyingPiano",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:57.390Z"
+    },
+    "Remod-org/ForestryZones": {
+      "repo": "Remod-org/ForestryZones",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:57.693Z"
+    },
+    "Remod-org/ForeverBackpack": {
+      "repo": "Remod-org/ForeverBackpack",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:58.020Z"
+    },
+    "Remod-org/Gesture-Wheel": {
+      "repo": "Remod-org/Gesture-Wheel",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:58.302Z"
+    },
+    "Remod-org/GrillPickup": {
+      "repo": "Remod-org/GrillPickup",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:58.613Z"
+    },
+    "Remod-org/Horses": {
+      "repo": "Remod-org/Horses",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:58.913Z"
+    },
+    "Remod-org/HumanNPC": {
+      "repo": "Remod-org/HumanNPC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:59.195Z"
+    },
+    "Remod-org/HumanNPCGUI": {
+      "repo": "Remod-org/HumanNPCGUI",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:59.446Z"
+    },
+    "Remod-org/Humanoids": {
+      "repo": "Remod-org/Humanoids",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:59.668Z"
+    },
+    "Remod-org/IceBox": {
+      "repo": "Remod-org/IceBox",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:06:59.878Z"
+    },
+    "Remod-org/InstaWear": {
+      "repo": "Remod-org/InstaWear",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:00.134Z"
+    },
+    "Remod-org/JunkPileSci": {
+      "repo": "Remod-org/JunkPileSci",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:00.344Z"
+    },
+    "Remod-org/JustEat": {
+      "repo": "Remod-org/JustEat",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:00.533Z"
+    },
+    "Remod-org/LOTL": {
+      "repo": "Remod-org/LOTL",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:00.740Z"
+    },
+    "Remod-org/LootProtect": {
+      "repo": "Remod-org/LootProtect",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:01.027Z"
+    },
+    "Remod-org/MagazinBoost": {
+      "repo": "Remod-org/MagazinBoost",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:01.238Z"
+    },
+    "Remod-org/MiningOutpostQuarries": {
+      "repo": "Remod-org/MiningOutpostQuarries",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:01.525Z"
+    },
+    "Remod-org/MonBots": {
+      "repo": "Remod-org/MonBots",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:01.760Z"
+    },
+    "Remod-org/MonumentNPC": {
+      "repo": "Remod-org/MonumentNPC",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:01.982Z"
+    },
+    "Remod-org/MyAttackCopter": {
+      "repo": "Remod-org/MyAttackCopter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:02.208Z"
+    },
+    "Remod-org/MyMiniCopter": {
+      "repo": "Remod-org/MyMiniCopter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:02.470Z"
+    },
+    "Remod-org/NREHook": {
+      "repo": "Remod-org/NREHook",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:02.675Z"
+    },
+    "Remod-org/NextGenPVE": {
+      "repo": "Remod-org/NextGenPVE",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:02.894Z"
+    },
+    "Remod-org/NoDecay": {
+      "repo": "Remod-org/NoDecay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:03.152Z"
+    },
+    "Remod-org/NoOffline": {
+      "repo": "Remod-org/NoOffline",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:03.440Z"
+    },
+    "Remod-org/OldSchoolResearch": {
+      "repo": "Remod-org/OldSchoolResearch",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:03.734Z"
+    },
+    "Remod-org/Omnibus": {
+      "repo": "Remod-org/Omnibus",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:04.054Z"
+    },
+    "Remod-org/Oxide.Ext.LocalFiles": {
+      "repo": "Remod-org/Oxide.Ext.LocalFiles",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:04.340Z"
+    },
+    "Remod-org/PathFinding": {
+      "repo": "Remod-org/PathFinding",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:04.624Z"
+    },
+    "Remod-org/Photog": {
+      "repo": "Remod-org/Photog",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:04.849Z"
+    },
+    "Remod-org/Plagued": {
+      "repo": "Remod-org/Plagued",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:05.210Z"
+    },
+    "Remod-org/PlayerAdministration": {
+      "repo": "Remod-org/PlayerAdministration",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:05.550Z"
+    },
+    "Remod-org/Portals": {
+      "repo": "Remod-org/Portals",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:05.740Z"
+    },
+    "Remod-org/PowerWalk": {
+      "repo": "Remod-org/PowerWalk",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:05.995Z"
+    },
+    "Remod-org/PushIt": {
+      "repo": "Remod-org/PushIt",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:06.318Z"
+    },
+    "Remod-org/QRadar": {
+      "repo": "Remod-org/QRadar",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:06.620Z"
+    },
+    "Remod-org/Quests": {
+      "repo": "Remod-org/Quests",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:06.818Z"
+    },
+    "Remod-org/RProtect": {
+      "repo": "Remod-org/RProtect",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:07.029Z"
+    },
+    "Remod-org/RTeleportation": {
+      "repo": "Remod-org/RTeleportation",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:07.215Z"
+    },
+    "Remod-org/ReJack": {
+      "repo": "Remod-org/ReJack",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:07.468Z"
+    },
+    "Remod-org/RealPortals": {
+      "repo": "Remod-org/RealPortals",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:07.740Z"
+    },
+    "Remod-org/RecycleBP": {
+      "repo": "Remod-org/RecycleBP",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:08.047Z"
+    },
+    "Remod-org/RecycleCost": {
+      "repo": "Remod-org/RecycleCost",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:08.281Z"
+    },
+    "Remod-org/RemLoad": {
+      "repo": "Remod-org/RemLoad",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:08.494Z"
+    },
+    "Remod-org/Replicator": {
+      "repo": "Remod-org/Replicator",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:08.699Z"
+    },
+    "Remod-org/RoadFinder": {
+      "repo": "Remod-org/RoadFinder",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:08.949Z"
+    },
+    "Remod-org/SAMTargeting": {
+      "repo": "Remod-org/SAMTargeting",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:09.196Z"
+    },
+    "Remod-org/SignArtist": {
+      "repo": "Remod-org/SignArtist",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:09.532Z"
+    },
+    "Remod-org/SimpleLight": {
+      "repo": "Remod-org/SimpleLight",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:09.756Z"
+    },
+    "Remod-org/Stacks": {
+      "repo": "Remod-org/Stacks",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:10.010Z"
+    },
+    "Remod-org/SteamFriends": {
+      "repo": "Remod-org/SteamFriends",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:10.313Z"
+    },
+    "Remod-org/Stumped": {
+      "repo": "Remod-org/Stumped",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:10.621Z"
+    },
+    "Remod-org/TCGui": {
+      "repo": "Remod-org/TCGui",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:10.930Z"
+    },
+    "Remod-org/Telekinesis": {
+      "repo": "Remod-org/Telekinesis",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:11.235Z"
+    },
+    "Remod-org/Teleportication": {
+      "repo": "Remod-org/Teleportication",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:11.434Z"
+    },
+    "Remod-org/Tides": {
+      "repo": "Remod-org/Tides",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:11.797Z"
+    },
+    "Remod-org/TimedExecuteV2": {
+      "repo": "Remod-org/TimedExecuteV2",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:12.077Z"
+    },
+    "Remod-org/TinCanBoom": {
+      "repo": "Remod-org/TinCanBoom",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:12.363Z"
+    },
+    "Remod-org/Toilette": {
+      "repo": "Remod-org/Toilette",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:12.622Z"
+    },
+    "Remod-org/Waypoints": {
+      "repo": "Remod-org/Waypoints",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:12.897Z"
+    },
+    "Rene-Sackers/RustPlugins": {
+      "repo": "Rene-Sackers/RustPlugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:13.114Z"
+    },
+    "RobinPlay-2025/Free-Plugins": {
+      "repo": "RobinPlay-2025/Free-Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:13.419Z"
+    },
+    "RobinPlay-2025/rust-template": {
+      "repo": "RobinPlay-2025/rust-template",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:13.748Z"
+    },
+    "Ross-Ward/Oxide": {
+      "repo": "Ross-Ward/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:14.024Z"
+    },
+    "RuchirRajOld/uMod.Rust": {
+      "repo": "RuchirRajOld/uMod.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:14.312Z"
+    },
+    "Rust-Haus/OpenAI-Rust-Plugin": {
+      "repo": "Rust-Haus/OpenAI-Rust-Plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:14.587Z"
+    },
+    "Rust-Haus/RustGPT": {
+      "repo": "Rust-Haus/RustGPT",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:14.791Z"
+    },
+    "Rust-Haus/ai-death-feed": {
+      "repo": "Rust-Haus/ai-death-feed",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:15.097Z"
+    },
+    "RustServers-IO/Oxide.Ext.Catalyst": {
+      "repo": "RustServers-IO/Oxide.Ext.Catalyst",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:15.331Z"
+    },
+    "RustServers-IO/oxideplugins": {
+      "repo": "RustServers-IO/oxideplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:15.583Z"
+    },
+    "RustServers-IO/rustplugins": {
+      "repo": "RustServers-IO/rustplugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:15.786Z"
+    },
+    "RustServers-gg/EasyVote": {
+      "repo": "RustServers-gg/EasyVote",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:16.224Z"
+    },
+    "RustServers-gg/Voting-Rewards": {
+      "repo": "RustServers-gg/Voting-Rewards",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:16.440Z"
+    },
+    "RustWipeDay/RustWipeDay": {
+      "repo": "RustWipeDay/RustWipeDay",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:16.703Z"
+    },
+    "RustopiaOfficial/DisableIndustrialConveyors": {
+      "repo": "RustopiaOfficial/DisableIndustrialConveyors",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:16.991Z"
+    },
+    "RustopiaOfficial/Oxide.Rust": {
+      "repo": "RustopiaOfficial/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:17.305Z"
+    },
+    "RustopiaOfficial/paynow-rust-plugin": {
+      "repo": "RustopiaOfficial/paynow-rust-plugin",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:17.618Z"
+    },
+    "RustyyTown/plugins": {
+      "repo": "RustyyTown/plugins",
+      "status": "missing",
+      "httpStatus": 451,
+      "message": "Repository unavailable for legal reasons.",
+      "checkedAt": "2026-08-26T03:07:17.790Z"
+    },
+    "Ryan-J-D/NoRaid": {
+      "repo": "Ryan-J-D/NoRaid",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:17.998Z"
+    },
+    "Ryan-J-D/Oxide": {
+      "repo": "Ryan-J-D/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:18.283Z"
+    },
+    "Ryan-J-D/Oxide.Core": {
+      "repo": "Ryan-J-D/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:18.593Z"
+    },
+    "Ryan-J-D/Oxide.Rust": {
+      "repo": "Ryan-J-D/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:18.829Z"
+    },
+    "Ryan-J-D/Rust-Item-IDs": {
+      "repo": "Ryan-J-D/Rust-Item-IDs",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:19.115Z"
+    },
+    "Ryan-J-D/Vanish": {
+      "repo": "Ryan-J-D/Vanish",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:19.459Z"
+    },
+    "S1gil0/RustAI": {
+      "repo": "S1gil0/RustAI",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:19.758Z"
+    },
+    "SNiTEBoBy/Vote-For-Money": {
+      "repo": "SNiTEBoBy/Vote-For-Money",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:20.094Z"
+    },
+    "Samosborne94/GrieferHub": {
+      "repo": "Samosborne94/GrieferHub",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:20.305Z"
+    },
+    "SeesAll/AutoDoors-Enhanced": {
+      "repo": "SeesAll/AutoDoors-Enhanced",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:20.511Z"
+    },
+    "SeesAll/BetterChat-Optimized": {
+      "repo": "SeesAll/BetterChat-Optimized",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:20.719Z"
+    },
+    "SeesAll/BetterChatMute-Enhanced": {
+      "repo": "SeesAll/BetterChatMute-Enhanced",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:21.024Z"
+    },
+    "SeesAll/BlueprintShare-Fixed": {
+      "repo": "SeesAll/BlueprintShare-Fixed",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:21.322Z"
+    },
+    "SeesAll/ClanRenameLogs": {
+      "repo": "SeesAll/ClanRenameLogs",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:21.511Z"
+    },
+    "SeesAll/ClanSteamIDs": {
+      "repo": "SeesAll/ClanSteamIDs",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:21.785Z"
+    },
+    "SeesAll/DayNightWeatherController": {
+      "repo": "SeesAll/DayNightWeatherController",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:22.028Z"
+    },
+    "SeesAll/HandcuffLimiter": {
+      "repo": "SeesAll/HandcuffLimiter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:22.285Z"
+    },
+    "SeesAll/InfiniteVendingStock-FIXED": {
+      "repo": "SeesAll/InfiniteVendingStock-FIXED",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:22.476Z"
+    },
+    "SeesAll/LootBouncer-Enhanced": {
+      "repo": "SeesAll/LootBouncer-Enhanced",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:22.764Z"
+    },
+    "SeesAll/MoneyTime-Fixed": {
+      "repo": "SeesAll/MoneyTime-Fixed",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:23.043Z"
+    },
+    "SeesAll/PrivateMessages-Enhanced": {
+      "repo": "SeesAll/PrivateMessages-Enhanced",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:23.316Z"
+    },
+    "SeesAll/Rust-Command-Chat-Logger": {
+      "repo": "SeesAll/Rust-Command-Chat-Logger",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:23.512Z"
+    },
+    "SeesAll/SmartCleanup": {
+      "repo": "SeesAll/SmartCleanup",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:23.731Z"
+    },
+    "SeesAll/SmartRecon": {
+      "repo": "SeesAll/SmartRecon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:23.943Z"
+    },
+    "SeesAll/SmartSmelt": {
+      "repo": "SeesAll/SmartSmelt",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:24.221Z"
+    },
+    "ServerArmour/ServerArmour": {
+      "repo": "ServerArmour/ServerArmour",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:24.411Z"
+    },
+    "SettLe1/BadPrefabsCleaner": {
+      "repo": "SettLe1/BadPrefabsCleaner",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:24.668Z"
+    },
+    "ShiroKSH/rust-plugins": {
+      "repo": "ShiroKSH/rust-plugins",
+      "status": "missing",
+      "httpStatus": 404,
+      "message": "Repository not found (deleted or made private).",
+      "checkedAt": "2026-08-26T03:07:24.785Z"
+    },
+    "Sk3tch-Dev-Ux/Kurai.dev": {
+      "repo": "Sk3tch-Dev-Ux/Kurai.dev",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:25.046Z"
+    },
+    "SkiTee3000/Carbon": {
+      "repo": "SkiTee3000/Carbon",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:25.419Z"
+    },
+    "SkiTee3000/Oxide.Core": {
+      "repo": "SkiTee3000/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:25.768Z"
+    },
+    "SkiTee3000/Oxide.Rust": {
+      "repo": "SkiTee3000/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:26.071Z"
+    },
+    "SkiTee3000/Rust.UIFramework2": {
+      "repo": "SkiTee3000/Rust.UIFramework2",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:26.442Z"
+    },
+    "Skippeh/Oxide": {
+      "repo": "Skippeh/Oxide",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:26.689Z"
+    },
+    "Skippeh/Oxide-Plugins": {
+      "repo": "Skippeh/Oxide-Plugins",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:26.897Z"
+    },
+    "Skippeh/Oxide.Ext.ServerManager": {
+      "repo": "Skippeh/Oxide.Ext.ServerManager",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:27.087Z"
+    },
+    "Skippeh/calcrust.com-backend": {
+      "repo": "Skippeh/calcrust.com-backend",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:27.271Z"
+    },
+    "Slut/Oxide.CSharp": {
+      "repo": "Slut/Oxide.CSharp",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:27.584Z"
+    },
+    "Slut/Oxide.Core": {
+      "repo": "Slut/Oxide.Core",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:27.860Z"
+    },
+    "Slut/Oxide.Rust": {
+      "repo": "Slut/Oxide.Rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:28.106Z"
+    },
+    "SpencerSharkey/rustcord": {
+      "repo": "SpencerSharkey/rustcord",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:28.286Z"
+    },
+    "Spiikesan/BetterScarecrows": {
+      "repo": "Spiikesan/BetterScarecrows",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:28.480Z"
+    },
+    "Spiikesan/BuildingWrapper": {
+      "repo": "Spiikesan/BuildingWrapper",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:28.725Z"
+    },
+    "Spiikesan/CupboardLimiter": {
+      "repo": "Spiikesan/CupboardLimiter",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:29.008Z"
+    },
+    "Spiikesan/TellMyVote": {
+      "repo": "Spiikesan/TellMyVote",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:29.282Z"
+    },
+    "Spookywooky3/HeliDamage": {
+      "repo": "Spookywooky3/HeliDamage",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:29.782Z"
+    },
+    "Spookywooky3/SpawnHeli": {
+      "repo": "Spookywooky3/SpawnHeli",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:29.987Z"
+    },
+    "Steamcord/steamcord-rust": {
+      "repo": "Steamcord/steamcord-rust",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:30.206Z"
+    },
+    "Substrata1/ClothedMurderers": {
+      "repo": "Substrata1/ClothedMurderers",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:30.514Z"
+    },
+    "Substrata1/Inbound": {
+      "repo": "Substrata1/Inbound",
+      "status": "exists",
+      "httpStatus": 200,
+      "checkedAt": "2026-08-26T03:07:30.699Z"
+    }
+  },
+  "missing": [
+    "13dasd123/Rust-School-Plugins",
+    "13dasd123/RustPluginsDumpWithAI",
+    "13dasd123/RustPluginsDumpWithAI1",
+    "13dasd123/rust-free-plugins",
+    "13dasd123/rust-school-discord-indexing",
+    "13dasd123/yougame-plugins",
+    "Alienatedmamal/NOR-RCON-Dashboard",
+    "BurntRouter/rust-rcon",
+    "CaptainBlake/RaidMe",
+    "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
+    "CherrySofts/https-slivrust-plugin.ru-",
+    "Cl1cker0/lua-scripts",
+    "EHCanadian/Oxide_Rust_Decompiled",
+    "Flash-Ticker/NoPowerXmasLights",
+    "Hamunaptra77/Rust-ServerManager",
+    "Hamunaptra77/uMods",
+    "Hardcore-fs/PlayerAdministration",
+    "Hardcore-fs/Tebex-Oxide",
+    "Hardcore-fs/oxideplugins",
+    "HeyImDionysus/anythingun",
+    "HeyImDionysus/corrodedadmin",
+    "HeyImDionysus/serverstatus",
+    "HeyImDionysus/unraider",
+    "HizenLabs/Carbon",
+    "PsixXxrus/MyTask",
+    "REALJasonAU/maze-test",
+    "RustyyTown/plugins",
+    "ShiroKSH/rust-plugins"
+  ],
+  "errors": {},
+  "nextIndex": 584
+}
