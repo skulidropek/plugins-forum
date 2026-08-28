@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-08-28T10:42:04.723Z",
-  "current_author_index": 417,
+  "last_updated": "2026-08-28T22:16:52.669Z",
+  "current_author_index": 455,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-08-22T06:48:14.652Z",
@@ -1285,17 +1285,17 @@
       "success": true
     },
     "ailishev": {
-      "last_processed": "2026-08-21T07:03:55.544Z",
+      "last_processed": "2026-08-28T21:58:38.359Z",
       "repositories_found": 1,
       "success": true
     },
     "Azuriom": {
-      "last_processed": "2026-08-21T07:04:24.682Z",
+      "last_processed": "2026-08-28T21:59:07.516Z",
       "repositories_found": 1,
       "success": true
     },
     "osirislab": {
-      "last_processed": "2026-08-21T07:07:45.401Z",
+      "last_processed": "2026-08-28T22:02:39.787Z",
       "repositories_found": 0,
       "success": true
     },
@@ -1305,22 +1305,22 @@
       "success": true
     },
     "spencermcw": {
-      "last_processed": "2026-08-21T07:08:16.228Z",
+      "last_processed": "2026-08-28T22:03:13.536Z",
       "repositories_found": 1,
       "success": true
     },
     "RelFost": {
-      "last_processed": "2026-08-21T07:08:36.132Z",
+      "last_processed": "2026-08-28T22:03:34.812Z",
       "repositories_found": 0,
       "success": true
     },
     "Mentol0408": {
-      "last_processed": "2026-08-21T07:08:42.127Z",
+      "last_processed": "2026-08-28T22:03:41.172Z",
       "repositories_found": 0,
       "success": true
     },
     "LauraRozier": {
-      "last_processed": "2026-08-21T07:10:36.186Z",
+      "last_processed": "2026-08-28T22:05:39.653Z",
       "repositories_found": 8,
       "success": true
     },
@@ -1345,39 +1345,39 @@
       "success": true
     },
     "rustmy": {
-      "last_processed": "2026-08-21T07:11:28.518Z",
+      "last_processed": "2026-08-28T22:06:37.335Z",
       "repositories_found": 22,
       "success": true
     },
     "alfredo-leonelli": {
-      "last_processed": "2026-08-21T07:11:44.673Z",
+      "last_processed": "2026-08-28T22:06:54.585Z",
       "repositories_found": 5,
       "success": true
     },
     "NemoAM7": {
-      "last_processed": "2026-08-21T07:12:21.955Z",
+      "last_processed": "2026-08-28T22:07:33.233Z",
       "repositories_found": 1,
       "success": true
     },
     "compscidr": {
-      "last_processed": "2026-08-21T07:12:25.473Z",
+      "last_processed": "2026-08-28T22:07:36.446Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (106)"
     },
     "bawNg": {
-      "last_processed": "2026-08-21T07:13:19.272Z",
+      "last_processed": "2026-08-28T22:08:31.654Z",
       "repositories_found": 3,
       "success": true
     },
     "gamemann": {
-      "last_processed": "2026-08-21T07:13:22.496Z",
+      "last_processed": "2026-08-28T22:08:34.916Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (144)"
     },
     "sixmybad": {
-      "last_processed": "2026-08-21T07:13:23.700Z",
+      "last_processed": "2026-08-28T22:08:36.127Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1387,17 +1387,17 @@
       "success": true
     },
     "MrDesedresh": {
-      "last_processed": "2026-08-21T07:13:44.669Z",
+      "last_processed": "2026-08-28T22:08:55.613Z",
       "repositories_found": 4,
       "success": true
     },
     "RedizGG": {
-      "last_processed": "2026-08-21T07:13:52.628Z",
+      "last_processed": "2026-08-28T22:09:03.671Z",
       "repositories_found": 2,
       "success": true
     },
     "Lootvoet": {
-      "last_processed": "2026-08-21T07:13:59.071Z",
+      "last_processed": "2026-08-28T22:09:10.466Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1407,33 +1407,33 @@
       "success": true
     },
     "LostStormX": {
-      "last_processed": "2026-08-21T07:14:05.845Z",
+      "last_processed": "2026-08-28T22:09:17.253Z",
       "repositories_found": 1,
       "success": true
     },
     "ay4t": {
-      "last_processed": "2026-08-21T07:14:57.576Z",
+      "last_processed": "2026-08-28T22:10:10.059Z",
       "repositories_found": 2,
       "success": true
     },
     "Zand3rsCode": {
-      "last_processed": "2026-08-21T07:15:07.368Z",
+      "last_processed": "2026-08-28T22:10:19.977Z",
       "repositories_found": 1,
       "success": true
     },
     "AntiKnox": {
-      "last_processed": "2026-08-21T07:15:13.167Z",
+      "last_processed": "2026-08-28T22:10:26.496Z",
       "repositories_found": 1,
       "success": true
     },
     "bengreenier-archive": {
-      "last_processed": "2026-08-21T07:15:17.680Z",
+      "last_processed": "2026-08-28T22:10:30.555Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (108)"
     },
     "cornholio21": {
-      "last_processed": "2026-08-21T07:15:21.218Z",
+      "last_processed": "2026-08-28T22:10:34.423Z",
       "repositories_found": 2,
       "success": true
     },
@@ -1443,12 +1443,12 @@
       "success": true
     },
     "aethyriion": {
-      "last_processed": "2026-08-21T07:16:55.224Z",
+      "last_processed": "2026-08-28T22:12:33.708Z",
       "repositories_found": 1,
       "success": true
     },
     "dusty-modding": {
-      "last_processed": "2026-08-21T07:17:10.453Z",
+      "last_processed": "2026-08-28T22:12:49.245Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1458,12 +1458,12 @@
       "success": true
     },
     "Juliiiian": {
-      "last_processed": "2026-08-21T12:57:40.778Z",
+      "last_processed": "2026-08-28T22:13:04.354Z",
       "repositories_found": 1,
       "success": true
     },
     "RMODHosting": {
-      "last_processed": "2026-08-21T12:57:45.525Z",
+      "last_processed": "2026-08-28T22:13:10.615Z",
       "repositories_found": 0,
       "success": true
     },
@@ -1473,12 +1473,12 @@
       "success": true
     },
     "jkole4": {
-      "last_processed": "2026-08-21T12:58:32.235Z",
+      "last_processed": "2026-08-28T22:14:02.210Z",
       "repositories_found": 5,
       "success": true
     },
     "PsixXxrus": {
-      "last_processed": "2026-08-21T12:58:36.475Z",
+      "last_processed": "2026-08-28T22:14:07.000Z",
       "repositories_found": 0,
       "success": true
     },
@@ -1488,7 +1488,7 @@
       "success": true
     },
     "ZacharyWolfe": {
-      "last_processed": "2026-08-21T12:58:55.889Z",
+      "last_processed": "2026-08-28T22:14:31.859Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1498,38 +1498,38 @@
       "success": true
     },
     "moscow-ovh": {
-      "last_processed": "2026-08-21T12:59:01.037Z",
+      "last_processed": "2026-08-28T22:14:37.415Z",
       "repositories_found": 3,
       "success": true
     },
     "LucienMP": {
-      "last_processed": "2026-08-21T13:00:18.418Z",
+      "last_processed": "2026-08-28T22:16:09.264Z",
       "repositories_found": 1,
       "success": true
     },
     "Spookywooky3": {
-      "last_processed": "2026-08-21T13:00:33.739Z",
+      "last_processed": "2026-08-28T22:16:31.830Z",
       "repositories_found": 2,
       "success": true
     },
     "CatMeat": {
-      "last_processed": "2026-08-21T13:00:35.904Z",
+      "last_processed": "2026-08-28T22:16:34.132Z",
       "repositories_found": 0,
       "success": true
     },
     "theblobinc": {
-      "last_processed": "2026-08-21T13:00:43.336Z",
+      "last_processed": "2026-08-28T22:16:40.634Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (173)"
     },
     "GTJono": {
-      "last_processed": "2026-08-21T13:00:47.238Z",
+      "last_processed": "2026-08-28T22:16:46.264Z",
       "repositories_found": 1,
       "success": true
     },
     "firemandave6024": {
-      "last_processed": "2026-08-21T13:00:51.189Z",
+      "last_processed": "2026-08-28T22:16:52.669Z",
       "repositories_found": 1,
       "success": true
     },
