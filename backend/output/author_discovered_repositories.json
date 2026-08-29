@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T16:37:37.509Z",
+  "generated_at": "2026-08-29T21:02:50.597Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1477,
+  "count": 1481,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -374,6 +374,8 @@
     "Ragonz2/Oxide",
     "Rahulsinghz/Oxide2Plugins",
     "Rahulsinghz/oxideplugins",
+    "RaichuTD/AcheivementUnlocker",
+    "RaichuTD/CustomMapVehicleVendorFix",
     "Randactyl/Salvage",
     "RazoR-XXX/https-slivrust-plugin.ru-",
     "RazoR-XXX/rust-template",
@@ -869,6 +871,8 @@
     "Wrecks830/rustplugin-scraponomics",
     "Y4n1ss3/Rust",
     "YaMang0w0/OwnPlugins",
+    "YarinQuapi/Prod",
+    "YarinQuapi/QRTL",
     "Yorboot/MessagePlugin",
     "ZacharyWolfe/CSharpDotNet",
     "Zackslay/RustStats",
