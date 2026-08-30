@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-08-29T21:02:50.597Z",
+  "generated_at": "2026-08-30T04:41:37.273Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1481,
+  "count": 1482,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1124,6 +1124,7 @@
     "ilovepatatos-rust/gizmos-extension",
     "ilovepatatos-rust/oxide-core",
     "ilovepatatos-rust/oxide-csharp",
+    "ippoan/rust-proximity-voice",
     "its-snapple/Carbon",
     "its-snapple/Carbon.Common",
     "itzwaluwe/Oxide.Rust",
