@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-04T07:09:51.815Z",
-  "count": 84,
+  "generated_at": "2026-09-05T06:48:48.950Z",
+  "count": 86,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -10,6 +10,7 @@
     "13dasd123/yougame-plugins",
     "Alienatedmamal/NOR-RCON-Dashboard",
     "BurntRouter/rust-rcon",
+    "CalvFletch/PilotPro",
     "CaptainBlake/RaidMe",
     "CheeZeDark/leaked_new_rust_plugins_AI_Dumped",
     "CherrySofts/https-slivrust-plugin.ru-",
@@ -32,6 +33,7 @@
     "ShiroKSH/rust-plugins",
     "VisEntities/NoGibs",
     "VoodooCor/rust-server-plugins",
+    "Wakanda1519/RUST-Plugins-from-AI",
     "WeirdPhrog/Carbon",
     "Wrath-age/TheAddiction",
     "Wrath-age/TheAddictionPlugins",
