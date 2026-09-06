@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-06T04:02:22.052Z",
+  "generated_at": "2026-09-06T10:47:23.847Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1484,
+  "count": 1485,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -141,6 +141,7 @@
     "Grimm530/HarmonyMods",
     "Grimston/PVELoot",
     "Grimston/RemoteRcon",
+    "H57FFP2/RflSkinBoxPlugin",
     "Hallonkaka/OxidePlugins",
     "Hamunaptra77/Rust-ServerManager",
     "Hamunaptra77/uMods",
