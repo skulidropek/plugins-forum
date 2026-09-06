@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-05T20:19:29.650Z",
+  "generated_at": "2026-09-06T04:02:22.052Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1483,
+  "count": 1484,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -241,6 +241,7 @@
     "MONaH-Rasta/AutoDoors",
     "MONaH-Rasta/AutoLock",
     "MONaH-Rasta/AutoPlant",
+    "MONaH-Rasta/Backpacks",
     "MONaH-Rasta/BaseRepair",
     "MONaH-Rasta/BetterChat",
     "MONaH-Rasta/BuildingGrades",
