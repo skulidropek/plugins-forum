@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-09-09T11:19:20.733Z",
-  "current_author_index": 236,
+  "last_updated": "2026-09-09T16:34:16.790Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-09-06T03:44:00.092Z",
@@ -596,10 +596,10 @@
       "success": true
     },
     "CyberSys": {
-      "last_processed": "2026-09-02T11:00:50.167Z",
+      "last_processed": "2026-09-09T16:19:57.752Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (7375)"
+      "error": "Skipped - too many repositories (7386)"
     },
     "Rahulsinghz": {
       "last_processed": "2026-09-08T04:04:48.971Z",
@@ -1007,47 +1007,47 @@
       "success": true
     },
     "fenderrex": {
-      "last_processed": "2026-09-02T11:03:46.515Z",
+      "last_processed": "2026-09-09T16:23:09.068Z",
       "repositories_found": 1,
       "success": true
     },
     "Whitecandor": {
-      "last_processed": "2026-09-02T11:03:49.747Z",
+      "last_processed": "2026-09-09T16:23:12.585Z",
       "repositories_found": 1,
       "success": true
     },
     "a-downing": {
-      "last_processed": "2026-09-02T11:04:26.711Z",
+      "last_processed": "2026-09-09T16:23:51.365Z",
       "repositories_found": 3,
       "success": true
     },
     "jonaslagoni": {
-      "last_processed": "2026-09-02T11:06:15.707Z",
+      "last_processed": "2026-09-09T16:25:55.510Z",
       "repositories_found": 1,
       "success": true
     },
     "tebexio": {
-      "last_processed": "2026-09-02T11:07:01.440Z",
+      "last_processed": "2026-09-09T16:26:45.715Z",
       "repositories_found": 2,
       "success": true
     },
     "HandyS11": {
-      "last_processed": "2026-09-02T11:07:47.855Z",
+      "last_processed": "2026-09-09T16:27:40.591Z",
       "repositories_found": 5,
       "success": true
     },
     "CraftingStore": {
-      "last_processed": "2026-09-02T11:07:56.020Z",
+      "last_processed": "2026-09-09T16:27:49.422Z",
       "repositories_found": 1,
       "success": true
     },
     "UncleMle": {
-      "last_processed": "2026-09-02T11:08:19.696Z",
+      "last_processed": "2026-09-09T16:28:15.563Z",
       "repositories_found": 1,
       "success": true
     },
     "oleduc": {
-      "last_processed": "2026-09-02T11:10:03.803Z",
+      "last_processed": "2026-09-09T16:30:22.135Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1057,12 +1057,12 @@
       "success": true
     },
     "danielgnh": {
-      "last_processed": "2026-09-02T11:10:21.141Z",
+      "last_processed": "2026-09-09T16:30:41.709Z",
       "repositories_found": 1,
       "success": true
     },
     "UltraRust": {
-      "last_processed": "2026-09-02T11:10:29.919Z",
+      "last_processed": "2026-09-09T16:30:51.458Z",
       "repositories_found": 7,
       "success": true
     },
@@ -1072,7 +1072,7 @@
       "success": true
     },
     "sknchan": {
-      "last_processed": "2026-09-02T11:11:50.124Z",
+      "last_processed": "2026-09-09T16:32:22.054Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1087,22 +1087,22 @@
       "success": true
     },
     "seanmb0": {
-      "last_processed": "2026-09-02T11:11:55.249Z",
+      "last_processed": "2026-09-09T16:32:27.510Z",
       "repositories_found": 1,
       "success": true
     },
     "kisuka": {
-      "last_processed": "2026-09-02T11:13:11.079Z",
+      "last_processed": "2026-09-09T16:33:51.884Z",
       "repositories_found": 1,
       "success": true
     },
     "xmxv": {
-      "last_processed": "2026-09-02T11:13:23.849Z",
+      "last_processed": "2026-09-09T16:34:06.947Z",
       "repositories_found": 2,
       "success": true
     },
     "Killa4": {
-      "last_processed": "2026-09-02T11:13:30.553Z",
+      "last_processed": "2026-09-09T16:34:14.785Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2111,7 +2111,7 @@
       "success": true
     },
     "db13256-hash": {
-      "last_processed": "2026-09-02T11:01:08.220Z",
+      "last_processed": "2026-09-09T16:20:18.365Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2146,7 +2146,7 @@
       "success": true
     },
     "MateoTaylor": {
-      "last_processed": "2026-09-02T11:01:03.370Z",
+      "last_processed": "2026-09-09T16:20:12.936Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2166,7 +2166,7 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-09-02T11:01:26.331Z",
+      "last_processed": "2026-09-09T16:20:39.840Z",
       "repositories_found": 16,
       "success": true
     },
