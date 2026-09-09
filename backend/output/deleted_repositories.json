@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-08T07:02:34.854Z",
-  "count": 86,
+  "generated_at": "2026-09-09T07:12:03.221Z",
+  "count": 88,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -22,6 +22,8 @@
     "Hardcore-fs/PlayerAdministration",
     "Hardcore-fs/Tebex-Oxide",
     "Hardcore-fs/oxideplugins",
+    "HeyImDionysus/Moo",
+    "HeyImDionysus/SignTool",
     "HeyImDionysus/anythingun",
     "HeyImDionysus/corrodedadmin",
     "HeyImDionysus/serverstatus",
