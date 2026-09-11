@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T10:56:55.714Z",
+  "generated_at": "2026-09-11T16:21:44.998Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1486,
+  "count": 1487,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1321,6 +1321,7 @@
     "orangemart/RustPlugins",
     "oscarcodedev/VIPPlaytime",
     "oscarxdev/VIPPlaytime",
+    "panadodev/IronSight-plugin",
     "paynow-gg/rust-plugin",
     "pedroivorbgrodrigues/Oxide",
     "pedroivorbgrodrigues/hunt",
