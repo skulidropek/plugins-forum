@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-11T16:21:44.998Z",
+  "generated_at": "2026-09-12T03:52:36.237Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1487,
+  "count": 1488,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -352,6 +352,7 @@
     "PenguinzTech/penguin-rust-base",
     "PenguinzTech/penguin-rust-plugins",
     "PenisBlistashiq/Rust-plugins-236-240-dev",
+    "Pherousa19/ApexRust_AdminControle",
     "Pho3niX90/Carbon",
     "Pho3niX90/ExtraSeating",
     "Pho3niX90/MiniCopterOptions",
