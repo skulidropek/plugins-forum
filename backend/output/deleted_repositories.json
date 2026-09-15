@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-14T07:42:22.339Z",
-  "count": 90,
+  "generated_at": "2026-09-15T07:19:08.218Z",
+  "count": 94,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -51,7 +51,11 @@
     "eandersson/rustarena",
     "estxbvnnn/HardpointMode",
     "estxbvnnn/Roam-Event-Rust",
+    "estxbvnnn/Rustuto",
+    "estxbvnnn/TCTournaments",
     "estxbvnnn/TagsTwitchRivalsRust",
+    "estxbvnnn/TournamentsDTags",
+    "estxbvnnn/estxbvnnnweb",
     "fuflik52/CloneRustApp",
     "fuflik52/NewApi",
     "fuflik52/TestMap",
