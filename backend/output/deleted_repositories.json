@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-18T07:08:53.524Z",
-  "count": 95,
+  "generated_at": "2026-09-19T07:09:44.947Z",
+  "count": 96,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -32,6 +32,7 @@
     "PsixXxrus/MyTask",
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
+    "S1gil0/RustAI",
     "ShiroKSH/rust-plugins",
     "ToastyToast25/Skinbox",
     "VisEntities/NoGibs",
