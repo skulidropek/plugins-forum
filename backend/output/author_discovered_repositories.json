@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-09-19T10:35:20.071Z",
+  "generated_at": "2026-09-20T15:45:11.782Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1488,
+  "count": 1489,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -490,6 +490,7 @@
     "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
     "Rust-Haus/ai-death-feed",
+    "RustArchon/RustArchon",
     "RustServers-IO/oxideplugins",
     "RustServers-IO/rustplugins",
     "RustServers-gg/EasyVote",
