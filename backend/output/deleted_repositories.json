@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-21T07:45:32.858Z",
+  "generated_at": "2026-09-22T07:25:18.655Z",
   "count": 96,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
@@ -29,6 +29,7 @@
     "HeyImDionysus/serverstatus",
     "HeyImDionysus/unraider",
     "HizenLabs/Carbon",
+    "PlaySafeID/playsafe-id-community-plugins",
     "PsixXxrus/MyTask",
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
@@ -51,7 +52,6 @@
     "db13256-hash/Rust-arena-plugin-leaderboard",
     "eandersson/RustWars",
     "eandersson/rustarena",
-    "estxbvnnn/HardpointMode",
     "estxbvnnn/Roam-Event-Rust",
     "estxbvnnn/Rustuto",
     "estxbvnnn/TCTournaments",
