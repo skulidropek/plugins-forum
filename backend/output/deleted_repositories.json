@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-30T08:04:44.786Z",
-  "count": 98,
+  "generated_at": "2026-10-01T08:27:36.849Z",
+  "count": 103,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -16,6 +16,10 @@
     "CherrySofts/https-slivrust-plugin.ru-",
     "Cl1cker0/lua-scripts",
     "EHCanadian/Oxide_Rust_Decompiled",
+    "Feverr92/QuickSmelt",
+    "Feverr92/Trade-Rust",
+    "Feverr92/WarriorShop",
+    "Feverr92/kits",
     "Flash-Ticker/NoPowerXmasLights",
     "Hamunaptra77/Rust-ServerManager",
     "Hamunaptra77/uMods",
@@ -35,6 +39,7 @@
     "REALJasonAU/maze-test",
     "RustyyTown/plugins",
     "S1gil0/RustAI",
+    "SeesAll/SmartRecon",
     "ShiroKSH/rust-plugins",
     "ToastyToast25/Skinbox",
     "VisEntities/NoGibs",
