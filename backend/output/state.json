@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "currentVariant": 21,
+  "currentVariant": 22,
   "currentPage": 10,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
@@ -6605,7 +6605,12 @@
     "MrBlue/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true,
     "Calytic/oxideplugins#rust/GeoIP.cs#0cc30593c8a8b28db29467f31e50b26134d263ca": true,
     "RustServers-IO/oxideplugins#rust/GeoIP.cs#0cc30593c8a8b28db29467f31e50b26134d263ca": true,
-    "Crushedice/LatestPlugins#rust/GeoIP.cs#0cc30593c8a8b28db29467f31e50b26134d263ca": true
+    "Crushedice/LatestPlugins#rust/GeoIP.cs#0cc30593c8a8b28db29467f31e50b26134d263ca": true,
+    "xuan2261/Decompiled-Assemblies#Oxide.CSharp/Oxide.Plugins/OnlinePlayersAttribute.cs#86f47ef56fa92aabb6d0d0310e20cd926cd2f819": true,
+    "koenrad/Oxide#Oxide.Ext.CSharp/CSharpExtension.cs#0dea22bf03be4fd14f53d83dfb1304faabb2682b": true,
+    "heymeepo/Decompiled-Assemblies#Oxide.CSharp/Oxide.Plugins/OnlinePlayersAttribute.cs#86f47ef56fa92aabb6d0d0310e20cd926cd2f819": true,
+    "TurkLee/Decompiled-Assemblies#Oxide.CSharp/Oxide.Plugins/OnlinePlayersAttribute.cs#86f47ef56fa92aabb6d0d0310e20cd926cd2f819": true,
+    "MSylvia/Oxide#Oxide.Ext.CSharp/CSharpExtension.cs#0dea22bf03be4fd14f53d83dfb1304faabb2682b": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
