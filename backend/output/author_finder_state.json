@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-02T12:22:32.908Z",
+  "last_updated": "2026-10-02T22:03:51.953Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -1203,7 +1203,7 @@
       "success": true
     },
     "Kulltero": {
-      "last_processed": "2026-09-25T16:55:39.966Z",
+      "last_processed": "2026-10-02T22:03:47.755Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2474,7 +2474,7 @@
       "success": true
     },
     "sthebzpnkt": {
-      "last_processed": "2026-09-25T16:55:42.126Z",
+      "last_processed": "2026-10-02T22:03:49.945Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2539,10 +2539,10 @@
       "success": true
     },
     "TurtleMcTurtle": {
-      "last_processed": "2026-09-25T16:55:31.763Z",
+      "last_processed": "2026-10-02T22:03:39.912Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (175)"
+      "error": "Skipped - too many repositories (177)"
     },
     "CrabSerg": {
       "last_processed": "2026-09-30T12:15:06.804Z",
@@ -2590,7 +2590,7 @@
       "success": true
     },
     "panadodev": {
-      "last_processed": "2026-09-25T21:19:49.987Z",
+      "last_processed": "2026-10-02T22:03:33.622Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2620,6 +2620,11 @@
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (112)"
+    },
+    "KopatychUSSR": {
+      "last_processed": "2026-10-02T22:03:21.102Z",
+      "repositories_found": 2,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -4114,6 +4119,8 @@
     "RustArchon/RustArchon",
     "gmoddev-labs/RustPluginsPublic",
     "gmoddev/CarbonLuau",
-    "SeesAll/RemoveAnimalsAI-Enhanced"
+    "SeesAll/RemoveAnimalsAI-Enhanced",
+    "KopatychUSSR/Plugins-rust",
+    "KopatychUSSR/umod-pluigns-dataset"
   ]
 }
