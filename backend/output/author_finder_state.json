@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-02T05:08:44.643Z",
-  "current_author_index": 219,
+  "last_updated": "2026-10-02T12:22:32.908Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-09-29T05:01:35.033Z",
@@ -596,10 +596,10 @@
       "success": true
     },
     "CyberSys": {
-      "last_processed": "2026-09-24T17:03:20.060Z",
+      "last_processed": "2026-10-02T12:19:38.038Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (7450)"
+      "error": "Skipped - too many repositories (7486)"
     },
     "Rahulsinghz": {
       "last_processed": "2026-09-30T12:16:39.574Z",
@@ -687,7 +687,7 @@
       "error": "Skipped - too many repositories (113)"
     },
     "Tryhard999": {
-      "last_processed": "2026-09-24T11:41:56.232Z",
+      "last_processed": "2026-10-02T12:12:36.551Z",
       "repositories_found": 4,
       "success": true
     },
@@ -702,7 +702,7 @@
       "success": true
     },
     "Slut": {
-      "last_processed": "2026-09-24T11:43:34.277Z",
+      "last_processed": "2026-10-02T12:15:14.593Z",
       "repositories_found": 3,
       "success": true
     },
@@ -712,7 +712,7 @@
       "success": true
     },
     "Ragonz2": {
-      "last_processed": "2026-09-24T11:43:27.699Z",
+      "last_processed": "2026-10-02T12:14:04.044Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1077,7 +1077,7 @@
       "success": true
     },
     "sami3737": {
-      "last_processed": "2026-09-24T11:43:09.526Z",
+      "last_processed": "2026-10-02T12:13:44.641Z",
       "repositories_found": 23,
       "success": true
     },
@@ -1280,7 +1280,7 @@
       "success": true
     },
     "txnitxnichopper": {
-      "last_processed": "2026-09-24T21:25:28.098Z",
+      "last_processed": "2026-10-02T12:15:08.274Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1340,7 +1340,7 @@
       "success": true
     },
     "FtuoilXelrash": {
-      "last_processed": "2026-09-24T11:41:12.637Z",
+      "last_processed": "2026-10-02T12:11:43.397Z",
       "repositories_found": 9,
       "success": true
     },
@@ -1818,7 +1818,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-09-24T17:04:53.494Z",
+      "last_processed": "2026-10-02T12:20:59.676Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2005,7 +2005,7 @@
       "success": true
     },
     "scalbox": {
-      "last_processed": "2026-09-24T11:41:38.684Z",
+      "last_processed": "2026-10-02T12:12:19.145Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2111,7 +2111,7 @@
       "success": true
     },
     "db13256-hash": {
-      "last_processed": "2026-09-24T17:03:42.054Z",
+      "last_processed": "2026-10-02T12:19:58.344Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2146,7 +2146,7 @@
       "success": true
     },
     "MateoTaylor": {
-      "last_processed": "2026-09-24T17:03:36.577Z",
+      "last_processed": "2026-10-02T12:19:53.482Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2166,7 +2166,7 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-09-24T17:04:34.329Z",
+      "last_processed": "2026-10-02T12:20:42.215Z",
       "repositories_found": 16,
       "success": true
     },
@@ -2313,17 +2313,17 @@
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-09-24T17:04:49.155Z",
+      "last_processed": "2026-10-02T12:20:55.247Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-09-24T17:06:34.698Z",
+      "last_processed": "2026-10-02T12:22:30.902Z",
       "repositories_found": 2,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-09-24T17:04:13.838Z",
+      "last_processed": "2026-10-02T12:20:24.311Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2364,7 +2364,7 @@
       "success": true
     },
     "oscarcodedev": {
-      "last_processed": "2026-09-24T11:41:58.414Z",
+      "last_processed": "2026-10-02T12:12:38.796Z",
       "repositories_found": 0,
       "success": true
     },
@@ -2379,7 +2379,7 @@
       "success": true
     },
     "oscarxdev": {
-      "last_processed": "2026-09-24T11:41:34.653Z",
+      "last_processed": "2026-10-02T12:12:14.862Z",
       "repositories_found": 1,
       "success": true
     },
@@ -4113,6 +4113,7 @@
     "Pherousa19/ApexRust_AdminControle",
     "RustArchon/RustArchon",
     "gmoddev-labs/RustPluginsPublic",
-    "gmoddev/CarbonLuau"
+    "gmoddev/CarbonLuau",
+    "SeesAll/RemoveAnimalsAI-Enhanced"
   ]
 }

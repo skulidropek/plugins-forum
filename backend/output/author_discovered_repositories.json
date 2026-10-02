@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-02T05:08:44.643Z",
+  "generated_at": "2026-10-02T12:22:32.911Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1491,
+  "count": 1492,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -518,6 +518,7 @@
     "SeesAll/LootBouncer-Enhanced",
     "SeesAll/MoneyTime-Fixed",
     "SeesAll/PrivateMessages-Enhanced",
+    "SeesAll/RemoveAnimalsAI-Enhanced",
     "SeesAll/Rust-Command-Chat-Logger",
     "SeesAll/SmartCleanup",
     "SeesAll/SmartRecon",
