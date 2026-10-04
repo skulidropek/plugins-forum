@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-03T20:51:53.096Z",
+  "generated_at": "2026-10-04T05:05:07.334Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1494,
+  "count": 1495,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1244,6 +1244,7 @@
     "lagzya-dev/Carbon.Common",
     "lagzya-dev/Rust-Voice-Streaming-Plugin",
     "lagzya-dev/plugin",
+    "larryshowtw/MonumentBuildAll",
     "lbgcomm/Rust-User-Management",
     "leaderos-net/rust-leaderos-connect",
     "leo-lizi/rust-bloodhunt",
