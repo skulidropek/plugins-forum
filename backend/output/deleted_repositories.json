@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-05T08:25:54.675Z",
-  "count": 104,
+  "generated_at": "2026-10-06T08:42:55.796Z",
+  "count": 105,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -34,6 +34,7 @@
     "HeyImDionysus/unraider",
     "HizenLabs/Carbon",
     "HunterZ/Carbon",
+    "LosGranada/MyRustServer",
     "Mateuus/RustAgent",
     "PlaySafeID/playsafe-id-community-plugins",
     "PsixXxrus/MyTask",
