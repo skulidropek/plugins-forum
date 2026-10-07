@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T08:42:55.796Z",
-  "count": 105,
+  "generated_at": "2026-10-07T08:18:50.736Z",
+  "count": 106,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -99,6 +99,7 @@
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
     "networkluki/Rust-Work-Project-networkluki",
+    "osirislab/LeakyPastes-V2",
     "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
     "st-little/rust-plugin-development",
