@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T05:32:09.708Z",
+  "generated_at": "2026-10-09T13:15:13.054Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1496,
+  "count": 1498,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -376,6 +376,8 @@
     "QWERTY-Seba/rust_plugins",
     "QuakeShots/Rust",
     "QuetzalQatl/RustPluginManual",
+    "R-udren/MonumentBlockerRemover",
+    "R-udren/Rust.ServerMetrics",
     "REALJasonAU/maze-test",
     "ROMA0589/RUST-BackpackButton",
     "Ragonz2/Oxide",
