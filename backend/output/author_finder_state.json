@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-10-09T13:15:13.053Z",
-  "current_author_index": 245,
+  "last_updated": "2026-10-09T22:37:30.469Z",
+  "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-10-06T13:11:32.930Z",
@@ -596,10 +596,10 @@
       "success": true
     },
     "CyberSys": {
-      "last_processed": "2026-10-02T12:19:38.038Z",
+      "last_processed": "2026-10-09T22:34:39.668Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (7486)"
+      "error": "Skipped - too many repositories (7513)"
     },
     "Rahulsinghz": {
       "last_processed": "2026-10-07T23:00:42.285Z",
@@ -702,7 +702,7 @@
       "success": true
     },
     "Slut": {
-      "last_processed": "2026-10-02T12:15:14.593Z",
+      "last_processed": "2026-10-09T22:30:40.504Z",
       "repositories_found": 3,
       "success": true
     },
@@ -1819,7 +1819,7 @@
       "success": true
     },
     "dan4451": {
-      "last_processed": "2026-10-02T12:20:59.676Z",
+      "last_processed": "2026-10-09T22:35:59.005Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2112,7 +2112,7 @@
       "success": true
     },
     "db13256-hash": {
-      "last_processed": "2026-10-02T12:19:58.344Z",
+      "last_processed": "2026-10-09T22:34:58.163Z",
       "repositories_found": 2,
       "success": true
     },
@@ -2147,7 +2147,7 @@
       "success": true
     },
     "MateoTaylor": {
-      "last_processed": "2026-10-02T12:19:53.482Z",
+      "last_processed": "2026-10-09T22:34:53.365Z",
       "repositories_found": 1,
       "success": true
     },
@@ -2167,8 +2167,8 @@
       "success": true
     },
     "SeesAll": {
-      "last_processed": "2026-10-02T12:20:42.215Z",
-      "repositories_found": 16,
+      "last_processed": "2026-10-09T22:35:42.368Z",
+      "repositories_found": 19,
       "success": true
     },
     "Fritoqc": {
@@ -2314,17 +2314,17 @@
       "success": true
     },
     "PationPrime": {
-      "last_processed": "2026-10-02T12:20:55.247Z",
+      "last_processed": "2026-10-09T22:35:54.988Z",
       "repositories_found": 1,
       "success": true
     },
     "maxijonson": {
-      "last_processed": "2026-10-02T12:22:30.902Z",
-      "repositories_found": 2,
+      "last_processed": "2026-10-09T22:37:28.385Z",
+      "repositories_found": 3,
       "success": true
     },
     "AntoineRatoUniversity": {
-      "last_processed": "2026-10-02T12:20:24.311Z",
+      "last_processed": "2026-10-09T22:35:23.245Z",
       "repositories_found": 1,
       "success": true
     },
@@ -4136,6 +4136,10 @@
     "larryshowtw/MonumentBuildAll",
     "Mabel8686/MonumentAddons",
     "R-udren/MonumentBlockerRemover",
-    "R-udren/Rust.ServerMetrics"
+    "R-udren/Rust.ServerMetrics",
+    "SeesAll/AntiRaidHeli",
+    "SeesAll/BuildingWorkbench-Fixed",
+    "SeesAll/ServerPerformanceAnalyzer",
+    "maxijonson/Oxide.Rust"
   ]
 }
