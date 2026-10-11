@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T16:40:44.197Z",
+  "generated_at": "2026-10-11T20:37:55.626Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41112,
+  "count": 41114,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "RemoverTool",
+      "plugin_author": "Bad3r",
+      "language": "C#",
+      "file": {
+        "path": "server/carbon/plugins/RemoverTool.cs",
+        "html_url": "https://github.com/Bad3r/rust-server/blob/4a7d8a1b3b57e598cf0aa294db40a237ae119413/server/carbon/plugins/RemoverTool.cs",
+        "raw_url": "https://raw.githubusercontent.com/Bad3r/rust-server/main/server/carbon/plugins/RemoverTool.cs",
+        "sha": "a24ae1abc6f42c6368060e8dd2f222dc4504e250"
+      },
+      "repository": {
+        "full_name": "Bad3r/rust-server",
+        "name": "rust-server",
+        "html_url": "https://github.com/Bad3r/rust-server",
+        "description": "Local Rust (Facepunch) PvE dedicated server on NixOS: steamcmd launcher, IPv4-only Harmony mod, and Carbon plugins and configs",
+        "owner_login": "Bad3r",
+        "owner_url": "https://github.com/Bad3r",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-09-24T11:06:59Z"
+      },
+      "indexed_at": "2026-10-11T20:37:53.554Z"
+    },
+    {
+      "plugin_name": "DangerousTreasures",
+      "plugin_author": "MONaH-Rasta",
+      "language": "C#",
+      "file": {
+        "path": "DangerousTreasures.cs",
+        "html_url": "https://github.com/MONaH-Rasta/DangerousTreasures/blob/a9d4b1b6c264da18c3e148de8e810b1ba09bc9a2/DangerousTreasures.cs",
+        "raw_url": "https://raw.githubusercontent.com/MONaH-Rasta/DangerousTreasures/main/DangerousTreasures.cs",
+        "sha": "193e8845f43f343026798d510dbe87083f03acbe"
+      },
+      "repository": {
+        "full_name": "MONaH-Rasta/DangerousTreasures",
+        "name": "DangerousTreasures",
+        "html_url": "https://github.com/MONaH-Rasta/DangerousTreasures",
+        "description": "Oxide plugin for Rust. Dangerous event with treasure chests.",
+        "owner_login": "MONaH-Rasta",
+        "owner_url": "https://github.com/MONaH-Rasta",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-11-14T10:09:07Z"
+      },
+      "indexed_at": "2026-10-11T20:36:30.048Z"
     },
     {
       "plugin_name": "RustApp",
