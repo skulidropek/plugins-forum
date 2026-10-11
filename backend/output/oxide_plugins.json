@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-09T15:32:03.795Z",
+  "generated_at": "2026-10-11T16:40:44.197Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41109,
+  "count": 41112,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,81 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "RustApp",
+      "plugin_author": "rust-app-io",
+      "language": "C#",
+      "file": {
+        "path": "plugins/rust/RustApp.cs",
+        "html_url": "https://github.com/rust-app-io/plugin/blob/ab0ba40e3c6392b744d62a00afadfc31d7e4951a/plugins/rust/RustApp.cs",
+        "raw_url": "https://raw.githubusercontent.com/rust-app-io/plugin/main/plugins/rust/RustApp.cs",
+        "sha": "a986e228a2d2bd5437f384b1861c6e090b11302a"
+      },
+      "repository": {
+        "full_name": "rust-app-io/plugin",
+        "name": "plugin",
+        "html_url": "https://github.com/rust-app-io/plugin",
+        "description": "RUST plugin for connecting and ensuring the complete functionality of the RustApp service.",
+        "owner_login": "rust-app-io",
+        "owner_url": "https://github.com/rust-app-io",
+        "default_branch": "main",
+        "stargazers_count": 4,
+        "forks_count": 9,
+        "open_issues_count": 0,
+        "created_at": "2023-10-03T16:25:12Z"
+      },
+      "indexed_at": "2026-10-11T16:40:37.259Z"
+    },
+    {
+      "plugin_name": "BuildingSkins",
+      "plugin_author": "Bad3r",
+      "language": "C#",
+      "file": {
+        "path": "server/carbon/plugins/BuildingSkins.cs",
+        "html_url": "https://github.com/Bad3r/rust-server/blob/4a7d8a1b3b57e598cf0aa294db40a237ae119413/server/carbon/plugins/BuildingSkins.cs",
+        "raw_url": "https://raw.githubusercontent.com/Bad3r/rust-server/main/server/carbon/plugins/BuildingSkins.cs",
+        "sha": "47424f0023818ac891e271a62057c6eeebd4ba2f"
+      },
+      "repository": {
+        "full_name": "Bad3r/rust-server",
+        "name": "rust-server",
+        "html_url": "https://github.com/Bad3r/rust-server",
+        "description": "Local Rust (Facepunch) PvE dedicated server on NixOS: steamcmd launcher, IPv4-only Harmony mod, and Carbon plugins and configs",
+        "owner_login": "Bad3r",
+        "owner_url": "https://github.com/Bad3r",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-09-24T11:06:59Z"
+      },
+      "indexed_at": "2026-10-11T16:39:09.791Z"
+    },
+    {
+      "plugin_name": "MonumentSurvey",
+      "plugin_author": "Bad3r",
+      "language": "C#",
+      "file": {
+        "path": "scripts/monument-addons/MonumentSurvey.cs",
+        "html_url": "https://github.com/Bad3r/rust-server/blob/4a7d8a1b3b57e598cf0aa294db40a237ae119413/scripts/monument-addons/MonumentSurvey.cs",
+        "raw_url": "https://raw.githubusercontent.com/Bad3r/rust-server/main/scripts/monument-addons/MonumentSurvey.cs",
+        "sha": "f983ca951a81f925fba69c1ebf4fb402255319ff"
+      },
+      "repository": {
+        "full_name": "Bad3r/rust-server",
+        "name": "rust-server",
+        "html_url": "https://github.com/Bad3r/rust-server",
+        "description": "Local Rust (Facepunch) PvE dedicated server on NixOS: steamcmd launcher, IPv4-only Harmony mod, and Carbon plugins and configs",
+        "owner_login": "Bad3r",
+        "owner_url": "https://github.com/Bad3r",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-09-24T11:06:59Z"
+      },
+      "indexed_at": "2026-10-11T16:38:27.303Z"
     },
     {
       "plugin_name": "TimeOfDay",
