@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-11T20:37:55.626Z",
+  "generated_at": "2026-10-15T06:09:43.594Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41114,
+  "count": 41115,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "QuickSmelt",
+      "plugin_author": "WheteThunger",
+      "language": "C#",
+      "file": {
+        "path": "QuickSmelt.cs",
+        "html_url": "https://github.com/WheteThunger/QuickSmelt/blob/2948bbf05dfd1ba7664a4c8234919494888788f2/QuickSmelt.cs",
+        "raw_url": "https://raw.githubusercontent.com/WheteThunger/QuickSmelt/master/QuickSmelt.cs",
+        "sha": "20b8e27b3bad2e1a374dbbbb9aef17e59a00b328"
+      },
+      "repository": {
+        "full_name": "WheteThunger/QuickSmelt",
+        "name": "QuickSmelt",
+        "html_url": "https://github.com/WheteThunger/QuickSmelt",
+        "description": "Fork of the QuickSmelt Rust plugin from uMod by misticos",
+        "owner_login": "WheteThunger",
+        "owner_url": "https://github.com/WheteThunger",
+        "default_branch": "master",
+        "stargazers_count": 20,
+        "forks_count": 4,
+        "open_issues_count": 1,
+        "created_at": "2023-01-24T15:41:10Z"
+      },
+      "indexed_at": "2026-10-15T06:09:28.183Z"
     },
     {
       "plugin_name": "RemoverTool",
