@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T06:09:43.594Z",
+  "generated_at": "2026-10-15T19:51:50.711Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41115,
+  "count": 41120,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,131 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "OxidePlugins",
+      "plugin_author": "CarbonCommunity",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Profiler/src/OxidePlugins.cs",
+        "html_url": "https://github.com/CarbonCommunity/Carbon/blob/875bad02c65b83dffb7a02e2d1bf5b8ea044aac2/src/Carbon.Profiler/src/OxidePlugins.cs",
+        "raw_url": "https://raw.githubusercontent.com/CarbonCommunity/Carbon/develop/src/Carbon.Profiler/src/OxidePlugins.cs",
+        "sha": "863057e2874c8f5ad72fe8dd425d9628f1874c65"
+      },
+      "repository": {
+        "full_name": "CarbonCommunity/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/CarbonCommunity/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "CarbonCommunity",
+        "owner_url": "https://github.com/CarbonCommunity",
+        "default_branch": "develop",
+        "stargazers_count": 77,
+        "forks_count": 21,
+        "open_issues_count": 0,
+        "created_at": "2022-08-27T03:44:48Z"
+      },
+      "indexed_at": "2026-10-15T19:51:49.739Z"
+    },
+    {
+      "plugin_name": "Wild",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Wild.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Wild.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Wild.cs",
+        "sha": "0ae1c5a9c5c4ef668ad8227426f546d2406086bc"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-15T19:51:35.914Z"
+    },
+    {
+      "plugin_name": "PluginList",
+      "plugin_author": "Russ773",
+      "language": "C#",
+      "file": {
+        "path": "src/PluginList.cs",
+        "html_url": "https://github.com/Russ773/Bunker/blob/0a14dacfad18bae8e9d9e8d13994500a4b660474/src/PluginList.cs",
+        "raw_url": "https://raw.githubusercontent.com/Russ773/Bunker/main/src/PluginList.cs",
+        "sha": "30bb36394ad3b6fc24dd5150abac9bb93481fa9b"
+      },
+      "repository": {
+        "full_name": "Russ773/Bunker",
+        "name": "Bunker",
+        "html_url": "https://github.com/Russ773/Bunker",
+        "description": "Desktop admin console for Rust game servers: live console, player list, admin tools, custom layouts and community widgets. Windows (WinForms, .NET 10).",
+        "owner_login": "Russ773",
+        "owner_url": "https://github.com/Russ773",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-11T20:02:57Z"
+      },
+      "indexed_at": "2026-10-15T19:50:26.135Z"
+    },
+    {
+      "plugin_name": "Animals",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Animals.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Animals.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Animals.cs",
+        "sha": "33187c5c87422d3b85d0bae0e4a919808ab5bc05"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-15T19:49:13.704Z"
+    },
+    {
+      "plugin_name": "Config",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Config.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Config.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Config.cs",
+        "sha": "bfed3c3c94f244498fb5e17f9bc278fd911a188c"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-15T19:47:55.390Z"
     },
     {
       "plugin_name": "QuickSmelt",
