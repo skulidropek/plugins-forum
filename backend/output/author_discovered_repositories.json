@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T04:13:14.957Z",
+  "generated_at": "2026-10-15T11:24:42.142Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1502,
+  "count": 1503,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -575,6 +575,7 @@
     "ThePitereq/Carbon.Common",
     "ThePitereq/Oxide.Rust",
     "ToastyToast25/Skinbox",
+    "Tomaxikz/Game-Plugins",
     "Tomaxikz/Plugin-for-player-manager",
     "Tryhard999/Carbon.Common",
     "Tryhard999/NoHeliFire",
