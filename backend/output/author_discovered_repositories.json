@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T16:58:49.376Z",
+  "generated_at": "2026-10-15T21:08:30.747Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1503,
+  "count": 1505,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -492,6 +492,7 @@
     "RobinPlay-2025/Free-Plugins",
     "RobinPlay-2025/rust-template",
     "Ross-Ward/Oxide",
+    "Russ773/Bunker",
     "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
     "Rust-Haus/ai-death-feed",
@@ -1141,6 +1142,7 @@
     "ilovepatatos-rust/gizmos-extension",
     "ilovepatatos-rust/oxide-core",
     "ilovepatatos-rust/oxide-csharp",
+    "imurheimofficial/rust-animal-plugin",
     "ippoan/rust-proximity-voice",
     "its-snapple/Carbon",
     "its-snapple/Carbon.Common",

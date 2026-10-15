@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-15T16:58:49.375Z",
+  "last_updated": "2026-10-15T21:08:30.746Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2636,6 +2636,16 @@
       "last_processed": "2026-10-09T12:55:40.528Z",
       "repositories_found": 2,
       "success": true
+    },
+    "imurheimofficial": {
+      "last_processed": "2026-10-15T21:08:22.594Z",
+      "repositories_found": 1,
+      "success": true
+    },
+    "Russ773": {
+      "last_processed": "2026-10-15T21:08:28.741Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -4141,6 +4151,8 @@
     "SeesAll/BuildingWorkbench-Fixed",
     "SeesAll/ServerPerformanceAnalyzer",
     "maxijonson/Oxide.Rust",
-    "Tomaxikz/Game-Plugins"
+    "Tomaxikz/Game-Plugins",
+    "imurheimofficial/rust-animal-plugin",
+    "Russ773/Bunker"
   ]
 }
