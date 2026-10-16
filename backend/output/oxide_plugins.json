@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-15T19:51:50.711Z",
+  "generated_at": "2026-10-16T14:50:25.674Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41120,
+  "count": 41122,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "Climate",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Climate.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Climate.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Climate.cs",
+        "sha": "ad5ded6f7f9d5755aeb32769295bbaa674e06c53"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-16T14:49:58.150Z"
+    },
+    {
+      "plugin_name": "DevSpawn",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/DevSpawn.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/DevSpawn.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/DevSpawn.cs",
+        "sha": "fa9a1095d24328819573c75c21987c52d8893be4"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-16T14:46:27.160Z"
     },
     {
       "plugin_name": "OxidePlugins",
