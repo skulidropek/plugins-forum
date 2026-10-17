@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T15:17:06.205Z",
+  "generated_at": "2026-10-17T20:25:23.319Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1506,
+  "count": 1507,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1323,6 +1323,7 @@
     "niekschoemaker/helicontrol",
     "niekschoemaker/puzzlechainrepair",
     "niekschoemaker/timezones",
+    "niposch/rustedit-rustcars-converter",
     "nosoylito/GatherContainers",
     "nosoylito/OfflineRaidDefenders",
     "nosoylito/RandomFaction",

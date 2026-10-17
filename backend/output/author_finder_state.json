@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-10-17T15:17:06.204Z",
+  "last_updated": "2026-10-17T20:25:23.318Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2646,6 +2646,11 @@
       "last_processed": "2026-10-15T21:08:28.741Z",
       "repositories_found": 1,
       "success": true
+    },
+    "niposch": {
+      "last_processed": "2026-10-17T20:25:21.308Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -4154,6 +4159,7 @@
     "Tomaxikz/Game-Plugins",
     "imurheimofficial/rust-animal-plugin",
     "Russ773/Bunker",
-    "SeesAll/DeathNotes-Enhanced"
+    "SeesAll/DeathNotes-Enhanced",
+    "niposch/rustedit-rustcars-converter"
   ]
 }
