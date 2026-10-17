@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T00:11:55.745Z",
+  "generated_at": "2026-10-17T09:08:52.698Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41124,
+  "count": 41127,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,81 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "ProbeAI",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/ProbeAI.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/ProbeAI.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/ProbeAI.cs",
+        "sha": "5a692014919058d97093392447b4025a76855de5"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T09:08:52.137Z"
+    },
+    {
+      "plugin_name": "BroadcastPreferences.TestReplyCommand",
+      "plugin_author": "maxijonson",
+      "language": "C#",
+      "file": {
+        "path": "src/Plugin/Commands/TestReply/BroadcastPreferences.TestReplyCommand.cs",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences/blob/4b5923691ae00126a117a4a03ecfb0a281432721/src/Plugin/Commands/TestReply/BroadcastPreferences.TestReplyCommand.cs",
+        "raw_url": "https://raw.githubusercontent.com/maxijonson/broadcast-preferences/master/src/Plugin/Commands/TestReply/BroadcastPreferences.TestReplyCommand.cs",
+        "sha": "380e9f264b4672a02a4a79053bfa5f820e762941"
+      },
+      "repository": {
+        "full_name": "maxijonson/broadcast-preferences",
+        "name": "broadcast-preferences",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences",
+        "description": "Rust Oxide plugin to allow players to mute broadcasted chat messages by topic",
+        "owner_login": "maxijonson",
+        "owner_url": "https://github.com/maxijonson",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-10T05:19:04Z"
+      },
+      "indexed_at": "2026-10-17T09:05:06.586Z"
+    },
+    {
+      "plugin_name": "Horse",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Horse.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Horse.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Horse.cs",
+        "sha": "0315426b2281c11b82672ed319595bbabe3bbc40"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T09:00:25.151Z"
     },
     {
       "plugin_name": "BikeClaim",
