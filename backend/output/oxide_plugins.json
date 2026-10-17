@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T21:57:15.994Z",
+  "generated_at": "2026-10-17T00:11:55.745Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41123,
+  "count": 41124,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "BikeClaim",
+      "plugin_author": "Remod-org",
+      "language": "C#",
+      "file": {
+        "path": "BikeClaim.cs",
+        "html_url": "https://github.com/Remod-org/BikeClaim/blob/e5ee77f397a9320204cf50bbd3d95fb94fec945a/BikeClaim.cs",
+        "raw_url": "https://raw.githubusercontent.com/Remod-org/BikeClaim/master/BikeClaim.cs",
+        "sha": "4992dec85c798e237e4d95b9b57c6a8a75127755"
+      },
+      "repository": {
+        "full_name": "Remod-org/BikeClaim",
+        "name": "BikeClaim",
+        "html_url": "https://github.com/Remod-org/BikeClaim",
+        "description": "Simple bike claim management similar to Horses plugin",
+        "owner_login": "Remod-org",
+        "owner_url": "https://github.com/Remod-org",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2024-07-04T21:38:17Z"
+      },
+      "indexed_at": "2026-10-17T00:10:22.606Z"
     },
     {
       "plugin_name": "Movement",
