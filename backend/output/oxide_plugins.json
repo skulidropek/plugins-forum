@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T16:15:30.609Z",
+  "generated_at": "2026-10-17T21:19:30.665Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41135,
+  "count": 41136,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "Interact",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "src/Interact.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/src/Interact.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/src/Interact.cs",
+        "sha": "57bfbb3452067c5171728a195b49ec81b8de67bf"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T21:19:11.812Z"
     },
     {
       "plugin_name": "BroadcastPreferences.TopicCommand",
