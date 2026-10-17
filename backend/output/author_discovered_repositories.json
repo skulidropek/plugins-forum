@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-16T20:47:20.265Z",
+  "generated_at": "2026-10-17T03:46:44.397Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1505,
+  "count": 1506,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -521,6 +521,7 @@
     "SeesAll/ClanRenameLogs",
     "SeesAll/ClanSteamIDs",
     "SeesAll/DayNightWeatherController",
+    "SeesAll/DeathNotes-Enhanced",
     "SeesAll/HandcuffLimiter",
     "SeesAll/InfiniteVendingStock-FIXED",
     "SeesAll/LootBouncer-Enhanced",
