@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-17T09:08:52.698Z",
+  "generated_at": "2026-10-17T16:15:30.609Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41127,
+  "count": 41135,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,206 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "BroadcastPreferences.TopicCommand",
+      "plugin_author": "maxijonson",
+      "language": "C#",
+      "file": {
+        "path": "src/Plugin/Commands/Topic/BroadcastPreferences.TopicCommand.cs",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences/blob/4b5923691ae00126a117a4a03ecfb0a281432721/src/Plugin/Commands/Topic/BroadcastPreferences.TopicCommand.cs",
+        "raw_url": "https://raw.githubusercontent.com/maxijonson/broadcast-preferences/master/src/Plugin/Commands/Topic/BroadcastPreferences.TopicCommand.cs",
+        "sha": "c6a14a9f20879b34362e2fa81077465d43f89973"
+      },
+      "repository": {
+        "full_name": "maxijonson/broadcast-preferences",
+        "name": "broadcast-preferences",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences",
+        "description": "Rust Oxide plugin to allow players to mute broadcasted chat messages by topic",
+        "owner_login": "maxijonson",
+        "owner_url": "https://github.com/maxijonson",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-10T05:19:04Z"
+      },
+      "indexed_at": "2026-10-17T16:15:05.451Z"
+    },
+    {
+      "plugin_name": "RustCarConverterCatalog",
+      "plugin_author": "niposch",
+      "language": "C#",
+      "file": {
+        "path": "tools/RustCarConverterCatalog.cs",
+        "html_url": "https://github.com/niposch/rustedit-rustcars-converter/blob/eaeca25cc0d29f9ee1efce3617e69f254b813a3a/tools/RustCarConverterCatalog.cs",
+        "raw_url": "https://raw.githubusercontent.com/niposch/rustedit-rustcars-converter/main/tools/RustCarConverterCatalog.cs",
+        "sha": "d71bfda419d66e646fc6b5061135c3bf058f0a48"
+      },
+      "repository": {
+        "full_name": "niposch/rustedit-rustcars-converter",
+        "name": "rustedit-rustcars-converter",
+        "html_url": "https://github.com/niposch/rustedit-rustcars-converter",
+        "description": "Browser-local geometry converter for RustCar and RustEdit",
+        "owner_login": "niposch",
+        "owner_url": "https://github.com/niposch",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-14T20:11:11Z"
+      },
+      "indexed_at": "2026-10-17T16:11:58.714Z"
+    },
+    {
+      "plugin_name": "CarbonLuauEntityHookDemandEvidence",
+      "plugin_author": "gmoddev",
+      "language": "C#",
+      "file": {
+        "path": "tests/live/CarbonLuau.EntityHookDemandEvidence.cs",
+        "html_url": "https://github.com/gmoddev/CarbonLuau/blob/69be94917595e6d224b30ed9bb93f7f1e51993fa/tests/live/CarbonLuau.EntityHookDemandEvidence.cs",
+        "raw_url": "https://raw.githubusercontent.com/gmoddev/CarbonLuau/main/tests/live/CarbonLuau.EntityHookDemandEvidence.cs",
+        "sha": "0088e1f62fe229e38c62b436ea6128086199d7e8"
+      },
+      "repository": {
+        "full_name": "gmoddev/CarbonLuau",
+        "name": "CarbonLuau",
+        "html_url": "https://github.com/gmoddev/CarbonLuau",
+        "description": null,
+        "owner_login": "gmoddev",
+        "owner_url": "https://github.com/gmoddev",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-09-14T08:01:30Z"
+      },
+      "indexed_at": "2026-10-17T16:08:53.656Z"
+    },
+    {
+      "plugin_name": "BroadcastPreferences.TestBroadcastCommand",
+      "plugin_author": "maxijonson",
+      "language": "C#",
+      "file": {
+        "path": "src/Plugin/Commands/TestBroadcast/BroadcastPreferences.TestBroadcastCommand.cs",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences/blob/4b5923691ae00126a117a4a03ecfb0a281432721/src/Plugin/Commands/TestBroadcast/BroadcastPreferences.TestBroadcastCommand.cs",
+        "raw_url": "https://raw.githubusercontent.com/maxijonson/broadcast-preferences/master/src/Plugin/Commands/TestBroadcast/BroadcastPreferences.TestBroadcastCommand.cs",
+        "sha": "4a19024296f2b0a9de4932bb331c6a4ee31154fe"
+      },
+      "repository": {
+        "full_name": "maxijonson/broadcast-preferences",
+        "name": "broadcast-preferences",
+        "html_url": "https://github.com/maxijonson/broadcast-preferences",
+        "description": "Rust Oxide plugin to allow players to mute broadcasted chat messages by topic",
+        "owner_login": "maxijonson",
+        "owner_url": "https://github.com/maxijonson",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-10T05:19:04Z"
+      },
+      "indexed_at": "2026-10-17T16:08:52.832Z"
+    },
+    {
+      "plugin_name": "ProbeAnimation",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/ProbeAnimation.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/ProbeAnimation.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/ProbeAnimation.cs",
+        "sha": "13d2b829421ebf24f2945aa379fef61cd4d4f5f4"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T16:07:35.125Z"
+    },
+    {
+      "plugin_name": "HarnessSmoke",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/HarnessSmoke.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/HarnessSmoke.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/HarnessSmoke.cs",
+        "sha": "65a3099d124036e7ba7cbdb4293faf7fefa4dcbf"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T16:07:32.960Z"
+    },
+    {
+      "plugin_name": "ProbePhysics",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/ProbePhysics.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/ProbePhysics.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/ProbePhysics.cs",
+        "sha": "606cd2a93416d8da0f3ca1829fd28eab51d90a06"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T16:07:32.478Z"
+    },
+    {
+      "plugin_name": "ProbeJson",
+      "plugin_author": "imurheimofficial",
+      "language": "C#",
+      "file": {
+        "path": "tools/devplugins/ProbeJson.cs",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin/blob/b62385bb575725e585607f1d5c42da934c433e21/tools/devplugins/ProbeJson.cs",
+        "raw_url": "https://raw.githubusercontent.com/imurheimofficial/rust-animal-plugin/main/tools/devplugins/ProbeJson.cs",
+        "sha": "b19ffea152b7ce05f8b410cc35c7c93f2679ed4e"
+      },
+      "repository": {
+        "full_name": "imurheimofficial/rust-animal-plugin",
+        "name": "rust-animal-plugin",
+        "html_url": "https://github.com/imurheimofficial/rust-animal-plugin",
+        "description": null,
+        "owner_login": "imurheimofficial",
+        "owner_url": "https://github.com/imurheimofficial",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-10T21:22:13Z"
+      },
+      "indexed_at": "2026-10-17T16:07:29.945Z"
     },
     {
       "plugin_name": "ProbeAI",
