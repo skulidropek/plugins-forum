@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T01:24:36.235Z",
+  "generated_at": "2026-10-19T17:30:05.539Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41141,
+  "count": 41181,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,1006 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "MLRSFixer",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/M/MLRSFixer/MLRSFixer.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/M/MLRSFixer/MLRSFixer.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/M/MLRSFixer/MLRSFixer.cs",
+        "sha": "c113a93ba9fbdc92b9f61cb91491003dc9787433"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:49.286Z"
+    },
+    {
+      "plugin_name": "NoSuicide",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoSuicide/NoSuicide.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoSuicide/NoSuicide.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoSuicide/NoSuicide.cs",
+        "sha": "da5d565cdf4874e1914a2fc72ddad72f7be51a16"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:48.801Z"
+    },
+    {
+      "plugin_name": "WelcomeTP",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/W/WelcomeTP/WelcomeTP.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/W/WelcomeTP/WelcomeTP.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/W/WelcomeTP/WelcomeTP.cs",
+        "sha": "ec7ce917398b594529dd5edd3c8c784ab151bf90"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:48.256Z"
+    },
+    {
+      "plugin_name": "IPLogger",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/I/IPLogger/IPLogger.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/I/IPLogger/IPLogger.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/I/IPLogger/IPLogger.cs",
+        "sha": "11cbcbe9b8ffd451acb785fb2d91465a84e6bd33"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:47.226Z"
+    },
+    {
+      "plugin_name": "BouncyC4",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/B/BouncyC4/BouncyC4.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/B/BouncyC4/BouncyC4.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/B/BouncyC4/BouncyC4.cs",
+        "sha": "6f5712855441b289535b2d0f19ee73d8aec51b22"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:46.766Z"
+    },
+    {
+      "plugin_name": "SpinDrop",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/S/SpinDrop/SpinDrop.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/S/SpinDrop/SpinDrop.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/S/SpinDrop/SpinDrop.cs",
+        "sha": "ff973409f40653c6532da2422e9011c7322fcb58"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:46.297Z"
+    },
+    {
+      "plugin_name": "RealTime",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/R/RealTime/RealTime.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/R/RealTime/RealTime.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/R/RealTime/RealTime.cs",
+        "sha": "b0936a031bf6b79ef949fba505479ae65f0a14d8"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:45.700Z"
+    },
+    {
+      "plugin_name": "RustLax",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/R/RustLax/RustLax.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/R/RustLax/RustLax.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/R/RustLax/RustLax.cs",
+        "sha": "4a8d48c1dd2c64ee55b1cfbe7f8cbef4a3becdb5"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:45.160Z"
+    },
+    {
+      "plugin_name": "NoCraft",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoCraft/NoCraft.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoCraft/NoCraft.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoCraft/NoCraft.cs",
+        "sha": "d2bba9d7db3b6d8d7c9aeec30270cb2e06b022ba"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:44.671Z"
+    },
+    {
+      "plugin_name": "NoBlood",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoBlood/NoBlood.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoBlood/NoBlood.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoBlood/NoBlood.cs",
+        "sha": "e9ecf5e4a916deb24f2562f9b6491440b1294d67"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:44.083Z"
+    },
+    {
+      "plugin_name": "CarHorn",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/CarHorn/CarHorn.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/CarHorn/CarHorn.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/CarHorn/CarHorn.cs",
+        "sha": "5c7803ebecdfeb3c4d4707769c83a9700ea72d85"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:43.578Z"
+    },
+    {
+      "plugin_name": "WakeUp",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/W/WakeUp/WakeUp.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/W/WakeUp/WakeUp.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/W/WakeUp/WakeUp.cs",
+        "sha": "20193c367ca82a3adb7878cf9d5ff3f5946adbb5"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:43.017Z"
+    },
+    {
+      "plugin_name": "NoSash",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoSash/NoSash.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoSash/NoSash.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoSash/NoSash.cs",
+        "sha": "47975ae88039ba1a15acf516a523cbd71d5162ab"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:29:42.518Z"
+    },
+    {
+      "plugin_name": "OxidePluginEventCompat",
+      "plugin_author": "ohhreflex",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Components/Carbon.Compat/src/Lib/OxidePluginEventCompat.cs",
+        "html_url": "https://github.com/ohhreflex/Carbon/blob/75123c62e2627e1ea343a785ebe86eec5017bc86/src/Carbon.Components/Carbon.Compat/src/Lib/OxidePluginEventCompat.cs",
+        "raw_url": "https://raw.githubusercontent.com/ohhreflex/Carbon/main/src/Carbon.Components/Carbon.Compat/src/Lib/OxidePluginEventCompat.cs",
+        "sha": "881e70020f07261888daf2ceb377af82ecab2ec3"
+      },
+      "repository": {
+        "full_name": "ohhreflex/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/ohhreflex/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "ohhreflex",
+        "owner_url": "https://github.com/ohhreflex",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T17:15:31Z"
+      },
+      "indexed_at": "2026-10-19T17:23:45.048Z"
+    },
+    {
+      "plugin_name": "AdminModule.Tabs.Plugins",
+      "plugin_author": "ohhreflex",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Components/Carbon.Common/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+        "html_url": "https://github.com/ohhreflex/Carbon/blob/75123c62e2627e1ea343a785ebe86eec5017bc86/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+        "raw_url": "https://raw.githubusercontent.com/ohhreflex/Carbon/main/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/AdminModule/AdminModule.Tabs.Plugins.cs",
+        "sha": "bac9bad2a572719197589d0362640fdc89cd0382"
+      },
+      "repository": {
+        "full_name": "ohhreflex/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/ohhreflex/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "ohhreflex",
+        "owner_url": "https://github.com/ohhreflex",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T17:15:31Z"
+      },
+      "indexed_at": "2026-10-19T17:23:42.739Z"
+    },
+    {
+      "plugin_name": "OxidePlugins",
+      "plugin_author": "ohhreflex",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Profiler/src/OxidePlugins.cs",
+        "html_url": "https://github.com/ohhreflex/Carbon/blob/75123c62e2627e1ea343a785ebe86eec5017bc86/src/Carbon.Profiler/src/OxidePlugins.cs",
+        "raw_url": "https://raw.githubusercontent.com/ohhreflex/Carbon/main/src/Carbon.Profiler/src/OxidePlugins.cs",
+        "sha": "863057e2874c8f5ad72fe8dd425d9628f1874c65"
+      },
+      "repository": {
+        "full_name": "ohhreflex/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/ohhreflex/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "ohhreflex",
+        "owner_url": "https://github.com/ohhreflex",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T17:15:31Z"
+      },
+      "indexed_at": "2026-10-19T17:23:42.084Z"
+    },
+    {
+      "plugin_name": "ImageDatabaseModule",
+      "plugin_author": "ohhreflex",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Components/Carbon.Common/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+        "html_url": "https://github.com/ohhreflex/Carbon/blob/75123c62e2627e1ea343a785ebe86eec5017bc86/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+        "raw_url": "https://raw.githubusercontent.com/ohhreflex/Carbon/main/src/Carbon.Components/Carbon.Common/src/Carbon/Modules/ImageDatabaseModule/ImageDatabaseModule.cs",
+        "sha": "ecb43ebe053cf2c660f846f42d4680eb492cf82a"
+      },
+      "repository": {
+        "full_name": "ohhreflex/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/ohhreflex/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "ohhreflex",
+        "owner_url": "https://github.com/ohhreflex",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T17:15:31Z"
+      },
+      "indexed_at": "2026-10-19T17:23:39.300Z"
+    },
+    {
+      "plugin_name": "Core.Commands.Hooks",
+      "plugin_author": "ohhreflex",
+      "language": "C#",
+      "file": {
+        "path": "src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+        "html_url": "https://github.com/ohhreflex/Carbon/blob/75123c62e2627e1ea343a785ebe86eec5017bc86/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+        "raw_url": "https://raw.githubusercontent.com/ohhreflex/Carbon/main/src/Carbon.Components/Carbon.Common/src/Carbon/CorePlugin/Core.Commands.Hooks.cs",
+        "sha": "bca13b3891fea9dad0e8f87fb0e3c8c2f661c663"
+      },
+      "repository": {
+        "full_name": "ohhreflex/Carbon",
+        "name": "Carbon",
+        "html_url": "https://github.com/ohhreflex/Carbon",
+        "description": "Carbon is a self-updating, lightweight, intelligent mod loader for Rust utilizing the latest C# and Harmony for the best performance and stability possible, fully compatible with Oxide.",
+        "owner_login": "ohhreflex",
+        "owner_url": "https://github.com/ohhreflex",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T17:15:31Z"
+      },
+      "indexed_at": "2026-10-19T17:23:38.736Z"
+    },
+    {
+      "plugin_name": "URLCopy",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/U/URLCopy/URLCopy.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/U/URLCopy/URLCopy.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/U/URLCopy/URLCopy.cs",
+        "sha": "852bdbe3e7b2348ce5824c95729a175457dfa4eb"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:06.129Z"
+    },
+    {
+      "plugin_name": "EmptyOvens",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/E/EmptyOvens/EmptyOvens.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/E/EmptyOvens/EmptyOvens.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/E/EmptyOvens/EmptyOvens.cs",
+        "sha": "eb5d819cb65ed9758dad56da63bc83f861897840"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:05.605Z"
+    },
+    {
+      "plugin_name": "QueueLimit",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/Q/QueueLimit/QueueLimit.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/Q/QueueLimit/QueueLimit.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/Q/QueueLimit/QueueLimit.cs",
+        "sha": "f4fddf853c01c0ad13b04fe6e305c36b4153fbc7"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:04.103Z"
+    },
+    {
+      "plugin_name": "AdminChat",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/AdminChat/AdminChat.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/AdminChat/AdminChat.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/AdminChat/AdminChat.cs",
+        "sha": "159b4310cf56d40424790ef0e991d07d3b60a107"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:03.110Z"
+    },
+    {
+      "plugin_name": "CodeSync",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/CodeSync/CodeSync.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/CodeSync/CodeSync.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/CodeSync/CodeSync.cs",
+        "sha": "072437f695cc55001b7ec263937baeceada841c6"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:02.604Z"
+    },
+    {
+      "plugin_name": "SlackChat",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/S/SlackChat/SlackChat.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/S/SlackChat/SlackChat.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/S/SlackChat/SlackChat.cs",
+        "sha": "97e39b815e66bb0e6977a5c87bb46820bdbf8fb8"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:01.640Z"
+    },
+    {
+      "plugin_name": "LimitRCON",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/L/LimitRCON/LimitRCON.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/L/LimitRCON/LimitRCON.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/L/LimitRCON/LimitRCON.cs",
+        "sha": "a7fbe4a1536b259a42ab52f930644e5780fcf9cf"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:01.179Z"
+    },
+    {
+      "plugin_name": "DMPlayers",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/D/DMPlayers/DMPlayers.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/D/DMPlayers/DMPlayers.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/D/DMPlayers/DMPlayers.cs",
+        "sha": "b172cd9cad0ac74ed7cc9d6f8f0e33db5e65bac1"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:23:00.706Z"
+    },
+    {
+      "plugin_name": "AlwaysDay",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/AlwaysDay/AlwaysDay.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/AlwaysDay/AlwaysDay.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/AlwaysDay/AlwaysDay.cs",
+        "sha": "6c2d74f2d72d778b099bf0cf7a0495cdf48f1ece"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:59.716Z"
+    },
+    {
+      "plugin_name": "ItemsInfo",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/I/ItemsInfo/ItemsInfo.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/I/ItemsInfo/ItemsInfo.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/I/ItemsInfo/ItemsInfo.cs",
+        "sha": "c27a9279f8e6ba40636db45df87122d117ff7d46"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:59.202Z"
+    },
+    {
+      "plugin_name": "aTimeAPI",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/aTimeAPI/aTimeAPI.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/aTimeAPI/aTimeAPI.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/aTimeAPI/aTimeAPI.cs",
+        "sha": "2e57e26a77a1854de2e45201526aed276c314d01"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:58.121Z"
+    },
+    {
+      "plugin_name": "TeamInfo",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/T/TeamInfo/TeamInfo.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/T/TeamInfo/TeamInfo.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/T/TeamInfo/TeamInfo.cs",
+        "sha": "c7b57c0ee23cf96281ad5b63ac62a26429318c81"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:57.569Z"
+    },
+    {
+      "plugin_name": "BotNames",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/B/BotNames/BotNames.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/B/BotNames/BotNames.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/B/BotNames/BotNames.cs",
+        "sha": "552d41d7ea8bae802a3ea1bd1d1d0056d9386ee2"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:56.558Z"
+    },
+    {
+      "plugin_name": "NoCorpse",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoCorpse/NoCorpse.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoCorpse/NoCorpse.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoCorpse/NoCorpse.cs",
+        "sha": "f42e1e318c363342decd6498e019f7e86b0547d6"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:56.035Z"
+    },
+    {
+      "plugin_name": "NoNudity",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoNudity/NoNudity.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoNudity/NoNudity.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoNudity/NoNudity.cs",
+        "sha": "9c9ddcb5255d3b78bd4a3dae6811a7148d90a107"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:54.504Z"
+    },
+    {
+      "plugin_name": "Claymore",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/Claymore/Claymore.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/Claymore/Claymore.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/Claymore/Claymore.cs",
+        "sha": "2d73fc1acc10ff4ccffcddd14a4c64f86f5fd133"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:53.989Z"
+    },
+    {
+      "plugin_name": "NoDeauth",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoDeauth/NoDeauth.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoDeauth/NoDeauth.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoDeauth/NoDeauth.cs",
+        "sha": "d85892d2a5cf93752d55748ac798acb4bf0fb911"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:53.523Z"
+    },
+    {
+      "plugin_name": "NoCrawl",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoCrawl/NoCrawl.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoCrawl/NoCrawl.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoCrawl/NoCrawl.cs",
+        "sha": "3400166e20fc100828c88cd640bf06c1ab7e380c"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:49.881Z"
+    },
+    {
+      "plugin_name": "NoDuds",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NoDuds/NoDuds.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NoDuds/NoDuds.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NoDuds/NoDuds.cs",
+        "sha": "221bfc512e4f3dd902e2060aef96dc091b0ee20c"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:47.969Z"
+    },
+    {
+      "plugin_name": "AFK",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/AFK/AFK.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/AFK/AFK.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/AFK/AFK.cs",
+        "sha": "3b85c36697783a68a1a3a88d1db7a2421004ed1c"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:46.824Z"
+    },
+    {
+      "plugin_name": "Dance",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/D/Dance/Dance.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/D/Dance/Dance.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/D/Dance/Dance.cs",
+        "sha": "cc0ec3fc5b8dac9645bbf2e592f5abead11e2225"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:46.322Z"
+    },
+    {
+      "plugin_name": "Dice",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/D/Dice/Dice.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/D/Dice/Dice.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/D/Dice/Dice.cs",
+        "sha": "d047134daced95d2080b0d07380bf2c06703f7ee"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-19T17:22:45.256Z"
     },
     {
       "plugin_name": "RustArchon",
