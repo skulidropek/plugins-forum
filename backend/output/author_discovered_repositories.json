@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-19T03:56:07.159Z",
+  "generated_at": "2026-10-19T22:13:21.824Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1507,
+  "count": 1508,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1335,6 +1335,7 @@
     "oculus42/Inbound",
     "oddbunchmedia/pverust",
     "oddbunchmedia/ruststatus",
+    "ohhreflex/Carbon",
     "oleduc/Oxide-Plagued",
     "openmailbox/RustExamples",
     "openmailbox/RustMods",
