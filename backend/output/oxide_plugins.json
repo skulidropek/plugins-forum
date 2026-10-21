@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-20T00:58:27.645Z",
+  "generated_at": "2026-10-21T05:42:21.453Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41197,
+  "count": 41198,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "PluginList",
+      "plugin_author": "Russ773",
+      "language": "C#",
+      "file": {
+        "path": "src/PluginList.cs",
+        "html_url": "https://github.com/Russ773/Bunker-Windows/blob/d26dc8033f08a120db400a9c66f31e0974755d1f/src/PluginList.cs",
+        "raw_url": "https://raw.githubusercontent.com/Russ773/Bunker-Windows/main/src/PluginList.cs",
+        "sha": "30bb36394ad3b6fc24dd5150abac9bb93481fa9b"
+      },
+      "repository": {
+        "full_name": "Russ773/Bunker-Windows",
+        "name": "Bunker-Windows",
+        "html_url": "https://github.com/Russ773/Bunker-Windows",
+        "description": "Desktop admin console for Rust game servers: live console, player list, admin tools, custom layouts and community widgets. Windows (WinForms, .NET 10).",
+        "owner_login": "Russ773",
+        "owner_url": "https://github.com/Russ773",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-11T20:02:57Z"
+      },
+      "indexed_at": "2026-10-21T05:41:44.619Z"
     },
     {
       "plugin_name": "NukeWipe",
