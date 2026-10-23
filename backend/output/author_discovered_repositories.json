@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-23T04:23:10.000Z",
+  "generated_at": "2026-10-23T11:37:27.310Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1508,
+  "count": 1510,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -493,6 +493,8 @@
     "RobinPlay-2025/rust-template",
     "Ross-Ward/Oxide",
     "Russ773/Bunker",
+    "Russ773/Bunker-Android",
+    "Russ773/Bunker-Windows",
     "Rust-Haus/OpenAI-Rust-Plugin",
     "Rust-Haus/RustGPT",
     "Rust-Haus/ai-death-feed",
