@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T13:32:29.639Z",
+  "generated_at": "2026-10-24T19:19:19.597Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41200,
+  "count": 41201,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "BunkerChat",
+      "plugin_author": "Russ773",
+      "language": "C#",
+      "file": {
+        "path": "app/src/main/assets/BunkerChat.cs",
+        "html_url": "https://github.com/Russ773/Bunker-Android/blob/9f3a2afa9052e28091880e148316ff520d6ba3fa/app/src/main/assets/BunkerChat.cs",
+        "raw_url": "https://raw.githubusercontent.com/Russ773/Bunker-Android/main/app/src/main/assets/BunkerChat.cs",
+        "sha": "5bfac148639aec858a4d1050382b16c86ac3c780"
+      },
+      "repository": {
+        "full_name": "Russ773/Bunker-Android",
+        "name": "Bunker-Android",
+        "html_url": "https://github.com/Russ773/Bunker-Android",
+        "description": "Bunker for Android: the Rust server admin console in your pocket (WebRCON). Console, players, chat, moderation, plugins, multi-server.",
+        "owner_login": "Russ773",
+        "owner_url": "https://github.com/Russ773",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-17T23:38:36Z"
+      },
+      "indexed_at": "2026-10-24T19:18:59.761Z"
     },
     {
       "plugin_name": "RustArchonThirdPartyZipTests",
