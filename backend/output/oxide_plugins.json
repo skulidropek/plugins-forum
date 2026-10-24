@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T19:19:19.597Z",
+  "generated_at": "2026-10-24T21:47:30.323Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41201,
+  "count": 41202,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "BetterHopperController",
+      "plugin_author": "Tacman1981",
+      "language": "C#",
+      "file": {
+        "path": "BetterHopperController.cs",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins/blob/364d9c14b3ce79bb9c710d13c1c5ae4c3016aef8/BetterHopperController.cs",
+        "raw_url": "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/BetterHopperController.cs",
+        "sha": "81475263a5680e4056aa011b4dcf5857a47c7906"
+      },
+      "repository": {
+        "full_name": "Tacman1981/Rust-Plugins",
+        "name": "Rust-Plugins",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins",
+        "description": "My collection of rust plugins that actually compiled and function as intended. More to be added as they are created. code that is blank just stopped working and i dont feel the urge to fix it",
+        "owner_login": "Tacman1981",
+        "owner_url": "https://github.com/Tacman1981",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-05-11T16:33:34Z"
+      },
+      "indexed_at": "2026-10-24T21:47:24.054Z"
     },
     {
       "plugin_name": "BunkerChat",
