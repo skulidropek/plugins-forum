@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T00:04:04.648Z",
+  "generated_at": "2026-10-25T02:28:05.198Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41204,
+  "count": 41205,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "farm-defaults",
+      "plugin_author": "Bad3r",
+      "language": "C#",
+      "file": {
+        "path": "scripts/farm-defaults.py",
+        "html_url": "https://github.com/Bad3r/rust-server/blob/0671cdc9542efb816ee23fb5b7d2355d4eea36d7/scripts/farm-defaults.py",
+        "raw_url": "https://raw.githubusercontent.com/Bad3r/rust-server/main/scripts/farm-defaults.py",
+        "sha": "b36105ffe388e65bc4ff327c9d9077e6fb2a96ca"
+      },
+      "repository": {
+        "full_name": "Bad3r/rust-server",
+        "name": "rust-server",
+        "html_url": "https://github.com/Bad3r/rust-server",
+        "description": "Local Rust (Facepunch) PvE dedicated server on NixOS: steamcmd launcher, IPv4-only Harmony mod, and Carbon plugins and configs",
+        "owner_login": "Bad3r",
+        "owner_url": "https://github.com/Bad3r",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-09-24T11:06:59Z"
+      },
+      "indexed_at": "2026-10-25T02:27:41.934Z"
     },
     {
       "plugin_name": "ZLevelsRemastered",
