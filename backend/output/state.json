@@ -1,6 +1,6 @@
 {
   "version": "1.0",
-  "currentVariant": 16,
+  "currentVariant": 17,
   "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
@@ -6478,7 +6478,9 @@
     "OxideMod/oxidemod.org#threads/rust-io-clans.7292/page-13.html#6f36fa2ee75e9c47953240be984a2d1d10c57f74": true,
     "MrBlue/oxidemod.org#threads/rust-io-clans.7292/page-13.html#6f36fa2ee75e9c47953240be984a2d1d10c57f74": true,
     "OxideMod/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true,
-    "MrBlue/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true
+    "MrBlue/oxidemod.org#threads/craft-any-item-at-anytime.22051/index.html#0201def02435b2137d2b29bf887fed152f2399dc": true,
+    "Zer0x89A/Pvp-Toggle#PvpToggle.cs#75dc1a462817e87ecef7b9a1f51fa19b6f31bf53": true,
+    "PenisBlistashiq/Rust-plugins-236-240-dev#Antiddos.cs#a16290ee831d8f542ef4909e2074945470d28d64": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
