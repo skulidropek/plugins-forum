@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-24T21:47:30.323Z",
+  "generated_at": "2026-10-25T00:04:04.648Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41202,
+  "count": 41204,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "ZLevelsRemastered",
+      "plugin_author": "MONaH-Rasta",
+      "language": "C#",
+      "file": {
+        "path": "ZLevelsRemastered.cs",
+        "html_url": "https://github.com/MONaH-Rasta/ZLevelsRemastered/blob/45787c6026ca737c4dfa417c9ab1fa5c4a02caea/ZLevelsRemastered.cs",
+        "raw_url": "https://raw.githubusercontent.com/MONaH-Rasta/ZLevelsRemastered/main/ZLevelsRemastered.cs",
+        "sha": "1b38ef3416752e10ec27942dc973bb4c5a2ae52f"
+      },
+      "repository": {
+        "full_name": "MONaH-Rasta/ZLevelsRemastered",
+        "name": "ZLevelsRemastered",
+        "html_url": "https://github.com/MONaH-Rasta/ZLevelsRemastered",
+        "description": "Oxide plugin for Rust. Allows player to level up 5 different skills (Mining, Woodcutting, Crafting, Skinning, Aquire).",
+        "owner_login": "MONaH-Rasta",
+        "owner_url": "https://github.com/MONaH-Rasta",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-11-14T12:17:45Z"
+      },
+      "indexed_at": "2026-10-25T00:03:36.379Z"
+    },
+    {
+      "plugin_name": "TakaroConnector",
+      "plugin_author": "gettakaro",
+      "language": "C#",
+      "file": {
+        "path": "games/rust/mod/TakaroConnector.cs",
+        "html_url": "https://github.com/gettakaro/connectors/blob/3859fd8aaabdd0c391153671f8bb2f0c0e10d1ba/games/rust/mod/TakaroConnector.cs",
+        "raw_url": "https://raw.githubusercontent.com/gettakaro/connectors/main/games/rust/mod/TakaroConnector.cs",
+        "sha": "7ead9548ec46f522033f3d4624f26f08751e5d62"
+      },
+      "repository": {
+        "full_name": "gettakaro/connectors",
+        "name": "connectors",
+        "html_url": "https://github.com/gettakaro/connectors",
+        "description": "Official Takaro game connectors",
+        "owner_login": "gettakaro",
+        "owner_url": "https://github.com/gettakaro",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 1,
+        "created_at": "2026-04-12T06:48:42Z"
+      },
+      "indexed_at": "2026-10-25T00:01:01.759Z"
     },
     {
       "plugin_name": "BetterHopperController",
