@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T02:28:05.198Z",
+  "generated_at": "2026-10-25T23:55:55.409Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41205,
+  "count": 41219,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,356 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "LootSpawnLists",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/LootSpawnLists.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/LootSpawnLists.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/LootSpawnLists.cs",
+        "sha": "cdc7b9c35f757f2a51037ad189a3754fa021d6c7"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:55:37.432Z"
+    },
+    {
+      "plugin_name": "Prod",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/Prod.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/Prod.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/Prod.cs",
+        "sha": "ce93a5db7ede6bf849778b318b8565aa632185d1"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:55:36.501Z"
+    },
+    {
+      "plugin_name": "BlockBlockElevators",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/BlockBlockElevators.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/BlockBlockElevators.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/BlockBlockElevators.cs",
+        "sha": "e77ad4a9f76ed4573e526629b8b9cdaeb52ef7d7"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:54:49.167Z"
+    },
+    {
+      "plugin_name": "Waypoints",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Waypoints.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Waypoints.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Waypoints.cs",
+        "sha": "49bea04b17f59387cd6dd60354c57714d298d5bc"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:50:54.544Z"
+    },
+    {
+      "plugin_name": "BetterSay",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/B/BetterSay/BetterSay.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/B/BetterSay/BetterSay.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/B/BetterSay/BetterSay.cs",
+        "sha": "01ea5a7ee6ce471916f6032efd7405ff3f0ff95f"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-25T23:49:47.354Z"
+    },
+    {
+      "plugin_name": "Give",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Give.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Give.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Give.cs",
+        "sha": "857ed0cb099c1e1e7246eb60034aeb1256fc297f"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:48:31.728Z"
+    },
+    {
+      "plugin_name": "BuildingOwners",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/BuildingOwners.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/BuildingOwners.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/BuildingOwners.cs",
+        "sha": "42f0a4481e20e5daf752076aca4c83fef6b83d03"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:48:31.189Z"
+    },
+    {
+      "plugin_name": "CraftingController",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/CraftingController.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/CraftingController.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/CraftingController.cs",
+        "sha": "2cff37429da0417a569ed881fb3ef0b9f462a17c"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:48:30.712Z"
+    },
+    {
+      "plugin_name": "CleanUp",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/CleanUp.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/CleanUp.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/CleanUp.cs",
+        "sha": "c5e842c293953460fa18b93e476c53b0c04ba88b"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:48:26.435Z"
+    },
+    {
+      "plugin_name": "AntiGlitch",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/AntiGlitch.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/AntiGlitch.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/AntiGlitch.cs",
+        "sha": "e0b488d7b63d88f1ac74295daad3475269b481c4"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:47:36.037Z"
+    },
+    {
+      "plugin_name": "TimeManagement",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/TimeManagement.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/TimeManagement.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/TimeManagement.cs",
+        "sha": "a72e5d57083cf91647d341241e5c64013c07764f"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-25T23:47:33.899Z"
+    },
+    {
+      "plugin_name": "IgniterPlus",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/I/IgniterPlus/IgniterPlus.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/I/IgniterPlus/IgniterPlus.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/I/IgniterPlus/IgniterPlus.cs",
+        "sha": "9bd926c16aefe5b9e0e8901efe719128fc9a17d5"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-25T23:47:29.456Z"
+    },
+    {
+      "plugin_name": "BedWelcomer",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/B/BedWelcomer/BedWelcomer.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/B/BedWelcomer/BedWelcomer.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/B/BedWelcomer/BedWelcomer.cs",
+        "sha": "adca88028993501b94e55497a4ee4ee9cdea2f11"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-25T23:47:28.938Z"
+    },
+    {
+      "plugin_name": "ZoneVending",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/Z/ZoneVending/ZoneVending.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/Z/ZoneVending/ZoneVending.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/Z/ZoneVending/ZoneVending.cs",
+        "sha": "e47a37cdd2f513f7fea55b0ee15d01ceb9770653"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-25T23:47:28.480Z"
     },
     {
       "plugin_name": "farm-defaults",
