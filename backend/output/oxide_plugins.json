@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-25T23:55:55.409Z",
+  "generated_at": "2026-10-26T20:19:01.162Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41219,
+  "count": 41220,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "UseableShovels",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/U/UseableShovels/UseableShovels.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/U/UseableShovels/UseableShovels.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/U/UseableShovels/UseableShovels.cs",
+        "sha": "a73df5ecc26c5ab8776d525c44f94c7f2efe8411"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-26T20:18:56.720Z"
     },
     {
       "plugin_name": "LootSpawnLists",
