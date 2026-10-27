@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-26T20:19:01.162Z",
+  "generated_at": "2026-10-27T00:07:21.841Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41220,
+  "count": 41228,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,206 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "ZoneManager",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/ZoneManager.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/ZoneManager.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/ZoneManager.cs",
+        "sha": "4b5ee183523a9a3ee5b1a68de168263e2d014219"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:06:57.837Z"
+    },
+    {
+      "plugin_name": "Elevators",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Elevators.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Elevators.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Elevators.cs",
+        "sha": "c96125b66d4b8f3f93176525610d12444092650f"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:06:55.950Z"
+    },
+    {
+      "plugin_name": "Kits",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Kits.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Kits.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Kits.cs",
+        "sha": "542a1dbef87c641c0013e478983909576015a304"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:06:54.560Z"
+    },
+    {
+      "plugin_name": "AntiCheat",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/AntiCheat.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/AntiCheat.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/AntiCheat.cs",
+        "sha": "783920457545c4b356299b1aa22f21ceab40fa9e"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:05:25.488Z"
+    },
+    {
+      "plugin_name": "Kits",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/Kits.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/Kits.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/Kits.cs",
+        "sha": "953b811aa90c0dd0f829eb4a27c86569ba65b5a8"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:05:08.860Z"
+    },
+    {
+      "plugin_name": "KickBan",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/KickBan.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/KickBan.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/KickBan.cs",
+        "sha": "7e4267c799b344a788dc185b1cf658dfe3286e4e"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:05:07.834Z"
+    },
+    {
+      "plugin_name": "Spawns",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/Spawns.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/Spawns.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/Spawns.cs",
+        "sha": "b37117e5a1ebdaed03c515655b676e69e5199989"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:01:30.719Z"
+    },
+    {
+      "plugin_name": "SetHome",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/SetHome.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/SetHome.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/SetHome.cs",
+        "sha": "70d00b61e0288ea89cc41a0e831a590560c5451c"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T00:01:26.092Z"
     },
     {
       "plugin_name": "UseableShovels",
