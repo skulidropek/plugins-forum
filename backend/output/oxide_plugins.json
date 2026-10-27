@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T00:07:21.841Z",
+  "generated_at": "2026-10-27T03:41:27.774Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41228,
+  "count": 41229,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "CopyPaste",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/CopyPaste.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/CopyPaste.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/CopyPaste.cs",
+        "sha": "7b90d808278dcf7e4c3bc0ef80d47ce47613c320"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-27T03:40:57.739Z"
     },
     {
       "plugin_name": "ZoneManager",
