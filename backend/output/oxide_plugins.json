@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-29T01:12:42.627Z",
+  "generated_at": "2026-10-29T20:07:24.342Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41250,
+  "count": 41253,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,81 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "TicketToolLink",
+      "plugin_author": "ticket-tool-app",
+      "language": "C#",
+      "file": {
+        "path": "rust/src/TicketToolLink.cs",
+        "html_url": "https://github.com/ticket-tool-app/integrations/blob/87367dbf0106d532ec18625806982c28d01daeeb/rust/src/TicketToolLink.cs",
+        "raw_url": "https://raw.githubusercontent.com/ticket-tool-app/integrations/main/rust/src/TicketToolLink.cs",
+        "sha": "2f268978b09c650e1c94dc561c9c19e616c35c6f"
+      },
+      "repository": {
+        "full_name": "ticket-tool-app/integrations",
+        "name": "integrations",
+        "html_url": "https://github.com/ticket-tool-app/integrations",
+        "description": "Open-source game server plugins and SDKs for Ticket Tool, the Discord ticket bot",
+        "owner_login": "ticket-tool-app",
+        "owner_url": "https://github.com/ticket-tool-app",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-10-16T06:46:55Z"
+      },
+      "indexed_at": "2026-10-29T20:07:06.563Z"
+    },
+    {
+      "plugin_name": "GunGameMode",
+      "plugin_author": "Tacman1981",
+      "language": "C#",
+      "file": {
+        "path": "GunGameMode.cs",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins/blob/364d9c14b3ce79bb9c710d13c1c5ae4c3016aef8/GunGameMode.cs",
+        "raw_url": "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/GunGameMode.cs",
+        "sha": "84439b62260485e209eb3c0745a37b76a0e5c55f"
+      },
+      "repository": {
+        "full_name": "Tacman1981/Rust-Plugins",
+        "name": "Rust-Plugins",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins",
+        "description": "My collection of rust plugins that actually compiled and function as intended. More to be added as they are created. code that is blank just stopped working and i dont feel the urge to fix it",
+        "owner_login": "Tacman1981",
+        "owner_url": "https://github.com/Tacman1981",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-05-11T16:33:34Z"
+      },
+      "indexed_at": "2026-10-29T20:04:45.976Z"
+    },
+    {
+      "plugin_name": "FriendlyFire",
+      "plugin_author": "thelooddd",
+      "language": "C#",
+      "file": {
+        "path": "plugins/FriendlyFire.cs",
+        "html_url": "https://github.com/thelooddd/rust/blob/812ad1dd52e086126a285dd1e35770e8a073d08d/plugins/FriendlyFire.cs",
+        "raw_url": "https://raw.githubusercontent.com/thelooddd/rust/master/plugins/FriendlyFire.cs",
+        "sha": "18429e2d3de381d4bce9f60a677bba196975c39b"
+      },
+      "repository": {
+        "full_name": "thelooddd/rust",
+        "name": "rust",
+        "html_url": "https://github.com/thelooddd/rust",
+        "description": "Game mod of project rust created in 2016",
+        "owner_login": "thelooddd",
+        "owner_url": "https://github.com/thelooddd",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2021-07-15T14:15:20Z"
+      },
+      "indexed_at": "2026-10-29T20:03:00.027Z"
     },
     {
       "plugin_name": "DeathMessages",
