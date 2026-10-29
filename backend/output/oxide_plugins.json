@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-27T15:32:45.783Z",
+  "generated_at": "2026-10-29T01:12:42.627Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41233,
+  "count": 41250,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,431 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "DeathMessages",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/DeathMessages.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/DeathMessages.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/DeathMessages.cs",
+        "sha": "6d0d4b3ac964f234b97daca517ad2e906874d6d5"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:28.200Z"
+    },
+    {
+      "plugin_name": "AidropInBound",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/AidropInBound.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/AidropInBound.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/AidropInBound.cs",
+        "sha": "a821ce28ea4e46e167d2093eba19f853e4685ddc"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:27.733Z"
+    },
+    {
+      "plugin_name": "AdminRadar",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/AdminRadar.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/AdminRadar.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/AdminRadar.cs",
+        "sha": "44d37fe86169e45fc01b3e7146306ce6993ceef5"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:25.171Z"
+    },
+    {
+      "plugin_name": "DoorShare",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/DoorShare.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/DoorShare.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/DoorShare.cs",
+        "sha": "d73fc60c4904739a7c55d183453bd2226063acbf"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:24.199Z"
+    },
+    {
+      "plugin_name": "VACKicker",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/VACKicker.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/VACKicker.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/VACKicker.cs",
+        "sha": "40a6bb5401d1b2658cd1a827fc2b45d4151ba032"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:23.720Z"
+    },
+    {
+      "plugin_name": "Lanterns",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Lanterns.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Lanterns.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Lanterns.cs",
+        "sha": "0cc15a1d02769809122a8ddca09f3a0d3edc3a8b"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:22.233Z"
+    },
+    {
+      "plugin_name": "Save",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "CSharp/Save.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/CSharp/Save.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/CSharp/Save.cs",
+        "sha": "8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:20.706Z"
+    },
+    {
+      "plugin_name": "Fly",
+      "plugin_author": "Rahulsinghz",
+      "language": "C#",
+      "file": {
+        "path": "Legacy/Fly.cs",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins/blob/48059b5b509bd0baccef00f9b15f6440189c3d3e/Legacy/Fly.cs",
+        "raw_url": "https://raw.githubusercontent.com/Rahulsinghz/Oxide2Plugins/master/Legacy/Fly.cs",
+        "sha": "74888b86ca6c148134d58abb385afe5f6ed78d9c"
+      },
+      "repository": {
+        "full_name": "Rahulsinghz/Oxide2Plugins",
+        "name": "Oxide2Plugins",
+        "html_url": "https://github.com/Rahulsinghz/Oxide2Plugins",
+        "description": "Oxide 2 Plugins",
+        "owner_login": "Rahulsinghz",
+        "owner_url": "https://github.com/Rahulsinghz",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2019-04-29T16:30:38Z"
+      },
+      "indexed_at": "2026-10-29T01:12:18.729Z"
+    },
+    {
+      "plugin_name": "ArenaWalls",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/ArenaWalls/ArenaWalls.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/ArenaWalls/ArenaWalls.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/ArenaWalls/ArenaWalls.cs",
+        "sha": "fbf0f84515a1c91da34907aa6c1da02a7e341b00"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:14.311Z"
+    },
+    {
+      "plugin_name": "CustomIcon",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/CustomIcon/CustomIcon.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/CustomIcon/CustomIcon.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/CustomIcon/CustomIcon.cs",
+        "sha": "c41620915406970fb3621cb9ff9b54ad40424498"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:13.776Z"
+    },
+    {
+      "plugin_name": "CraterNote",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/CraterNote/CraterNote.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/CraterNote/CraterNote.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/CraterNote/CraterNote.cs",
+        "sha": "9303db3334afe6aab919961e33b78bafe5e74748"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:13.293Z"
+    },
+    {
+      "plugin_name": "KillHealth",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/K/KillHealth/KillHealth.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/K/KillHealth/KillHealth.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/K/KillHealth/KillHealth.cs",
+        "sha": "e71e9b0d13aa5ff970f89ed2d0f069f26294dd58"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:12.788Z"
+    },
+    {
+      "plugin_name": "Analytics",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/Analytics/Analytics.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/Analytics/Analytics.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/Analytics/Analytics.cs",
+        "sha": "0f80eb1e0f9fb8274da940655a430f557b24b0a8"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:07.007Z"
+    },
+    {
+      "plugin_name": "PlantDrop",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/P/PlantDrop/PlantDrop.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/P/PlantDrop/PlantDrop.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/P/PlantDrop/PlantDrop.cs",
+        "sha": "77072e85ec9e2034b4a12cacffda3956303499b2"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:06.554Z"
+    },
+    {
+      "plugin_name": "NPCHealth",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/N/NPCHealth/NPCHealth.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/N/NPCHealth/NPCHealth.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/N/NPCHealth/NPCHealth.cs",
+        "sha": "5a86662265d6473d74f103d5c12d635d69620090"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:06.073Z"
+    },
+    {
+      "plugin_name": "DeathChat",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/D/DeathChat/DeathChat.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/D/DeathChat/DeathChat.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/D/DeathChat/DeathChat.cs",
+        "sha": "7b77eb3f68a631e835e4f2ca7ef891e8f05b9e4a"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-10-29T01:12:05.569Z"
+    },
+    {
+      "plugin_name": "SAMSiteAuth",
+      "plugin_author": "WheteThunger",
+      "language": "C#",
+      "file": {
+        "path": "SAMSiteAuth.cs",
+        "html_url": "https://github.com/WheteThunger/rustplugin-samsiteauth/blob/99714bd965f61606c91a6ba28c3b59259363c26d/SAMSiteAuth.cs",
+        "raw_url": "https://raw.githubusercontent.com/WheteThunger/rustplugin-samsiteauth/master/SAMSiteAuth.cs",
+        "sha": "c107c88e2fa3cedfc4d980981b6b4b96d64240eb"
+      },
+      "repository": {
+        "full_name": "WheteThunger/rustplugin-samsiteauth",
+        "name": "rustplugin-samsiteauth",
+        "html_url": "https://github.com/WheteThunger/rustplugin-samsiteauth",
+        "description": "Makes SAM Sites act in a similar fashion to shotgun traps and flame turrets",
+        "owner_login": "WheteThunger",
+        "owner_url": "https://github.com/WheteThunger",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2022-05-22T04:05:16Z"
+      },
+      "indexed_at": "2026-10-29T01:11:24.437Z"
     },
     {
       "plugin_name": "EventManager",
