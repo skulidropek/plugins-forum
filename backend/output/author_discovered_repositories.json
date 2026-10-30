@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T05:21:14.369Z",
+  "generated_at": "2026-10-30T12:44:41.849Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1510,
+  "count": 1512,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -1471,9 +1471,11 @@
     "tebexio/Tebex-Rust",
     "terex-mint/NoNoSteam",
     "ternpixel/plugins",
+    "thelooddd/rust",
     "thenetimp/NoNameChange",
     "thenetimp/Rust_SystemNotifications",
     "thetimmyman/WH40K-Rust-Plugin",
+    "ticket-tool-app/integrations",
     "tolland/incursion",
     "tom-does-code/EventRandomizer",
     "trentbredahl-sudo/Rust_Sandbox_Mod",
