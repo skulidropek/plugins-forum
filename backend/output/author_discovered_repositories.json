@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-30T22:27:15.886Z",
+  "generated_at": "2026-10-31T05:07:53.428Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1512,
+  "count": 1513,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -123,6 +123,7 @@
     "FritoQC/ServerSave",
     "Fritoqc/ServerSave",
     "FtuoilXelrash/CelestialBarrage",
+    "FtuoilXelrash/OxidePack",
     "FtuoilXelrash/rAlwaysDay",
     "FtuoilXelrash/rBumShacks",
     "FtuoilXelrash/rCEventScheduler",
