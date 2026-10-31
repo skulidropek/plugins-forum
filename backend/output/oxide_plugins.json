@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T06:32:11.044Z",
+  "generated_at": "2026-10-31T20:40:09.036Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41258,
+  "count": 41259,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "DroneTurrets",
+      "plugin_author": "WheteThunger",
+      "language": "C#",
+      "file": {
+        "path": "DroneTurrets.cs",
+        "html_url": "https://github.com/WheteThunger/DroneTurrets/blob/96efacdacfc6fbd0e2c0768bb87afda7caba315c/DroneTurrets.cs",
+        "raw_url": "https://raw.githubusercontent.com/WheteThunger/DroneTurrets/master/DroneTurrets.cs",
+        "sha": "562976f45f74135d66d6676876fc0d7cca409715"
+      },
+      "repository": {
+        "full_name": "WheteThunger/DroneTurrets",
+        "name": "DroneTurrets",
+        "html_url": "https://github.com/WheteThunger/DroneTurrets",
+        "description": "Allows players to deploy auto turrets onto RC drones",
+        "owner_login": "WheteThunger",
+        "owner_url": "https://github.com/WheteThunger",
+        "default_branch": "master",
+        "stargazers_count": 0,
+        "forks_count": 1,
+        "open_issues_count": 0,
+        "created_at": "2021-03-22T09:20:22Z"
+      },
+      "indexed_at": "2026-10-31T20:39:52.493Z"
     },
     {
       "plugin_name": "DeathNotes",
