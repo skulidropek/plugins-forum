@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-31T23:57:45.896Z",
+  "generated_at": "2026-11-01T10:49:24.440Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41261,
+  "count": 41263,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "Kits",
+      "plugin_author": "mtvProof",
+      "language": "C#",
+      "file": {
+        "path": "oxide/plugins/Kits.cs",
+        "html_url": "https://github.com/mtvProof/BuildServerFiles/blob/b19a640a645061fb737cd031a8c0aab862436dad/oxide/plugins/Kits.cs",
+        "raw_url": "https://raw.githubusercontent.com/mtvProof/BuildServerFiles/main/oxide/plugins/Kits.cs",
+        "sha": "e9da4e8c21a9780c008810a29832a3d297f16e97"
+      },
+      "repository": {
+        "full_name": "mtvProof/BuildServerFiles",
+        "name": "BuildServerFiles",
+        "html_url": "https://github.com/mtvProof/BuildServerFiles",
+        "description": null,
+        "owner_login": "mtvProof",
+        "owner_url": "https://github.com/mtvProof",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-21T21:18:54Z"
+      },
+      "indexed_at": "2026-11-01T10:49:11.915Z"
+    },
+    {
+      "plugin_name": "EasyVoteExtended",
+      "plugin_author": "dfxphoenix",
+      "language": "C#",
+      "file": {
+        "path": "EasyVoteExtended.cs",
+        "html_url": "https://github.com/dfxphoenix/EasyVoteExtended/blob/7c1d7813ccb0d2b5c1efb0c3b09b9ede876ef501/EasyVoteExtended.cs",
+        "raw_url": "https://raw.githubusercontent.com/dfxphoenix/EasyVoteExtended/main/EasyVoteExtended.cs",
+        "sha": "0258d6a0f1376815d45e547b1ddf4485c95d0a19"
+      },
+      "repository": {
+        "full_name": "dfxphoenix/EasyVoteExtended",
+        "name": "EasyVoteExtended",
+        "html_url": "https://github.com/dfxphoenix/EasyVoteExtended",
+        "description": "Easy Vote Extended is an upgraded version of Easy Vote, the most advanced and versatile voting plugin available, designed to enhance player engagement and community interaction effortlessly.",
+        "owner_login": "dfxphoenix",
+        "owner_url": "https://github.com/dfxphoenix",
+        "default_branch": "main",
+        "stargazers_count": 1,
+        "forks_count": 1,
+        "open_issues_count": 0,
+        "created_at": "2025-02-11T22:35:43Z"
+      },
+      "indexed_at": "2026-11-01T10:46:27.160Z"
     },
     {
       "plugin_name": "LustyMap",
