@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 15,
-  "currentPage": 5,
+  "currentPage": 7,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Fly.cs#74888b86ca6c148134d58abb385afe5f6ed78d9c": true,
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
@@ -6492,7 +6492,12 @@
     "OxideMod/oxidemod.org#threads/destroying-timers-c.9962/index.html#096b4915409f553d453f11feb017235a04a65d3d": true,
     "MrBlue/oxidemod.org#threads/destroying-timers-c.9962/index.html#096b4915409f553d453f11feb017235a04a65d3d": true,
     "OxideMod/oxidemod.org#threads/enhancedbansystem.18587/page-32.html#6c23fce1e95199e16ab6ea9791017913e8c8fb89": true,
-    "MrBlue/oxidemod.org#threads/enhancedbansystem.18587/page-32.html#6c23fce1e95199e16ab6ea9791017913e8c8fb89": true
+    "MrBlue/oxidemod.org#threads/enhancedbansystem.18587/page-32.html#6c23fce1e95199e16ab6ea9791017913e8c8fb89": true,
+    "OxideMod/oxidemod.org#threads/parsing-json-from-webrequest.21007/index.html#48371d3e4b4662a068b2a8715f94b7be162ee05f": true,
+    "MrBlue/oxidemod.org#threads/parsing-json-from-webrequest.21007/index.html#48371d3e4b4662a068b2a8715f94b7be162ee05f": true,
+    "OxideMod/oxidemod.org#threads/error-message-when-loading-plugin.30503/index.html#73a54e84029d3f451a79e0cda057e193a272c6ac": true,
+    "MrBlue/oxidemod.org#threads/error-message-when-loading-plugin.30503/index.html#73a54e84029d3f451a79e0cda057e193a272c6ac": true,
+    "rube200/Oxide.Ext.DllLoader#README.md#40e304d233acf53438be5ce3af5310d7cf4e9640": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
