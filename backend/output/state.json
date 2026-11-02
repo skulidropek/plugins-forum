@@ -1,7 +1,7 @@
 {
   "version": "1.0",
   "currentVariant": 15,
-  "currentPage": 7,
+  "currentPage": 8,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Fly.cs#74888b86ca6c148134d58abb385afe5f6ed78d9c": true,
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
@@ -6497,7 +6497,14 @@
     "MrBlue/oxidemod.org#threads/parsing-json-from-webrequest.21007/index.html#48371d3e4b4662a068b2a8715f94b7be162ee05f": true,
     "OxideMod/oxidemod.org#threads/error-message-when-loading-plugin.30503/index.html#73a54e84029d3f451a79e0cda057e193a272c6ac": true,
     "MrBlue/oxidemod.org#threads/error-message-when-loading-plugin.30503/index.html#73a54e84029d3f451a79e0cda057e193a272c6ac": true,
-    "rube200/Oxide.Ext.DllLoader#README.md#40e304d233acf53438be5ce3af5310d7cf4e9640": true
+    "rube200/Oxide.Ext.DllLoader#README.md#40e304d233acf53438be5ce3af5310d7cf4e9640": true,
+    "gjdunga/rust-plugin-standard#STANDARD.md#d5f486e86c9c0818b3b03e02f7256e3f09dcfedb": true,
+    "OxideMod/oxidemod.org#threads/baseplayer-kill-throws-nullreferenceexception.17162/index.html#44fa16ac39f542c07af46dcc0feb670a163d1381": true,
+    "MrBlue/oxidemod.org#threads/baseplayer-kill-throws-nullreferenceexception.17162/index.html#44fa16ac39f542c07af46dcc0feb670a163d1381": true,
+    "OxideMod/oxidemod.org#threads/playersession-could-not-be-found-outdated-server.13577/index.html#982774819b4eb7aeb4d96a7aa5e640b394a96aa9": true,
+    "MrBlue/oxidemod.org#threads/playersession-could-not-be-found-outdated-server.13577/index.html#982774819b4eb7aeb4d96a7aa5e640b394a96aa9": true,
+    "OxideMod/oxidemod.org#threads/eventmanager.6162/page-83.html#b729d6218d68fc40307c98a7aa97b73b4fa6685f": true,
+    "MrBlue/oxidemod.org#threads/eventmanager.6162/page-83.html#b729d6218d68fc40307c98a7aa97b73b4fa6685f": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
