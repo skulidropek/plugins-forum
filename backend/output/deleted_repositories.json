@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-01T08:52:36.800Z",
-  "count": 135,
+  "generated_at": "2026-11-02T09:00:38.215Z",
+  "count": 137,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -54,6 +54,7 @@
     "Wrecks830/RaidableShelters",
     "Wrecks830/WhatIsIt",
     "Wrecks830/rustplugin-scraponomics",
+    "Zackslay/RustStats",
     "abolfazl3133/leaked_new_rust_plugins_AI_Dumped",
     "aethyriion/gaming-platform",
     "build6477-ship-it/RustPluginsDumpWithAI",
@@ -130,6 +131,7 @@
     "osirislab/LeakyPastes-V2",
     "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
+    "sakkuntyo/docker-rust-server",
     "st-little/rust-plugin-development",
     "sthebzpnkt/Skinbox",
     "thetimmyman/WH40K-Rust-Plugin",
