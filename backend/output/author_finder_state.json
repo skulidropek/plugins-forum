@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-11-01T05:10:33.056Z",
-  "current_author_index": 410,
+  "last_updated": "2026-11-06T06:07:13.063Z",
+  "current_author_index": 420,
   "processed_authors": {
     "djimbou92": {
       "last_processed": "2026-10-29T22:38:52.478Z",
@@ -1108,18 +1108,18 @@
       "success": true
     },
     "gmh5225": {
-      "last_processed": "2026-10-21T17:11:55.287Z",
+      "last_processed": "2026-11-06T06:04:27.372Z",
       "repositories_found": 0,
-      "success": true,
-      "error": "Skipped - too many repositories (38647)"
+      "success": false,
+      "error": "HTTP 502: Bad Gateway"
     },
     "ImKiri86": {
-      "last_processed": "2026-10-21T17:11:55.438Z",
+      "last_processed": "2026-11-06T06:04:29.493Z",
       "repositories_found": 0,
       "success": true
     },
     "John-Willikers": {
-      "last_processed": "2026-10-21T17:12:41.926Z",
+      "last_processed": "2026-11-06T06:05:10.811Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1134,13 +1134,13 @@
       "success": true
     },
     "bradygaster": {
-      "last_processed": "2026-10-21T17:12:46.062Z",
+      "last_processed": "2026-11-06T06:05:15.038Z",
       "repositories_found": 0,
       "success": true,
-      "error": "Skipped - too many repositories (103)"
+      "error": "Skipped - too many repositories (107)"
     },
     "TOWUK": {
-      "last_processed": "2026-10-21T17:12:56.294Z",
+      "last_processed": "2026-11-06T06:05:26.549Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1150,17 +1150,17 @@
       "success": true
     },
     "yacvaguer": {
-      "last_processed": "2026-10-21T17:13:00.977Z",
+      "last_processed": "2026-11-06T06:05:31.262Z",
       "repositories_found": 3,
       "success": true
     },
     "connorrichlen": {
-      "last_processed": "2026-10-21T17:13:18.030Z",
+      "last_processed": "2026-11-06T06:05:47.851Z",
       "repositories_found": 4,
       "success": true
     },
     "FireIce7": {
-      "last_processed": "2026-10-21T17:13:29.944Z",
+      "last_processed": "2026-11-06T06:05:59.046Z",
       "repositories_found": 1,
       "success": true
     },
@@ -1170,12 +1170,12 @@
       "success": true
     },
     "xaray": {
-      "last_processed": "2026-10-21T17:13:32.926Z",
+      "last_processed": "2026-11-06T06:06:02.011Z",
       "repositories_found": 1,
       "success": true
     },
     "dcodeIO": {
-      "last_processed": "2026-10-21T17:14:53.864Z",
+      "last_processed": "2026-11-06T06:07:13.063Z",
       "repositories_found": 1,
       "success": true
     },
