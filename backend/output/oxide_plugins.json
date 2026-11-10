@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-08T20:51:04.968Z",
+  "generated_at": "2026-11-10T00:55:21.091Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41264,
+  "count": 41266,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "CH47AndMiniCopterSpawner",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/C/CH47AndMiniCopterSpawner/CH47AndMiniCopterSpawner.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/C/CH47AndMiniCopterSpawner/CH47AndMiniCopterSpawner.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/C/CH47AndMiniCopterSpawner/CH47AndMiniCopterSpawner.cs",
+        "sha": "5692b2c199c858369e7fae49fa12e77160db4015"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-11-10T00:55:18.780Z"
+    },
+    {
+      "plugin_name": "AutoSignModeration",
+      "plugin_author": "KopatychUSSR",
+      "language": "C#",
+      "file": {
+        "path": "plugins/A/AutoSignModeration/AutoSignModeration.cs",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset/blob/0d5651620482283a2d41349f19676a7a36895f42/plugins/A/AutoSignModeration/AutoSignModeration.cs",
+        "raw_url": "https://raw.githubusercontent.com/KopatychUSSR/umod-pluigns-dataset/main/plugins/A/AutoSignModeration/AutoSignModeration.cs",
+        "sha": "e78e7f472c1826cd0784629474ed77286a813756"
+      },
+      "repository": {
+        "full_name": "KopatychUSSR/umod-pluigns-dataset",
+        "name": "umod-pluigns-dataset",
+        "html_url": "https://github.com/KopatychUSSR/umod-pluigns-dataset",
+        "description": "Plugins rust oxide",
+        "owner_login": "KopatychUSSR",
+        "owner_url": "https://github.com/KopatychUSSR",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-03-24T13:13:16Z"
+      },
+      "indexed_at": "2026-11-10T00:55:13.926Z"
     },
     {
       "plugin_name": "TPR",
