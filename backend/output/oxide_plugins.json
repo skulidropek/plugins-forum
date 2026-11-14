@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-10T00:55:21.091Z",
+  "generated_at": "2026-11-14T09:44:04.808Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41266,
+  "count": 41267,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,31 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "RustApp",
+      "plugin_author": "Mak7Mzh",
+      "language": "C#",
+      "file": {
+        "path": "plugins/rust/RustApp.cs",
+        "html_url": "https://github.com/Mak7Mzh/plugin/blob/53a63ad37b52b28c0c66b4af4ce305bc5eb0f79b/plugins/rust/RustApp.cs",
+        "raw_url": "https://raw.githubusercontent.com/Mak7Mzh/plugin/main/plugins/rust/RustApp.cs",
+        "sha": "c18d98704cbf5cae3ec0ac1103640f46e2a002d3"
+      },
+      "repository": {
+        "full_name": "Mak7Mzh/plugin",
+        "name": "plugin",
+        "html_url": "https://github.com/Mak7Mzh/plugin",
+        "description": "RUST plugin for connecting and ensuring the complete functionality of the RustApp service.",
+        "owner_login": "Mak7Mzh",
+        "owner_url": "https://github.com/Mak7Mzh",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-20T15:33:12Z"
+      },
+      "indexed_at": "2026-11-14T09:43:39.932Z"
     },
     {
       "plugin_name": "CH47AndMiniCopterSpawner",
