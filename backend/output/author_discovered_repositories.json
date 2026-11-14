@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-14T05:54:59.375Z",
+  "generated_at": "2026-11-14T13:35:14.062Z",
   "source": "Author repository discovery from plugin authors",
-  "count": 1514,
+  "count": 1519,
   "repositories": [
     "006mi4/TheAdminpanel-GUI-Rust",
     "0killrest/Other-plugins-rust",
@@ -286,6 +286,11 @@
     "Mabel8686/RustPlugins",
     "Mabel8686/VehicleLicense",
     "Mabel8686/VehicleStorage",
+    "Mak7Mzh/DynamicMaxPlayers",
+    "Mak7Mzh/Ghost-Corpse-Fix",
+    "Mak7Mzh/Player-Ping-Report",
+    "Mak7Mzh/StackSizeController",
+    "Mak7Mzh/plugin",
     "MaltrzD/SteamVoiceEncoder",
     "MateoTaylor/Rust-Reinforcement-Learning",
     "Mateuus/RustAgent",
