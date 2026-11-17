@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-16T09:11:26.694Z",
-  "count": 139,
+  "generated_at": "2026-11-17T10:16:48.921Z",
+  "count": 141,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -59,6 +59,8 @@
     "abolfazl3133/leaked_new_rust_plugins_AI_Dumped",
     "aethyriion/gaming-platform",
     "build6477-ship-it/RustPluginsDumpWithAI",
+    "collectVood/uMod-Plugins",
+    "collectVood/uModPlugins",
     "db13256-hash/Rust-arena-plugin-leaderboard",
     "eandersson/RustWars",
     "eandersson/rustarena",
