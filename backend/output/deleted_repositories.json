@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-17T10:16:48.921Z",
-  "count": 141,
+  "generated_at": "2026-11-18T09:52:13.151Z",
+  "count": 145,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -35,6 +35,7 @@
     "HeyImDionysus/unraider",
     "HizenLabs/Carbon",
     "HunterZ/Carbon",
+    "ImKiri86/VIPPlaytime",
     "LosGranada/MyRustServer",
     "Mateuus/RustAgent",
     "PlaySafeID/playsafe-id-community-plugins",
@@ -112,6 +113,7 @@
     "jerkypaisen/code-memo",
     "jerkypaisen/rust-custom-3d-display",
     "joaolucasdsp/Monocle",
+    "kirii86/VIPPlaytime",
     "krypton2355/rust-linuxgsm-watchdog",
     "l0cks-acab/BMChecker",
     "l0cks-acab/BlackJackGamble",
@@ -132,6 +134,8 @@
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
     "networkluki/Rust-Work-Project-networkluki",
+    "oscarcodedev/VIPPlaytime",
+    "oscarxdev/VIPPlaytime",
     "osirislab/LeakyPastes-V2",
     "razorfish-sl/PlayerAdministration-1",
     "ryanscarpelli/TradeLog",
