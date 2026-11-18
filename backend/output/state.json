@@ -1,7 +1,7 @@
 {
   "version": "1.0",
-  "currentVariant": 1,
-  "currentPage": 8,
+  "currentVariant": 2,
+  "currentPage": 1,
   "seenKeys": {
     "strykes/Oxide2Plugins#Legacy/Fly.cs#74888b86ca6c148134d58abb385afe5f6ed78d9c": true,
     "strykes/Oxide2Plugins#CSharp/Save.cs#8bcf52ae7d76438123ddd4b7d2e6f9e5c3ec8b92": true,
@@ -776,7 +776,9 @@
     "RustServers-IO/oxideplugins#rust/WellFed.cs#09d5aad85addd5a1ece4968bc156a1ac56509258": true,
     "PenisBlistashiq/Rust-plugins-236-240-dev#ProxyBlocker.cs#f8dcec9144c96b86e2ef18c7425f96a13be472b4": true,
     "Calytic/oxideplugins#rust/TimeSet.cs#d7107b5b19035c4c797c6465e487947e7fb457e5": true,
-    "Tyler-Lopez/SignUploadAPI#src/commands.cs#a6d3da2e8a22cf54d2baa75206f3cc5c646aef74": true
+    "Tyler-Lopez/SignUploadAPI#src/commands.cs#a6d3da2e8a22cf54d2baa75206f3cc5c646aef74": true,
+    "13dasd123/https-slivrust-plugin.ru-#https-slivrust-plugin.ru/Ебнутая база/TrashRust/SystemRPG.cs#8cd191bdb02e972edac3e0b6d6ef541cedd5dc50": true,
+    "CarbonCommunity/Carbon.Oxide#src/Covalence/IPlayer.cs#bdf06049a1a6dab3a811422a91ceb92fcdfa3521": true
   },
   "repoCache": {
     "chucklenugget/imperium": {
