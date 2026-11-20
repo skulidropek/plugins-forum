@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-19T04:25:08.457Z",
+  "generated_at": "2026-11-20T02:51:17.452Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41268,
+  "count": 41270,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,56 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "RustHooks",
+      "plugin_author": "TurtleMcTurtle",
+      "language": "C#",
+      "file": {
+        "path": "src/RustHooks.cs",
+        "html_url": "https://github.com/TurtleMcTurtle/Oxide.Rust/blob/aa85087dbf8ae6129d0c28da7680915f3ff56895/src/RustHooks.cs",
+        "raw_url": "https://raw.githubusercontent.com/TurtleMcTurtle/Oxide.Rust/develop/src/RustHooks.cs",
+        "sha": "6b955b04d19767c84e2082dd0fe3c3c6ab379ed0"
+      },
+      "repository": {
+        "full_name": "TurtleMcTurtle/Oxide.Rust",
+        "name": "Oxide.Rust",
+        "html_url": "https://github.com/TurtleMcTurtle/Oxide.Rust",
+        "description": "Rust game extension for the Oxide modding framework",
+        "owner_login": "TurtleMcTurtle",
+        "owner_url": "https://github.com/TurtleMcTurtle",
+        "default_branch": "develop",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-07-03T02:12:47Z"
+      },
+      "indexed_at": "2026-11-20T02:51:10.903Z"
+    },
+    {
+      "plugin_name": "RustAppLite",
+      "plugin_author": "Mak7Mzh",
+      "language": "C#",
+      "file": {
+        "path": "plugins/rust/RustAppLite.cs",
+        "html_url": "https://github.com/Mak7Mzh/plugin/blob/53a63ad37b52b28c0c66b4af4ce305bc5eb0f79b/plugins/rust/RustAppLite.cs",
+        "raw_url": "https://raw.githubusercontent.com/Mak7Mzh/plugin/main/plugins/rust/RustAppLite.cs",
+        "sha": "73d99889949cc0f2e641b9eca205c2056a2c7bc3"
+      },
+      "repository": {
+        "full_name": "Mak7Mzh/plugin",
+        "name": "plugin",
+        "html_url": "https://github.com/Mak7Mzh/plugin",
+        "description": "RUST plugin for connecting and ensuring the complete functionality of the RustApp service.",
+        "owner_login": "Mak7Mzh",
+        "owner_url": "https://github.com/Mak7Mzh",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-01-20T15:33:12Z"
+      },
+      "indexed_at": "2026-11-20T02:50:46.117Z"
     },
     {
       "plugin_name": "WipeTime",
