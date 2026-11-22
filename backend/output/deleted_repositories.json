@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-11-21T09:21:12.430Z",
-  "count": 147,
+  "generated_at": "2026-11-22T09:28:59.209Z",
+  "count": 148,
   "repositories": [
     "13dasd123/Rust-School-Plugins",
     "13dasd123/RustPluginsDumpWithAI",
@@ -134,6 +134,7 @@
     "l0cks-acab/SAMSiteReach",
     "l0cks-acab/SpawnHorde",
     "l0cks-acab/StatTracker",
+    "mazurk4/rust-game-wabi",
     "mtvProof/BuildServerFiles",
     "networkluki/Rust-Work-Project-networkluki",
     "oscarcodedev/VIPPlaytime",
