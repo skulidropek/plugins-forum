@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-20T02:51:17.452Z",
+  "generated_at": "2026-11-26T13:05:18.714Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41270,
+  "count": 41273,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,81 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "DynamicMaxPlayers",
+      "plugin_author": "Mak7Mzh",
+      "language": "C#",
+      "file": {
+        "path": "DynamicMaxPlayers.cs",
+        "html_url": "https://github.com/Mak7Mzh/DynamicMaxPlayers/blob/b00f8e14d62a64d9040cbe505af0c470687acb6e/DynamicMaxPlayers.cs",
+        "raw_url": "https://raw.githubusercontent.com/Mak7Mzh/DynamicMaxPlayers/main/DynamicMaxPlayers.cs",
+        "sha": "eae155422c00fa2c3ef7eae9d86f607eaf9936fb"
+      },
+      "repository": {
+        "full_name": "Mak7Mzh/DynamicMaxPlayers",
+        "name": "DynamicMaxPlayers",
+        "html_url": "https://github.com/Mak7Mzh/DynamicMaxPlayers",
+        "description": "Rust Plugin | Scale maxplayers by current online",
+        "owner_login": "Mak7Mzh",
+        "owner_url": "https://github.com/Mak7Mzh",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2025-12-24T14:54:45Z"
+      },
+      "indexed_at": "2026-11-26T13:05:02.264Z"
+    },
+    {
+      "plugin_name": "drug",
+      "plugin_author": "Crushedice",
+      "language": "C#",
+      "file": {
+        "path": "rust legacy/drug.cs",
+        "html_url": "https://github.com/Crushedice/LatestPlugins/blob/22de73885c5d27a1b21a80c26e7b27f621eac5a5/rust legacy/drug.cs",
+        "raw_url": "https://raw.githubusercontent.com/Crushedice/LatestPlugins/master/rust legacy/drug.cs",
+        "sha": "a671502ada066b56c25ac526997f79adec764959"
+      },
+      "repository": {
+        "full_name": "Crushedice/LatestPlugins",
+        "name": "LatestPlugins",
+        "html_url": "https://github.com/Crushedice/LatestPlugins",
+        "description": "our latest plugins of the server to have a source",
+        "owner_login": "Crushedice",
+        "owner_url": "https://github.com/Crushedice",
+        "default_branch": "master",
+        "stargazers_count": 2,
+        "forks_count": 2,
+        "open_issues_count": 0,
+        "created_at": "2017-04-17T08:02:39Z"
+      },
+      "indexed_at": "2026-11-26T13:03:05.390Z"
+    },
+    {
+      "plugin_name": "drug",
+      "plugin_author": "Calytic",
+      "language": "C#",
+      "file": {
+        "path": "rust legacy/drug.cs",
+        "html_url": "https://github.com/Calytic/oxideplugins/blob/9da63dfaebec960d94645e5d38b4281bb3bd8c8d/rust legacy/drug.cs",
+        "raw_url": "https://raw.githubusercontent.com/Calytic/oxideplugins/master/rust legacy/drug.cs",
+        "sha": "a671502ada066b56c25ac526997f79adec764959"
+      },
+      "repository": {
+        "full_name": "Calytic/oxideplugins",
+        "name": "oxideplugins",
+        "html_url": "https://github.com/Calytic/oxideplugins",
+        "description": "oxide plugin repo",
+        "owner_login": "Calytic",
+        "owner_url": "https://github.com/Calytic",
+        "default_branch": "master",
+        "stargazers_count": 25,
+        "forks_count": 49,
+        "open_issues_count": 1,
+        "created_at": "2016-04-10T14:04:26Z"
+      },
+      "indexed_at": "2026-11-26T13:02:32.775Z"
     },
     {
       "plugin_name": "RustHooks",
