@@ -1,5 +1,5 @@
 {
-  "last_updated": "2026-11-26T21:26:11.149Z",
+  "last_updated": "2026-11-27T07:30:38.601Z",
   "current_author_index": 0,
   "processed_authors": {
     "djimbou92": {
@@ -2675,10 +2675,15 @@
       "success": true
     },
     "grimslice": {
-      "last_processed": "2026-11-19T15:30:16.551Z",
+      "last_processed": "2026-11-27T07:30:38.598Z",
       "repositories_found": 0,
       "success": true,
       "error": "Skipped - too many repositories (509)"
+    },
+    "Complicatons": {
+      "last_processed": "2026-11-27T07:30:22.675Z",
+      "repositories_found": 1,
+      "success": true
     }
   },
   "discovered_repositories": [
@@ -4205,6 +4210,7 @@
     "Swishhyy/Anti-Offline",
     "Swishhyy/RZombies-Reworked",
     "SeesAll/CraftingController-Enhanced",
-    "SeesAll/WaterlessSprinklers-Fixed"
+    "SeesAll/WaterlessSprinklers-Fixed",
+    "Complicatons/rust-legacy-browser-open"
   ]
 }
