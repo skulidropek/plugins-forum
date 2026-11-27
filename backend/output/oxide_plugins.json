@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-26T13:05:18.714Z",
+  "generated_at": "2026-11-27T04:32:29.332Z",
   "query": "namespace Oxide.Plugins in:file language:C# extension:cs",
-  "count": 41273,
+  "count": 41280,
   "items": [
     {
       "plugin_name": "SimpleScrapShop",
@@ -29681,6 +29681,181 @@
           "html_url": "https://github.com/pedroivorbgrodrigues/hunt/commit/c2d20eaa904704e8499548f4859f1f1fc0283bfd"
         }
       }
+    },
+    {
+      "plugin_name": "ScientistPatrols",
+      "plugin_author": "Swishhyy",
+      "language": "C#",
+      "file": {
+        "path": "ScientistPatrols/ScientistPatrols.cs",
+        "html_url": "https://github.com/Swishhyy/Swishhyys-Rust-Plugins/blob/9af901deca2153be8cf199797cceec9821201a35/ScientistPatrols/ScientistPatrols.cs",
+        "raw_url": "https://raw.githubusercontent.com/Swishhyy/Swishhyys-Rust-Plugins/main/ScientistPatrols/ScientistPatrols.cs",
+        "sha": "4615800e382520b9d395dacfe412e378a2ca3bd0"
+      },
+      "repository": {
+        "full_name": "Swishhyy/Swishhyys-Rust-Plugins",
+        "name": "Swishhyys-Rust-Plugins",
+        "html_url": "https://github.com/Swishhyy/Swishhyys-Rust-Plugins",
+        "description": null,
+        "owner_login": "Swishhyy",
+        "owner_url": "https://github.com/Swishhyy",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-11-26T15:51:56Z"
+      },
+      "indexed_at": "2026-11-27T04:31:48.090Z"
+    },
+    {
+      "plugin_name": "AntiOfflineRaid",
+      "plugin_author": "Swishhyy",
+      "language": "C#",
+      "file": {
+        "path": "AntiOfflineRaid/AntiOfflineRaid.cs",
+        "html_url": "https://github.com/Swishhyy/Swishhyys-Rust-Plugins/blob/9af901deca2153be8cf199797cceec9821201a35/AntiOfflineRaid/AntiOfflineRaid.cs",
+        "raw_url": "https://raw.githubusercontent.com/Swishhyy/Swishhyys-Rust-Plugins/main/AntiOfflineRaid/AntiOfflineRaid.cs",
+        "sha": "8f74bbb41999ac72fd2130f2e0261f0fa1e7873f"
+      },
+      "repository": {
+        "full_name": "Swishhyy/Swishhyys-Rust-Plugins",
+        "name": "Swishhyys-Rust-Plugins",
+        "html_url": "https://github.com/Swishhyy/Swishhyys-Rust-Plugins",
+        "description": null,
+        "owner_login": "Swishhyy",
+        "owner_url": "https://github.com/Swishhyy",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-11-26T15:51:56Z"
+      },
+      "indexed_at": "2026-11-27T04:31:46.970Z"
+    },
+    {
+      "plugin_name": "Logger",
+      "plugin_author": "RustServers-IO",
+      "language": "C#",
+      "file": {
+        "path": "universal/Logger.cs",
+        "html_url": "https://github.com/RustServers-IO/oxideplugins/blob/4de21d4db2d609e9e652f71bafc23c84bdba6da2/universal/Logger.cs",
+        "raw_url": "https://raw.githubusercontent.com/RustServers-IO/oxideplugins/master/universal/Logger.cs",
+        "sha": "aed919ca4c927c169b8eccef618726bc96074d51"
+      },
+      "repository": {
+        "full_name": "RustServers-IO/oxideplugins",
+        "name": "oxideplugins",
+        "html_url": "https://github.com/RustServers-IO/oxideplugins",
+        "description": "A repository of plugins scraped from the OxideMod open-source plugin ecosystem",
+        "owner_login": "RustServers-IO",
+        "owner_url": "https://github.com/RustServers-IO",
+        "default_branch": "master",
+        "stargazers_count": 7,
+        "forks_count": 6,
+        "open_issues_count": 0,
+        "created_at": "2016-04-17T07:29:25Z"
+      },
+      "indexed_at": "2026-11-27T04:30:36.496Z"
+    },
+    {
+      "plugin_name": "QuickSmelt",
+      "plugin_author": "WheteThunger",
+      "language": "C#",
+      "file": {
+        "path": "QuickSmelt.cs",
+        "html_url": "https://github.com/WheteThunger/QuickSmelt/blob/533e2d48f1e4de19d0d90312aa6b8364805c9182/QuickSmelt.cs",
+        "raw_url": "https://raw.githubusercontent.com/WheteThunger/QuickSmelt/master/QuickSmelt.cs",
+        "sha": "6a5c500cc701cd860f79ec76d082e7cdd1517750"
+      },
+      "repository": {
+        "full_name": "WheteThunger/QuickSmelt",
+        "name": "QuickSmelt",
+        "html_url": "https://github.com/WheteThunger/QuickSmelt",
+        "description": "Fork of the QuickSmelt Rust plugin from uMod by misticos",
+        "owner_login": "WheteThunger",
+        "owner_url": "https://github.com/WheteThunger",
+        "default_branch": "master",
+        "stargazers_count": 20,
+        "forks_count": 4,
+        "open_issues_count": 1,
+        "created_at": "2023-01-24T15:41:10Z"
+      },
+      "indexed_at": "2026-11-27T04:30:04.287Z"
+    },
+    {
+      "plugin_name": "BetterItemGiver",
+      "plugin_author": "Tacman1981",
+      "language": "C#",
+      "file": {
+        "path": "BetterItemGiver.cs",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins/blob/be40c7d8e0ccaca62cf086c923294c0dfe9b8aa8/BetterItemGiver.cs",
+        "raw_url": "https://raw.githubusercontent.com/Tacman1981/Rust-Plugins/main/BetterItemGiver.cs",
+        "sha": "800a144f67176fe571ed22b19169d0267b7dc575"
+      },
+      "repository": {
+        "full_name": "Tacman1981/Rust-Plugins",
+        "name": "Rust-Plugins",
+        "html_url": "https://github.com/Tacman1981/Rust-Plugins",
+        "description": "My collection of rust plugins that actually compiled and function as intended. More to be added as they are created. code that is blank just stopped working and i dont feel the urge to fix it",
+        "owner_login": "Tacman1981",
+        "owner_url": "https://github.com/Tacman1981",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2023-05-11T16:33:34Z"
+      },
+      "indexed_at": "2026-11-27T04:28:52.842Z"
+    },
+    {
+      "plugin_name": "WeeklyCycles",
+      "plugin_author": "ilovepatatos-rust",
+      "language": "C#",
+      "file": {
+        "path": "src/IlovepatatosExt/Cycles/WeeklyCycles.cs",
+        "html_url": "https://github.com/ilovepatatos-rust/ilovepatatos-extension/blob/252b969130d483e7d8f1f1afea6297e2e29811cd/src/IlovepatatosExt/Cycles/WeeklyCycles.cs",
+        "raw_url": "https://raw.githubusercontent.com/ilovepatatos-rust/ilovepatatos-extension/main/src/IlovepatatosExt/Cycles/WeeklyCycles.cs",
+        "sha": "9b8456ed33f1783fe3d0165b02848228a7d77dfd"
+      },
+      "repository": {
+        "full_name": "ilovepatatos-rust/ilovepatatos-extension",
+        "name": "ilovepatatos-extension",
+        "html_url": "https://github.com/ilovepatatos-rust/ilovepatatos-extension",
+        "description": "Rust's Oxide extension exposing useful methods for plugins.",
+        "owner_login": "ilovepatatos-rust",
+        "owner_url": "https://github.com/ilovepatatos-rust",
+        "default_branch": "main",
+        "stargazers_count": 2,
+        "forks_count": 2,
+        "open_issues_count": 0,
+        "created_at": "2023-11-20T20:13:50Z"
+      },
+      "indexed_at": "2026-11-27T04:28:03.772Z"
+    },
+    {
+      "plugin_name": "OxideStubs",
+      "plugin_author": "Complicatons",
+      "language": "C#",
+      "file": {
+        "path": "adapter/compile-check/OxideStubs.cs",
+        "html_url": "https://github.com/Complicatons/rust-legacy-browser-open/blob/31ded7769b21ea75ce721ab282d66671bd92556d/adapter/compile-check/OxideStubs.cs",
+        "raw_url": "https://raw.githubusercontent.com/Complicatons/rust-legacy-browser-open/main/adapter/compile-check/OxideStubs.cs",
+        "sha": "9487193429dd6971f8c7c0a44f1de66f95708d68"
+      },
+      "repository": {
+        "full_name": "Complicatons/rust-legacy-browser-open",
+        "name": "rust-legacy-browser-open",
+        "html_url": "https://github.com/Complicatons/rust-legacy-browser-open",
+        "description": "Browser port of Rust Legacy (community fan project)",
+        "owner_login": "Complicatons",
+        "owner_url": "https://github.com/Complicatons",
+        "default_branch": "main",
+        "stargazers_count": 0,
+        "forks_count": 0,
+        "open_issues_count": 0,
+        "created_at": "2026-11-12T14:06:37Z"
+      },
+      "indexed_at": "2026-11-27T04:27:40.779Z"
     },
     {
       "plugin_name": "DynamicMaxPlayers",
